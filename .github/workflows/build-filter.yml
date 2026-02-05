@@ -11,28 +11,40 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0  # ← FIX: Vollständige History
+        fetch-depth: 0
 
     - name: Download CSV
-      run: curl -L "https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/" -o data.csv
+      run: |
+        curl -L "https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/" -o data.csv || exit 1
       
     - name: Convert to filter.txt
       run: python3 convert.py
       
-    - name: Commit & Push
+    - name: Update & Push (ROBUST)
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add filter.txt || true
         
-        if git diff --staged --quiet; then
+        # Hole neueste remote Änderungen
+        git fetch origin
+        git checkout main
+        git reset --hard origin/main
+        
+        # Generiere neue filter.txt
+        python3 convert.py
+        
+        # Nur pushen wenn sich etwas geändert hat
+        if git diff --quiet filter.txt; then
           echo "Keine Änderungen"
           exit 0
         fi
         
-        git pull --rebase
-        git commit -m "Update filter $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-        git push -f
+        # Commit + Push (overwrite)
+        git config core.fileMode false
+        git add filter.txt
+        git commit -m "Update filter ($(date -u +%Y-%m-%dT%H:%M:%SZ)) [32k domains]"
+        git push -f origin main
