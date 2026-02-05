@@ -1,20 +1,20 @@
 name: Build AdGuard Filter
 permissions:
-  contents: write  # ← FIX #1: Schreibrechte
+  contents: write
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Alle 5 Min
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # ← FIX #2: Token
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # ← FIX: Vollständige History
 
     - name: Download CSV
       run: curl -L "https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/" -o data.csv
@@ -27,9 +27,12 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add filter.txt || true
+        
         if git diff --staged --quiet; then
           echo "Keine Änderungen"
           exit 0
         fi
+        
+        git pull --rebase
         git commit -m "Update filter $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-        git push
+        git push -f
