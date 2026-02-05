@@ -1,30 +1,35 @@
 name: Build AdGuard Filter
+permissions:
+  contents: write  # ← FIX #1: Schreibrechte
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Alle 5 Minuten (schnellstes Intervall)
+    - cron: '*/5 * * * *'  # Alle 5 Min
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-      
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # ← FIX #2: Token
+
     - name: Download CSV
       run: curl -L "https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/" -o data.csv
       
     - name: Convert to filter.txt
       run: python3 convert.py
       
-    - name: Commit & Push (only if changed)
+    - name: Commit & Push
       run: |
-        git config user.name github-actions
-        git config user.email actions@github.com
-        git add filter.txt
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add filter.txt || true
         if git diff --staged --quiet; then
-          echo "No changes"
-        else
-          git commit -m "Update filter $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+          echo "Keine Änderungen"
+          exit 0
         fi
+        git commit -m "Update filter $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+        git push
