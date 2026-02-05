@@ -1,5 +1,5 @@
 ! AdGuard Filter from CSV
-! Generated: 2026-02-05T21:18:20.870246Z
+! Generated: 2026-02-05T21:52:37.686830Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
