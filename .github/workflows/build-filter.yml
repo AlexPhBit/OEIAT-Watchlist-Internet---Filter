@@ -1,0 +1,30 @@
+name: Build AdGuard Filter
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Alle 5 Minuten (schnellstes Intervall)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      
+    - name: Download CSV
+      run: curl -L "https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/" -o data.csv
+      
+    - name: Convert to filter.txt
+      run: python3 convert.py
+      
+    - name: Commit & Push (only if changed)
+      run: |
+        git config user.name github-actions
+        git config user.email actions@github.com
+        git add filter.txt
+        if git diff --staged --quiet; then
+          echo "No changes"
+        else
+          git commit -m "Update filter $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+        fi
