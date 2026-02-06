@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-06T14:31:25.865077Z
+! Generated: 2026-02-06T15:24:37.889820Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
