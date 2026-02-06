@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-05T23:57:36.595457Z
+! Generated: 2026-02-06T02:50:25.645956Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
@@ -916,6 +916,7 @@
 ||alsobeside.com^|
 ||alsurfflexible.com^|
 ||alsurfhandpick.com^|
+||altaruldeacasa.ro^|
 ||altayyabab.com^|
 ||altcoinpro.space^|
 ||altekino.de^|
@@ -2040,8 +2041,10 @@
 ||autoreifen-zahn.com^|
 ||autorfahrumpler.at^|
 ||autoroad.top^|
+||autosbios.com^|
 ||autoteiledirektde.com^|
 ||autoteileelopode.shop^|
+||autoteilejetzt.com^|
 ||autoteilerabatt.com^|
 ||autoteilewerkzeug.com^|
 ||autotoolmaster24.com^|
@@ -2530,6 +2533,7 @@
 ||baugelddirekt.at^|
 ||baugeraterabatt.com^|
 ||bauhausss.com^|
+||bauhobby.com^|
 ||baumann-autoreifen.shop^|
 ||baumann-elektroniks.de^|
 ||baumann-modehaus.de^|
@@ -2893,6 +2897,7 @@
 ||berlinmedz.com^|
 ||berlinmoon.com^|
 ||berlinmusiccraft.com^|
+||berlinmusicscores.com^|
 ||berlinnagel.com^|
 ||berlinosa.de^|
 ||berlinoutletshop.com^|
@@ -3319,6 +3324,7 @@
 ||billigeschuhede.com^|
 ||billigesheizen.com^|
 ||billigfahrrad.com^|
+||billiggarten.com^|
 ||billigmeds.net^|
 ||billigmizuno.com^|
 ||billigmore-more.com^|
@@ -4374,6 +4380,7 @@
 ||ca.carlottatortorella.com^|
 ||ca.lindseytennant.com^|
 ||caactioncoalition.org^|
+||caay-berlin.com^|
 ||cabbagepets.com^|
 ||cabergbrema.com^|
 ||cable-scheune.com^|
@@ -4764,6 +4771,7 @@
 ||ccleboulou.com^|
 ||ccmangebote.com^|
 ||ccol.smatan.tech^|
+||ccrape.morepush.shop^|
 ||ccrape.texasput.shop^|
 ||ccsneakerstore.com^|
 ||cctvins.com^|
@@ -5794,6 +5802,7 @@
 ||correspondine.com^|
 ||correspondu.com^|
 ||corridors.top^|
+||corrovo-wien.com^|
 ||corrpicn.com^|
 ||corsaircontrol.pro^|
 ||corsaircontrol.trade^|
@@ -8778,6 +8787,7 @@
 ||eureasywear.com^|
 ||eurl-container.com^|
 ||eurlogistic.com^|
+||eurltddiffusion.com^|
 ||euro-cash-finance.com^|
 ||euro-markt.at^|
 ||euro-nics-deutschland.com^|
@@ -9470,6 +9480,7 @@
 ||feher-buch.de^|
 ||feiautumn.top^|
 ||feilerelektro.com^|
+||feinkaufshop.com^|
 ||feinstrumpfhosenneu.com^|
 ||feintoll.de^|
 ||feixunseo.com^|
@@ -10808,6 +10819,7 @@
 ||garagveos-motosallmnn.shop^|
 ||garazicuesta.com^|
 ||garborine.com^|
+||garcia.co.at^|
 ||garden-caddy.de^|
 ||garden-machines-shop.com^|
 ||garden-machines.com^|
@@ -11019,7 +11031,6 @@
 ||gengyunwatch.com^|
 ||genialkitchen.com^|
 ||genialoff.com^|
-||geniestool.com^|
 ||geniewelle.net^|
 ||geniusfrank.website^|
 ||geniusfxmaket.com^|
@@ -11925,6 +11936,7 @@
 ||gubihaushaltswaren.com^|
 ||gubiliving.com^|
 ||guccitt.shop^|
+||gucimu.pics^|
 ||guckfahrrad.com^|
 ||gudrun-peggen.de^|
 ||gudrunsjoden.shop^|
@@ -11997,7 +12009,6 @@
 ||gwcsale.towncabco.com^|
 ||gwcshop.towncabco.com^|
 ||gwelt.at^|
-||gwhs-installationen.at^|
 ||gwz-max.de^|
 ||gyilwyfj.shop^|
 ||gylde.de^|
@@ -12165,12 +12176,14 @@
 ||handmadepros.cc^|
 ||handmadesho.cc^|
 ||handmadestoe.cc^|
+||handmadestoree.cc^|
 ||handpickdecoration.com^|
 ||handpickgeneralstore.com^|
 ||handpickhome.com^|
 ||handpickhousehold-us.com^|
 ||handschuhesde.com^|
 ||handschuheshop.com^|
+||handstille.de^|
 ||handtooldirect.com^|
 ||handtoolexperts.com^|
 ||handtools-selling.com^|
@@ -12515,15 +12528,20 @@
 ||heiz-oel24.com^|
 ||heiz-pellets24.com^|
 ||heiz-traum.com^|
+||heizco.de^|
 ||heizelo.de^|
 ||heizenbillig.com^|
+||heizex.de^|
 ||heizfreude.de^|
+||heizgo.de^|
 ||heizhaus-kohle.de^|
 ||heizino.de^|
+||heizix.de^|
 ||heizkessel-sale.com^|
 ||heizkesselstore.com^|
 ||heizklar.eu^|
 ||heizline.at^|
+||heizo24.de^|
 ||heizoel-24.com^|
 ||heizoel-24.eu^|
 ||heizoel-austria.com^|
@@ -12545,14 +12563,21 @@
 ||heizoeldirekt.com^|
 ||heizoelhanse.com^|
 ||heizoelix.de^|
+||heizoelkontor.de^|
+||heizoelkraft.de^|
+||heizoelkurier.de^|
+||heizoelmeister.de^|
 ||heizoelservice-bp.de^|
 ||heizoelsolutions.com^|
+||heizoelteam.de^|
 ||heizoelwerk24.com^|
 ||heizoil-24.de^|
 ||heizoil.com^|
 ||heizoil24.de^|
 ||heizolwerk-24.com^|
 ||heizomi.de^|
+||heizoo.de^|
+||heizor.de^|
 ||heizpro.com^|
 ||heizstrahlerprada.de^|
 ||heiztechnik-kundendienst.at^|
@@ -12566,6 +12591,7 @@
 ||heizungstechnik-online.de^|
 ||heizungszubehoer.com^|
 ||heizungundklimawelt.com^|
+||heizx.de^|
 ||heizzu.de^|
 ||hejhannide.shop/^|
 ||hejmomde.shop/^|
@@ -13103,6 +13129,7 @@
 ||homesunglow.com^|
 ||homesupplybest.com^|
 ||homesupplymarket.com^|
+||homesupplyonweb.com^|
 ||homesurya.com^|
 ||homesuue.com^|
 ||homesweetlaud.com^|
@@ -13535,6 +13562,7 @@
 ||i-blade.at^|
 ||i-gagne.it^|
 ||i-vaya.de^|
+||i-velus.com^|
 ||i-vlus.com^|
 ||i28tud1e6.vermoegensberatung-baumann.de^|
 ||iably.top^|
@@ -13694,6 +13722,7 @@
 ||ikoodaram.com^|
 ||ikrajpc.com^|
 ||ilair.endmilk.shop^|
+||ilair.linebell.shop^|
 ||ilair.thinglink.blog^|
 ||ilborgocasavacanze.com^|
 ||ildhs.searchhomesforyou.com^|
@@ -13778,6 +13807,7 @@
 ||impluemporium.com^|
 ||import-export.website^|
 ||importstoree.com^|
+||impro-insolvenz.de^|
 ||improbuehne.de^|
 ||imrato.com^|
 ||imregen.de^|
@@ -13913,6 +13943,7 @@
 ||insiderlx.com^|
 ||insightfulyou.net^|
 ||insnag.me^|
+||insolvenz-veit.de^|
 ||insolvenz.veit-kanzlei.de^|
 ||inspectionk.com^|
 ||inspectiony.com^|
@@ -14074,6 +14105,7 @@
 ||ipokerword.com^|
 ||ipowerdirekt.de^|
 ||iptvdutch.store^|
+||ipuroangebote.com^|
 ||iq-fast.com^|
 ||iq-measure.com^|
 ||iq-metric.com^|
@@ -14293,6 +14325,7 @@
 ||janylia.com^|
 ||japansmartmarketing.com^|
 ||jardensofficial.com^|
+||jardinovano.com^|
 ||jassieline.com^|
 ||javanit.myshopify.com^|
 ||jawoll-berlin.de^|
@@ -15074,6 +15107,7 @@
 ||kfzteileverkaufen.com^|
 ||kgbromberg.com^|
 ||kgdcalld.com^|
+||kgfghij.com^|
 ||kgiberson.com^|
 ||kglkh.shop^|
 ||kgspellets.com^|
@@ -15122,6 +15156,7 @@
 ||kidstuffpodcast.com^|
 ||kidtotal.com^|
 ||kidywib.com^|
+||kidzly.at^|
 ||kidzonemagic.com^|
 ||kiekoem.com^|
 ||kieler-sternstunde.de^|
@@ -15151,6 +15186,7 @@
 ||kinder-reich.at^|
 ||kinder-shiatsu.at^|
 ||kinderbekleidungstore.com^|
+||kindergarten-supplies.com^|
 ||kinderhausfridolin.de^|
 ||kinderkumpel.de^|
 ||kindermobelre.com^|
@@ -15923,6 +15959,7 @@
 ||lasportivaotdeur.top^|
 ||lasportivaoutdoor.com^|
 ||lasportivaoutlet.club^|
+||lasportivas.at^|
 ||lasportivas.de^|
 ||lasportivaservice.com^|
 ||lasportivashop.myshoplaza.com^|
@@ -16515,6 +16552,7 @@
 ||lioralife.com^|
 ||lioremopum.com^|
 ||lipas.shop^|
+||liport.estclose.shop^|
 ||liport.evenfix.shop^|
 ||liport.manhand.shop^|
 ||lippetaler-bauhandel.de^|
@@ -18375,6 +18413,7 @@
 ||mlkvip.com^|
 ||mmatrailers.com^|
 ||mmk-shoppingwelt.de^|
+||mml-container.de^|
 ||mmontagnet.com^|
 ||mmoyoprop.com^|
 ||mmwggm.top^|
@@ -20107,7 +20146,9 @@
 ||oelhaus24.com^|
 ||oelit.de^|
 ||oelity.de^|
+||oelly.de^|
 ||oelman.de^|
+||oelor.de^|
 ||oelpreisfinder.de^|
 ||oeltix.de^|
 ||oeluno.de^|
@@ -20440,6 +20481,7 @@
 ||oneact.cashglass.shop^|
 ||oneact.formchain.shop^|
 ||oneact.hairblue.blog^|
+||oneact.testflag.click^|
 ||oneact.workscap.shop^|
 ||oneafteranoth.com^|
 ||oneative.top^|
@@ -20879,6 +20921,7 @@
 ||ortovoxoutdooor.com^|
 ||ortovoxrabatt.de^|
 ||ortovoxs.at^|
+||ortovoxs.de^|
 ||ortovoxsport.com^|
 ||orykas.de^|
 ||oryzom.de^|
@@ -21403,7 +21446,6 @@
 ||parlament-kapital.com^|
 ||parlorgoodssale.com^|
 ||parlorgreat.com^|
-||paroma.at^|
 ||parpalett.com^|
 ||parsbergimmo.de^|
 ||parshaops.gq^|
@@ -21977,6 +22019,7 @@
 ||planetahoma.com^|
 ||planetebike24.de^|
 ||planetopia-online.de^|
+||planguage.org^|
 ||plantonsale.com^|
 ||plantprobuy.com^|
 ||plantproshop.com^|
@@ -22301,6 +22344,7 @@
 ||power-vac.de^|
 ||powercityi.com^|
 ||poweredup-tools.com^|
+||poweromasch.shop^|
 ||powerphase.net^|
 ||powerplate-salzburg.at^|
 ||powersebike.com^|
@@ -22391,6 +22435,7 @@
 ||presseausweis-beantragen.at^|
 ||pressl.co^|
 ||presssi.shop^|
+||prestige-container.com^|
 ||prestige-eu.com^|
 ||prestigek.com^|
 ||prestigue.de^|
@@ -22654,6 +22699,7 @@
 ||provenxperts.com^|
 ||provibeplay.com^|
 ||providedes.com^|
+||providenceerc.com^|
 ||provirtualoptions.com^|
 ||provoguesite.com^|
 ||prowerdrivertools.com^|
@@ -23297,6 +23343,7 @@
 ||recollectk.com^|
 ||recordkontor.de^|
 ||recovery-office.com^|
+||recovoltd.com^|
 ||recreatione.com^|
 ||recreationt.com^|
 ||recreationt.net^|
@@ -25901,6 +25948,7 @@
 ||siegfried-schirmer.shop^|
 ||sier-24.tech^|
 ||sierke24.de^|
+||sieundihn.de^|
 ||siezuerst.com^|
 ||sigmaeh.com^|
 ||signalif.com^|
@@ -28394,7 +28442,6 @@
 ||therling.com^|
 ||thermacds.com^|
 ||thermaldrill.net^|
-||thermentausch-gwhs.at^|
 ||thermenwartung-aktion-wien.com^|
 ||thermenwartung-spezialist.at^|
 ||thermenwartung.team7d.at^|
@@ -28767,6 +28814,7 @@
 ||tonies-sonderangebot.com^|
 ||tonies-spezialangebot.com^|
 ||toniesbesttoys.com^|
+||tonieshorspiele.com^|
 ||toniesosterreich.at^|
 ||toniespielzeug.com^|
 ||toniesrabatt.com^|
@@ -28921,6 +28969,7 @@
 ||topeakcycle.com^|
 ||topeat.dchappen.top^|
 ||topeat.foodarray.shop^|
+||topeat.morepush.shop^|
 ||topeat.printscan.shop^|
 ||topeuro-shop.com^|
 ||topfahrradzubehor.com^|
@@ -29399,6 +29448,7 @@
 ||trustuu.com^|
 ||trustytime888.io^|
 ||truthaboutyem.com^|
+||trvndshop.com^|
 ||trx-on-chain.de^|
 ||try-camping.com^|
 ||try-virium.com^|
@@ -31412,6 +31462,7 @@
 ||werk-garten.de^|
 ||werk-werkzeuge.com^|
 ||werkboxpro.com^|
+||werke-anhangers.com^|
 ||werkgeist.com^|
 ||werkvoorraden.com^|
 ||werkzeug-salesshop.com^|
