@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-07T00:01:49.656865Z
+! Generated: 2026-02-07T02:49:20.205514Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
@@ -8996,6 +8996,7 @@
 ||exquisites-swiss.com^|
 ||exrock.foodarray.shop^|
 ||exrock.goldpool.shop^|
+||exrock.morepush.shop^|
 ||exseedg.com^|
 ||extendsport.top^|
 ||extensiven.net^|
@@ -11864,6 +11865,7 @@
 ||group.ap-real.com^|
 ||group.von-re.com^|
 ||groupenterprisevision.digital^|
+||groupeshf.com^|
 ||groupinpolitics.top^|
 ||grovio.shop^|
 ||grow-dutch.com^|
@@ -12589,6 +12591,7 @@
 ||heizungselementshop.com^|
 ||heizungsinsel.de^|
 ||heizungstechnik-online.de^|
+||heizungstechworld.com^|
 ||heizungszubehoer.com^|
 ||heizungundklimawelt.com^|
 ||heizx.de^|
@@ -17487,6 +17490,7 @@
 ||marin-logistic.com^|
 ||marinadecoration.com^|
 ||marinataillade.com^|
+||marineausstattung.com^|
 ||marinepartdepots.com^|
 ||marionmaurer.com^|
 ||mariostoppani.it^|
@@ -23646,6 +23650,7 @@
 ||reliabledomestic.com^|
 ||reliablehandtools.com^|
 ||relionwork.com^|
+||relivoria.com^|
 ||relsanthel.de.com^|
 ||relyapparel.com^|
 ||relyrugs.com^|
@@ -24413,11 +24418,13 @@
 ||rytewerkone.com^|
 ||rz-erbach.de^|
 ||rzfpatr.com^|
+||rzpellet.at^|
 ||rzssem.com^|
 ||rzycucbupk.gyhjjifm.beauty^|
 ||s-f-invest.at^|
 ||s-j-ruppenthal.de^|
 ||s6shops.top^|
+||saalebrennholz.de^|
 ||saamkatz.com^|
 ||saarnet.myshopify.com^|
 ||saarnurr.shop^|
@@ -24645,6 +24652,7 @@
 ||saleusaccessories.com^|
 ||salevansvs.shop^|
 ||salevouge-attire.com^|
+||salewa-cz-2026.myshoplaza.com^|
 ||salewa-deutschland.com^|
 ||salewabootsnz.com^|
 ||salewacom.shop^|
