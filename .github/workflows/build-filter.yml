@@ -1,4 +1,4 @@
-name: Build AdGuard Filter
+name: Build OEIAT-Watchlist-Internet - AdGuard Filter
 permissions:
   contents: write
 
