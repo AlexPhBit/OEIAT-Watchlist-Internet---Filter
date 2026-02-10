@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-09T23:53:35.651852Z
+! Generated: 2026-02-10T03:15:38.644634Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
@@ -602,6 +602,7 @@
 ||airporshop.com^|
 ||airpurifieroutlet.com^|
 ||airsalo.com^|
+||airsguns.com^|
 ||airtechohair.de^|
 ||airtooldepot.com^|
 ||airtoolsefficient.com^|
@@ -1212,6 +1213,7 @@
 ||anlagenberatung.at^|
 ||anlyoanarn.com^|
 ||anmbunt.com^|
+||anna-atelier.com^|
 ||anna-logie.at^|
 ||anna-oslo.com^|
 ||anna-taschen.com^|
@@ -3531,6 +3533,7 @@
 ||black-forestcake.com^|
 ||black-shepp-gastroservice.com^|
 ||black-stop.de^|
+||blackdiamond-schweiz.com^|
 ||blackdiamondosterreich.com^|
 ||blackdiamondsalestore.shop^|
 ||blackdiamondwien.at^|
@@ -4767,6 +4770,7 @@
 ||cbuanai.com^|
 ||ccasting.at^|
 ||cccnats.com^|
+||ccdraw.incomelog.shop^|
 ||cci-immobilien.de^|
 ||ccleboulou.com^|
 ||ccmangebote.com^|
@@ -5198,6 +5202,7 @@
 ||cinderella-braut.de^|
 ||cindystenglein.com^|
 ||cine-flix.co^|
+||cineluxdeutschland.com^|
 ||cinema-sahara.com^|
 ||cinepaf.com^|
 ||cinnaria.com^|
@@ -5672,6 +5677,7 @@
 ||comptntistur.com^|
 ||comptoirfashion.com^|
 ||computerdive.de^|
+||computerpartsglobal.com^|
 ||computersalenew.com^|
 ||comstern.shop^|
 ||comvien.com^|
@@ -8746,6 +8752,7 @@
 ||eu.popomartvip.shop^|
 ||eu.revolutienrace.com^|
 ||eu.stanlaystore.com^|
+||eu.stanlyss1913.com^|
 ||eubiofficial.com^|
 ||eubooks.shop^|
 ||euchcte.top^|
@@ -12533,6 +12540,7 @@
 ||heizco.de^|
 ||heizelo.de^|
 ||heizenbillig.com^|
+||heizera.com^|
 ||heizex.de^|
 ||heizfreude.de^|
 ||heizgo.de^|
@@ -12645,6 +12653,7 @@
 ||helpsandalen.com^|
 ||helptobuybest.top^|
 ||helsky.de^|
+||helsnest.com^|
 ||helunes.com^|
 ||helvetia-glanz.com^|
 ||helveticore.capital^|
@@ -15525,6 +15534,7 @@
 ||kompens.de^|
 ||kompetenzgewinn.at^|
 ||kompetenzgruppe.at^|
+||komponentende.com^|
 ||konddymunchen.de^|
 ||kongrabatt.com^|
 ||konigsmarkt-2.myshopify.com^|
@@ -16519,6 +16529,7 @@
 ||limoza.de^|
 ||linashop.de^|
 ||lindabonf.shop^|
+||lindbergmode.de^|
 ||lindela.de^|
 ||lindemarkt.com^|
 ||linden-innsbruck.com^|
@@ -17885,6 +17896,7 @@
 ||meinardy.de^|
 ||meinautoprofi.at^|
 ||meinbeautycharms.com^|
+||meindeinhaus.de^|
 ||meindiscount.store^|
 ||meindl--schuhe.com^|
 ||meindlosterreich.at^|
@@ -19753,6 +19765,7 @@
 ||nkforce.com^|
 ||nkshoesgr.com^|
 ||nksupers.com^|
+||nloia.shop^|
 ||nlstore.bestsaleonline2023.com^|
 ||nlynelly.com^|
 ||nmacekn.com^|
@@ -19969,6 +19982,7 @@
 ||npipinellas.com^|
 ||npowieki.com^|
 ||nprojuara.com^|
+||nqior.shop/^|
 ||nrnpd.com^|
 ||nsaasem.com^|
 ||nsebtik.com^|
@@ -20485,6 +20499,7 @@
 ||oneact.cashglass.shop^|
 ||oneact.formchain.shop^|
 ||oneact.hairblue.blog^|
+||oneact.incomelog.shop^|
 ||oneact.testflag.click^|
 ||oneact.workscap.shop^|
 ||oneafteranoth.com^|
@@ -21278,6 +21293,7 @@
 ||owrock.com^|
 ||oxautozubeh.de^|
 ||oxcoinoptionfx.com^|
+||oxelvian.com^|
 ||oxfordall.shop^|
 ||oxlora.shop^|
 ||oxzibyte.com^|
@@ -21635,6 +21651,7 @@
 ||pellelily.com^|
 ||pellet-haus.com^|
 ||pelletitaliano.it^|
+||pelletor.at^|
 ||pellets-bei-wolf.com^|
 ||pelletsgeschaft.com^|
 ||pellina.shop/^|
@@ -24044,6 +24061,7 @@
 ||roboinvest.at^|
 ||roborockoutlet.de^|
 ||roborocks.at^|
+||roborocks.de^|
 ||roborockshop.de.com^|
 ||robottagliaerbascontato.com^|
 ||robottonte.com^|
@@ -24796,6 +24814,7 @@
 ||santaclaus-hq.com^|
 ||santaclaushut.com^|
 ||santasycandle.com^|
+||sante360plus.com^|
 ||santiagowatts.space^|
 ||santlux.de^|
 ||santoskebabhouses.com^|
@@ -24877,6 +24896,7 @@
 ||savas-reifenhandel.com^|
 ||savcarv.com^|
 ||savela.de^|
+||savemosaic.com^|
 ||saveoffer.de^|
 ||saveshape.net^|
 ||savesilomart.com^|
@@ -25263,6 +25283,8 @@
 ||seidl-mode.com^|
 ||seidler-outlet.de^|
 ||seidleroutlet.de^|
+||seidlmodehaus.com^|
+||seidlmodehaus.myshopify.com^|
 ||seidmantox.com^|
 ||seiety.top^|
 ||seifenbrause.de^|
@@ -25366,6 +25388,7 @@
 ||serenitybot.com^|
 ||serenitylamp.com^|
 ||serenomaison.com^|
+||serenorstock.com^|
 ||serentia-shop.com^|
 ||serentools.com^|
 ||serevashop.de^|
@@ -26080,6 +26103,7 @@
 ||sivanitanerland.com^|
 ||sivhome.com^|
 ||siwetr.com^|
+||siwgm.holdenouterwear.shop^|
 ||sixcv.shop^|
 ||sixtrading.net^|
 ||sizilien-haus.de^|
@@ -27467,6 +27491,7 @@
 ||sun68web.com^|
 ||suncoin.xyz^|
 ||sundancean.com^|
+||sundaynaturalshop.de^|
 ||sundrycosmetic.com^|
 ||sunfulfillmentstore.de^|
 ||sunglasses-best.com^|
@@ -27720,6 +27745,7 @@
 ||sweetyelectricals.com^|
 ||sweetywong.com^|
 ||sweiok.com^|
+||swevix.de^|
 ||swiftbinary.org^|
 ||swiftcourrier.com^|
 ||swiftguardcourier.com^|
@@ -27889,6 +27915,7 @@
 ||talentsxperts.com^|
 ||talenx.world^|
 ||talghorde.shop/^|
+||talkbuds.de^|
 ||talkingheads.at^|
 ||talkkeyo.com^|
 ||tallerfelix.com^|
@@ -28029,6 +28056,7 @@
 ||techaccessoriesshop.com^|
 ||techdata-promo.at^|
 ||techfleeece.com^|
+||techhomede.com^|
 ||techilabs.com^|
 ||techmidnews.com^|
 ||techminik.com^|
@@ -30171,6 +30199,7 @@
 ||uszonestylish.com^|
 ||utahforkliftcompanyltd.shop^|
 ||utangwiki.com^|
+||utilitech-anhaenger.com^|
 ||utlcm.noborn.com^|
 ||uttasheilerpraxis.de^|
 ||uttermostsale.com^|
@@ -30651,6 +30680,7 @@
 ||viewshopmuch.top^|
 ||viewtecf.com^|
 ||vifelt.artscore.bond^|
+||vifelt.incomelog.shop^|
 ||vifelt.workscap.shop^|
 ||vigamtransport.com^|
 ||vignette-at.shop^|
@@ -31193,6 +31223,7 @@
 ||warmeholzhaus.com^|
 ||warmeprofi.com^|
 ||warmesocken.com^|
+||warmheld.de^|
 ||warmin.de^|
 ||warmingway.com^|
 ||warmlifes.com^|
@@ -31344,6 +31375,7 @@
 ||webmremedies.com^|
 ||webseite-gratis.com^|
 ||webshop-srl.com^|
+||websterjamesprofessionalcorp.com^|
 ||webstorerx.com^|
 ||webtesthub.de^|
 ||webtrader.arvelon-barnyx.com^|
@@ -31508,6 +31540,7 @@
 ||wernershop.de^|
 ||wernersweinwelt.shop^|
 ||wertalmpro.at^|
+||wertexmarkt.de^|
 ||wertvollewelpenzuradoption.com^|
 ||wesiou.com^|
 ||westcinch.com^|
@@ -31688,6 +31721,7 @@
 ||winkersy.top^|
 ||winkler-gartenhandel.de^|
 ||winkler-modehaus.de^|
+||winmauvip.store^|
 ||winteasm.com^|
 ||wintechfxglobal.com^|
 ||winterangebote.store^|
@@ -32123,6 +32157,7 @@
 ||xxxlutzfurniturepartner.com/#/^|
 ||xxxlutzfurniturepartner.net^|
 ||xxxlutzfurniturepartner.online^|
+||xxxxlutz.shop^|
 ||xyatiri.com^|
 ||xyiyi.com^|
 ||xyrisa.de^|
@@ -32615,6 +32650,7 @@
 ||zotuour.com^|
 ||zouiexpress.com^|
 ||zouvi.de^|
+||zova.at^|
 ||zovvo.de^|
 ||zpalette.shop^|
 ||zpermapi.com^|
