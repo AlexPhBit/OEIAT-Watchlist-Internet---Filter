@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-10T23:45:58.365818Z
+! Generated: 2026-02-11T01:04:08.736340Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
@@ -1317,6 +1317,7 @@
 ||apdealhub.site^|
 ||apdonovande.shop/^|
 ||apeasblto.com^|
+||apelt-handel.com^|
 ||apexflora.com^|
 ||apexmaquinariaindustrial.com^|
 ||apexshekel.com^|
@@ -1909,6 +1910,7 @@
 ||aurahous.com^|
 ||auraineg.com^|
 ||aurainfusions.com^|
+||auraterraplaza.com^|
 ||aureamunich.de^|
 ||aurelllc.com^|
 ||aurgkb.com^|
@@ -4053,6 +4055,7 @@
 ||brockneed.com^|
 ||brodyjeane.com^|
 ||broilkingde.com^|
+||brokereins.com^|
 ||brokertec-eu.org^|
 ||brokerzeroca.com^|
 ||broksi.de^|
@@ -4775,6 +4778,7 @@
 ||ccleboulou.com^|
 ||ccmangebote.com^|
 ||ccol.smatan.tech^|
+||ccrape.iimodify.shop^|
 ||ccrape.morepush.shop^|
 ||ccrape.texasput.shop^|
 ||ccsneakerstore.com^|
@@ -4798,6 +4802,7 @@
 ||cdrsalesk.life^|
 ||cdryhghy.shop^|
 ||cdu-solidaritaet.de^|
+||cdwar.morepush.shop^|
 ||cdwar.netreach.baby^|
 ||cdwar.printscan.shop^|
 ||ceagleon.com^|
@@ -6546,6 +6551,7 @@
 ||dealpinaverkauf.com^|
 ||dealpopzone.com^|
 ||deals-bicycle.com^|
+||deals.beautymomente.com^|
 ||dealsarenawebsite.myshopify.com^|
 ||dealsbauble.com^|
 ||dealsbay.site^|
@@ -7710,6 +7716,7 @@
 ||duros.de^|
 ||dusanboldiwebstore.shop^|
 ||duschenexperte.com^|
+||duscioadaul.club^|
 ||dustwallca.com^|
 ||dusuehl.com^|
 ||dutut.com^|
@@ -10747,6 +10754,7 @@
 ||gaestehaus-lasser.at^|
 ||gaffelshop.shop/^|
 ||gaffelshopava.shop^|
+||gagermand.monster^|
 ||gahepz.com^|
 ||gahtoypro.com^|
 ||gaiaboutique.de^|
@@ -12538,6 +12546,7 @@
 ||heiz-pellets24.com^|
 ||heiz-traum.com^|
 ||heizco.de^|
+||heizdirekt.de^|
 ||heizelo.de^|
 ||heizenbillig.com^|
 ||heizera.com^|
@@ -12744,6 +12753,7 @@
 ||hessnatur.saveeu.shop^|
 ||hetshoppe.xyz^|
 ||heuer-reifenhandel.com^|
+||heuselaw.de^|
 ||heuser-garderobe.de^|
 ||heveganl.com^|
 ||hexagonresources.org^|
@@ -12764,6 +12774,7 @@
 ||heyi-handel.de^|
 ||heyjune.shop^|
 ||heyseeodyssey.com^|
+||hezoposo.com^|
 ||hfashionshop.com^|
 ||hfbssxcd.shop^|
 ||hfbyy.shop^|
@@ -17900,6 +17911,7 @@
 ||meindiscount.store^|
 ||meindl--schuhe.com^|
 ||meindlosterreich.at^|
+||meindls.at^|
 ||meindlsales.com^|
 ||meindlschuhe.at^|
 ||meine-garten-oase.de^|
@@ -17953,6 +17965,7 @@
 ||melancy.xyz^|
 ||melaniewayment.com^|
 ||melbouqueterie.com^|
+||meldezettel-digital.at^|
 ||melia-co.com^|
 ||melina-handel.de^|
 ||melis-solar.de^|
@@ -20500,6 +20513,7 @@
 ||oneact.formchain.shop^|
 ||oneact.hairblue.blog^|
 ||oneact.incomelog.shop^|
+||oneact.petermoon.click^|
 ||oneact.testflag.click^|
 ||oneact.workscap.shop^|
 ||oneafteranoth.com^|
@@ -22831,6 +22845,7 @@
 ||purezonep.com^|
 ||purgable.top^|
 ||purisaki.com^|
+||puritawa.com^|
 ||purku.top^|
 ||purouw.com^|
 ||purple-slurp.com^|
@@ -22918,6 +22933,7 @@
 ||qp-sale.com^|
 ||qplatanic.com^|
 ||qpqaz.com^|
+||qq339.com^|
 ||qqffttk.top^|
 ||qqqzzzfff.shop/ATSANWU^|
 ||qranls.com^|
@@ -23838,6 +23854,7 @@
 ||reyniae.de^|
 ||reynolds-gartenhandel.de^|
 ||rezdybnb.com^|
+||rezdyretreats.com^|
 ||rezeeshop.com^|
 ||rezeptfrei-apotheke.com^|
 ||rezeptfrei-guenstiger.de^|
@@ -26721,6 +26738,7 @@
 ||spinvest.group^|
 ||spiralo.de^|
 ||spiretime.com^|
+||spirg.rwecanje.cyou^|
 ||spirit-tattoo.at^|
 ||spirits-official.com^|
 ||spiritualsalt.co^|
@@ -30507,6 +30525,7 @@
 ||verbundmarkt.com^|
 ||verein-sulzbrunn.de^|
 ||vereins-web.at^|
+||vereinsregisterauszug.at^|
 ||verenabunte.com^|
 ||verholl.com^|
 ||veriate.xyz^|
