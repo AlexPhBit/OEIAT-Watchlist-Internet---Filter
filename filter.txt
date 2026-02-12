@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-12T00:57:04.841180Z
+! Generated: 2026-02-12T03:47:53.043179Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
@@ -3111,6 +3111,7 @@
 ||betrug.law^|
 ||betrugsdezernat.com^|
 ||betrugsdezernat.org^|
+||betrugsrecht.de^|
 ||bettdeckenkissen.com^|
 ||bettenfist.com^|
 ||betterse.at^|
@@ -4672,6 +4673,7 @@
 ||cartools-sales.com^|
 ||cartruckrc.com^|
 ||cartrucktoy.com^|
+||cartsaga.com^|
 ||carupgradezone.com^|
 ||carvanamarkt.com^|
 ||carygift.com^|
@@ -17814,6 +17816,7 @@
 ||medianews77.com^|
 ||mediaplus.shop^|
 ||mediascreen.at^|
+||mediaxim.com^|
 ||medibus.at^|
 ||medicalandbeautycare.com^|
 ||medicalbasic.de^|
@@ -25893,6 +25896,7 @@
 ||shopringstore.com^|
 ||shoprises.life^|
 ||shoprosada.com^|
+||shoprufe.com^|
 ||shoprugbysports.com^|
 ||shops-eminem.com^|
 ||shops.onlinebestsale2021.com^|
@@ -31756,6 +31760,7 @@
 ||wipanif.top^|
 ||wiprub.com^|
 ||wir-haben-alles.com^|
+||wirbelsanft.com^|
 ||wirberlin.com^|
 ||wirelessheadphoneshop.com^|
 ||wirtshaus-schoeneck.at^|
