@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-13T00:00:41.479127Z
+! Generated: 2026-02-13T03:21:07.336495Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
@@ -608,6 +608,7 @@
 ||airtoolsefficient.com^|
 ||airtoolsprofessional.com^|
 ||airtrackshop.de^|
+||airvaxde.com^|
 ||airyclub.com^|
 ||airyixe.com^|
 ||aisakicks.shop^|
@@ -756,6 +757,7 @@
 ||alisosshoredentist.com^|
 ||alitec-online-sto.shop^|
 ||aliveffect.com^|
+||alivramexico.com^|
 ||alkapczynska.com^|
 ||all-est.com^|
 ||all-festivals.com^|
@@ -1453,6 +1455,7 @@
 ||aqua-fun.shop^|
 ||aquaadvent.com^|
 ||aquacompasstrade.com^|
+||aquafit.pk^|
 ||aquamarinashopde.com^|
 ||aquarienbedarf.com^|
 ||aquarienkauf.com^|
@@ -2151,6 +2154,7 @@
 ||ayfbxefm.veseleusi.cz^|
 ||aylanzo-store.de^|
 ||aylica.de^|
+||ayllume.com.br^|
 ||aynosa.de^|
 ||ayola.de^|
 ||ayparwebt.com^|
@@ -2233,6 +2237,7 @@
 ||babytoyslimited.store^|
 ||babywarepromo.com^|
 ||babyweltde.com^|
+||bacara.com.ar^|
 ||bacedic.com^|
 ||bachelorm.com^|
 ||back-attack.de^|
@@ -2770,6 +2775,7 @@
 ||belhomekitopt.com^|
 ||beliebt.appartment-saler.at^|
 ||beliora.de^|
+||belizal.com^|
 ||beljunqueira.com^|
 ||belkbabgi.com^|
 ||bella-balu.de^|
@@ -2941,6 +2947,7 @@
 ||besser-gesund.at^|
 ||bessere-reifen.de^|
 ||besseregesudheit.com^|
+||besseregesundheit.com^|
 ||besseregesunheit.com^|
 ||besseres-holz.com^|
 ||best-apotheke.online^|
@@ -4095,6 +4102,7 @@
 ||brookssvip.com^|
 ||brookswalkingshoesireland.com^|
 ||brothershopss.com^|
+||brovia.co^|
 ||brownpopos.com^|
 ||brownsona.com^|
 ||brownspecialadvice.com^|
@@ -4775,6 +4783,7 @@
 ||cbuanai.com^|
 ||ccasting.at^|
 ||cccnats.com^|
+||cccup.cardsbaby.shop^|
 ||ccdraw.incomelog.shop^|
 ||cci-immobilien.de^|
 ||ccleboulou.com^|
@@ -7381,6 +7390,7 @@
 ||domino-reifen.com^|
 ||dommels.de^|
 ||domorgel-billerbeck.de^|
+||domowe-odkrycia.pl^|
 ||domstrren.com^|
 ||donalfonsopucci.com^|
 ||donalovehair.de^|
@@ -9518,6 +9528,7 @@
 ||felix-messer.de^|
 ||fell-freund.at^|
 ||fella-handel.de^|
+||fellnasenstube.de^|
 ||felsbergers.de^|
 ||felsinacare.at^|
 ||feltbicycleshop.com^|
@@ -10106,6 +10117,7 @@
 ||followslow.com^|
 ||followupfashion.com^|
 ||folters.de^|
+||foluna.fr^|
 ||fomoke.at^|
 ||fomshop.ml^|
 ||fondazionegaia.org^|
@@ -10581,6 +10593,7 @@
 ||futuregolds.com^|
 ||futurew.top^|
 ||futuristicvogue.com^|
+||fuwamof.shop^|
 ||fvkiwanis.org^|
 ||fwergew.com^|
 ||fx-algorandking.com^|
@@ -10763,6 +10776,7 @@
 ||gailgoehring.shop^|
 ||gaillardmachines.com^|
 ||gainpipstrade.com^|
+||gainzbee.fr^|
 ||gaiyuotrewinsakcoom.com^|
 ||gala-gruppe.com^|
 ||galabau-hammitsch.de^|
@@ -11554,6 +11568,7 @@
 ||goldeninvestbroker.com^|
 ||goldenlite.ltd^|
 ||goldenpassmedia.com^|
+||goldenpump.de^|
 ||goldf-tradex.com^|
 ||goldfuchs.at^|
 ||goldhandel-degussa.com^|
@@ -12553,14 +12568,19 @@
 ||heizenbillig.com^|
 ||heizera.com^|
 ||heizex.de^|
+||heizfast.de^|
 ||heizfreude.de^|
+||heizfuel.de^|
 ||heizgo.de^|
 ||heizhaus-kohle.de^|
 ||heizino.de^|
 ||heizix.de^|
+||heizkauf.de^|
 ||heizkessel-sale.com^|
 ||heizkesselstore.com^|
 ||heizklar.eu^|
+||heizl.de^|
+||heizlager.de^|
 ||heizline.at^|
 ||heizo24.de^|
 ||heizoel-24.com^|
@@ -12602,6 +12622,7 @@
 ||heizpro.com^|
 ||heizstrahlerprada.de^|
 ||heiztechnik-kundendienst.at^|
+||heiztop.de^|
 ||heiztrends.de^|
 ||heizung-deutschland.org^|
 ||heizungersatzteile.com^|
@@ -12901,6 +12922,7 @@
 ||hmtifp.top^|
 ||hoabinhvn.com^|
 ||hoba23.de^|
+||hobakon.com^|
 ||hobaorc.com^|
 ||hobbhop.com^|
 ||hobbiesapparel.com^|
@@ -13746,6 +13768,7 @@
 ||ikloveov.click^|
 ||ikoodaram.com^|
 ||ikrajpc.com^|
+||ilair.cardsbaby.shop^|
 ||ilair.endmilk.shop^|
 ||ilair.linebell.shop^|
 ||ilair.thinglink.blog^|
@@ -14499,6 +14522,7 @@
 ||jlindebergliefern.com^|
 ||jlindebergseu.it.com^|
 ||jlsdichoso.com^|
+||jlxdiffusion.com^|
 ||jma-heimarbeit.net^|
 ||jmilyshop.com^|
 ||jmzodb.shop^|
@@ -14685,6 +14709,7 @@
 ||jumboif.com^|
 ||jumbokicks.com^|
 ||jumigoods.com^|
+||jumpft.de^|
 ||jumpsatart.com^|
 ||jumpsuit.summers4sale.com^|
 ||junaberlin.de^|
@@ -14987,6 +15012,7 @@
 ||kaukokiito.top^|
 ||kaulmann-berlin.de^|
 ||kausholzs.com^|
+||kavaya.fr^|
 ||kavehomesale.shop^|
 ||kavri.de^|
 ||kawaiiroleplay.com^|
@@ -15870,7 +15896,6 @@
 ||laldeboer.com^|
 ||lalonguez.com^|
 ||laltraveu.org^|
-||lalune-amsterdam.nl^|
 ||lamaisonmartinet.com^|
 ||lamaretta.com^|
 ||lambsheepca.com^|
@@ -16586,6 +16611,7 @@
 ||lipsfick.com^|
 ||liqnte.com^|
 ||liquidationretailer.com^|
+||liquidationstockz.com^|
 ||liring.goldpool.shop^|
 ||liring.hpattack.shop^|
 ||lirunqiu.com^|
@@ -16927,6 +16953,7 @@
 ||lowadeutschlandoutlet.de^|
 ||lowadeutschlandoutlets.de^|
 ||lowaeu.com^|
+||lowaid.cardsbaby.shop^|
 ||lowaluxemburg.com^|
 ||lowaonlineshops.com^|
 ||lowaonlineshops.de^|
@@ -17464,7 +17491,6 @@
 ||marcfisherlady.com^|
 ||marcfisherwien.at^|
 ||marchavdm.com^|
-||marciodidier.com.br^|
 ||marcjacobbss.com^|
 ||marcjacoboutlet.us.com^|
 ||marcjacobs-osterreich.com^|
@@ -17910,6 +17936,7 @@
 ||meinardy.de^|
 ||meinautoprofi.at^|
 ||meinbeautycharms.com^|
+||meindampf.com^|
 ||meindeinhaus.de^|
 ||meindiscount.store^|
 ||meindl--schuhe.com^|
@@ -19283,6 +19310,7 @@
 ||naturalzuda.de^|
 ||naturcontact.de^|
 ||natureglanz.com^|
+||naturelabs.store^|
 ||naturemarket24.com^|
 ||naturemarksale.shop^|
 ||naturerlebnisde.com^|
@@ -19385,6 +19413,7 @@
 ||neo-ki.com^|
 ||neodore.net^|
 ||neofitk.top^|
+||neolevii.com^|
 ||neolineus.com^|
 ||neopass.de^|
 ||neosysco.com^|
@@ -20053,6 +20082,7 @@
 ||nutboat.co.uk^|
 ||nutrimcaps.com^|
 ||nuttytoolpart.com^|
+||nuviaecom.fr^|
 ||nuvinodeutschland.com^|
 ||nuvistio.com^|
 ||nuvonda.shop^|
@@ -20173,22 +20203,31 @@
 ||oeiprne.com^|
 ||oekologischebaustoffede.shop/^|
 ||oekowohn.com^|
+||oelbonus.de^|
 ||oelfast.com^|
+||oelfast.de^|
 ||oelfeld24.com^|
+||oelfuel.de^|
 ||oelgo.de^|
 ||oelhanse.com^|
 ||oelhaus24.com^|
+||oelhub.de^|
 ||oelit.de^|
 ||oelity.de^|
 ||oelly.de^|
 ||oelman.de^|
+||oelnow.de^|
+||oelone.de^|
+||oeloo.de^|
 ||oelor.de^|
 ||oelpreisfinder.de^|
 ||oeltix.de^|
+||oeltop.de^|
 ||oeluno.de^|
 ||oeluu.de^|
 ||oelvio.de^|
 ||oelvirasys.com^|
+||oelwert.de^|
 ||oelza.de^|
 ||oelzone.de^|
 ||oenence.xyz^|
@@ -22740,6 +22779,7 @@
 ||providenceerc.com^|
 ||provirtualoptions.com^|
 ||provoguesite.com^|
+||prowar.sixbrowse.shop^|
 ||prowerdrivertools.com^|
 ||prowerkparts.com^|
 ||prowira.de^|
@@ -23685,6 +23725,7 @@
 ||reliablecourtyard.com^|
 ||reliabledomestic.com^|
 ||reliablehandtools.com^|
+||reliableretaildeals.com^|
 ||relionwork.com^|
 ||relivoria.com^|
 ||relsanthel.de.com^|
@@ -24399,6 +24440,7 @@
 ||rupp-reifenversand.shop^|
 ||rureneu.com^|
 ||rushcivilizationmorale.com^|
+||russellandbromley.de^|
 ||russellbromleydeutschland.com^|
 ||russellbromleyschuhe.com^|
 ||russetcan.com^|
@@ -25364,6 +25406,7 @@
 ||semahomesale.com^|
 ||seminariovirtual.org^|
 ||semmtec.at^|
+||sempreverdeatelier.it^|
 ||semvio.com^|
 ||sencilaf.top^|
 ||sencytehub.com^|
@@ -26383,6 +26426,7 @@
 ||snipezhunter.de^|
 ||snitactical.com^|
 ||snk-cargos.com^|
+||snksinc.de^|
 ||snmea.shop^|
 ||snoemya.shop^|
 ||snoopysmoke-vape.com^|
@@ -27819,6 +27863,7 @@
 ||swisscoinco.com^|
 ||swissladen.com^|
 ||swisslona.ch^|
+||swissquartzco.com^|
 ||swissstand.com^|
 ||swissvendo.ch^|
 ||swisswatche.com^|
@@ -27877,6 +27922,7 @@
 ||t.llinacrda.shop^|
 ||t3sler.com^|
 ||t7cafe.de^|
+||t8blankets.com^|
 ||tabexofficial.com^|
 ||tablegame.shop^|
 ||tableify.top^|
@@ -29029,6 +29075,7 @@
 ||topeat.foodarray.shop^|
 ||topeat.morepush.shop^|
 ||topeat.printscan.shop^|
+||topeat.smallfall.shop^|
 ||topeuro-shop.com^|
 ||topfahrradzubehor.com^|
 ||topfastget.com^|
@@ -29526,6 +29573,7 @@
 ||trylovestore.site^|
 ||trynori.de^|
 ||trypurisaki.com^|
+||tryrelievio.com^|
 ||tryshoplove.site^|
 ||trysoftr.com^|
 ||trysorelle.com^|
@@ -29878,6 +29926,7 @@
 ||upature.xyz^|
 ||upbikewinner.com^|
 ||upcock.dchand.blog^|
+||upcock.hetouch.shop^|
 ||updebatesociety.com^|
 ||updez.com^|
 ||upgradebikewear.com^|
@@ -32389,6 +32438,7 @@
 ||yumekatsu.com^|
 ||yumeskyo.top^|
 ||yumgo.net^|
+||yumgs.holdenouterwear.shop^|
 ||yumma-scenty.uk^|
 ||yummycrystal.com^|
 ||yumor.shop^|
