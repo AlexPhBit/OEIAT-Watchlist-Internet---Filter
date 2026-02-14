@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-14T00:00:03.516806Z
+! Generated: 2026-02-14T02:49:06.635943Z
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
 ||02984.bitcoinasystem.su^|
@@ -1556,6 +1556,7 @@
 ||arlodesire.com^|
 ||arlton.shop^|
 ||armanivives.com^|
+||armedangelsoutlet.com^|
 ||armedangelsrabatt.de^|
 ||armodamobilya.com^|
 ||armodamunchen.de^|
@@ -15290,6 +15291,7 @@
 ||kirche-lennep.de^|
 ||kirchenmusik-mhl.de^|
 ||kirchimova.xyz^|
+||kirchner-rechtsanwaelte.de^|
 ||kirchner-reifenversand.shop^|
 ||kirchweih-info.de^|
 ||kirkclean.space^|
@@ -24957,6 +24959,7 @@
 ||sauter-reifen.com^|
 ||savas-reifenhandel.com^|
 ||savcarv.com^|
+||savehalo.com^|
 ||savela.de^|
 ||savemosaic.com^|
 ||saveoffer.de^|
@@ -29076,6 +29079,7 @@
 ||topeat.morepush.shop^|
 ||topeat.printscan.shop^|
 ||topeat.smallfall.shop^|
+||topelectronicshop.com/^|
 ||topeuro-shop.com^|
 ||topfahrradzubehor.com^|
 ||topfastget.com^|
@@ -29531,6 +29535,7 @@
 ||truelovebridal.shop^|
 ||truelover.se^|
 ||truepillz.com^|
+||truerebuy.com^|
 ||trulann.com^|
 ||trumanschuhe.com^|
 ||trumanschuhe.de^|
