@@ -12,4 +12,4 @@ with open('data.csv', 'r', encoding='utf-8') as infile, open('filter.txt', 'w', 
         if len(row) >= 1:
             domain = row[0].strip().strip('"')
             if domain and '.' in domain:
-                outfile.write(f'||{domain}^|\n')
+                outfile.write(f'{domain}\n')
