@@ -11,5 +11,9 @@ with open('data.csv', 'r', encoding='utf-8') as infile, open('filter.txt', 'w', 
     for row in reader:
         if len(row) >= 1:
             domain = row[0].strip().strip('"')
-            if domain and '.' in domain:
+            if not domain:
+                print(f"Leere Domain: {row}")  # Debug-Ausgabe für leere Domains
+            elif '.' in domain:
                 outfile.write(f'||{domain}^|\n')
+            else:
+                print(f"Ungültige Domain: {domain}")  # Debug-Ausgabe für ungültige Domains
