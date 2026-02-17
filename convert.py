@@ -6,7 +6,6 @@ with open('data.csv', 'r', encoding='utf-8') as infile, open('filter.txt', 'w', 
     outfile.write(f'! Generated: {datetime.utcnow().isoformat()}Z\n')
     
     reader = csv.reader(infile, delimiter=';')
-    # next(reader, None)  # Skip Header
     
     for row in reader:
         if len(row) >= 1:
