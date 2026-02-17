@@ -1,5 +1,5 @@
 import csv
-from datetime import datetime
+from datetime import datetime, timezone
 
 with open('data.csv', 'r', encoding='utf-8') as infile, open('filter.txt', 'w', encoding='utf-8') as outfile:
     outfile.write('! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)\n')
