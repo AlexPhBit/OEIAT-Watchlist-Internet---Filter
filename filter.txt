@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-16T23:59:11.756178Z
+! Generated: 2026-02-17T02:54:02.453721Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -505,6 +505,7 @@
 ||ag-europe.com^|
 ||ag-reparaturservice.at^|
 ||agadishop.com^|
+||agbglobal.cc^|
 ||agbrzr.shop^|
 ||agda888.com^|
 ||agdenimshop.com^|
@@ -1426,6 +1427,7 @@
 ||appliancesclearancesale.store^|
 ||applianceselling.com^|
 ||appliancewe.com^|
+||applovntop.com^|
 ||appnebula.co/natal-chart^|
 ||appreciatil.com^|
 ||approshop.com^|
@@ -2219,6 +2221,7 @@
 ||babykindwelt.de^|
 ||babykleidungde.de^|
 ||babylachelt.de^|
+||babylissde.de^|
 ||babymarktkauf.com^|
 ||babymodeneu.com^|
 ||babymoovde.shop^|
@@ -3118,6 +3121,7 @@
 ||betrisecapitals.ltd^|
 ||betrmode.com^|
 ||betrug.law^|
+||betrugsbekampfer.com^|
 ||betrugsdezernat.com^|
 ||betrugsdezernat.org^|
 ||betrugsrecht.de^|
@@ -4220,6 +4224,7 @@
 ||bull-verse.net^|
 ||bull-verse.org^|
 ||bullbit.net^|
+||bullbittrade.com^|
 ||bulliator.top^|
 ||bullinvest.trade^|
 ||bullmarketfxoptions.com^|
@@ -4783,6 +4788,7 @@
 ||cbsstyles.com^|
 ||cbtwohousehold.com^|
 ||cbuanai.com^|
+||cbvdshj.com^|
 ||ccasting.at^|
 ||cccnats.com^|
 ||cccup.cardsbaby.shop^|
@@ -6452,6 +6458,7 @@
 ||de-napoleon.com^|
 ||de-noroki.com^|
 ||de-on.shop^|
+||de-orion.site^|
 ||de-outdoor.com^|
 ||de-rimowa.shop^|
 ||de-schmuckens.com^|
@@ -7864,6 +7871,7 @@
 ||ebert-autoreifen.com^|
 ||ebfetoonue.com^|
 ||ebikecenterltd.com^|
+||ebikedolomiti.com^|
 ||ebikeeu.com^|
 ||ebikesgeschaft.com^|
 ||ebikesshopsales.com^|
@@ -8288,6 +8296,7 @@
 ||ellameyer.de^|
 ||ellanorahamburg.com^|
 ||elle-weber.de^|
+||elle-zurich.com^|
 ||ellela.de^|
 ||ellenmanicure.shop^|
 ||ellenperuecken.de^|
@@ -8644,6 +8653,7 @@
 ||escortevenly.com^|
 ||esdxsa.com^|
 ||esell55.shop^|
+||esfimeqss.cfd^|
 ||esgehtauchohnerezept.net^|
 ||eshoesoutlet.com^|
 ||eshop-univers.de^|
@@ -8868,6 +8878,7 @@
 ||euschuhe.de^|
 ||eushop247.com^|
 ||euskirossignol.de^|
+||eusportsequipment.it.com^|
 ||eustoreifixit.shop^|
 ||eusuperstores.com^|
 ||eusydneyevan.de^|
@@ -9298,6 +9309,7 @@
 ||farahattire.com^|
 ||farben-store.com^|
 ||farbenprofi.shop/^|
+||farbenruhe.ch^|
 ||fareryfairy.com^|
 ||faridabdtnp.com^|
 ||farinaella.com^|
@@ -10783,6 +10795,7 @@
 ||gala-gruppe.com^|
 ||galabau-hammitsch.de^|
 ||galacal.com^|
+||galactict.com^|
 ||galagate.co^|
 ||galaktischshop.com^|
 ||galandu.de^|
@@ -12385,7 +12398,9 @@
 ||haushaltstar.de^|
 ||haushaltswolf.de^|
 ||hausler.casaify.top^|
+||hausmanns-verwertung.de^|
 ||hausmobel-de.com^|
+||hausofvedashop.com^|
 ||hausonline24.com^|
 ||hausprodukte.shop^|
 ||hausprodukte.store^|
@@ -15431,6 +15446,7 @@
 ||klemars.de^|
 ||kletternalpinismus.de^|
 ||kleversholz.com^|
+||kley-kanzlei.com^|
 ||klgm-eiche.de^|
 ||klhooq.com^|
 ||klick-ndb.de^|
@@ -15444,6 +15460,7 @@
 ||kloud-shop.com^|
 ||klugal.de^|
 ||klugeidee.com^|
+||klugezwerge.de^|
 ||klum-braun.de^|
 ||kluthbaustoffe.shop^|
 ||kluthbaustoffede.shop^|
@@ -15532,6 +15549,7 @@
 ||kochbucd.de^|
 ||kochenstein.de^|
 ||kochgenusswelt.shop^|
+||kochhand.com^|
 ||kochrela.com^|
 ||kochtails.shop^|
 ||kock-am-brink.de^|
@@ -15734,6 +15752,7 @@
 ||kuechen-point24.com^|
 ||kuechenblume.net^|
 ||kuechesale.com^|
+||kuehnenagel-service.de^|
 ||kuethe-kollegen.com^|
 ||kuethe-partner.com^|
 ||kufirms.com^|
@@ -15892,6 +15911,7 @@
 ||lahop.exportfly.baby^|
 ||lahop.goodstill.rest^|
 ||lahop.joinford.baby^|
+||lahop.joinpull.shop^|
 ||lakefestival.at^|
 ||lalaclothes.com^|
 ||lalalandshopde.shop^|
@@ -16012,6 +16032,7 @@
 ||lasportivaosterreich.at^|
 ||lasportivaotdeur.top^|
 ||lasportivaoutdoor.com^|
+||lasportivaoutlet.at^|
 ||lasportivaoutlet.club^|
 ||lasportivas.at^|
 ||lasportivas.de^|
@@ -16468,6 +16489,7 @@
 ||life-coach-journal.com^|
 ||life-golg.com^|
 ||life-houses.shop^|
+||life.yuomyt.com^|
 ||lifesable.com^|
 ||lifesattributes.de^|
 ||lifestyle-brands-us.com^|
@@ -20658,6 +20680,7 @@
 ||onlinemessershop.com^|
 ||onlinemodish.com^|
 ||onlinemotorrad.com^|
+||onlinemusikinstrumente.com^|
 ||onlinenewfad.com^|
 ||onlinenewsh.com^|
 ||onlineoutdoorsnew.com^|
@@ -21834,6 +21857,7 @@
 ||petrichorra.com^|
 ||petsadaptable.com^|
 ||petsbrave.com^|
+||petshippingltd.com^|
 ||petshomeplay.com^|
 ||petshops1.com^|
 ||petsincere.com^|
@@ -22720,6 +22744,7 @@
 ||pronounct.com^|
 ||prontho.de^|
 ||proofficeware.com^|
+||proofsagen.com^|
 ||proopenair.com^|
 ||proopenairgear.com^|
 ||prooutside.com^|
@@ -22807,6 +22832,7 @@
 ||psychologick.com^|
 ||psychologie-gfk.at^|
 ||psyconsilium.de^|
+||pt-sky.com^|
 ||pt.kirstiwebb.com^|
 ||pt.marianamargaingarza.com^|
 ||pt.tradingzone.pro^|
@@ -23419,6 +23445,7 @@
 ||receptiond.com^|
 ||recetasplus.com^|
 ||rechato.com^|
+||rechtsanwalt-adams.com^|
 ||rechtsanwalt-scheer.net^|
 ||reciprocalx.com^|
 ||reciprocau.com^|
@@ -23574,6 +23601,7 @@
 ||reifen-zeta.com^|
 ||reifen-ziegler.com^|
 ||reifenangebote.com^|
+||reifendienst-notdienst.jimdosite.com^|
 ||reifenhandel-adam.shop^|
 ||reifenhandel-albrecht.com^|
 ||reifenhandel-bach.com^|
@@ -24824,6 +24852,7 @@
 ||samijnassar.com^|
 ||samilla.de^|
 ||samixpart.com^|
+||sammlerliebe.com^|
 ||samoon.com.tw^|
 ||samsoe-outlet.shop^|
 ||samsoncha.com^|
@@ -24968,6 +24997,7 @@
 ||savesilomart.com^|
 ||savesprintmart.com^|
 ||savesshop.com^|
+||savewharf.com^|
 ||savingstsunami.com^|
 ||savnkjjjvh.com^|
 ||savvynix.com^|
@@ -25311,6 +25341,7 @@
 ||secrettime.shop^|
 ||secrettowin.com^|
 ||secure.dhgate.com^|
+||secure.lovetrusthappy.com^|
 ||secure.selure.de^|
 ||securebetter.site^|
 ||securejust.com^|
@@ -26357,6 +26388,7 @@
 ||smartfortunehub.com^|
 ||smartguardtrades.online^|
 ||smarthomevi.com^|
+||smartiq.co^|
 ||smartkochen.com^|
 ||smartmoney-deal-now.com^|
 ||smartnurseca.com^|
@@ -27123,6 +27155,7 @@
 ||stilejx.stilop.mom^|
 ||stilgut-wien.at^|
 ||stilhaus-mode.de^|
+||stilhausfreiburg.com^|
 ||stillaire.top^|
 ||stilmark.de^|
 ||stilovo.de^|
@@ -27968,6 +28001,7 @@
 ||taillightsales.com^|
 ||tailorwears.com^|
 ||tajamom.com^|
+||takball.com^|
 ||takeary.xyz^|
 ||takebicycle.com^|
 ||takejourney.com^|
@@ -28499,6 +28533,7 @@
 ||thenetfarmacia.com^|
 ||thenewparts.com^|
 ||thenorthfaceaustria.com^|
+||thenorthfacedeutschland.com^|
 ||theodore-furniture.com^|
 ||theofficeatease.com^|
 ||theofficeoffers.com^|
@@ -31196,6 +31231,7 @@
 ||wadada.online^|
 ||wadriha.shop^|
 ||waffeleisende.com^|
+||waffen-outdoor.com^|
 ||waffenundjagdwelt.com^|
 ||wafhong.shop^|
 ||wafturef.com^|
@@ -31843,6 +31879,7 @@
 ||withstndridg.com^|
 ||wittentf.com^|
 ||wittman-bekleidung.de^|
+||wiv-verwertung.de^|
 ||wivaro.de^|
 ||wizholzshops.de^|
 ||wjarviiz.com^|
