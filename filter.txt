@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-18T00:00:14.229901Z
+! Generated: 2026-02-18T03:16:06.423717Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2973,6 +2973,7 @@
 ||best.csurgemarket.icu^|
 ||best4you.org^|
 ||bestalpinism.com^|
+||bestandigwert.com^|
 ||bestapothekede.shop^|
 ||bestarcheryproshop.com^|
 ||bestasateam.top^|
@@ -6302,6 +6303,7 @@
 ||damenverkauf.de^|
 ||damiol-tech.de^|
 ||dammerlicht.de^|
+||dampfshishahub.com^|
 ||dana-berlin.de^|
 ||danavalletta.com^|
 ||dancardi.de^|
@@ -7063,6 +7065,7 @@
 ||diamond-sport-gear.com^|
 ||diamondpainterde.shop/^|
 ||diamondpen.store^|
+||diana-apotheke.com^|
 ||dianeconor.com^|
 ||dianetomashik.com^|
 ||diaphanosity.shop^|
@@ -9207,6 +9210,7 @@
 ||fahrspab.com^|
 ||fahrstadt.de^|
 ||fahrstander.com^|
+||fahrtechnikteile.com^|
 ||fahrzeugprada.de^|
 ||fahrzeugscanner24.de^|
 ||faikljp.com^|
@@ -11159,6 +11163,7 @@
 ||geschenkblumen.com^|
 ||geschenkfreude.shop/^|
 ||geschenkfreudeeu.shop^|
+||geschenklust.com^|
 ||geschenkwand.de^|
 ||geschenkzone.at^|
 ||geschirr-de.com^|
@@ -16721,6 +16726,7 @@
 ||livoza.de^|
 ||livsy.ch^|
 ||livsy.de^|
+||liwed.barpalm.shop^|
 ||lizabete.com^|
 ||lizandtaylor.de^|
 ||lizarddoe.com^|
@@ -19085,6 +19091,7 @@
 ||mustnce.com^|
 ||mutipre.shop^|
 ||muttermode.de^|
+||muumall.com^|
 ||muysale.cn^|
 ||muzenaudio.com^|
 ||mvbergweiler.de^|
@@ -24838,6 +24845,7 @@
 ||salzana.de^|
 ||salzar.store^|
 ||salzburg-outlet.at^|
+||salzburgapotheke.com^|
 ||salzburgmode.at^|
 ||salzmann-c.at^|
 ||sama-logistic.com^|
@@ -29115,7 +29123,7 @@
 ||topeat.morepush.shop^|
 ||topeat.printscan.shop^|
 ||topeat.smallfall.shop^|
-||topelectronicshop.com/^|
+||topelectronicshop.com^|
 ||topeuro-shop.com^|
 ||topfahrradzubehor.com^|
 ||topfastget.com^|
