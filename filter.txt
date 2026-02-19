@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-19T00:57:37.519001Z
+! Generated: 2026-02-19T03:42:53.992391Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -4204,6 +4204,7 @@
 ||buenodeutschland.de^|
 ||buenoschuhe.de^|
 ||bueroablage.at^|
+||buerobedarfshop.com^|
 ||bueroservice-kompakt.de^|
 ||buestyle.com^|
 ||buffalodavidbittonmall.com^|
@@ -4863,6 +4864,7 @@
 ||cembierzo.com^|
 ||cementextool.com^|
 ||cenatrix.com^|
+||cendura.de^|
 ||centahah.de^|
 ||centebing.com^|
 ||center-albert.de^|
@@ -5752,6 +5754,7 @@
 ||containercompany.shop^|
 ||containert.com^|
 ||containtools.com^|
+||conteneursducoin.com^|
 ||contessaub.com^|
 ||contfbad.com^|
 ||contiflexv.com^|
@@ -7060,6 +7063,7 @@
 ||Diadoraosterreich.com^|
 ||diadorawien.at^|
 ||diaetolin.com^|
+||diag-wagen.de^|
 ||dialog-unternehmensberatung.de^|
 ||diamix.de^|
 ||diamond-sport-gear.com^|
@@ -8957,6 +8961,7 @@
 ||evutal.com^|
 ||ewaherzog.shop^|
 ||ewennet.com^|
+||ewige-seide.de^|
 ||ewighair.com^|
 ||ex-field.com^|
 ||ex-sot.com^|
@@ -9715,6 +9720,7 @@
 ||fimelstore.it^|
 ||fimev.de^|
 ||fin-real.com^|
+||finalatransports.com^|
 ||finallyabsent.com^|
 ||finalsales.shop^|
 ||finance-pioneers.de/^|
@@ -10021,6 +10027,7 @@
 ||flexiuhr.de^|
 ||flexonlinejob.com^|
 ||flexsteelushome.com^|
+||flexsugges.com^|
 ||flextrader.co^|
 ||flextshire.com^|
 ||flexumgel-official.shop^|
@@ -10469,6 +10476,7 @@
 ||fruugo.at^|
 ||fryedeutschland.com^|
 ||fsnte.shop^|
+||ftmxglobal.com^|
 ||ftzs.net^|
 ||fu-ostholstein.de^|
 ||fuchs-reifen.com^|
@@ -12385,6 +12393,7 @@
 ||haus-stmartin.de^|
 ||hausannette.de^|
 ||hausbulle.de^|
+||hausdampf.com^|
 ||hausderschonheit-de.store^|
 ||hauser-personal.de^|
 ||hauserberlin.de^|
@@ -17085,6 +17094,7 @@
 ||lucullusacademy.com^|
 ||lucyjoes.com^|
 ||ludoloveov.pics^|
+||ludwigmaria.at^|
 ||ludwigmode.de^|
 ||luego-transport.com^|
 ||luekeshoes.com^|
@@ -17143,6 +17153,7 @@
 ||lunabfashion.com^|
 ||lunacrema.com^|
 ||lunajanemelts.com^|
+||lunakinderwelt.com^|
 ||lunanaa.top^|
 ||lunara-vondilex.de^|
 ||lunaravondilex.com^|
@@ -20015,6 +20026,7 @@
 ||novaefashion.de^|
 ||novakgroup.online^|
 ||novaloan.eu^|
+||novalyx.de^|
 ||novamoda-oslo.com^|
 ||novamoda.de^|
 ||novana-berlin.de^|
@@ -23221,6 +23233,7 @@
 ||radioustrendy.com^|
 ||radiusor.com^|
 ||radonsale.com^|
+||radrudel.de^|
 ||radschuhede.com^|
 ||radselect.de^|
 ||radshoots.at^|
@@ -27414,6 +27427,7 @@
 ||studiolivde.shop^|
 ||studiominq.com^|
 ||studiomrb.it^|
+||studiosflora.com^|
 ||studiosflora.de^|
 ||studioskyg.com^|
 ||studiummaris.com^|
@@ -28505,6 +28519,7 @@
 ||thehopefurniture.com^|
 ||thehuggy.de^|
 ||thehughaven.com^|
+||theisentransports.com^|
 ||theixshop.xyz^|
 ||thejaycoclub.com^|
 ||thejbweld.com^|
@@ -31229,6 +31244,7 @@
 ||vyminnovadental.com^|
 ||vynox.de^|
 ||vynpkgrz.shop^|
+||vynxaria.com^|
 ||vytor.de^|
 ||vzafiradev.shop^|
 ||w.store-mvp.shop^|
