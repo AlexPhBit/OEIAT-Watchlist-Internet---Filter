@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-19T23:49:40.436179Z
+! Generated: 2026-02-20T01:18:49.505021Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -131,6 +131,7 @@
 ||8lots.com^|
 ||99rabats.shop^|
 ||a.seven-st.com^|
+||a1-anlagen.com^|
 ||a31c.org^|
 ||aaaclothing.ru^|
 ||aachentag.com^|
@@ -583,6 +584,7 @@
 ||ainhoaotegi.com^|
 ||air-jordan4.com^|
 ||air-max.at^|
+||air-uposterreich.at^|
 ||air3panda1.store^|
 ||airbnb-co.uk-rooms5507914.uk^|
 ||airbnb-zuerich.ch^|
@@ -611,6 +613,7 @@
 ||airtoolsprofessional.com^|
 ||airtrackshop.de^|
 ||airvaxde.com^|
+||airyano.com^|
 ||airyclub.com^|
 ||airyixe.com^|
 ||aisakicks.shop^|
@@ -6198,6 +6201,7 @@
 ||cwwk.net^|
 ||cx.gamehander.com^|
 ||cxgoonge.com^|
+||cxzy.de^|
 ||cyanical.top^|
 ||cyber-finances.de^|
 ||cyberearth.org^|
@@ -7606,6 +7610,7 @@
 ||drift-store.com^|
 ||driftgarment.com^|
 ||driftgreat.club^|
+||drink-horizon.com^|
 ||drinkear.com^|
 ||drinkrelaxo.com^|
 ||drinksalesofficial.com^|
@@ -10127,6 +10132,7 @@
 ||foisge.com^|
 ||fokoomall.com^|
 ||foktu.shop^|
+||fokus-auf-deutschland.click^|
 ||foldcase.co^|
 ||foldersys.shop^|
 ||foldingboxesstore.com^|
@@ -11176,6 +11182,7 @@
 ||geschenkzone.at^|
 ||geschirr-de.com^|
 ||geschirronyx.com^|
+||geschirrspueler.lbspro.at^|
 ||gesegnetewelpenheim.com^|
 ||geshopbd.com^|
 ||gesicherterversand.com^|
@@ -12911,6 +12918,7 @@
 ||hinrichs-reifenversand.shop^|
 ||hinterman.de^|
 ||hipcraftsupply.com^|
+||hipoff.iistrike.club^|
 ||hippo2.eth.limo^|
 ||hippouchsales.com^|
 ||hiremyparents.com^|
@@ -13173,6 +13181,7 @@
 ||homekit-world.com^|
 ||homekitbargain.com^|
 ||homekitcatnapper.com^|
+||homekitchensupplymart.com^|
 ||homekitschic.com^|
 ||homekittrade.com^|
 ||homekoehndesign.com^|
@@ -13526,6 +13535,7 @@
 ||hulapro.de^|
 ||hulkmusclerx.mymusclepay.com^|
 ||hulkwheels.com^|
+||humehealth.de^|
 ||humente.com^|
 ||humidifierverkauf.de^|
 ||hummelfootball.com^|
@@ -15791,10 +15801,12 @@
 ||kumeyo.de^|
 ||kumicup.com^|
 ||kundegeschaft.de^|
+||kundendienstexperte.at^|
 ||kundenservice-hotline.at^|
 ||kundigenbei.at^|
 ||kunst-onlinebuy.shop^|
 ||kunst-onxzclince.shop^|
+||kunstcreativiteit.com^|
 ||kunstdirekt.shop/^|
 ||kunstdirektde.shop/^|
 ||kunsttextilwerken.com^|
@@ -16423,6 +16435,7 @@
 ||lfery.com^|
 ||lfnyxy.com^|
 ||lgcberlin.de^|
+||lgglegrandgroupe.com^|
 ||lhioz.shop^|
 ||lhksme.com^|
 ||lhsnr.shop^|
@@ -16942,6 +16955,7 @@
 ||loveideaet.click^|
 ||lovejewel.buzz^|
 ||lovekizoar.live^|
+||loveknitzab.click^|
 ||loveladiesaccessories.com^|
 ||loveladywearpro.com^|
 ||lovelydish.online^|
@@ -19371,6 +19385,7 @@
 ||naturlichesfeuer.shop^|
 ||naturstep.de^|
 ||naturvibes.de^|
+||naturvitalia.com^|
 ||naturwaerme-karow.com^|
 ||naturwaerme-karow.de^|
 ||naturwide.de^|
@@ -21006,6 +21021,7 @@
 ||orikaw.com^|
 ||orileda.de^|
 ||orisley.com^|
+||orivelle-official.com^|
 ||orizegment.com^|
 ||orlend.com^|
 ||ornamentli.com^|
@@ -22513,6 +22529,7 @@
 ||preishaide.de^|
 ||preisrausch24.de^|
 ||preisschlager-berlin.de^|
+||preiswertoutdoor.com^|
 ||premershop.com^|
 ||premiercarry.com^|
 ||premiercopperus.com^|
@@ -24419,6 +24436,7 @@
 ||rubyglobalinvest.com^|
 ||rubyrin.com^|
 ||ruchyleifer.com^|
+||ruckgabe.heidi-mode.de^|
 ||ruckgabe.wwmode.de^|
 ||rucksackedeuter.de^|
 ||rucksackexclusive.com^|
@@ -24638,6 +24656,7 @@
 ||sale.orunning.shop^|
 ||sale.salostyle.com^|
 ||sale.salozshop.com^|
+||sale.yjfgndf.top^|
 ||saleabaseball.com^|
 ||saleabike.com^|
 ||saleactivewearstore.com^|
@@ -27125,6 +27144,7 @@
 ||steiner-wien.at^|
 ||steinersalzburg.at^|
 ||steinersalzburg.com^|
+||steinhaus-berlin.co^|
 ||steinmetz-hahn.de^|
 ||stelcore-retail24.de^|
 ||stella-zurich.com^|
@@ -27713,6 +27733,7 @@
 ||supertoolspace.com^|
 ||supervivarade.com^|
 ||supervod.top^|
+||superwipes.de^|
 ||suplykits.com^|
 ||supmestar.com^|
 ||supower.shop^|
@@ -28374,6 +28395,7 @@
 ||teveoaustria.at^|
 ||teveoaustria.com^|
 ||teveoosterreich.at^|
+||tewango.de^|
 ||tewzeny.com^|
 ||texasdreamdolls.com^|
 ||texnwh.com^|
@@ -29390,6 +29412,7 @@
 ||trailblazemart.com^|
 ||trailblazeshop.com^|
 ||trailer-container.com^|
+||trailer-master.de^|
 ||trailertour.com^|
 ||trailrunningsale.com^|
 ||trainhause.com^|
@@ -29400,6 +29423,7 @@
 ||trallsland.com^|
 ||tramano.store^|
 ||tramo-garten.de^|
+||trangianverkaufe.com^|
 ||trangtuyenpl.com^|
 ||tranquil-attract.com^|
 ||tranquildwell.com^|
@@ -30019,6 +30043,7 @@
 ||urban-patterns.de^|
 ||urban-transporte.com^|
 ||urbancarpetloft.com^|
+||urbanclasse.store^|
 ||urbandecostyle.com^|
 ||urbanfahrt.de^|
 ||urbanflarehub.com^|
@@ -31788,6 +31813,7 @@
 ||wilaron.com^|
 ||wilcombree.com^|
 ||wildanimal.shop^|
+||wildblumenparadies.de^|
 ||wildeflame.de^|
 ||wildflowercasesphilippines.com^|
 ||wildling-berlin.com^|
