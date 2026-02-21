@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-21T00:52:46.862312Z
+! Generated: 2026-02-21T03:26:03.318206Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -166,6 +166,7 @@
 ||abccart.xyz^|
 ||abdeckplanenmotor.com^|
 ||abeeinabonnet.com^|
+||abele-kanzlei.com^|
 ||abendroth-fortel.com^|
 ||abestunderwear.com^|
 ||abevolksz.com^|
@@ -2386,6 +2387,7 @@
 ||bankdjournalsur.com^|
 ||bankindq.com^|
 ||banking-emirates.com^|
+||banking.wsboh.org^|
 ||bankot.top^|
 ||banoutgit.com^|
 ||banxso.com^|
@@ -8002,6 +8004,7 @@
 ||edgyusfemale.com^|
 ||edgyuswomen.com^|
 ||edhealthpills.top^|
+||ediblesthc.de^|
 ||edibleun.com^|
 ||edierubenstein.com^|
 ||edifyopen.com^|
@@ -19050,6 +19053,7 @@
 ||munbrand.com^|
 ||munchen-outlet.com^|
 ||munchenmode.de^|
+||mundinhoabc.com^|
 ||mundobrands.de^|
 ||mundoparabebe.com^|
 ||mundschutzhalterde.shop/^|
@@ -23921,6 +23925,7 @@
 ||retuschieren.at^|
 ||reubenco.com^|
 ||reuter-autoreifen.com^|
+||reuther-anwaelte.com^|
 ||reutoneg.com^|
 ||revealize.top^|
 ||reveilove.com^|
@@ -25308,6 +25313,7 @@
 ||scieriebarlet.com^|
 ||scifianimetoy.com^|
 ||scilulustore.com^|
+||scimonge.com^|
 ||sclothesbrand.com^|
 ||scoer.shop^|
 ||scooga.at^|
@@ -29882,6 +29888,7 @@
 ||ulrichandree.com^|
 ||ulrike-lingl.com^|
 ||ulta-beauty-us.com^|
+||ultimateasdc.com^|
 ||ultimatelyt.com^|
 ||ultimatetattoosuppde.shop^|
 ||ultions.com^|
@@ -29896,6 +29903,7 @@
 ||uluswealthandtrading.com^|
 ||ulvitlodpck.com^|
 ||umara-tech.de^|
+||umbfinancialgroup.com^|
 ||umbrellacorp.fr^|
 ||umbroosterreich.com^|
 ||umdm.org^|
@@ -32134,6 +32142,7 @@
 ||wrlovesk.life^|
 ||wrongian.top^|
 ||wrtcmme.com^|
+||wsboh.org^|
 ||wsdios.com^|
 ||wseomight.com^|
 ||wsmiccraev.shop^|
