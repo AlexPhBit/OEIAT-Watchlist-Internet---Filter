@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-22T23:57:48.192897Z
+! Generated: 2026-02-23T03:14:01.693306Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -15061,6 +15061,7 @@
 ||kavri.de^|
 ||kawaiiroleplay.com^|
 ||kaybrownsey.com^|
+||kayh.tovy.shop^|
 ||kayi-handel.de^|
 ||kaykaorg.com^|
 ||kayklingbeil.de^|
