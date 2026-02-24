@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-24T00:54:31.800957Z
+! Generated: 2026-02-24T03:39:10.002096Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -189,6 +189,7 @@
 ||abo-schnapper.de^|
 ||aboalyislam.com^|
 ||aboardcloth.com^|
+||abodeare.com^|
 ||abodeena.com^|
 ||abolder.com^|
 ||aboukide.shop/^|
@@ -4390,6 +4391,7 @@
 ||byplaza.de^|
 ||byqao.hmqmqmarket.shop^|
 ||byrdgear.shop^|
+||byredowien.com^|
 ||byrheimz.de^|
 ||byrovin.com^|
 ||bysusannekling.de^|
@@ -4604,6 +4606,7 @@
 ||capsposhop.com^|
 ||captainboot.de^|
 ||capttion.top^|
+||capvest-consulting.com^|
 ||car-related.com^|
 ||caraboo.at^|
 ||caracesse.com^|
@@ -4829,6 +4832,7 @@
 ||cdrock.treestore.baby^|
 ||cdrsalesk.life^|
 ||cdryhghy.shop^|
+||cdtest.fullgrow.club^|
 ||cdu-solidaritaet.de^|
 ||cdwar.morepush.shop^|
 ||cdwar.netreach.baby^|
@@ -9271,6 +9275,7 @@
 ||familienschatze.com^|
 ||familievlaar.com^|
 ||famillehuon.com^|
+||familo.net^|
 ||family-pills.com^|
 ||family-tirol.at^|
 ||familyelegant.com^|
@@ -14912,6 +14917,7 @@
 ||kammerjaeger-notruf.at^|
 ||kammerjaeger24h.at^|
 ||kammerjaeger7d.at^|
+||kammerjäger-kessler.de^|
 ||kammerjäger-profis.at^|
 ||kammerjäger-schulz.at^|
 ||kamsfgeco.shop^|
@@ -19407,6 +19413,7 @@
 ||naushwadood.com^|
 ||nauticalpartsstore.com^|
 ||nauticasdeutschland.de^|
+||nauticspace.com^|
 ||nauticwerk.com^|
 ||navadexamazon.com^|
 ||navaro-shop.de^|
@@ -26545,6 +26552,7 @@
 ||snowfitgear.com^|
 ||snowflakeserenity.com^|
 ||snowgumshop.com^|
+||snowhow.shop^|
 ||snownew.com^|
 ||snowrossignol.com^|
 ||snowsportsboard.com^|
@@ -28058,6 +28066,7 @@
 ||tagalots.com^|
 ||tagestrips.at^|
 ||tagkitchenware.de^|
+||tagmarkets.com^|
 ||tagomarkets.com^|
 ||tagryen.com^|
 ||tagsook.com^|
@@ -29373,6 +29382,7 @@
 ||trade.bullbit.net^|
 ||trade.bullinvest.in^|
 ||trade.bullinvest.trade^|
+||trade.capvest-consulting.com^|
 ||trade.priority-trading.com^|
 ||trade.royaldimex.com^|
 ||trade.wilsonpartner-club.com^|
@@ -30692,6 +30702,7 @@
 ||verbazenkoperss.de^|
 ||verbition.top^|
 ||verbundmarkt.com^|
+||verdalucina.com^|
 ||verein-sulzbrunn.de^|
 ||vereins-web.at^|
 ||vereinsregisterauszug.at^|
@@ -31311,6 +31322,7 @@
 ||waffenundjagdwelt.com^|
 ||wafhong.shop^|
 ||wafturef.com^|
+||wagemannmode.de^|
 ||wagner-boutique.com^|
 ||wagner-mode.com^|
 ||wagner-versandhaus.net^|
