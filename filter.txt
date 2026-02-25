@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-25T00:02:35.099161Z
+! Generated: 2026-02-25T03:14:25.717178Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -930,6 +930,7 @@
 ||altayyabab.com^|
 ||altcoinpro.space^|
 ||altekino.de^|
+||altenlaw.de^|
 ||alter48.fr^|
 ||alternatef.com^|
 ||alternatei.com^|
@@ -2574,6 +2575,7 @@
 ||baustellenbedarfrabatt.com^|
 ||bauteilegest.com^|
 ||bauzentrum-deutschland24.de^|
+||bavaria-rechtundberatung.com^|
 ||bavarianvogue.de^|
 ||bavariasis.com^|
 ||baveya.de^|
@@ -3303,6 +3305,7 @@
 ||bikeshopperia.com^|
 ||bikesitenew.com^|
 ||bikesiteopt.com^|
+||bikeskraft.de^|
 ||bikesonlinesale.com^|
 ||bikesstore.club^|
 ||biketaillightsde.com^|
@@ -4573,6 +4576,7 @@
 ||canoefans.com^|
 ||canteago.info^|
 ||cantheme.com^|
+||cantinadautoress.com^|
 ||cantopen.top^|
 ||canvascosta.com^|
 ||canvasshoesalestore.com^|
@@ -5314,6 +5318,7 @@
 ||clarksschuhe-schweiz.com^|
 ||clarksschuhewien.at^|
 ||clarksshopschweiz.com^|
+||clashtek.com^|
 ||clasicraft.com^|
 ||classic-attire.com^|
 ||classic-jewelry.de^|
@@ -6835,6 +6840,7 @@
 ||denix-reifen.com^|
 ||denkashop.com^|
 ||dennerwien.com^|
+||dennisbecker-ra.de^|
 ||dent-wellness.de^|
 ||dentalsuppliessale.store^|
 ||dentqq.top^|
@@ -12654,6 +12660,7 @@
 ||heizoel-standard.de^|
 ||heizoel-station.com^|
 ||heizoel-zentrale.de^|
+||heizoel24-preise.com^|
 ||heizoeldirekt.com^|
 ||heizoelhanse.com^|
 ||heizoelix.de^|
@@ -12750,6 +12757,8 @@
 ||hendoi.shop^|
 ||henfifty.com^|
 ||hengdade.shop/^|
+||hengelermuellera.com^|
+||hengelermuellerc.com^|
 ||henghongwatch.online^|
 ||hengjian.eu^|
 ||heningclothing.com^|
@@ -14448,6 +14457,7 @@
 ||jazzzcity.com^|
 ||jb-store.de^|
 ||jbjqzssht.com^|
+||jbl-deutschland.de^|
 ||jblaga.top^|
 ||jblonline.store^|
 ||jboonenp.com^|
@@ -14944,6 +14954,7 @@
 ||kanzlei-dahlmanns-witten.de^|
 ||kanzlei-guehmann.de^|
 ||kanzlei-röcherimrecht.de^|
+||kanzlei-roth.org^|
 ||kanzleiklaus.de^|
 ||kaodasuan.shop^|
 ||kaperes.com^|
@@ -16958,6 +16969,7 @@
 ||lovaric.co^|
 ||love-outdoorsport.com^|
 ||love-ralphlauren.com^|
+||love-roses.com^|
 ||lovea.co^|
 ||loveandbumpshop.com^|
 ||loveandtogether.com^|
@@ -18822,6 +18834,7 @@
 ||montflames.com^|
 ||montgerra.com^|
 ||montgerrar.com^|
+||montgerrard.com^|
 ||monthbob.com^|
 ||monthlyi.com^|
 ||monthson.com^|
@@ -19164,9 +19177,11 @@
 ||my-slide.de^|
 ||my.euprofits.com^|
 ||my.logs-area-27.de^|
+||my.naxinv.com^|
 ||my.sparprime.com^|
 ||my.topmarkets.co.uk^|
 ||my.topmarkets.uk^|
+||myakkushop.de^|
 ||myalpins.com^|
 ||myanglers-edge.com^|
 ||myautofficina.it^|
@@ -19423,6 +19438,7 @@
 ||navroopdhillon.com^|
 ||nawelitova.com^|
 ||naweos.de^|
+||naxinv.com^|
 ||nazaone.com^|
 ||nazeshops.com^|
 ||nazimeyuce.com^|
@@ -20193,6 +20209,7 @@
 ||nyhead.atsearch.shop^|
 ||nyhead.bookfocus.surf^|
 ||nyhead.costswant.baby^|
+||nyhead.morepush.shop^|
 ||nyhead.openwind.shop^|
 ||nyhead.rulefit.baby^|
 ||nyhead.soexist.biz^|
@@ -22207,6 +22224,7 @@
 ||platin-teppichreinigung.at^|
 ||platincoin.com^|
 ||platinwerk.de^|
+||platten-paradies.com^|
 ||platten24.com^|
 ||plattenangebote.com^|
 ||plattengeschaft.de^|
@@ -23072,6 +23090,7 @@
 ||qranls.com^|
 ||qredhaus.de^|
 ||qrixvetra.com^|
+||qrvawuep.shop^|
 ||qsebq.com^|
 ||qshinebright.com^|
 ||qsir.smoon.za.com^|
@@ -23835,6 +23854,7 @@
 ||remedyinternationalshop.com^|
 ||remembeca.com^|
 ||remington.com.de^|
+||remingtons.co.at^|
 ||reminitive.com^|
 ||reminora.com^|
 ||remintive.com^|
@@ -24268,6 +24288,7 @@
 ||rohn-shop.shop^|
 ||rohr-reinigung24.at^|
 ||rohrreinigung-24h.at^|
+||rohrreinigungshilfe.at^|
 ||rohrsanierungen24.de^|
 ||rohrverbinder24.shop^|
 ||roicraft.co^|
@@ -24380,6 +24401,8 @@
 ||rotationmedical.com^|
 ||rotecobra.com^|
 ||rotes-tor.de^|
+||roth-collegen.com^|
+||roth-collegen.net^|
 ||roth-handel.de^|
 ||rothause.de^|
 ||rothen-burg.de^|
@@ -29383,6 +29406,7 @@
 ||trade.bullinvest.in^|
 ||trade.bullinvest.trade^|
 ||trade.capvest-consulting.com^|
+||trade.naxinv.com^|
 ||trade.priority-trading.com^|
 ||trade.royaldimex.com^|
 ||trade.wilsonpartner-club.com^|
@@ -30043,6 +30067,7 @@
 ||unusualtoolitem.com^|
 ||unusualvogueshoes.com^|
 ||unykredit.com^|
+||unzerfinanzpro.de^|
 ||unzshoes.top^|
 ||uoozy.com^|
 ||uowlband.shop^|
@@ -32194,6 +32219,7 @@
 ||wukbw.com^|
 ||wulde.de^|
 ||wulf-reifen.com^|
+||wulstenra.com^|
 ||wunderbarmeldung.com^|
 ||wunderlich-autoreifen.com^|
 ||wunderlich-handel.de^|
