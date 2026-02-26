@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-25T23:50:01.571302Z
+! Generated: 2026-02-26T01:23:59.977865Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -902,6 +902,7 @@
 ||alphaforgood.com^|
 ||alphaletedeutschland.de^|
 ||alphaleteosterreich.at^|
+||alphaluxury.de^|
 ||alphamed-medical.com^|
 ||alphascrypto.com^|
 ||alphaskin.de^|
@@ -1683,6 +1684,7 @@
 ||asfintarg.com^|
 ||asfishop.com^|
 ||asfl-info.com^|
+||asflnag.bond^|
 ||asflnag.com^|
 ||asflnag.lat^|
 ||asflnag.xyz^|
@@ -1926,6 +1928,7 @@
 ||aureamunich.de^|
 ||aurelllc.com^|
 ||aurgkb.com^|
+||auriaofficiel.com^|
 ||aurocie.com^|
 ||auroraforyou.de^|
 ||aurorahikari.com^|
@@ -3022,6 +3025,7 @@
 ||bestellungrezeptfrei.de^|
 ||bestelnuar.click^|
 ||bestemed.com^|
+||bestemedikamente.com^|
 ||bestemeds.com^|
 ||bestenfahrrad.de^|
 ||bestenhunde.store^|
@@ -6590,6 +6594,7 @@
 ||dealhimmelde.de^|
 ||dealira.com^|
 ||dealmanias.com^|
+||dealmeadow.com^|
 ||dealoutdoorkit.com^|
 ||dealparty.nl^|
 ||dealpinaverkauf.com^|
@@ -12657,6 +12662,7 @@
 ||heizoel-onlinekauf.com^|
 ||heizoel-premium.de^|
 ||heizoel-profi.com^|
+||heizoel-schnell-gmbh.de^|
 ||heizoel-standard.de^|
 ||heizoel-station.com^|
 ||heizoel-zentrale.de^|
@@ -15164,6 +15170,7 @@
 ||keller-modehaus.de^|
 ||keller-zurich.ch^|
 ||kellerkuche.at^|
+||kellerspirit.com^|
 ||kellerwirtschaft.at^|
 ||kellgy.com^|
 ||kelliekrich.com^|
@@ -15498,6 +15505,8 @@
 ||kleinwien.at^|
 ||kleinzdef.myshopify.com^|
 ||klemars.de^|
+||klempnerwerkzeug.com^|
+||klenkholzag.de^|
 ||kletternalpinismus.de^|
 ||kleversholz.com^|
 ||kley-kanzlei.com^|
@@ -15894,6 +15903,7 @@
 ||laamcom.com^|
 ||laandingblog.com^|
 ||laasin.com^|
+||labelparis.com^|
 ||laboitenomade.de^|
 ||laborbedarfkaufen.com^|
 ||laborkampagnede.shop/^|
@@ -22755,6 +22765,7 @@
 ||produkttester-anmeldung.com^|
 ||proeuromeds.com^|
 ||proevery.com^|
+||profahrradteile.com^|
 ||profayansy.com^|
 ||professionaltoolus.com^|
 ||professyo.com^|
@@ -23386,6 +23397,7 @@
 ||rapunzelhairextension.com^|
 ||rapwaytrade.org^|
 ||rarahiz.com^|
+||rare404.com^|
 ||rarinoo.com^|
 ||rasen-traktor.com^|
 ||rasen24h.com^|
@@ -27912,6 +27924,7 @@
 ||svadli.de^|
 ||svarajyay.com^|
 ||svarta.shop/^|
+||svd24.pro^|
 ||svelton.com^|
 ||sveni.shop^|
 ||svenska-mediciner.com^|
@@ -31253,6 +31266,8 @@
 ||voreza.online^|
 ||vorhangschweiz.shop^|
 ||vorindo.de^|
+||vorisol.com^|
+||vorisol.com.de^|
 ||voritude.com^|
 ||vorlaufigerverkauf.com^|
 ||vormans.de^|
@@ -31482,6 +31497,7 @@
 ||watch-fakes.to^|
 ||watchcod-en.shop^|
 ||watchcod-mc.shop^|
+||watchcod-nz.shop^|
 ||watchesbuy.to^|
 ||watchesoff5gc.vip^|
 ||watchesreplica.is^|
