@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-27T00:00:29.605185Z
+! Generated: 2026-02-27T02:51:20.740140Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2558,6 +2558,7 @@
 ||baugeraterabatt.com^|
 ||bauhausss.com^|
 ||bauhobby.com^|
+||baukomps.com^|
 ||baumann-autoreifen.shop^|
 ||baumann-elektroniks.de^|
 ||baumann-modehaus.de^|
@@ -12026,6 +12027,7 @@
 ||gualtieromereu.com^|
 ||guamthuc.com^|
 ||guaranteeddealhub.com^|
+||guardunit77-booking.com^|
 ||gubernie.top^|
 ||gubeteches.com^|
 ||gubihaushaltswaren.com^|
@@ -12948,6 +12950,7 @@
 ||hinrichs-reifenversand.shop^|
 ||hinterman.de^|
 ||hipcraftsupply.com^|
+||hipoff.fullgrow.club^|
 ||hipoff.iistrike.club^|
 ||hippo2.eth.limo^|
 ||hippouchsales.com^|
@@ -14064,6 +14067,7 @@
 ||insnag.me^|
 ||insolvenz-veit.de^|
 ||insolvenz.veit-kanzlei.de^|
+||insolvenzrecht-rick.de^|
 ||inspectionk.com^|
 ||inspectiony.com^|
 ||inspirasikus.com^|
@@ -14959,6 +14963,7 @@
 ||kanziii.net^|
 ||kanzlei-dahlmanns-witten.de^|
 ||kanzlei-guehmann.de^|
+||kanzlei-ra.net^|
 ||kanzlei-röcherimrecht.de^|
 ||kanzlei-roth.org^|
 ||kanzleiklaus.de^|
@@ -15218,6 +15223,7 @@
 ||kevxxx.shop^|
 ||kewoma.com^|
 ||kewoo.shop^|
+||key34.com^|
 ||keyblissboutique.com^|
 ||keyboardpopular.com^|
 ||keycaps-vibe.com^|
@@ -18604,6 +18610,7 @@
 ||mobile-find.mobi^|
 ||mobile-wellnessoase.de^|
 ||mobile.visc.top^|
+||mobilephonelocator.net^|
 ||mobilfunk-schmidtchen.de^|
 ||mobilixpro.com^|
 ||mobilmitkids.de^|
@@ -18946,6 +18953,7 @@
 ||motorcyclezesty.com^|
 ||motorcycperky.com^|
 ||motorprada.de^|
+||motorrad-ausstattung.com^|
 ||motorrad-levy-elsa.com^|
 ||motorrad70.com^|
 ||motorraderhelme.de^|
@@ -20551,6 +20559,7 @@
 ||oldbeibi.com^|
 ||oldcrow.net^|
 ||oldenpellets.com^|
+||oldestteabrand.com^|
 ||oldmoneylondon.com^|
 ||oldsailorsshippingcompany.com^|
 ||oleaia.com^|
@@ -23196,6 +23205,7 @@
 ||ra-fragrance.co.uk^|
 ||ra-ganske.de^|
 ||ra-gleissner.de^|
+||ra-rick.de^|
 ||raab-reifen.com^|
 ||raabeenq.com^|
 ||rabaisdepot.com^|
@@ -24086,6 +24096,7 @@
 ||richter-uhren.de^|
 ||richterwelpenhaus.de^|
 ||richwaystake.com^|
+||rick-kanzlei.de^|
 ||rickihome.shop^|
 ||rickowenswien.com^|
 ||riddingglovesprada.com^|
@@ -25093,6 +25104,7 @@
 ||savas-reifenhandel.com^|
 ||savcarv.com^|
 ||savehalo.com^|
+||savehubx.com^|
 ||savela.de^|
 ||savemosaic.com^|
 ||saveoffer.de^|
@@ -26959,7 +26971,6 @@
 ||sport-rausch.de^|
 ||sport-sivia.de^|
 ||sport-verkaufs.com^|
-||sportabo.at^|
 ||sportandoutdoorstore.com^|
 ||sportapothekeonline.com^|
 ||sportartikelbox.com^|
@@ -28216,6 +28227,7 @@
 ||tattoo-glanz-pflege.de^|
 ||taubenfutterde.com^|
 ||tauchanzugkajak.de^|
+||tauchflaschenschutznetz.com^|
 ||tauchsport-bayer.de^|
 ||tauschring-neuruppin.de^|
 ||tavatta.de^|
@@ -31492,6 +31504,7 @@
 ||wasserpumpede.de^|
 ||wassersheriff.at^|
 ||wassersportwert.com^|
+||wassono.myshopify.com^|
 ||wastedumpg.com^|
 ||wasuteo.com^|
 ||watch-fakes.to^|
@@ -31601,6 +31614,7 @@
 ||webdeal-produkt.com^|
 ||webe24.de^|
 ||weber-express.com^|
+||weber-motorrad.com^|
 ||weber-reifen.com^|
 ||webermode.com^|
 ||weberoutlet.com^|
