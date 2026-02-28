@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-02-28T00:00:17.875398Z
+! Generated: 2026-02-28T02:38:48.622662Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -17444,6 +17444,7 @@
 ||maintenancet.com^|
 ||mainz-mode.de^|
 ||maison-closestore.com^|
+||maison-dartois.co^|
 ||maison-margiela.at^|
 ||maisonbergerde.shop/^|
 ||maisondm.top^|
@@ -18603,6 +18604,7 @@
 ||mobelmagie.com^|
 ||mobelneu.com^|
 ||mobelniedrigerpreis.com^|
+||mobelonlineshop24.com^|
 ||mobelprada-de.com^|
 ||mobelspeichern-de.com^|
 ||mobelzuhause.com^|
@@ -19325,6 +19327,7 @@
 ||nabolu.de^|
 ||nabsisq.com^|
 ||nachhaltig-mode.com^|
+||nachhaltigewohndeko.com^|
 ||nachtbim.at^|
 ||nachtmannprada.de^|
 ||nactted.com^|
@@ -30949,6 +30952,7 @@
 ||vilible.top^|
 ||vilicus.solar^|
 ||villaholidaysibiza.com^|
+||villainworlld.de^|
 ||villards-stammholz.com^|
 ||villeroy-outlets.shop^|
 ||villeroyboch-eu.shop^|
@@ -31915,6 +31919,7 @@
 ||wildlingch.com^|
 ||wildlingde.shop/^|
 ||wildlingnl.com^|
+||wildlingschuhede.com^|
 ||wildlingshoes-de.com^|
 ||wildlingshoes-germany.com^|
 ||wildlingshoes-nl.com^|
