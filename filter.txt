@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-01T23:55:11.243540Z
+! Generated: 2026-03-02T02:44:38.405002Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -23340,6 +23340,7 @@
 ||raeuberundkomplizen.shop/^|
 ||rafells.com^|
 ||raffaellaterni.com^|
+||rafso.tovy.shop^|
 ||ragandbone-deutschland.com^|
 ||ragandbonedeutschland.com^|
 ||ragian.gr^|
