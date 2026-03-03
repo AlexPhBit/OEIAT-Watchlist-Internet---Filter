@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-02T23:58:29.828329Z
+! Generated: 2026-03-03T02:54:08.326930Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -401,6 +401,7 @@
 ||adomait.com^|
 ||adorabletotsde.shop^|
 ||adorecosyshoes.com^|
+||adoreshe.com^|
 ||adornedgems.com^|
 ||adovin.de^|
 ||adoworshipre.net^|
@@ -1297,6 +1298,7 @@
 ||antrag-kredite-sofort.com^|
 ||anttitepponen.com^|
 ||antyear.com^|
+||anwaelte-brinkmann.de^|
 ||anxiair.xyz^|
 ||any-estates.com^|
 ||anyoneeer.top^|
@@ -1329,6 +1331,7 @@
 ||apdonovande.shop/^|
 ||apeasblto.com^|
 ||apelt-handel.com^|
+||apelt-handel.de^|
 ||apexflora.com^|
 ||apexmaquinariaindustrial.com^|
 ||apexshekel.com^|
@@ -3493,6 +3496,7 @@
 ||bitcoinmotion.com^|
 ||bitcoinmotion.io^|
 ||bitcoinsinvestment.nl^|
+||bitcoinskn.com^|
 ||bitcointradepoint.com^|
 ||bitcoinwebr.com^|
 ||bitconnect.co^|
@@ -4963,6 +4967,7 @@
 ||chalsies.de^|
 ||chamberm.com^|
 ||chambredhote-brest.com^|
+||champion.co.at^|
 ||championaustria.at^|
 ||championieonline.com^|
 ||championwearoutlet.com^|
@@ -5838,6 +5843,7 @@
 ||coracosmetic.live^|
 ||coralcoveswim.com^|
 ||cordes-reifenversand.com^|
+||coregarment.com^|
 ||corentinmaribro.shop^|
 ||coreprettys.com^|
 ||corestationsystems.sbs^|
@@ -7017,6 +7023,7 @@
 ||deutscher-gebuehrendienst.com^|
 ||deutscher-link.com^|
 ||deutschersammlerschatz.com^|
+||deutsches-gut.de/^|
 ||deutscheschonheit.de^|
 ||deutschgeschenkfest.com^|
 ||deutschla.de^|
@@ -7963,6 +7970,7 @@
 ||ecoalf-online.shop^|
 ||ecoalfosterreich.at^|
 ||ecoalfsale.at^|
+||ecohabitsy.com^|
 ||ecoholz-gmbh.eu^|
 ||ecolestaubin.fr^|
 ||ecoloboiisdechauffage.com^|
@@ -8224,6 +8232,7 @@
 ||elegantmobel.com^|
 ||elegantseatcover.com^|
 ||elegantst.com^|
+||eleganz-haus.de^|
 ||eleganzamode.de^|
 ||eleganziagems.com^|
 ||eleganzmodehaus.de^|
@@ -8869,6 +8878,7 @@
 ||euro-rezeptfrei.de^|
 ||euro-unionpay-kredit.de^|
 ||euro.stanleys1913.com^|
+||eurodeals-store.shop^|
 ||eurodeliverieslogistics.com^|
 ||eurolend-international.com^|
 ||euromedicplus.com^|
@@ -9529,6 +9539,7 @@
 ||fboxkpec.veseleusi.cz^|
 ||fbsmen.com^|
 ||fbsportonline.shop^|
+||fc-moto-vip.com^|
 ||fcchu.com^|
 ||fcirlich.de^|
 ||fclubunited.com^|
@@ -9659,6 +9670,7 @@
 ||feststehendemesserde.com^|
 ||festzins.online^|
 ||fettverbrenneronline.com^|
+||feuerbergplus.com^|
 ||feuerwehr-oberaussem.de^|
 ||feuerwehr-vehlen.de^|
 ||fewelectric.com^|
@@ -11189,6 +11201,7 @@
 ||germania-ce.de^|
 ||germanlifeparts.com^|
 ||germanproduktshop.de^|
+||germanqualitaet.de^|
 ||germany-best-coffee.com^|
 ||germany-kitchenware-store.com^|
 ||germanytool.com^|
@@ -11533,6 +11546,7 @@
 ||glowingpokeballs.com^|
 ||glowtra.de^|
 ||glowvana.de^|
+||glowwarehousede.com^|
 ||glowyplant.de^|
 ||glowzonevip.com^|
 ||glucavit.com^|
@@ -11958,6 +11972,7 @@
 ||grouny.today^|
 ||group.ap-real.com^|
 ||group.von-re.com^|
+||groupeferroignis.com^|
 ||groupenterprisevision.digital^|
 ||groupeshf.com^|
 ||groupinpolitics.top^|
@@ -12461,6 +12476,7 @@
 ||haustierbedarfshop.com^|
 ||haustiereshop.com^|
 ||haustierstolz.de^|
+||haustirwelten.de^|
 ||hausttion.top^|
 ||hausundgarten.haus^|
 ||hausundgarten.latahalcom.shop^|
@@ -12600,6 +12616,7 @@
 ||heimfroh.com^|
 ||heimgruee.com^|
 ||heimgrueen.com^|
+||heimguts.shop^|
 ||heimjob-vermittlung.de^|
 ||heimkinovertrieb.de^|
 ||heimkuchenwaren.com^|
@@ -12952,6 +12969,7 @@
 ||hipcraftsupply.com^|
 ||hipoff.fullgrow.club^|
 ||hipoff.iistrike.club^|
+||hipoff.sohat.shop^|
 ||hippo2.eth.limo^|
 ||hippouchsales.com^|
 ||hiremyparents.com^|
@@ -14656,6 +14674,7 @@
 ||joketlandou.com^|
 ||joketlannd.com^|
 ||jokettlannd.com^|
+||jolamsneaker.com^|
 ||joliannd.com^|
 ||joliemoiwear.com^|
 ||jolkins.de^|
@@ -15020,6 +15039,7 @@
 ||karrimorschuhe.de^|
 ||karroc.de^|
 ||karsten-burkhardt.shop^|
+||kartsportzubehoer.com^|
 ||karylite.com^|
 ||kash-leone.fr^|
 ||kashefcog.com^|
@@ -15294,6 +15314,7 @@
 ||kidzonemagic.com^|
 ||kiekoem.com^|
 ||kieler-sternstunde.de^|
+||kienast-ra.de^|
 ||kiezlegenden.de^|
 ||kijanes.com^|
 ||kilimrugde.com^|
@@ -16704,6 +16725,7 @@
 ||lipas.shop^|
 ||liport.estclose.shop^|
 ||liport.evenfix.shop^|
+||liport.lowcruise.shop^|
 ||liport.manhand.shop^|
 ||lippetaler-bauhandel.de^|
 ||lipsfick.com^|
@@ -18090,6 +18112,7 @@
 ||meisterelektrik-24.at^|
 ||meistergrill24.de^|
 ||meistergroup.shop^|
+||meisterkuchen-pro.de^|
 ||meiyunz.com^|
 ||mekiepshop.com^|
 ||mekikb.com^|
@@ -19151,6 +19174,7 @@
 ||musikhaus-schneider.de^|
 ||musikhaus-schumacher.de^|
 ||musikhaus-vogel.de^|
+||musikinstrumente-profi.com^|
 ||musiknachhilfe.at^|
 ||musiknotenmarkt.com^|
 ||musikpowerboxing.com^|
@@ -20982,6 +21006,7 @@
 ||optimalskis.com^|
 ||optimary.club^|
 ||optimia.top^|
+||optimisticoffer.com^|
 ||optioncryptofx.com^|
 ||optiontrademasters.com^|
 ||optknivesmake.com^|
@@ -21833,6 +21858,7 @@
 ||pelletitaliano.it^|
 ||pelletor.at^|
 ||pellets-bei-wolf.com^|
+||pellets-maschinen.de^|
 ||pelletsgeschaft.com^|
 ||pellina.shop/^|
 ||peloft.shop^|
@@ -23019,6 +23045,7 @@
 ||purezonep.com^|
 ||purgable.top^|
 ||purisaki.com^|
+||purisakiofficial.com^|
 ||puritawa.com^|
 ||purku.top^|
 ||purouw.com^|
@@ -24410,6 +24437,7 @@
 ||rosewoo.com^|
 ||rosezo.com^|
 ||rosinstore.shop^|
+||rossignol.com.de^|
 ||rossignolskishop.com^|
 ||rossmann-partnership.shop^|
 ||rossmannoutlet.shop^|
@@ -25521,6 +25549,7 @@
 ||selectedtabsonline.com^|
 ||selectith.com^|
 ||selectro.ch^|
+||selegalsolutions.com^|
 ||seleod.com^|
 ||self-portrait.com.de^|
 ||selfridges-work.com^|
@@ -26374,6 +26403,7 @@
 ||ski-watersports.com^|
 ||skiartikelverkaufe.com^|
 ||skidepotvip.net^|
+||skield.de^|
 ||skiequipmentsneu.com^|
 ||skifahren-de.com^|
 ||skigearoff.com^|
@@ -27672,6 +27702,7 @@
 ||successorie.com^|
 ||successpain.com^|
 ||sucheskateboard.com^|
+||suchsnow.com^|
 ||suedaniels.shop^|
 ||suedstrandbonn.shop^|
 ||suedstrandbonn.shop/^|
@@ -28616,6 +28647,7 @@
 ||thegroundedtree.com^|
 ||thegypsybulldog.com^|
 ||thehalara.de^|
+||thehandtoolauto.com^|
 ||thehawkn.shop^|
 ||theheadtennis.com^|
 ||theheatpads.com^|
@@ -28921,6 +28953,7 @@
 ||timber-land.de^|
 ||timberland-osterreich.at^|
 ||timberland-schweiz.com^|
+||timberlandde.de^|
 ||timberlandosterreich.at^|
 ||timberlandösterreich.com^|
 ||timberlandshoesuae.com^|
@@ -29293,6 +29326,7 @@
 ||topsaleoutdoor.com^|
 ||topselloutlet.site^|
 ||topshopshq.xyz^|
+||topskiequipmentde.com^|
 ||topstoremart.xyz^|
 ||topstoreoffer.com^|
 ||topsurfsale.com^|
@@ -29741,6 +29775,7 @@
 ||trybal.net^|
 ||trycheahoney.site^|
 ||trychemlove.site^|
+||tryemsense.com^|
 ||tryfono.com^|
 ||tryglamory.de^|
 ||tryglycogenplus.com^|
@@ -31441,6 +31476,7 @@
 ||wandererscamp.com^|
 ||wandernbiwak.de^|
 ||wanderschuherabatt.de^|
+||wanderstiefeldeal.com^|
 ||wandlampen-shop.com^|
 ||wandlampeprada.de^|
 ||wandleuchtende.com^|
@@ -31729,6 +31765,7 @@
 ||wellott.com^|
 ||wellreplicas.to^|
 ||wellsbaby.shop^|
+||wellunora.com^|
 ||wellvest.pro^|
 ||wellwornca.com^|
 ||wellzy.de^|
@@ -31819,6 +31856,9 @@
 ||westickers.com^|
 ||westiels.de^|
 ||westlando.de^|
+||westmeier-partner.net^|
+||westmeier-rechtsanwaelte.com^|
+||westmeier-rechtsanwaelte.net^|
 ||westpointcourier.online^|
 ||westpopular.com^|
 ||westri.top^|
@@ -32860,6 +32900,7 @@
 ||zky356h.shop^|
 ||zlitefm.com^|
 ||zlitelight.com^|
+||zloae.shop^|
 ||zlyconline.shop/^|
 ||zlyconlinede.shop/^|
 ||zmazmitech.com^|
