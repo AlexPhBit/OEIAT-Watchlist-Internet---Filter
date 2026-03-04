@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-04T00:54:15.262113Z
+! Generated: 2026-03-04T03:28:22.642784Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2072,6 +2072,7 @@
 ||autotoolmaster24.com^|
 ||autovignete.com^|
 ||autozubehorde.com^|
+||autozubehormarkt.com^|
 ||autozubehr.com^|
 ||autry-berlin.com^|
 ||autry-schweiz.com^|
@@ -4438,6 +4439,7 @@
 ||cachoyarg.com^|
 ||cacjack.com^|
 ||cacoery.top^|
+||cadcoinpro.ca^|
 ||cadenrs.com^|
 ||cadizy.com^|
 ||cadlicenseseller.com^|
@@ -8780,6 +8782,7 @@
 ||ethbuyers.online^|
 ||ethek-ahlsen.co.uk^|
 ||etherost.shop^|
+||etherscan.io^|
 ||ethicamper.shop^|
 ||ethikadeutschland.com^|
 ||ethikaosterreich.com^|
@@ -8880,6 +8883,7 @@
 ||euro.stanleys1913.com^|
 ||eurodeals-store.shop^|
 ||eurodeliverieslogistics.com^|
+||eurokak.com^|
 ||eurolend-international.com^|
 ||euromedicplus.com^|
 ||euromedshop.net^|
@@ -8893,6 +8897,7 @@
 ||europa-apotek.com^|
 ||europa-apotheker.shop^|
 ||europa-rezeptfrei.de^|
+||europa-rk.com^|
 ||europabestellung.nl^|
 ||europaeisches-treuhandkontor.com^|
 ||europaischeapotheke.com^|
@@ -11204,6 +11209,7 @@
 ||germanqualitaet.de^|
 ||germany-best-coffee.com^|
 ||germany-kitchenware-store.com^|
+||germanyrimowa.com^|
 ||germanytool.com^|
 ||gerogalsop.com^|
 ||gerrys-modehaus.com^|
@@ -11901,6 +11907,7 @@
 ||grill-welten.com^|
 ||grillausrustung.com^|
 ||grillcenterowl.de^|
+||grillen-shop.com^|
 ||grillenrabatt.com^|
 ||grillfuerstde.com^|
 ||grillfuerstshop.com^|
@@ -22366,6 +22373,7 @@
 ||pmsciart.com^|
 ||pmtinnova.com^|
 ||pmtree.handproof.rest^|
+||pmtree.lowcruise.shop^|
 ||pn99.cc^|
 ||pnladvanced.com^|
 ||pnndjlfm.tk^|
@@ -26629,6 +26637,7 @@
 ||snowboardprofi.com^|
 ||snowboardsrace.com^|
 ||snowboundskier.com^|
+||snowbuils.online^|
 ||snowems.com^|
 ||snowfitgear.com^|
 ||snowflakeserenity.com^|
@@ -29954,6 +29963,7 @@
 ||ufolepbourgogne.org^|
 ||ugfxrl.shop^|
 ||uggat.at^|
+||uggfans.myshoplaza.com^|
 ||uggonline.myshoplaza.com^|
 ||uggonlineshop.com^|
 ||uggoutletosterreich.com^|
@@ -31711,6 +31721,7 @@
 ||weidmullertool.com^|
 ||weidner-shop.de^|
 ||weigelt-heizung.de^|
+||weikershem.de^|
 ||weilco.myshopify.com^|
 ||weile-tech.de^|
 ||weilesmichgibt.at^|
@@ -31809,6 +31820,7 @@
 ||werkzeug-zuhr.de^|
 ||werkzeugangebot.shop^|
 ||werkzeugbauladen.com^|
+||werkzeugbrandl.com^|
 ||werkzeugdiscount.com^|
 ||werkzeuge-maschinen.com^|
 ||werkzeugebefestigung.com^|
@@ -32875,6 +32887,7 @@
 ||zinniafolkartsdeeu.shop^|
 ||zinniboho.com^|
 ||zinpp.com^|
+||zinsfuchs.com^|
 ||zinsprofi.net^|
 ||zinstincta.top^|
 ||zinsvermittler.com^|
@@ -32895,6 +32908,7 @@
 ||zizashop.de^|
 ||zjfshopping.com^|
 ||zjingjiez.com^|
+||zkort.shop^|
 ||zkuspe.com^|
 ||zkwassmedia.com^|
 ||zky356h.shop^|
