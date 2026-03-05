@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-04T23:48:04.485644Z
+! Generated: 2026-03-05T01:01:58.377633Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -611,6 +611,7 @@
 ||airsalo.com^|
 ||airsguns.com^|
 ||airtechohair.de^|
+||airtickt.us^|
 ||airtooldepot.com^|
 ||airtoolsefficient.com^|
 ||airtoolsprofessional.com^|
@@ -921,6 +922,7 @@
 ||alpinex.at^|
 ||alpinmotorcy.com^|
 ||alpivogue.ch^|
+||alpstep.com^|
 ||alro-stahlbau.de^|
 ||alsara-online.de^|
 ||alsclearance.com^|
@@ -1656,6 +1658,7 @@
 ||asci-ipy.de^|
 ||ascreationdecor.com^|
 ||asculbertson.com^|
+||asd-rechtsanwaelte.de^|
 ||asdoriente.it^|
 ||asdvance.com^|
 ||asfemaqi.cyou^|
@@ -5287,6 +5290,7 @@
 ||ciunw.com^|
 ||civasan.ca^|
 ||civature.top^|
+||civey.at^|
 ||civicgreat.club^|
 ||civiletexas.com^|
 ||civiliank.com^|
@@ -10144,6 +10148,7 @@
 ||flybar.today^|
 ||flybolder.com^|
 ||flyfishing-sale.com^|
+||flyftravel.com^|
 ||flyhighshop.de^|
 ||flyingtigser.shop^|
 ||flylondonshoesus.com^|
@@ -16028,6 +16033,7 @@
 ||lamp-hotsale.com^|
 ||lampafford.com^|
 ||lampenbillig.com^|
+||lampenreich.com^|
 ||lampeplus.de^|
 ||lampespromo.com^|
 ||lampframburg.com^|
@@ -19601,6 +19607,7 @@
 ||netz-digitalisierung.com^|
 ||netzinfy.com^|
 ||netzteiledirekt.com^|
+||netzteileladen.de^|
 ||netzteilenotebook.com^|
 ||netzteilshop.net^|
 ||neu-fahrradrabatt.com^|
@@ -20038,6 +20045,7 @@
 ||norberteller-handel.de^|
 ||nordbag-hamburg.de^|
 ||norden-brennholz.com^|
+||nordheim-mode.de^|
 ||nordholzshop.de^|
 ||nordicauto-transport.com^|
 ||nordicci.de^|
@@ -23048,6 +23056,7 @@
 ||purelywhitedeluxe.com^|
 ||puremotionedge.com^|
 ||purenaturde.shop^|
+||purepharmas.co.uk^|
 ||pureprefer.com^|
 ||puresigns.shop/^|
 ||purezonep.com^|
@@ -29719,6 +29728,7 @@
 ||trk.vta-gmz.com^|
 ||trmaffiliate.cc^|
 ||troiphveilla.de^|
+||tronicaltune.net^|
 ||tronics-schlussverkauf.com^|
 ||tropical-rain-forest.net^|
 ||tropical-tides.com^|
@@ -30081,6 +30091,7 @@
 ||unimeal.com^|
 ||unimlyfor.com^|
 ||union-anhanger.com^|
+||unionglobalcredit.com^|
 ||unionmeds.com^|
 ||unionsmarket.group^|
 ||uniontrade.io^|
