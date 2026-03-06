@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-06T00:58:03.003918Z
+! Generated: 2026-03-06T03:32:03.948736Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -3249,6 +3249,7 @@
 ||bigward.top^|
 ||biharusi.com^|
 ||biifox-online.com^|
+||bijeenmooi.ch^|
 ||bijkit.top^|
 ||bikbokwien.at^|
 ||bike-blissful.com^|
@@ -9216,6 +9217,7 @@
 ||fahrradhandel-kramer.de^|
 ||fahrradhandel-krause.de^|
 ||fahrradhandel-richter.de^|
+||fahrradhandel-rothbart.de^|
 ||fahrradhandel-schmidt.com^|
 ||fahrradhandel-schulze.de^|
 ||fahrradhandel-seidel.de^|
@@ -16956,6 +16958,8 @@
 ||loonlineshopnorge.com^|
 ||loonlineshopslovenija.com^|
 ||loonlineshopsverige.com^|
+||loopearplugs.at^|
+||loopearplugsosterreich.com^|
 ||looseice.com^|
 ||loosekateboard.com^|
 ||looseknives.com^|
@@ -18416,7 +18420,6 @@
 ||mikasheizung.com^|
 ||mikesty.de^|
 ||mikewatch2.com^|
-||mikiscardshop.shop^|
 ||mikrofinanz.org^|
 ||mikroweland.com^|
 ||mikuninetwork.com^|
@@ -18529,6 +18532,7 @@
 ||mirostore24.de^|
 ||mirrorsunny.com^|
 ||mirry.xyz^|
+||misalena.com^|
 ||miscesure.top^|
 ||misciron.com^|
 ||misegxiu.com^|
@@ -20148,6 +20152,7 @@
 ||novant.fr^|
 ||novarixtrader.net^|
 ||novasabers.de^|
+||novator-consulting.com^|
 ||novatrustmarket.com^|
 ||novelbuys.com^|
 ||novele.de^|
@@ -21967,6 +21972,7 @@
 ||petdoghome.shop^|
 ||peteclune.com^|
 ||peterhobbies.shop^|
+||peterjeskouhren.de^|
 ||peterkaiserschuhe.de^|
 ||peters-insurance.de^|
 ||petershagen-hotel.de^|
@@ -22637,6 +22643,7 @@
 ||preisrausch24.de^|
 ||preisschlager-berlin.de^|
 ||preiswertoutdoor.com^|
+||prelox-guenstiger.de^|
 ||premershop.com^|
 ||premiercarry.com^|
 ||premiercopperus.com^|
@@ -23443,6 +23450,7 @@
 ||raphadeutschland.de^|
 ||raphaelide.com^|
 ||raphator.top^|
+||rapidboost.com^|
 ||rapidconv.com^|
 ||rapidmator.com^|
 ||rapidnetcouriers.com^|
@@ -25394,6 +25402,7 @@
 ||schultemode.de^|
 ||schultheissundroth.de^|
 ||schultz-autoreifen.shop^|
+||schultzebraun-anwaelte.de^|
 ||schulz-reifen.com^|
 ||schulze-rechtsanwaelte.com^|
 ||schulze-reifen.com^|
@@ -28005,6 +28014,7 @@
 ||swaddledesignsde.shop^|
 ||swapplaceca.com^|
 ||swarmgreat.club^|
+||swarovskiclub.myshoplaza.com^|
 ||swarovskioutlet.shop^|
 ||swarovskivip.shop^|
 ||swatchaustria.at^|
