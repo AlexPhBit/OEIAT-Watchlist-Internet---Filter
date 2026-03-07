@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-06T23:56:38.137944Z
+! Generated: 2026-03-07T02:39:03.984399Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1334,6 +1334,7 @@
 ||apeasblto.com^|
 ||apelt-handel.com^|
 ||apelt-handel.de^|
+||apelt-shop.de^|
 ||apexflora.com^|
 ||apexmaquinariaindustrial.com^|
 ||apexshekel.com^|
@@ -7979,6 +7980,7 @@
 ||ecoalfsale.at^|
 ||ecohabitsy.com^|
 ||ecoholz-gmbh.eu^|
+||ecohubfast.shop^|
 ||ecolestaubin.fr^|
 ||ecoloboiisdechauffage.com^|
 ||ecomiskij.shop^|
@@ -8015,6 +8017,7 @@
 ||edeka24de.com^|
 ||edelina.de^|
 ||edelitedrugs.com^|
+||edelkatzenzucht.com^|
 ||edelridstore.com^|
 ||edelweiss-mode.com^|
 ||edelynklein.de^|
@@ -11705,6 +11708,7 @@
 ||gomallhub.com^|
 ||gomecks.top^|
 ||gomehut.shop^|
+||gomel-24.de^|
 ||gometim.com^|
 ||gomez.at^|
 ||gomirno.myshopify.com^|
@@ -13607,6 +13611,7 @@
 ||hummels-berlin.com^|
 ||humule.xyz^|
 ||hundaidirectinsu.xyz^|
+||hundebedarfsale.com^|
 ||hundekka-de.com^|
 ||hundeladende.com^|
 ||hundeliebling.at^|
@@ -23394,7 +23399,6 @@
 ||rafso.tovy.shop^|
 ||ragandbone-deutschland.com^|
 ||ragandbonedeutschland.com^|
-||ragian.gr^|
 ||ragwear.com.de^|
 ||ragwearaustria.com^|
 ||ragwearoutlet.de^|
