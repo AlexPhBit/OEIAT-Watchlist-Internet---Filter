@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-08T23:55:25.572220Z
+! Generated: 2026-03-09T02:50:51.230875Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -6410,6 +6410,7 @@
 ||dasfurnilux.myshopify.com^|
 ||dashausderjuwelenosterreich.com^|
 ||dashdeals.de^|
+||dashlogic.com^|
 ||dashuepfenkomma.shop^|
 ||daskarnevalkostuem.de^|
 ||dasleselabor.com^|
