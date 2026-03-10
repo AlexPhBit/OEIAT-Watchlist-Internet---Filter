@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-10T00:00:33.874258Z
+! Generated: 2026-03-10T02:48:49.565061Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -961,6 +961,7 @@
 ||alturuszimx.com^|
 ||aluhsda.com^|
 ||aluproholz.shop^|
+||alurela.de^|
 ||alureva.de^|
 ||aluver.es^|
 ||alvaradoedmarie.com^|
@@ -977,7 +978,6 @@
 ||amandahtucker.com^|
 ||amantesaragon.com^|
 ||amarol-amj.com^|
-||amaruskincare.com^|
 ||amaxuan.com^|
 ||amaying.com^|
 ||amayores.es^|
@@ -1235,6 +1235,7 @@
 ||annafelixjuwelen.de^|
 ||annafieldwien.at^|
 ||annafmodern.com^|
+||annakatharina-wien.at^|
 ||annalenamair.com^|
 ||annamodehaus.ch^|
 ||annamodehaus.com^|
@@ -3250,7 +3251,6 @@
 ||bigward.top^|
 ||biharusi.com^|
 ||biifox-online.com^|
-||bijeenmooi.ch^|
 ||bijkit.top^|
 ||bikbokwien.at^|
 ||bike-blissful.com^|
@@ -4164,7 +4164,6 @@
 ||bs24wiss.shop^|
 ||bs2best.at^|
 ||Bs2site.at^|
-||bsc-madagascar.com^|
 ||bsconnexe.de^|
 ||bsdcko.com^|
 ||bseoyol.shop^|
@@ -4427,6 +4426,7 @@
 ||c-apotheke.de^|
 ||c-t-s-logistics.com^|
 ||c21watches.com^|
+||ca-agentur.de^|
 ||ca.carlottatortorella.com^|
 ||ca.lindseytennant.com^|
 ||caactioncoalition.org^|
@@ -4722,6 +4722,7 @@
 ||cartsaga.com^|
 ||carupgradezone.com^|
 ||carvanamarkt.com^|
+||carvina.com/^|
 ||carygift.com^|
 ||caryswimwear.shop^|
 ||casaclothing.de^|
@@ -4996,6 +4997,7 @@
 ||chapmbv.com^|
 ||chaps-herrenmode.de^|
 ||chapterfinish.com^|
+||chapterrest.store^|
 ||characterfulhome.com^|
 ||characterh.com^|
 ||characterl.com^|
@@ -5387,7 +5389,6 @@
 ||clearstream.fashion^|
 ||clearstream.xin^|
 ||cleatelite.shop^|
-||cleauraonline.com^|
 ||cleclesylvie.com^|
 ||clematore.shop^|
 ||clementrchrd.com^|
@@ -5401,6 +5402,7 @@
 ||click-zigaretten.com^|
 ||clickbuy-shop.com^|
 ||clickcarvey.com^|
+||clickcascadee.com^|
 ||clicklamp.com^|
 ||clickmugc.top^|
 ||clickrs.de^|
@@ -6344,6 +6346,7 @@
 ||damiol-tech.de^|
 ||dammerlicht.de^|
 ||dampfshishahub.com^|
+||damsonmadder.co.at^|
 ||dana-berlin.de^|
 ||danavalletta.com^|
 ||dancardi.de^|
@@ -6723,6 +6726,7 @@
 ||deguocmqlrs.com^|
 ||degussa-goldhandel.online^|
 ||degussa-goldhandell.com^|
+||degussa-onlineshop.de^|
 ||degussa.one^|
 ||deharaldsoldie.shop/^|
 ||dehaushalt-prada.com^|
@@ -7881,7 +7885,6 @@
 ||easybouteque.com^|
 ||easycosmtcs.com^|
 ||easycrypto4u.com^|
-||easydailysale.shop^|
 ||easyeveryca.com^|
 ||easyfiles.io^|
 ||easyfsala.com^|
@@ -8121,6 +8124,7 @@
 ||ehpartsde.shop^|
 ||ehreer.com^|
 ||ehrruhig.de^|
+||ehspelletsgmbh.de^|
 ||ehwsgh.shop^|
 ||eichholtzdeals.com^|
 ||eichler-reifenversand.com^|
@@ -8479,6 +8483,7 @@
 ||endgegner.at^|
 ||endiscordia.com^|
 ||endlesswintershop.shop^|
+||endlich-gesund.com^|
 ||endoflife.space^|
 ||endry.top^|
 ||endurance-mauritsch.at^|
@@ -9594,6 +9599,7 @@
 ||feldmanwam.com^|
 ||feleshajett.com^|
 ||felflame.com^|
+||felgenwelt.com^|
 ||feliceguglielmo.com^|
 ||feliciastlly.shop^|
 ||felicites-gbr.de^|
@@ -10005,6 +10011,7 @@
 ||fixtaxi.at^|
 ||fizik-eu.shop^|
 ||fizotrade.net^|
+||fizzclean.com.de^|
 ||Fi­noa.ag^|
 ||fj.backpack4u.shop^|
 ||fj.glmbn.shop^|
@@ -11000,6 +11007,7 @@
 ||gartenfreunde-murrhardt.de^|
 ||gartengenosse.de^|
 ||gartengreifer.de^|
+||gartenhausmodern.com^|
 ||gartenimfreienkauf.com^|
 ||gartenira.com^|
 ||gartenladende.com^|
@@ -11216,6 +11224,7 @@
 ||germangoodsonline.com^|
 ||germania-ce.de^|
 ||germanlifeparts.com^|
+||germanmanufaktur.de^|
 ||germanproduktshop.de^|
 ||germanqualitaet.de^|
 ||germany-best-coffee.com^|
@@ -11493,6 +11502,7 @@
 ||glas-gs.de^|
 ||glas-plus.at^|
 ||glaser-reifenhandel.com^|
+||glaserei.valyz.at^|
 ||glassbestsellers.com^|
 ||glassesde.com^|
 ||glassesify.com^|
@@ -12030,7 +12040,6 @@
 ||grunovo.com^|
 ||grunsamen.de^|
 ||gruntmuzicz.com^|
-||grupoguki.mx^|
 ||gruppenhaussauerland.com^|
 ||grxnhv.shop^|
 ||gs-eu.com^|
@@ -12734,6 +12743,7 @@
 ||heizungselement.com^|
 ||heizungselementshop.com^|
 ||heizungsinsel.de^|
+||heizungsolar.com^|
 ||heizungstechnik-online.de^|
 ||heizungstechworld.com^|
 ||heizungszubehoer.com^|
@@ -13063,6 +13073,7 @@
 ||hobibear.de^|
 ||hochbeckenleitern.com^|
 ||hochbeeteonlinestore.com^|
+||hochen-punkt.de^|
 ||hochgothe.de^|
 ||hochstein-musikhaus.de^|
 ||hochstift-garten.de^|
@@ -13149,7 +13160,6 @@
 ||holmesbrothersde.shop/^|
 ||holmric-spedition.com^|
 ||holycropsw.top^|
-||holyember.com^|
 ||holz-aluprofi.de^|
 ||holz-fleischhacker.com^|
 ||holz-lagerversand.de^|
@@ -13826,7 +13836,6 @@
 ||idolpanion.com^|
 ||idonotlikewait.top^|
 ||idpconseil.fr^|
-||idrc-crdi.ca^|
 ||ieceonstamps.com^|
 ||iedustars.com^|
 ||iefax.costswant.baby^|
@@ -14094,6 +14103,7 @@
 ||inoxia.at^|
 ||inputada.org^|
 ||ins.talentloompro-at.com^|
+||insanibadshop.com^|
 ||insecthi.com^|
 ||insecurty.top^|
 ||insektnotdienst.at^|
@@ -15707,6 +15717,7 @@
 ||komponentende.com^|
 ||konddymunchen.de^|
 ||kongrabatt.com^|
+||konigmode.de^|
 ||konigsmarkt-2.myshopify.com^|
 ||königswelpen.com^|
 ||konrad-mode.com^|
@@ -17358,7 +17369,6 @@
 ||lyfoiegras.com^|
 ||lyndafowler.space^|
 ||lyndsayblair.com^|
-||lynhot.shop^|
 ||lynnleaderbrand.com^|
 ||lynnret.shop^|
 ||lynnsnowmobile.online^|
@@ -18467,6 +18477,7 @@
 ||milreo.shop^|
 ||miltonas.com^|
 ||milwaukeeartefakt.de^|
+||milyenshop.com^|
 ||mimorkids.shop/^|
 ||minacj.com^|
 ||minarium.top^|
@@ -19006,6 +19017,7 @@
 ||motorrad70.com^|
 ||motorraderhelme.de^|
 ||motorraders.de^|
+||motorradoutfit.com^|
 ||motorradteileshop.com^|
 ||motorsensen-shop.com^|
 ||motousretail.com^|
@@ -21655,7 +21667,6 @@
 ||papenettug.com^|
 ||papercrushde.shop/^|
 ||papershredder-store.com^|
-||paperspast.natlib.govt.nz^|
 ||paperticketca.com^|
 ||papier-feder.com^|
 ||papoiya.shop^|
@@ -26166,6 +26177,7 @@
 ||shopsales.outletonline2024.com^|
 ||shopsandalen.com^|
 ||shopsasfinag.it.com^|
+||shopsavehub.com^|
 ||shopsbossclearan.de^|
 ||shopsbreast.com^|
 ||shopsenduro.com^|
@@ -26874,7 +26886,6 @@
 ||sosdta.com^|
 ||sotiriairene.com^|
 ||soufeel.de^|
-||souinfla.com.br^|
 ||soulobjecs.shop^|
 ||soundbarssaleshop.com^|
 ||soundcore.co.at^|
@@ -28311,7 +28322,6 @@
 ||tbbodega.com^|
 ||tbclacrosse.com^|
 ||tbdress.com^|
-||tblackfriday.com^|
 ||tbnlmv.shop^|
 ||tbtconcept.com^|
 ||tbyyf.com^|
@@ -29742,6 +29752,7 @@
 ||trixupmysleeve.com^|
 ||trk.vta-gmz.com^|
 ||trmaffiliate.cc^|
+||trocador.at^|
 ||troiphveilla.de^|
 ||tronicaltune.net^|
 ||tronics-schlussverkauf.com^|
@@ -30199,6 +30210,7 @@
 ||upsways.shop^|
 ||uptoaster.de^|
 ||upup.at^|
+||urameigpu.monster^|
 ||urban-assests.com^|
 ||urban-autoreifen.com^|
 ||urban-hits.de^|
@@ -31038,6 +31050,7 @@
 ||vincenzosantoriello.it^|
 ||vinemos.de^|
 ||vinero.at^|
+||vingeneral.com^|
 ||vinissage.de^|
 ||vinnciwear.com^|
 ||vinospezial.com^|
@@ -31519,6 +31532,7 @@
 ||wanduhru.de^|
 ||wangzze.top^|
 ||wanlibiggarig.com^|
+||wanlongxin1.com^|
 ||wannapeas.com^|
 ||wannounce.com^|
 ||wanparky.com^|
@@ -31585,6 +31599,7 @@
 ||wastedumpg.com^|
 ||wasuteo.com^|
 ||watch-fakes.to^|
+||watchcod-ca.shop^|
 ||watchcod-en.shop^|
 ||watchcod-mc.shop^|
 ||watchcod-nz.shop^|
@@ -32147,6 +32162,7 @@
 ||wohnideebilder.shop^|
 ||wohnish.de^|
 ||wohnkuchede.com^|
+||wohnlichtshop.com^|
 ||wohnliebe-berlin.de^|
 ||wohnreichde.shop/^|
 ||wohnungdirekt.at^|
@@ -32380,7 +32396,6 @@
 ||x-watches.co^|
 ||x1safetyde.shop^|
 ||x24customs.de^|
-||x4blackfriday.com^|
 ||xaiege.top^|
 ||xanthecooke.com^|
 ||xaperni.com^|
@@ -32801,6 +32816,7 @@
 ||zasmshop.top^|
 ||zatruesonline.de^|
 ||zaubelkid.com^|
+||zaubergartenpro.com^|
 ||zauchensee-altenmarkt.at^|
 ||zaumedic.com^|
 ||zava-valencia.com^|
