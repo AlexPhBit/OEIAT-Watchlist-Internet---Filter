@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-10T23:57:28.920728Z
+! Generated: 2026-03-11T02:45:05.880194Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2757,6 +2757,7 @@
 ||beercounterstore.com^|
 ||beerenernte.com^|
 ||beerschottierheim.de^|
+||beerspirit.de^|
 ||beessensations.com^|
 ||beestechi.com^|
 ||befast.abcsaved.rest^|
@@ -7030,6 +7031,7 @@
 ||deutsche-bit.de^|
 ||deutsche-group.org^|
 ||deutsche-wurst-manufaktur.com^|
+||deutschebapotheke.net^|
 ||deutschecapitals.com^|
 ||deutschechic.de^|
 ||deutschekredit-finanz.com^|
@@ -7858,6 +7860,7 @@
 ||eajoys.cf^|
 ||eajoys.top^|
 ||eaolopdep.com^|
+||earljourdier.com^|
 ||earlyfic.top^|
 ||earlynoon.com^|
 ||earlyrunca.com^|
@@ -11029,6 +11032,7 @@
 ||gartenrasen.com^|
 ||gartensale.com^|
 ||gartensbillig.com^|
+||gartenschoner.com^|
 ||gartenschranke.com^|
 ||gartensgeschaft.com^|
 ||gartenshop-marsmann.de^|
@@ -12980,6 +12984,7 @@
 ||hilfbereich.com^|
 ||hilfeexpress.com^|
 ||hilfenervenschmerzen.com^|
+||hilfewise.com^|
 ||hilfigerdeutschland.com^|
 ||hilfreich.co.at^|
 ||hilipert.com^|
@@ -17319,6 +17324,7 @@
 ||luxegemmy.com^|
 ||luxemall.link^|
 ||luxeparfum.co.uk^|
+||luxeron.de^|
 ||luxeshelf.com^|
 ||luxeshopcart.com^|
 ||luxesilkwear.com^|
@@ -17333,6 +17339,7 @@
 ||luxosmart.uk^|
 ||luxozza.com^|
 ||luxsofabezuege.com^|
+||luxurioserstil.com^|
 ||luxuriousdogtoy.store^|
 ||luxury-bnb.com^|
 ||luxury-vita.com^|
@@ -19113,6 +19120,7 @@
 ||mtbchainringssales.com^|
 ||mth14.at^|
 ||mtjarmart.shop^|
+||mto-service.com^|
 ||mtools-outlet.shop^|
 ||mtquality.com^|
 ||mtrekking.de^|
@@ -21860,6 +21868,7 @@
 ||pecunics.top^|
 ||pedalbliss.com^|
 ||pedaldynasty.com^|
+||pedale-onshop.com^|
 ||pedaleprada.com^|
 ||pedalesales.com^|
 ||pedalfreunde.de^|
@@ -22735,6 +22744,7 @@
 ||primamulch.at^|
 ||primaprofi-reinigung.at^|
 ||primary-structures.de^|
+||primarycarenw.com^|
 ||primaryearrings.com^|
 ||primatop.de^|
 ||primavo24.de^|
@@ -25086,6 +25096,7 @@
 ||sangastinly.com^|
 ||sangbit.com^|
 ||sanierungs-profi.at^|
+||sanitaerbox.com^|
 ||sanitaerfreude.com^|
 ||sanitär-installateur.at^|
 ||sanixade.shop/^|
@@ -29487,6 +29498,7 @@
 ||tpolexsink.com^|
 ||tproditt.com^|
 ||tps-handel.de^|
+||tpugilismf.lol^|
 ||tpxsia.com^|
 ||tqdjywjx.shop^|
 ||trabo-garten.de^|
@@ -30546,6 +30558,7 @@
 ||uvitacrd.com^|
 ||uvives.de^|
 ||uvultic.top^|
+||uwb-beratung.com^|
 ||uwdpfw.top^|
 ||uwe-richter.shop^|
 ||uwe-wedemeier.de^|
@@ -30776,6 +30789,7 @@
 ||velencia.de^|
 ||velhaven.net^|
 ||velinon-reifen.com^|
+||velionpartner.net^|
 ||vellamia.de^|
 ||vellera.de^|
 ||velmaspekingese.com^|
@@ -32162,6 +32176,7 @@
 ||wohnideebilder.shop^|
 ||wohnish.de^|
 ||wohnkuchede.com^|
+||wohnlichkeiterschaffen.com^|
 ||wohnlichtshop.com^|
 ||wohnliebe-berlin.de^|
 ||wohnreichde.shop/^|
