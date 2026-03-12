@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-11T23:57:49.769748Z
+! Generated: 2026-03-12T02:50:36.049532Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -102,6 +102,7 @@
 ||4803967.info^|
 ||4living.at^|
 ||4rxofficial.com^|
+||4u2ride.eu^|
 ||5-drugs.com^|
 ||50bikes.de^|
 ||52magicdownload.com^|
@@ -2290,6 +2291,7 @@
 ||badtion.top^|
 ||badzubehorbadmobel.com^|
 ||badzubehorrabatt.com^|
+||baer--schuhe.com^|
 ||baerliner-apotheke-berlin-marzahn.de^|
 ||baethefantasy.com^|
 ||baetz-malerei.de^|
@@ -8140,6 +8142,7 @@
 ||eikz.top^|
 ||eilmeldungs.com^|
 ||einayah.com^|
+||einfach-oel.com^|
 ||einfachelinklogistik.com^|
 ||einfaches-aufwarmen.com^|
 ||einfachknorke.de^|
@@ -11019,6 +11022,7 @@
 ||gartenly.shop^|
 ||gartenmaschinen24.de^|
 ||gartenmaschinenzubehor.com^|
+||gartenmoebelwelt.com^|
 ||gartenmotorgerate.com^|
 ||gartenobstshop.com^|
 ||gartenova.com^|
@@ -19853,6 +19857,7 @@
 ||nextcareerflow.online^|
 ||nextnee.com^|
 ||nextuntilca.com^|
+||nexus-reputation.com^|
 ||nexusgrafikkarte.com^|
 ||ney-ko.com^|
 ||neymad88.top^|
@@ -20268,6 +20273,7 @@
 ||nursingaccessoriesstore.com^|
 ||nursingsale.store^|
 ||nurssery.com^|
+||nurulamal.com^|
 ||nutboat.co.uk^|
 ||nutrimcaps.com^|
 ||nuttytoolpart.com^|
@@ -23476,7 +23482,6 @@
 ||raphadeutschland.de^|
 ||raphaelide.com^|
 ||raphator.top^|
-||rapidboost.com^|
 ||rapidconv.com^|
 ||rapidmator.com^|
 ||rapidnetcouriers.com^|
@@ -23728,6 +23733,7 @@
 ||reifen-decker.com^|
 ||reifen-digon.com^|
 ||reifen-dinamo.com^|
+||reifen-direkt24.com^|
 ||reifen-dontis.com^|
 ||reifen-dreyer.com^|
 ||reifen-engels.com^|
@@ -27538,6 +27544,7 @@
 ||storkxstore.com^|
 ||stornierenbei.de^|
 ||storoque.de^|
+||story-news.com^|
 ||storynchampion.com^|
 ||storyoon.top^|
 ||storysignca.com^|
@@ -30915,6 +30922,7 @@
 ||vertexoptiontrading.com^|
 ||verticaapps.world^|
 ||verticalinternational.com^|
+||vertigo-technik.com^|
 ||vertow.com^|
 ||vertrauenwin.de^|
 ||verttion.top^|
@@ -31472,6 +31480,7 @@
 ||waco-logistics.com^|
 ||wadada.online^|
 ||wadriha.shop^|
+||waermewald.de^|
 ||waffeleisende.com^|
 ||waffen-outdoor.com^|
 ||waffenundjagdwelt.com^|
