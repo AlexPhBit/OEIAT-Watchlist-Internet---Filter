@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-13T00:54:39.229126Z
+! Generated: 2026-03-13T03:31:19.195009Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -809,6 +809,7 @@
 ||alles-rezeptfrei.de^|
 ||allesanhanger.com^|
 ||allesbois.de^|
+||allesfuerdengarten.com^|
 ||allesfur-baby.com^|
 ||allesheizung.de^|
 ||allesnettokredit.com^|
@@ -1581,6 +1582,7 @@
 ||armoniabeb.it^|
 ||armourlogistik.com^|
 ||armourygear.com^|
+||arms-mall.com^|
 ||armstore.one^|
 ||armstres.com^|
 ||armxn.com^|
@@ -3611,6 +3613,7 @@
 ||blemie-germany.com^|
 ||blibean.com^|
 ||blickpunkt24.at^|
+||blikeuhij.click^|
 ||bling-furnitures.com^|
 ||blingmeupbuttercup.co.uk^|
 ||blinkearad.com^|
@@ -5533,6 +5536,7 @@
 ||cnamdee.com^|
 ||cnardeban.com^|
 ||cnbiochemicals.com^|
+||cnderthuk.club^|
 ||cnfashion.org^|
 ||cnikgarden.com^|
 ||co-bot.ltd^|
@@ -7041,6 +7045,7 @@
 ||deutscher-link.com^|
 ||deutschersammlerschatz.com^|
 ||deutsches-gut.de/^|
+||deutschesbrennholz.de^|
 ||deutscheschonheit.de^|
 ||deutschgeschenkfest.com^|
 ||deutschla.de^|
@@ -10117,6 +10122,7 @@
 ||fliptfeets.net^|
 ||flistore.com^|
 ||flitlogistics.com^|
+||flixyshop.com^|
 ||flletsa.com^|
 ||flnanzonline.at/finanz/6890bbffac4a5^|
 ||floange.com^|
@@ -10161,6 +10167,7 @@
 ||fluidfrerides.shop^|
 ||flurdieleart.com^|
 ||flutterone.cz^|
+||fluxoil.de^|
 ||flwoertime.de^|
 ||fly-ec135.de^|
 ||fly6amig2.skin^|
@@ -12321,6 +12328,7 @@
 ||handlebarprada.com^|
 ||handmadebyanni.shop^|
 ||handmadedsjk.cc^|
+||handmadeelse.cc^|
 ||handmadepros.cc^|
 ||handmadesho.cc^|
 ||handmadestoe.cc^|
@@ -12722,6 +12730,7 @@
 ||heizoel-station.com^|
 ||heizoel-zentrale.de^|
 ||heizoel24-preise.com^|
+||heizoeldeal.de^|
 ||heizoeldirekt.com^|
 ||heizoelhanse.com^|
 ||heizoelix.de^|
@@ -12729,6 +12738,7 @@
 ||heizoelkraft.de^|
 ||heizoelkurier.de^|
 ||heizoelmeister.de^|
+||heizoelrabatt.de^|
 ||heizoelservice-bp.de^|
 ||heizoelsolutions.com^|
 ||heizoelteam.de^|
@@ -12904,6 +12914,7 @@
 ||heuser-garderobe.de^|
 ||heveganl.com^|
 ||hexagonresources.org^|
+||hexoil.de^|
 ||heydearde.shop/^|
 ||heydude-schuhe.de^|
 ||heydude-spain.com^|
@@ -13016,6 +13027,7 @@
 ||hirsefeltshop.com^|
 ||hisensepower.shop^|
 ||hispanitasdeutschland.de^|
+||historica-collect.com^|
 ||historischesbauen.de^|
 ||hitchoaral.com^|
 ||hitecschuhe.com^|
@@ -13487,6 +13499,7 @@
 ||hotyintu.com^|
 ||hounony.com^|
 ||house-book.eu^|
+||houseandhomeco.com^|
 ||housebuymorex.com^|
 ||housebuytoy.com^|
 ||housecleaningsale.com^|
@@ -13912,6 +13925,7 @@
 ||ilmap.overcat.rest^|
 ||ilnmy.top^|
 ||ilopax.com^|
+||ilovejctuv.click^|
 ||ilovephp.top^|
 ||ilsedenbroeder.com^|
 ||ilsejacobsendeutschland.de^|
@@ -16240,6 +16254,7 @@
 ||lauterkreatives.shop^|
 ||lauweichenshop.shop^|
 ||lauzetbois.com^|
+||lavacucina.com^|
 ||lavendersshop.com^|
 ||lavenie.co.uk^|
 ||lavera-zurich.com^|
@@ -16511,6 +16526,7 @@
 ||leukold.de^|
 ||leuxthetics.com^|
 ||levabing.com^|
+||levanto-mode.de^|
 ||levelably.top^|
 ||leveledupinstitute.com^|
 ||levelupyourcityvb.at^|
@@ -18308,6 +18324,7 @@
 ||mertens-reifen.com^|
 ||mertens-reifenhandel.shop^|
 ||meruty.com^|
+||merveillesdhiver.com^|
 ||mesa-estate.eu^|
 ||mesdouryass.com^|
 ||meseither.top^|
@@ -19852,6 +19869,7 @@
 ||nexeashop.com^|
 ||nexet.xyz^|
 ||nexity-assets.com^|
+||nexoil.de^|
 ||nexorazen.com^|
 ||next-bricks.com^|
 ||nextcareerflow.online^|
@@ -20092,6 +20110,7 @@
 ||nordikb.com^|
 ||nordischesdesign.com^|
 ||nordjarl.shop^|
+||nordoil.de^|
 ||nordoutlets.com^|
 ||nordperlen-verchen.de^|
 ||nordrtom.com^|
@@ -20234,6 +20253,7 @@
 ||nsp-enterprises.com^|
 ||nsp-ie.com^|
 ||nsrarlou.shop^|
+||nss.gevestor.de^|
 ||ntbdiffusion.com^|
 ||ntccmw.top^|
 ||nte-logistics.com^|
@@ -20598,11 +20618,13 @@
 ||oilandode.shop/^|
 ||oilbold.com^|
 ||oileous.xyz^|
+||oilexa.de^|
 ||oilprofit.io^|
 ||oils-natural.cc^|
 ||oils-natural.eu^|
 ||oilseller.shop^|
 ||oilsmsem.com^|
+||oiltrex.de^|
 ||oilwed.bookfocus.surf^|
 ||oinepukin.com^|
 ||oinpress.com^|
@@ -22032,6 +22054,9 @@
 ||petras-nevas.de^|
 ||petrelevantstore.com^|
 ||petrichorra.com^|
+||petrixa.de^|
+||petrovia.de^|
+||petroya.de^|
 ||petsadaptable.com^|
 ||petsbrave.com^|
 ||petshippingltd.com^|
@@ -25055,6 +25080,7 @@
 ||samijnassar.com^|
 ||samilla.de^|
 ||samixpart.com^|
+||sammelkunst.com^|
 ||sammlerliebe.com^|
 ||samoon.com.tw^|
 ||samsoe-outlet.shop^|
@@ -28866,6 +28892,7 @@
 ||thetoyslane.com^|
 ||theumbro.com^|
 ||theunionprojede.shop^|
+||theuniquebargains.com^|
 ||theunrealoffersforyou.com^|
 ||theusbicycle.com^|
 ||theusoutdoor.com^|
@@ -29112,6 +29139,8 @@
 ||tobgruen.de^|
 ||tobias-wiegand.de^|
 ||tobiasliegl.de^|
+||tobioshop.com^|
+||tobioshop.de^|
 ||tobyimada.com^|
 ||tocart.shop^|
 ||toceanswide.com^|
@@ -29360,6 +29389,7 @@
 ||toplook.cz^|
 ||topmarkendeutschland.com^|
 ||topmarkets.cc^|
+||topmedicalaestheticsde.com^|
 ||topmedstore.de^|
 ||topmodeltoys.com^|
 ||topmotorcycleparts.com^|
@@ -30805,6 +30835,7 @@
 ||velodirectstore.de^|
 ||velora-mode.de^|
 ||velorin.de^|
+||veloroil.de^|
 ||velorria.com^|
 ||veloura.at^|
 ||veloush.de^|
@@ -32301,6 +32332,7 @@
 ||world-trendy.com^|
 ||worldcompanyregister.org^|
 ||worldfastcourier.site^|
+||worldfinanz-gruppe.com^|
 ||worldkite.org^|
 ||worldlinksala.com^|
 ||worldmbfurniture.com^|
@@ -32895,6 +32927,7 @@
 ||zenspacetrade.com^|
 ||zentempel.com^|
 ||zentiv.de^|
+||zentoil.de^|
 ||zentraleapo.de^|
 ||zentralorgan.at^|
 ||zenvada.de^|
