@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-14T00:54:38.105698Z
+! Generated: 2026-03-14T03:29:42.624578Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1072,6 +1072,7 @@
 ||amsamazon.cz^|
 ||amscrypto.com^|
 ||amsere.de^|
+||amsterdamout.store^|
 ||amstokens.io^|
 ||amstovicek.com^|
 ||amswallet.cz^|
@@ -1993,6 +1994,7 @@
 ||autoglobalshipping.com^|
 ||autohausbismuth.de^|
 ||autohobby.at^|
+||autoinnendesign.com^|
 ||autoled.tech^|
 ||automaticl.com^|
 ||automatische-dividende.de^|
@@ -8140,7 +8142,6 @@
 ||eichler-reifenversand.com^|
 ||eichner-haushalt.com^|
 ||eigenheimmagazin.de^|
-||eigensinnig-wien.shop^|
 ||eighteen-wheeler.de^|
 ||eighteyesmedia.co.uk^|
 ||eightreasons.at^|
@@ -11032,6 +11033,7 @@
 ||gartenmoebelwelt.com^|
 ||gartenmotorgerate.com^|
 ||gartenobstshop.com^|
+||gartenort.de^|
 ||gartenova.com^|
 ||gartenpalast.net^|
 ||gartenpflanzende.com^|
@@ -14550,6 +14552,7 @@
 ||jclaysocken.com^|
 ||jcounzela.com^|
 ||jcpenneyinusa.net^|
+||jdbanli.com^|
 ||jdfimportexportgmbh.de^|
 ||jdflmportexport.de^|
 ||jdsports-eu.com^|
@@ -19244,6 +19247,7 @@
 ||musikpowerboxing.com^|
 ||musikstrings.com^|
 ||musikwelt-lindner.de^|
+||musiqueonline.com^|
 ||musk.actws.best^|
 ||muskelkatze-berlin.de^|
 ||musleag.com^|
@@ -19377,6 +19381,7 @@
 ||myshania.de^|
 ||myskins.co^|
 ||mysodastream.shop^|
+||myspirituosen.com^|
 ||mysportpower.com^|
 ||myspyally.com^|
 ||mysterygift365.top^|
