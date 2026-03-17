@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-17T00:57:51.793815Z
+! Generated: 2026-03-17T03:39:53.748066Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -147,6 +147,7 @@
 ||aantonerik.com^|
 ||aareallp.com^|
 ||aaronallen.top^|
+||aatrailers.de^|
 ||aaugustbio.com^|
 ||aavqb.com^|
 ||ab-group.info^|
@@ -389,6 +390,7 @@
 ||adl.lreubk.shop^|
 ||adl.okhxm.shop^|
 ||adl.wiksh.shop^|
+||adlermodehaus.de^|
 ||adllwyj67.wuhlzk.shop^|
 ||admiralbrokerz.com^|
 ||admireactor.net^|
@@ -1961,6 +1963,7 @@
 ||austria-partner.co.at^|
 ||austria.aerztliche-empfehlung.info^|
 ||austria.gluconol-capsules.com^|
+||austria.ntyavidpre.shop^|
 ||austriaco.website^|
 ||austriadhl.homes/at^|
 ||austriafinanzhaus.com^|
@@ -2451,6 +2454,7 @@
 ||bargainplanet.de^|
 ||bargnee.com^|
 ||barical.top^|
+||baristadiscount.com^|
 ||barkershoes-uk.com^|
 ||barkeruk.com^|
 ||barki-shop.de^|
@@ -2624,6 +2628,7 @@
 ||bba-shopify.com^|
 ||bbaew.zookohio.com^|
 ||bbazi.mebbx.com^|
+||bbbtc.cloud^|
 ||bbcolors.it^|
 ||bbertywk.top^|
 ||bbfptgme.com^|
@@ -2737,6 +2742,7 @@
 ||bedexclusive.com^|
 ||bedfrugal.com^|
 ||bedgoodsmulti.com^|
+||bedienungsanleitu.ng^|
 ||beditude.top^|
 ||bedpromotion.com^|
 ||bedrocksandals.at^|
@@ -3215,6 +3221,7 @@
 ||bicyclecleaner-official.com^|
 ||bicycledamsperde.com^|
 ||bicyclediscount.store^|
+||bicyclegodshop.com^|
 ||bicyclegoodstuff.com^|
 ||bicyclehandlebarde.com^|
 ||bicyclehub-off.com^|
@@ -3886,6 +3893,7 @@
 ||bowpity.com^|
 ||bowtech-impuls.de^|
 ||bowtielatest.com^|
+||box4container.com^|
 ||boxcomedy.com^|
 ||boxed-memories.us^|
 ||boxenkorbe.de^|
@@ -4014,6 +4022,7 @@
 ||brennholzdirekt.com^|
 ||brennholzdoeg.com^|
 ||brennholzfolgner.com^|
+||brennholzhandelnhn.com^|
 ||brennholzkaufende.shop^|
 ||brennholzkiefer.com^|
 ||brennholzmeister.de^|
@@ -5655,6 +5664,7 @@
 ||columbiadeutschland.com^|
 ||columbiaoutletonline.com^|
 ||columbias.com.de^|
+||columbiasale.de^|
 ||columbiashopdeutschland.de^|
 ||columsportsfactory.de^|
 ||columsportswearusa.com^|
@@ -6158,6 +6168,7 @@
 ||cubedarts.shop^|
 ||cubeer.club^|
 ||cubefestival.it^|
+||cubeosterreich.at^|
 ||cubeu.de^|
 ||cubiccredit.com^|
 ||cubseries.top^|
@@ -7160,6 +7171,7 @@
 ||diepholz-versand.shop^|
 ||dieschwarzwalderkuche.com^|
 ||diesel-osterreich.com^|
+||diesel-outlet.de^|
 ||diesel.co.at^|
 ||diesellerie.shop^|
 ||dieselleriede.shop/^|
@@ -9670,6 +9682,7 @@
 ||ferienwohnung-gudow.de^|
 ||ferlagimo.com^|
 ||ferlinwaffen.com^|
+||fermil.shop/^|
 ||fernandomayor.com^|
 ||fernbedienung-schalter.de^|
 ||ferne-schied.de^|
@@ -11188,6 +11201,7 @@
 ||genteflowz.com^|
 ||gentency.top^|
 ||gentglam.com^|
+||gentlecycle.net^|
 ||gentlemangarderobe.com^|
 ||gentlemanmode.de^|
 ||gentlemany.com^|
@@ -11850,8 +11864,10 @@
 ||graciousk.com^|
 ||gradine.top^|
 ||graefde.com^|
+||graf-collegen.com^|
 ||grafosignsv.com^|
 ||granadabelekhotel.com^|
+||granderioam.com^|
 ||grandeurlogistic.forwarder-ltd.com^|
 ||grandformca.com^|
 ||grandiancia.com^|
@@ -12335,6 +12351,7 @@
 ||handmadesho.cc^|
 ||handmadestoe.cc^|
 ||handmadestoree.cc^|
+||handmadesure.cc^|
 ||handpickdecoration.com^|
 ||handpickgeneralstore.com^|
 ||handpickhome.com^|
@@ -13200,6 +13217,7 @@
 ||holzelite.de^|
 ||holzerneblocke.com^|
 ||holzflicken.at^|
+||holzhambach.com^|
 ||holzhandelhensel.com^|
 ||holzlagermarket.com^|
 ||holzlangbau.de^|
@@ -14426,6 +14444,7 @@
 ||ittanas.com^|
 ||itudinfy.top^|
 ||itufhzmgk.bhpcredo.pl^|
+||iuwaqlbm.shop^|
 ||iuzero.com^|
 ||ivankafurnituro.shop^|
 ||ivannd.com^|
@@ -14556,6 +14575,7 @@
 ||jdfimportexportgmbh.de^|
 ||jdflmportexport.de^|
 ||jdsports-eu.com^|
+||jdsportsoutlet.de^|
 ||jdsportwearz.com^|
 ||je-decouvre.fr^|
 ||jeanmanthorne.com^|
@@ -15029,6 +15049,7 @@
 ||kanistyleshop.com^|
 ||kaniteo.com^|
 ||kankenbageu.com^|
+||kantar.tv^|
 ||kantescharf.com^|
 ||kantonalfinanz.net^|
 ||kantonvest.com^|
@@ -15765,6 +15786,7 @@
 ||kopticschool.de^|
 ||korase.de^|
 ||korda-fishing.com^|
+||kortova.com^|
 ||kortsdam.de^|
 ||korummainlinebait.com^|
 ||koscielnya.com^|
@@ -15842,6 +15864,7 @@
 ||krobboshop.de^|
 ||kronbergwien.at^|
 ||kronenstil.de^|
+||kronwald-mode.de^|
 ||kroupyshop.net^|
 ||krs-musik.de^|
 ||krsmusik.de^|
@@ -16128,6 +16151,7 @@
 ||langston-motorsporde.shop^|
 ||lanka-money-transfer.de^|
 ||lankagrandtours.com^|
+||lankis-welt.com^|
 ||lansucapital.com^|
 ||lantana-handel.com^|
 ||lantana-handel.de^|
@@ -16497,6 +16521,7 @@
 ||lesandalouses.com^|
 ||lesboost.shop^|
 ||lesburst.shop^|
+||lescocosecolos.com^|
 ||lesculturelles.com^|
 ||leselounge-berlin.de^|
 ||leserkreis.shop/^|
@@ -16950,6 +16975,7 @@
 ||loerce.com^|
 ||loevass.com^|
 ||loewe-vom-sauerland.de^|
+||loewedeutschland.de^|
 ||lofboutique.lilshydasia.com^|
 ||loftboutique.de^|
 ||log-inter.com^|
@@ -18600,6 +18626,7 @@
 ||misstarry.com^|
 ||misterlamp.de^|
 ||misterwatches.com^|
+||misterwatches.store^|
 ||mistyantoon.shop^|
 ||miswimbest.com^|
 ||mit-mut.at^|
@@ -18667,6 +18694,7 @@
 ||mml-container.de^|
 ||mmontagnet.com^|
 ||mmoyoprop.com^|
+||mmtaccessibility.com^|
 ||mmwggm.top^|
 ||mmydcnz.com^|
 ||mmzdunich.com^|
@@ -18736,6 +18764,7 @@
 ||modea.ch^|
 ||modeackermann.de^|
 ||modeatelier-weber.de^|
+||modeausaugsburg.com^|
 ||modebaldessarini.de^|
 ||modebasket.com^|
 ||modeberger.com^|
@@ -18759,8 +18788,12 @@
 ||modehaus-reuter.com^|
 ||modehaus-valentin.de^|
 ||modehaus-wagner.de^|
+||modehausbrandt.com^|
 ||modehausessen.de^|
+||modehausfischer.com^|
+||modehausgruber.com^|
 ||modehausmunchen.com^|
+||modehausravensburg.com^|
 ||modehauswieser.myshopify.com^|
 ||modeheimverkauf.com^|
 ||modeis24.shop^|
@@ -18926,6 +18959,7 @@
 ||montanahudson.com^|
 ||montanawest-usa.com^|
 ||montaneoutdoor.com^|
+||montblancsale.de^|
 ||monte-verde.ch^|
 ||montecaustria.com^|
 ||montecdeutschland.com^|
@@ -19312,6 +19346,7 @@
 ||mychoicesq.com^|
 ||myclothesera.com^|
 ||myclubwell.store^|
+||mycomfortattire.com^|
 ||mycupofteababyde.shop^|
 ||mydailys.de^|
 ||mydepartmentstore.shop^|
@@ -20069,6 +20104,7 @@
 ||nocety.top^|
 ||noclegipolanczyk.pl^|
 ||noemimartinezfont.com^|
+||noerr-mbb.de^|
 ||nofaithstudios.com^|
 ||nofs-fr.com^|
 ||nofsclothing.de^|
@@ -23123,6 +23159,7 @@
 ||pureglowde.com^|
 ||purekicks.de^|
 ||pureleide.shop/^|
+||purelynutrient.com^|
 ||purelywhitedeluxe.com^|
 ||puremotionedge.com^|
 ||purenaturde.shop^|
@@ -23714,6 +23751,7 @@
 ||reeboknanonz.com^|
 ||reebokosterreich.at^|
 ||reebokosterreichoutlet.com^|
+||reebokoutlet.de^|
 ||reef-deutschland.com^|
 ||reelmasterde.com^|
 ||reepner.com^|
@@ -25233,6 +25271,7 @@
 ||savesilomart.com^|
 ||savesprintmart.com^|
 ||savesshop.com^|
+||savetheduckde.com^|
 ||savewharf.com^|
 ||savingstsunami.com^|
 ||savnkjjjvh.com^|
@@ -25490,6 +25529,7 @@
 ||schwarzjutta.com^|
 ||schwarzmarktwaffenhandler.de^|
 ||schwarzrunen.de^|
+||schwarzseide.myshopify.com^|
 ||schweden-hus.at^|
 ||schwedenwanderung.de^|
 ||schweissplattenzubehoerde.shop/^|
@@ -26151,6 +26191,7 @@
 ||shoplivinghome.com^|
 ||shoplizee.com^|
 ||shoplostfounde.shop^|
+||shopluuma.de^|
 ||shopluxex.com^|
 ||shoplysticx.com^|
 ||shoplyt.store^|
@@ -26391,6 +26432,7 @@
 ||singaporemerrell.com^|
 ||singatwork.de^|
 ||singer-autoreifen.com^|
+||singlespeedde.com^|
 ||singor.org^|
 ||singpro-shopify-com.myshopify.com^|
 ||sinleycollection.store^|
@@ -26786,6 +26828,7 @@
 ||solaceous.top^|
 ||solamyc.com^|
 ||solandis.com^|
+||solanix.de^|
 ||solanzo.de^|
 ||solar-claussen.de^|
 ||solar-ecke.com^|
@@ -29392,6 +29435,7 @@
 ||toplinkcouriers.com^|
 ||toplomarketxsh.com^|
 ||toplook.cz^|
+||topmachinestore.com^|
 ||topmarkendeutschland.com^|
 ||topmarkets.cc^|
 ||topmedicalaestheticsde.com^|
@@ -30846,6 +30890,7 @@
 ||veloush.de^|
 ||veloznegrinyanet.com^|
 ||veltriscapital.com^|
+||veltronglobal.com^|
 ||velvetparfumde.com^|
 ||velvezev.ru^|
 ||vemoso-shop.de^|
@@ -31060,6 +31105,7 @@
 ||vienna-modehaus.at^|
 ||viennaapartments.org^|
 ||viennaaustrohotel.com^|
+||viennadecor.online^|
 ||viennameerschaum.com^|
 ||viennamodehaus.at^|
 ||viennareps.com^|
@@ -31359,6 +31405,7 @@
 ||volcomsale.shop^|
 ||volcomskiwear.com^|
 ||volcomwien.at^|
+||voldeva.de^|
 ||volenza.de^|
 ||volerio.de^|
 ||volex.io^|
@@ -32404,6 +32451,7 @@
 ||wtidesign.com^|
 ||wtopitza.top^|
 ||wuenschdirwasshop.shop/^|
+||wuffy.nl^|
 ||wuffyhunde.de^|
 ||wufundmiau.de^|
 ||wufyde.shop/^|
@@ -32745,6 +32793,7 @@
 ||yourgiftshopping.com^|
 ||yourkoretrak.com^|
 ||yourmre.com^|
+||yournaturalathlettrading.shop^|
 ||youroperfectwedding.com^|
 ||yourpureness.shop^|
 ||yoursafeinvestment.com^|
