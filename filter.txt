@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-17T23:51:40.580771Z
+! Generated: 2026-03-18T02:50:53.559995Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -724,6 +724,7 @@
 ||alexxcarmona.com^|
 ||alfa-nordex.at^|
 ||alfagen.info^|
+||alfakherstore.de^|
 ||alfcasino1.com/de/^|
 ||alfdever.com^|
 ||alfinanz.ch^|
@@ -1448,6 +1449,7 @@
 ||appliancewe.com^|
 ||applovntop.com^|
 ||appnebula.co/natal-chart^|
+||appolvintop.click^|
 ||appreciatil.com^|
 ||approshop.com^|
 ||approvaln.com^|
@@ -5202,6 +5204,7 @@
 ||chilllady.com^|
 ||chillup.at^|
 ||china-hifi-audio.com^|
+||chippewa--boots.com^|
 ||chipworley.com^|
 ||chirpydeals.com^|
 ||chittababy.com^|
@@ -5264,6 +5267,7 @@
 ||ciacrleurnt.com^|
 ||cialis-online20mg.online^|
 ||cialispillsforsale-onlinerx.com^|
+||cibomatt.com^|
 ||cicilookshop.com^|
 ||cicinia.de^|
 ||cicktbade.net^|
@@ -10530,6 +10534,7 @@
 ||frischundklar.de^|
 ||friseur-schuberts.de^|
 ||friseuradam.at^|
+||fritz-container-gmbh.de^|
 ||fritzboxtech.shop^|
 ||fritzboxzone.de^|
 ||fritzifrischde.shop/^|
@@ -11987,6 +11992,7 @@
 ||grivetyde.shop/^|
 ||grivss.com^|
 ||grizzlyroids.shop^|
+||grkwork.com^|
 ||grobbak.com^|
 ||grobenextapro.com^|
 ||grobenextapro.org^|
@@ -15151,6 +15157,7 @@
 ||kaufbrennholz.de^|
 ||kaufdefahrrad.com^|
 ||kaufen-rezeptfrei.de^|
+||kaufen-vignette.shop^|
 ||kaufen-virium.com^|
 ||kaufenbrennholz.com^|
 ||kaufenchiaraferragni.com^|
@@ -17872,7 +17879,6 @@
 ||mashilt.com^|
 ||masonlinda.com^|
 ||masoponline.site^|
-||masori.shop^|
 ||massen.shop^|
 ||masseybedding.shop^|
 ||massimo-dutti.at^|
@@ -18872,6 +18878,7 @@
 ||modulerdekor.com^|
 ||modwayhomeitem.com^|
 ||moebel-olimp.de^|
+||moebelcenterremscheid.de^|
 ||moebeldiscount24.com^|
 ||moebelonline24.com^|
 ||moebelpunkt.com^|
@@ -20211,6 +20218,7 @@
 ||notebooknetzteileshop.de^|
 ||notebooksstoresales.com^|
 ||notemodify.com^|
+||notenglanz.com^|
 ||notenweltde.com^|
 ||notfall-herzinfarkt.de^|
 ||notfall-installateur.at^|
@@ -24312,6 +24320,7 @@
 ||rinascente-work.com^|
 ||rineplex.com^|
 ||rinkieker.de^|
+||rinstudio.de^|
 ||riokapital.com^|
 ||riokapital.eu^|
 ||riosale.online^|
@@ -24492,6 +24501,7 @@
 ||rollerbladeskate.com^|
 ||rollerklub-wieselburg.at^|
 ||rollerskatesonsale.com^|
+||rollladenjalousie.com^|
 ||rollsportshop.com^|
 ||rolly-energie.at^|
 ||rolytradeoptions.com/^|
@@ -27101,6 +27111,7 @@
 ||spielzeugschmie.com^|
 ||spielzeugsde.com^|
 ||spielzeugsport.com^|
+||spikonig.de^|
 ||spilavizer.com^|
 ||spillagei.com^|
 ||spimbey.com^|
@@ -31701,6 +31712,7 @@
 ||wasserpumpede.de^|
 ||wassersheriff.at^|
 ||wassersportwert.com^|
+||wasserwelpen.de^|
 ||wassono.myshopify.com^|
 ||wastedumpg.com^|
 ||wasuteo.com^|
@@ -32030,6 +32042,7 @@
 ||weyel-design.de^|
 ||weyfreight.com^|
 ||wf-schenning.de^|
+||wfh-markt.de^|
 ||wfhsale.com^|
 ||wggkr.com^|
 ||wgl-europetransport.com^|
