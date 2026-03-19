@@ -1,5 +1,5 @@
 ! ÖIAT Watchlist Internet - AdGuard Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-18T23:59:14.395555Z
+! Generated: 2026-03-19T03:16:59.304668Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -923,6 +923,7 @@
 ||alpineskiequipment.com^|
 ||alpinesneakers.de^|
 ||alpinestarsde.com^|
+||alpinestil.at^|
 ||alpinex-outdoor.de^|
 ||alpinex.at^|
 ||alpinmotorcy.com^|
@@ -2218,7 +2219,6 @@
 ||baar-gaming.store^|
 ||babara-mode.com^|
 ||babaroni.de^|
-||babaschmuck.de^|
 ||bablleny.com^|
 ||baby-apparel.store^|
 ||baby-rostock.com^|
@@ -4009,6 +4009,7 @@
 ||bremenzeig.com^|
 ||bremer-boutique.de^|
 ||bremer-reifen.com^|
+||bremets.lol^|
 ||bremsen-onshop.com^|
 ||bremsenonshop.com^|
 ||bremsscheibende.com^|
@@ -4162,6 +4163,7 @@
 ||brs-biogas.at^|
 ||brtechi.com^|
 ||brucebaby.shop^|
+||bruhnn.de^|
 ||bruland.store^|
 ||brunateschuhewerksverkauf.de^|
 ||brundino.de^|
@@ -6320,6 +6322,7 @@
 ||dach-hauser.at^|
 ||dach-regin.de^|
 ||dachdecker-otto.de^|
+||dachlust.com^|
 ||dachprode.shop/^|
 ||dachtraegeronline.com^|
 ||dachvr.okologischrlw.cyou^|
@@ -15588,6 +15591,7 @@
 ||klaudora.com^|
 ||klaus-autoreifen.com^|
 ||klaus-ziegert.de^|
+||klausalten.de^|
 ||klausholz.com^|
 ||kleankanteenbottle.com^|
 ||klebemeister.shop/^|
@@ -15630,6 +15634,7 @@
 ||klingshandel.de^|
 ||klirol.com^|
 ||kloess-dental.shop^|
+||klots.shop^|
 ||klotz-reifen.com^|
 ||kloud-shop.com^|
 ||klugal.de^|
@@ -15955,6 +15960,7 @@
 ||kumicup.com^|
 ||kundegeschaft.de^|
 ||kundendienstexperte.at^|
+||kundendienstgeraete.at^|
 ||kundenservice-hotline.at^|
 ||kundigenbei.at^|
 ||kunst-onlinebuy.shop^|
@@ -19586,6 +19592,7 @@
 ||nauticasdeutschland.de^|
 ||nauticspace.com^|
 ||nauticwerk.com^|
+||nautikbedarf.com/^|
 ||navadexamazon.com^|
 ||navaro-shop.de^|
 ||navbe.de^|
@@ -21638,6 +21645,7 @@
 ||ozo-7.top^|
 ||ozpillsdirect.com^|
 ||p.prezzocomprare.com^|
+||p6cj.snarkcactus.life^|
 ||paadshalau.com^|
 ||pabloboutique.com^|
 ||paceheadst.shop^|
@@ -24066,6 +24074,7 @@
 ||rentin.store^|
 ||rentitoutw.shop^|
 ||rentshoplk.shop^|
+||renve-berlin.com^|
 ||renzandfriends.shop^|
 ||reopalor.com^|
 ||rep-handel.com^|
@@ -32980,6 +32989,7 @@
 ||zemsaffiliate.com^|
 ||zemti.de^|
 ||zenbotique.com^|
+||zendocs.com^|
 ||zendoo.de^|
 ||zendurede.shop/^|
 ||zengyt.com^|
