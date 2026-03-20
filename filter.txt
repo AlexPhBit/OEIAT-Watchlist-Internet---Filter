@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-19T23:58:50.870203Z
+! Generated: 2026-03-20T02:50:28.619308Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -572,6 +572,7 @@
 ||ahtavin.com^|
 ||ahyokaboutique.com^|
 ||aiapp2025.com^|
+||aicheleholzgmbh.de^|
 ||aidanmattoxdress.com^|
 ||aido-gooders.com^|
 ||aidulovesm.click^|
@@ -592,6 +593,7 @@
 ||air-jordan4.com^|
 ||air-max.at^|
 ||air-uposterreich.at^|
+||air-uposterreich.com^|
 ||air3panda1.store^|
 ||airbnb-co.uk-rooms5507914.uk^|
 ||airbnb-zuerich.ch^|
@@ -3271,6 +3273,7 @@
 ||bijkit.top^|
 ||bikbokwien.at^|
 ||bike-blissful.com^|
+||bike-components-de.com^|
 ||bike-cube.com^|
 ||bike-poc.com^|
 ||bike-specialized.com^|
@@ -4498,6 +4501,7 @@
 ||callitspringshoe.com^|
 ||callplan.at^|
 ||callqzq.com^|
+||calmdetox-shop.com^|
 ||calmsnerves.com^|
 ||calocalsale.com^|
 ||calorie-active.ernahrungsweg.de^|
@@ -4733,6 +4737,7 @@
 ||carsmodeles.com^|
 ||carstruckstoy.com^|
 ||cartec-gruppe.de^|
+||carteloshop.com^|
 ||carter82y.com^|
 ||cartieraustria.at^|
 ||cartomy.com^|
@@ -5389,6 +5394,7 @@
 ||claudia-plinski.de^|
 ||claudia-preuss.de^|
 ||claudia-schmuckatelier.com^|
+||claudiaundweiss.at^|
 ||clausrothe.de^|
 ||clayood.com^|
 ||clayshop.shop/^|
@@ -6254,6 +6260,7 @@
 ||cutshopcentral.com^|
 ||cutterfarm.de^|
 ||cuttlefish.approveturn.xyz^|
+||cv-tech-onlineshop.de^|
 ||cveedxf.com^|
 ||cvibesounds.com^|
 ||cvneed.com^|
@@ -7366,6 +7373,7 @@
 ||divoom.online^|
 ||divyaelectricalpanels.com^|
 ||diybestsellers.com^|
+||diybuildsupplies.com^|
 ||diycommodity.com^|
 ||diymalennachzahlen.shop^|
 ||diyprofii.com^|
@@ -9257,6 +9265,7 @@
 ||fahrradhandel-kappler.de^|
 ||fahrradhandel-kramer.de^|
 ||fahrradhandel-krause.de^|
+||fahrradhandel-martin.de^|
 ||fahrradhandel-richter.de^|
 ||fahrradhandel-rothbart.de^|
 ||fahrradhandel-schmidt.com^|
@@ -11247,6 +11256,7 @@
 ||gepures.com^|
 ||geqimo.com^|
 ||ger.zoibakii.com^|
+||geraetedoc.com^|
 ||geraniumcc.com^|
 ||geratestore24.org^|
 ||gerbejai.net^|
@@ -11721,6 +11731,7 @@
 ||goldhandeltestsieger-seit1972.de^|
 ||goldhealthwise.com^|
 ||golding-house.com^|
+||goldira.wiki^|
 ||goldkontor-1972.de^|
 ||goldreward.io^|
 ||goldscheideanstalt-2023.com^|
@@ -13150,6 +13161,7 @@
 ||hoffmanberlin.de^|
 ||hoffmann-boutique.com^|
 ||hoffmann-reifen.com^|
+||hoffmann-salzburg.com^|
 ||hoffmannwelpen.de^|
 ||hoffretail.shop^|
 ||hoffschuhe.at^|
@@ -14986,8 +14998,10 @@
 ||kaffeesnackbar.com^|
 ||kaffeewelt.store^|
 ||kaffefashion.com^|
+||kaffeglueck.de^|
 ||kaftlatelitastore.com^|
 ||kafushop.com^|
+||kagasa.com^|
 ||kahl-reifenhandel.shop^|
 ||kahlaporzellan.shop^|
 ||kahlaporzellanw.com^|
@@ -16546,6 +16560,7 @@
 ||lespetitsde.shop^|
 ||lesphacocheres.com^|
 ||lessyg.shop/^|
+||let-glam.com^|
 ||leteniy.com^|
 ||letess.xyz^|
 ||letfli.com^|
@@ -19593,7 +19608,7 @@
 ||nauticasdeutschland.de^|
 ||nauticspace.com^|
 ||nauticwerk.com^|
-||nautikbedarf.com/^|
+||nautikbedarf.com^|
 ||navadexamazon.com^|
 ||navaro-shop.de^|
 ||navbe.de^|
@@ -22947,6 +22962,7 @@
 ||professionaltoolus.com^|
 ||professyo.com^|
 ||profi-rasenmaher.com^|
+||profibaubedarf.com^|
 ||profibikes.de^|
 ||proficienct.com^|
 ||profile-residential.com^|
@@ -23183,6 +23199,7 @@
 ||purepharmas.co.uk^|
 ||pureprefer.com^|
 ||puresigns.shop/^|
+||purewellness-shop.de^|
 ||purezonep.com^|
 ||purgable.top^|
 ||purisaki.com^|
@@ -24780,6 +24797,7 @@
 ||rutlsganicr.com^|
 ||ruudgranum.com^|
 ||ruvello.de^|
+||ruxavild.at^|
 ||ruytior.shop^|
 ||ruzsacollection.shop^|
 ||rvca-surf.com^|
@@ -26044,6 +26062,7 @@
 ||shop-lamia-mode.shop^|
 ||shop-luvado.de^|
 ||shop-menswear.store^|
+||shop-nuviva.com^|
 ||shop-outdoorliving.com^|
 ||shop-pharmacie-fr.com^|
 ||shop-pharmacie-france.com^|
@@ -26621,6 +26640,7 @@
 ||Skyvoi-de.com^|
 ||skyxon.de^|
 ||sl-handel24.de^|
+||sl-leasinggesmbh.at^|
 ||slabtownkev.com^|
 ||slamlook.com^|
 ||slawekhermans.com^|
@@ -27511,6 +27531,7 @@
 ||stockyis.com^|
 ||stoeberlaedele.de^|
 ||stofline.com^|
+||stoicdraussen.com^|
 ||stokke-schritte.com^|
 ||stoll-autoreifen.shop^|
 ||stollkrippen.de^|
@@ -28448,6 +28469,7 @@
 ||tchibooutlets.shop^|
 ||tchiboutlets.shop^|
 ||tchsrlt.top^|
+||tckuspcx.shop^|
 ||tcminvestments.com^|
 ||tcomplex.de^|
 ||tcr-international.org^|
@@ -29073,6 +29095,7 @@
 ||ticie.xyz^|
 ||ticketreise.de^|
 ||ticketsswap.cz^|
+||tickgreen.net^|
 ||tidalsway.ru^|
 ||tieberg.de^|
 ||tiedanarti.com^|
@@ -30000,6 +30023,7 @@
 ||tuftex-balloons.com^|
 ||tuinbalkon.com^|
 ||tulip-aphrod.co.uk^|
+||tumi.com.kw^|
 ||tummamma.store^|
 ||tunepart.com^|
 ||tunespot.de^|
@@ -31124,6 +31148,7 @@
 ||vienna-ag.at^|
 ||vienna-moda.de^|
 ||vienna-modehaus.at^|
+||vienna-stil.at^|
 ||viennaapartments.org^|
 ||viennaaustrohotel.com^|
 ||viennadecor.online^|
@@ -31163,6 +31188,7 @@
 ||villaholidaysibiza.com^|
 ||villainworlld.de^|
 ||villards-stammholz.com^|
+||villause.com^|
 ||villeroy-outlets.shop^|
 ||villeroyboch-eu.shop^|
 ||villite.xyz^|
@@ -31704,6 +31730,7 @@
 ||warmsettle.com^|
 ||warmtccident.com^|
 ||warmthsta.com^|
+||warnerbrosshp.com^|
 ||waroly.com^|
 ||warrantyi.com^|
 ||warrior-us.com^|
@@ -32285,6 +32312,7 @@
 ||wohlwaren.de^|
 ||wohlwohnen.at^|
 ||wohn-perle.de^|
+||wohnelektro.com^|
 ||wohnengeschaft.de^|
 ||wohnenlinxx.de^|
 ||wohngartenwelt.de^|
