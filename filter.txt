@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-20T23:58:03.327684Z
+! Generated: 2026-03-21T02:43:53.612983Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -103,7 +103,6 @@
 ||4803967.info^|
 ||4living.at^|
 ||4rxofficial.com^|
-||4u2ride.eu^|
 ||5-drugs.com^|
 ||50bikes.de^|
 ||52magicdownload.com^|
@@ -1311,6 +1310,7 @@
 ||antrag-kredite-sofort.com^|
 ||anttitepponen.com^|
 ||antyear.com^|
+||anuraclo.com^|
 ||anwaelte-brinkmann.de^|
 ||anxiair.xyz^|
 ||any-estates.com^|
@@ -3917,6 +3917,7 @@
 ||boydesklamp.de^|
 ||boyishdenim.com^|
 ||boyshirtt.com^|
+||bozzer.de^|
 ||bp-analytics.de^|
 ||bparisfashion.com^|
 ||bpgcoin.com^|
@@ -4411,6 +4412,7 @@
 ||by-olivia.com^|
 ||bybathbody.com^|
 ||bybehner-berlin.com^|
+||bybitbaltic.info^|
 ||bybitprofit.com^|
 ||bybremen.de^|
 ||bybrinke.de^|
@@ -10749,6 +10751,7 @@
 ||fxminingcointrade.com^|
 ||fxpremiertrades.com^|
 ||fxprofitplanet.com^|
+||fxrikg.shop^|
 ||fxtfinanceportfolio.com^|
 ||fxtradespolkaakcyjna.com^|
 ||fxuniontrading.com^|
@@ -15740,6 +15743,7 @@
 ||koch-handel24.de^|
 ||koch-reifen.com^|
 ||koch-versand.de^|
+||kochand.com^|
 ||kochbucd.de^|
 ||kochenstein.de^|
 ||kochgenusswelt.shop^|
@@ -18653,6 +18657,7 @@
 ||misspaap.com^|
 ||misstarry.com^|
 ||misterlamp.de^|
+||misterwatch.shop^|
 ||misterwatches.com^|
 ||misterwatches.store^|
 ||mistyantoon.shop^|
@@ -28689,6 +28694,7 @@
 ||teveoaustria.at^|
 ||teveoaustria.com^|
 ||teveoosterreich.at^|
+||teveoproducts.com^|
 ||tewango.de^|
 ||tewzeny.com^|
 ||texasdreamdolls.com^|
