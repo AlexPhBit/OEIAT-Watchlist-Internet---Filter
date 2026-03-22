@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-21T23:56:15.835457Z
+! Generated: 2026-03-22T03:15:26.597409Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -13185,6 +13185,7 @@
 ||hoisbandl.at^|
 ||hoiyon.com^|
 ||hojreel.com^|
+||hoka-italia.it^|
 ||hokaat.co.at^|
 ||hokaaustria.com^|
 ||hokaaustriaonline.com^|
