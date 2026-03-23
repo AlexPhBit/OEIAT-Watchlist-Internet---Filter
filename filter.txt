@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-23T00:01:08.225101Z
+! Generated: 2026-03-23T03:22:54.540618Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -12436,6 +12436,7 @@
 ||hanshu-posthouse.com^|
 ||hanskatzchensheim.com^|
 ||hansrasenmaher.com^|
+||hanwag--schuhe.com^|
 ||hanwagdeutschland.com^|
 ||hanwagfabrikverkauf.com^|
 ||hanwagfabrikverkauf.de^|
@@ -13185,6 +13186,7 @@
 ||hoisbandl.at^|
 ||hoiyon.com^|
 ||hojreel.com^|
+||hoka--shoes.com^|
 ||hoka-italia.it^|
 ||hokaat.co.at^|
 ||hokaaustria.com^|
