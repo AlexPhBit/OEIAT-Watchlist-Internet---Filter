@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-24T23:50:15.273318Z
+! Generated: 2026-03-25T02:49:25.983538Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1186,6 +1186,7 @@
 ||angoraberlin.de^|
 ||anguably.top^|
 ||angusz.com^|
+||anhaenger-geraete.com^|
 ||anhaenger-von-thule.de^|
 ||anhaengerkauf24.com^|
 ||anhaengerparksingen.shop^|
@@ -1350,6 +1351,7 @@
 ||apexshekel.com^|
 ||apharmacie.com^|
 ||aphidophaga.de^|
+||aphroditecards.com^|
 ||apivity.xyz^|
 ||apkgy.com^|
 ||apkwell.com^|
@@ -2957,6 +2959,7 @@
 ||berlinpellets.com^|
 ||berlinpieces.com^|
 ||berlinpremiumoutlet.com^|
+||berlinrideservice.com^|
 ||berlinsprime.de^|
 ||berlinstil.de^|
 ||berlintag.com^|
@@ -6058,6 +6061,7 @@
 ||creality3dofficial.eu^|
 ||creamairs.com^|
 ||creammusic.shop^|
+||creamywear.com^|
 ||creatableshop.com^|
 ||createwithbuy.com^|
 ||creative.lighting^|
@@ -9361,6 +9365,7 @@
 ||familienbegleiterin.de^|
 ||familienmobil24.de^|
 ||familienschatze.com^|
+||familienzug.ch^|
 ||familievlaar.com^|
 ||famillehuon.com^|
 ||familo.net^|
@@ -10327,6 +10332,7 @@
 ||formanacupuncture.com^|
 ||formationy.com^|
 ||formde.shop/^|
+||formeri.shop^|
 ||formturn.com^|
 ||formula-handel.de^|
 ||formula-section.net^|
@@ -14530,6 +14536,7 @@
 ||jacobs-reifenversand.com^|
 ||jacoobss.store^|
 ||jafar-france.fr^|
+||jaffe-rechtsanwaelte.de^|
 ||jag-elec.com^|
 ||jagdundungarn.at^|
 ||jagerdrive.com^|
@@ -19396,6 +19403,7 @@
 ||myflorascan.com^|
 ||myfunnysocks.de^|
 ||myfurnitureland.com^|
+||mygarminstraps.de^|
 ||mygoodstuff.site^|
 ||myhallo.de^|
 ||myhanna.de^|
@@ -19979,6 +19987,7 @@
 ||nice02.com^|
 ||nicebeds.fun^|
 ||niceclouth.com^|
+||nicedoc.co^|
 ||nicegfclub.com^|
 ||nicegolfplay.com^|
 ||nicegolfshop.com^|
@@ -23616,6 +23625,7 @@
 ||rasition.top^|
 ||rasossidi.com^|
 ||rastellojulia.com^|
+||rastuxor.at^|
 ||ratandboauae.ae^|
 ||ratansti.com^|
 ||ratataur.com^|
@@ -25426,8 +25436,6 @@
 ||schlüsseldienst-frankfurt.eu^|
 ||schlüsseldienst-halle-24.de^|
 ||schlüsseldienst-in-bornheim.de^|
-||schlüsseldienst-profi.at^|
-||schlüsseldienst-profis.at^|
 ||schlüsseldienst-regensburg-24.de^|
 ||schlüsseldienst-team.at^|
 ||schlüsseldienst-wuppertal.org^|
@@ -27444,6 +27452,7 @@
 ||stellapet.xyz^|
 ||stellarfx.co^|
 ||stellarfx.io^|
+||stelonira.com^|
 ||stelprotool.com^|
 ||stemecommunity.com^|
 ||stemorien.com^|
@@ -30824,6 +30833,7 @@
 ||varioustoolsstoresde.com^|
 ||variousvogueshoes.com^|
 ||variouswardrobe.com^|
+||variova.de^|
 ||varitystoreoneday.com^|
 ||varohome.de^|
 ||varoneo.de^|
@@ -32306,6 +32316,7 @@
 ||wneatplug.com^|
 ||wneedshop.com^|
 ||wnickibau.com^|
+||wnwzxocb.shop^|
 ||wobeltd.com^|
 ||wobers-handel.de^|
 ||wodava.de^|
@@ -33180,6 +33191,7 @@
 ||zooroyalde.com^|
 ||zoralia.de^|
 ||zoreno.ch^|
+||zorilenta.com^|
 ||zotatees.com^|
 ||zotuour.com^|
 ||zouiexpress.com^|
