@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-25T23:50:03.594735Z
+! Generated: 2026-03-26T01:47:22.669086Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1490,6 +1490,7 @@
 ||aquarisonlineshop.de^|
 ||aquaristik-seiten.de^|
 ||aquariumopt.com^|
+||aquascapers-galerie.com^|
 ||aquasportkleidung.com^|
 ||aquaticsarea.com^|
 ||aquaticsbest.com^|
@@ -6770,7 +6771,9 @@
 ||degussa-goldhandel.online^|
 ||degussa-goldhandell.com^|
 ||degussa-onlineshop.de^|
+||degussa-page.de^|
 ||degussa.one^|
+||degussaonline.de^|
 ||deharaldsoldie.shop/^|
 ||dehaushalt-prada.com^|
 ||dehaushaltszentrum.com^|
@@ -7212,6 +7215,7 @@
 ||dieumzugshelfer.at^|
 ||dieweltderedelsteine.com^|
 ||diewinks.at^|
+||diezeitmitmedien.com^|
 ||difcinvestment.world^|
 ||diffusoriacusticisorgenti.com^|
 ||difmost.top^|
@@ -12781,6 +12785,7 @@
 ||heizoel-standard.de^|
 ||heizoel-station.com^|
 ||heizoel-zentrale.de^|
+||heizoel24-aktuell.com^|
 ||heizoel24-preise.com^|
 ||heizoeldeal.de^|
 ||heizoeldirekt.com^|
@@ -12954,6 +12959,7 @@
 ||herzklang-tirol.at^|
 ||herzmitliebe.de^|
 ||herzogberlin.de^|
+||herzstil.de^|
 ||hesdca.store^|
 ||heshengd.com^|
 ||hesidate.com^|
@@ -13264,6 +13270,7 @@
 ||holzpflegewachs.com^|
 ||holzprofis.at^|
 ||holzpuzzlez.com^|
+||holzundwerkzeug-bestequalitat.de^|
 ||holzvorrat.com^|
 ||holzwaldenergie.com^|
 ||holzwarmer.com^|
@@ -19325,6 +19332,7 @@
 ||musiknachhilfe.at^|
 ||musiknotenmarkt.com^|
 ||musikpowerboxing.com^|
+||musikprofi.com^|
 ||musikstrings.com^|
 ||musikwelt-lindner.de^|
 ||musiqueonline.com^|
@@ -24060,6 +24068,7 @@
 ||related-ag.com^|
 ||relationshipi.com^|
 ||relativitye.com^|
+||relaxholz.at^|
 ||relaxingbedroom.com^|
 ||relevantf.com^|
 ||relevantkichenshop.com^|
@@ -26882,6 +26891,7 @@
 ||solaceous.top^|
 ||solamyc.com^|
 ||solandis.com^|
+||solanik.de^|
 ||solanix.de^|
 ||solanzo.de^|
 ||solar-claussen.de^|
@@ -27456,6 +27466,7 @@
 ||stelprotool.com^|
 ||stemecommunity.com^|
 ||stemorien.com^|
+||stengelra.com^|
 ||stephanheinrich.shop^|
 ||stephaniehotting.com^|
 ||stephanwagner.at^|
