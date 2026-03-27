@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-27T00:03:17.383496Z
+! Generated: 2026-03-27T03:28:58.965255Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -731,6 +731,7 @@
 ||alfakherstore.de^|
 ||alfcasino1.com/de/^|
 ||alfdever.com^|
+||alfiag.cfd^|
 ||alfinanz.ch^|
 ||alfonline.de^|
 ||alfons-bentele.de^|
@@ -1285,6 +1286,7 @@
 ||anpario.de^|
 ||anpicker.com^|
 ||anrespond.com^|
+||anreutrp.com^|
 ||anseham.com^|
 ||ansky.life^|
 ||answerafor.com^|
@@ -7897,6 +7899,7 @@
 ||e.holzheiz.com^|
 ||e24-handel.com^|
 ||e24-handel.net^|
+||ea-heizoel.com^|
 ||eacsquash.fr^|
 ||eaepp.com^|
 ||eafengrowkniveshub.com^|
@@ -8228,6 +8231,7 @@
 ||ekomiade.shop^|
 ||ekoplonu.com^|
 ||ekserena.com^|
+||ekzsale.shop^|
 ||ela-clo.com^|
 ||elaines.life^|
 ||elalfs.com^|
@@ -9569,6 +9573,7 @@
 ||fastcrossmart.com^|
 ||fastecnology.de^|
 ||fastel.top^|
+||fastenergy24.com^|
 ||fastenerk.com^|
 ||fastflowp.top^|
 ||fastforextradelab.com^|
@@ -10747,6 +10752,7 @@
 ||futuristicvogue.com^|
 ||fvkiwanis.org^|
 ||fwergew.com^|
+||fwertty.shop^|
 ||fx-algorandking.com^|
 ||fx-lifetrader.com^|
 ||fx-ln.com^|
@@ -11813,6 +11819,7 @@
 ||goodmecar.click^|
 ||goodmedsshops.com^|
 ||goodonlytools.com^|
+||goodotisnop.click^|
 ||goodoutfitcheap.com^|
 ||goodpinky.com^|
 ||goodpricedrugs.com^|
@@ -13253,6 +13260,7 @@
 ||holzcuten.de^|
 ||holzd24.com^|
 ||holzdeals24.com^|
+||holzdebrenn.com^|
 ||holzelite.de^|
 ||holzerneblocke.com^|
 ||holzflicken.at^|
@@ -13950,6 +13958,7 @@
 ||ihb-cruises.de^|
 ||iheq.shop^|
 ||ihinmusubio.com^|
+||ihljpbdo.shop^|
 ||ihrbedarf.com^|
 ||ihreanhanger.com^|
 ||ihrearztonline.com^|
@@ -18370,6 +18379,7 @@
 ||mergesportnew.com^|
 ||mergpath.com^|
 ||meridianhouseitem.com^|
+||meridianunitedholdingsnet.digital^|
 ||meritdeteno.com^|
 ||merits-partner.de^|
 ||merkatoltd.com^|
@@ -18613,6 +18623,8 @@
 ||miningexchange24.com^|
 ||miningfxcoin.com^|
 ||miningfxtraders.com^|
+||miningrace.com^|
+||miningrid.com^|
 ||mininomade.de^|
 ||minisproetzel.de^|
 ||miniwallet.at^|
@@ -19967,6 +19979,7 @@
 ||nexoil.de^|
 ||next-bricks.com^|
 ||nextcareerflow.online^|
+||nextchain.at^|
 ||nextnee.com^|
 ||nextuntilca.com^|
 ||nexus-reputation.com^|
@@ -21891,6 +21904,7 @@
 ||pateful.com^|
 ||paterry.top^|
 ||pathappiy.com^|
+||pathchop.com^|
 ||pathe-box.com^|
 ||patiokitstore.com^|
 ||patiotrue.com^|
@@ -22417,6 +22431,7 @@
 ||placeo.top^|
 ||placex-x.shop^|
 ||placexs.shop^|
+||placidco.com^|
 ||plan-social.com^|
 ||planeoboden.com^|
 ||planetahoma.com^|
@@ -25283,6 +25298,7 @@
 ||sargashandel.com^|
 ||saringa.de^|
 ||saritapiotrowski.com^|
+||sarlcresmar.com^|
 ||saroni-handel.de^|
 ||sarreidfurniture.com^|
 ||sarreidhome.com^|
@@ -33102,6 +33118,7 @@
 ||zifuliangm.com^|
 ||zigaretten-bestellen.net^|
 ||zigber.com^|
+||zignalor.at^|
 ||zigoff.de^|
 ||zilmet.at^|
 ||zilool.com^|
@@ -33263,6 +33280,7 @@
 ||zynexorai.at^|
 ||zynexorai.com^|
 ||zyphorbit-at.com^|
+||zyphorbit.at^|
 ||zyskoro.app^|
 ||zytocapitalnew.com^|
 ||zyyef.com^|
