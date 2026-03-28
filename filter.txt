@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-28T00:57:18.598762Z
+! Generated: 2026-03-28T03:41:39.305168Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -13963,6 +13963,7 @@
 ||ihreanhanger.com^|
 ||ihrearztonline.com^|
 ||ihreecke.com^|
+||ihreedelmetallprofis.de^|
 ||ihrekuche.com^|
 ||ihremed.de^|
 ||ihrepotenzmittel.de^|
@@ -17426,6 +17427,7 @@
 ||luxe-collective-fashion.com^|
 ||luxeberlin.de^|
 ||luxeclone.shop^|
+||luxecycleshop.com^|
 ||luxedore.com^|
 ||luxefetch.com^|
 ||luxegemmy.com^|
@@ -18504,6 +18506,7 @@
 ||michaelkorsosterreich.com^|
 ||michaelnovion.com^|
 ||michalka-koestlichkeiten.de^|
+||michel-auto-concpt.com^|
 ||michele.co.at^|
 ||michelekerneis.com^|
 ||michelequinto.com^|
@@ -23270,6 +23273,7 @@
 ||pvabazon.com^|
 ||pvanlage24.com^|
 ||pvqkcuin.shop^|
+||pw-express.com^|
 ||pwbeq.com^|
 ||pwowide.com^|
 ||pxzcl.com^|
