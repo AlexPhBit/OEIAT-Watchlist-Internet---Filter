@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-03-30T23:45:01.446347Z
+! Generated: 2026-03-31T01:03:30.561012Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -518,6 +518,7 @@
 ||agda888.com^|
 ||agdenimshop.com^|
 ||agebob.abcsaved.rest^|
+||agebob.dehorse.shop^|
 ||agebob.gamedrink.biz^|
 ||agebob.givenick.baby^|
 ||agebob.peterpin.baby^|
@@ -1815,6 +1816,7 @@
 ||at.esrlive.com^|
 ||at.flexumgel-official.shop^|
 ||at.gluconv.com^|
+||at.irgedvei.shop^|
 ||at.ketonaktiv.com^|
 ||at.llinacrda.shop^|
 ||at.mammotion.com^|
@@ -1952,6 +1954,7 @@
 ||auraterraplaza.com^|
 ||aureamunich.de^|
 ||aurelllc.com^|
+||aurevo-fashion.com^|
 ||aurgkb.com^|
 ||auriaofficiel.com^|
 ||aurocie.com^|
@@ -2148,6 +2151,7 @@
 ||avoura.de^|
 ||avregatnx.monster^|
 ||avrilamaya.com^|
+||avyara.de^|
 ||awaisms.com^|
 ||awanzi.com^|
 ||awaqenm.com^|
@@ -2259,6 +2263,7 @@
 ||babylissde.de^|
 ||babymarktkauf.com^|
 ||babymodeneu.com^|
+||babymodepur.com^|
 ||babymoovde.shop^|
 ||babynetp.shop^|
 ||babyone.top^|
@@ -2280,6 +2285,7 @@
 ||bacara.com.ar^|
 ||bacedic.com^|
 ||bachelorm.com^|
+||bachmann-kanzlei.de^|
 ||back-attack.de^|
 ||backformen-sale.com^|
 ||backformen-shop.com^|
@@ -2908,6 +2914,7 @@
 ||bergbk.de^|
 ||berger-research.net^|
 ||berger-roland.com^|
+||bergermode.com^|
 ||bergexperten.de^|
 ||bergfahrrad.com^|
 ||bergfreunde-buy.shop^|
@@ -2927,6 +2934,7 @@
 ||bergmann.com^|
 ||bergmanngoldschmied.com^|
 ||bergmannmode.de^|
+||bergschatz.de^|
 ||bergtrophy.at^|
 ||bergwalt-mode.com^|
 ||bergwanderershop.com^|
@@ -3245,6 +3253,7 @@
 ||bicyclepartsde.com^|
 ||bicyclepoc.com^|
 ||bicycleritchey.com^|
+||bicycleseatpostde.com^|
 ||bicycleselling.store^|
 ||bicyclettes-fr.com^|
 ||bicycleusstylish.com^|
@@ -3329,6 +3338,7 @@
 ||bikeplazaonline.com^|
 ||bikepleasing.com^|
 ||bikepower.shop^|
+||bikeproshops.com^|
 ||biker-kids.de^|
 ||bikerabatt.com^|
 ||bikeridestore.com^|
@@ -3854,6 +3864,7 @@
 ||boschk.store^|
 ||boschtoolshop.com^|
 ||boschverkauf.com^|
+||bose.com.de^|
 ||bosegal.site^|
 ||bosettichiara.com^|
 ||bosndealb.com^|
@@ -4009,6 +4020,7 @@
 ||breewelx.com^|
 ||breezekiss.shop^|
 ||brefaelektrohandel.de^|
+||brehn.de^|
 ||breitenbacher-damenmode.com^|
 ||breitenbacher-mode.com^|
 ||breitenbacher.shop^|
@@ -4274,6 +4286,7 @@
 ||building-toysshop.com^|
 ||builikee.com^|
 ||buitifo-fashion.com^|
+||bukkwood.com^|
 ||bulgariaapteka.com^|
 ||bulgarskaapteka.com^|
 ||bulkcarriers-markt.com^|
@@ -4293,6 +4306,7 @@
 ||bunnykachu.com^|
 ||bunsintheoven.shop^|
 ||buntage.de^|
+||bunterstil.com^|
 ||buntewarenwelt.com^|
 ||buntfleckshop.shop/^|
 ||buriayre.com^|
@@ -5580,6 +5594,7 @@
 ||coachoutlet.at^|
 ||coarsefishingsale.com^|
 ||coarsesale.com^|
+||coastalresin.store^|
 ||coatofficial.com^|
 ||coatpark.com^|
 ||coborsdeyor.com^|
@@ -5880,6 +5895,7 @@
 ||cooludi.com^|
 ||cooorful.com^|
 ||cooperatea.net^|
+||coordinatedy.com^|
 ||copenhagen-schuhe.com^|
 ||copenhagenschuhesale.de^|
 ||copguru.com^|
@@ -6041,6 +6057,7 @@
 ||cracyard.top^|
 ||craft.shopde.xyz^|
 ||craftbrothers.shop^|
+||craftoliq.com^|
 ||craftproshop.com^|
 ||crafts-sewing.com^|
 ||craftshiny.shop^|
@@ -6392,6 +6409,7 @@
 ||damiol-tech.de^|
 ||dammerlicht.de^|
 ||dampfshishahub.com^|
+||dampfzentrale.com^|
 ||damsonmadder.co.at^|
 ||dana-berlin.de^|
 ||danavalletta.com^|
@@ -6651,6 +6669,7 @@
 ||dealannafieldde.com^|
 ||dealathletics.com^|
 ||dealbabyware.com^|
+||dealcourier.com^|
 ||dealcoxfurniture.com^|
 ||dealcutlery.com^|
 ||dealerdevin.shop/^|
@@ -7161,6 +7180,7 @@
 ||diag-wagen.de^|
 ||dialog-unternehmensberatung.de^|
 ||diamix.de^|
+||diamond-solution.net^|
 ||diamond-sport-gear.com^|
 ||diamondpainterde.shop/^|
 ||diamondpen.store^|
@@ -7410,6 +7430,7 @@
 ||dliene.com^|
 ||dliteshoeshop.de^|
 ||dlowiegfashion.shop^|
+||dly-home.com^|
 ||dm-supermall.com^|
 ||dm-vip.com^|
 ||dmarketsale.com^|
@@ -9095,6 +9116,7 @@
 ||exclusivekicks.shop^|
 ||exclusivesaleshop.com^|
 ||exclusiveskis.com^|
+||exclusiveurl.shop^|
 ||exclusivewears.com^|
 ||excoker.com^|
 ||executivev.com^|
@@ -9939,6 +9961,7 @@
 ||fintrexia.org^|
 ||finyxrefund.com^|
 ||fiorenz.com^|
+||fiorora.com^|
 ||fipecampania.it^|
 ||firat-shopping.de^|
 ||firealight.com^|
@@ -11648,6 +11671,7 @@
 ||glowwarehousede.com^|
 ||glowyplant.de^|
 ||glowzonevip.com^|
+||glpura.com^|
 ||glucavit.com^|
 ||gluckaro.de^|
 ||gluckarode.shop/^|
@@ -12289,6 +12313,7 @@
 ||hackmann-heizoel.de^|
 ||hadadypoor.com^|
 ||haden.at^|
+||hadiahslotlogin.com^|
 ||hadorn.shop^|
 ||hadrism.xyz^|
 ||haemfier.top^|
@@ -12436,6 +12461,8 @@
 ||hanna-trachten.de^|
 ||hannaberlin.com^|
 ||hannahgshinn.shop^|
+||hannahsalzburg.at^|
+||hannahwien.at^|
 ||hannamunchen.de^|
 ||hannas-modehaus.com^|
 ||hannashop.de^|
@@ -12518,6 +12545,7 @@
 ||harrystammholz.com^|
 ||harshoping.com^|
 ||hartfordverkaufe.com^|
+||hartmann-frankfurt.com^|
 ||hartmann-versand.shop^|
 ||hartmannmode.de^|
 ||harttip.de^|
@@ -13283,6 +13311,7 @@
 ||holzwaldenergie.com^|
 ||holzwarmer.com^|
 ||holzweihnachtswelt.com^|
+||holzwerks.de^|
 ||holzwerkzeugekaufen.com^|
 ||homado.de^|
 ||homaletic.top^|
@@ -13665,6 +13694,7 @@
 ||huanghexie.top^|
 ||huayangtai.net^|
 ||huayutuozhan.com^|
+||hub.bradyboutiquehub.com^|
 ||hubakor.com^|
 ||hubalfresco.com^|
 ||hubbicycleopt.com^|
@@ -15025,6 +15055,7 @@
 ||kaffeemaschinebillig.com^|
 ||kaffeemech.myshopify.com^|
 ||kaffeesnackbar.com^|
+||kaffeeuhlenbusch.de^|
 ||kaffeewelt.store^|
 ||kaffefashion.com^|
 ||kaffeglueck.de^|
@@ -16069,6 +16100,7 @@
 ||laandingblog.com^|
 ||laasin.com^|
 ||labelparis.com^|
+||labexholzgmbh.de^|
 ||laboitenomade.de^|
 ||laborbedarfkaufen.com^|
 ||laborkampagnede.shop/^|
@@ -17099,6 +17131,7 @@
 ||looth.net^|
 ||lootmon.com^|
 ||lopgedstian.com^|
+||loporty.shop^|
 ||lopsddf.com^|
 ||lora-zurich.com^|
 ||loradea.de^|
@@ -17855,6 +17888,7 @@
 ||marketworksupply.com^|
 ||markezia.com^|
 ||markhellbuschde.shop/^|
+||markierskibindungen.com^|
 ||markisenrabatt.com^|
 ||markkrugel.de^|
 ||markmale.de^|
@@ -18169,6 +18203,7 @@
 ||megacix.com^|
 ||megadigifun.com^|
 ||megagear.online^|
+||megahandel.shop^|
 ||megalomuseum.de^|
 ||megaluous.top^|
 ||megamedmarket.com^|
@@ -19115,6 +19150,7 @@
 ||mospe.de^|
 ||mosplains.com^|
 ||mosshammer.shop^|
+||mossvibers.com^|
 ||mostary.com^|
 ||mostbitcoin.top^|
 ||mostesy.com^|
@@ -19249,6 +19285,8 @@
 ||mto-service.com^|
 ||mtools-outlet.shop^|
 ||mtquality.com^|
+||mtr-legal.de^|
+||mtr-legal.net^|
 ||mtrekking.de^|
 ||muaythaisite.com^|
 ||mubnew.com^|
@@ -19588,6 +19626,7 @@
 ||nasablitarn.top^|
 ||nasamesh.com^|
 ||naschmarkt-bier.at^|
+||nasentia.de^|
 ||naserusecom.com^|
 ||nasha-pressa.shop^|
 ||nashfishing.com^|
@@ -19946,6 +19985,7 @@
 ||newrugbranch.com^|
 ||newsale-tableware.com^|
 ||newscohot.com^|
+||newsee.datevote.shop^|
 ||newsneakers-shop.com^|
 ||newsneakershop.com^|
 ||newsportkit.com^|
@@ -22218,6 +22258,7 @@
 ||pgddfgqt.shop^|
 ||pgimpro.shop^|
 ||pgmde.shop/^|
+||pgmus.net^|
 ||pgmvip.com^|
 ||phaidon-eu-online.shop^|
 ||phaidon-online.shop^|
@@ -25409,6 +25450,7 @@
 ||schafproduktion24.de^|
 ||schalen-shop.com^|
 ||schallreiniger.de^|
+||schaltwerkfahrrad.de^|
 ||schapiman.com^|
 ||scharfemesser.de^|
 ||scharfeprofession.com^|
@@ -26569,6 +26611,7 @@
 ||siwetr.com^|
 ||siwgm.holdenouterwear.shop^|
 ||sixcv.shop^|
+||sixgun.datevote.shop^|
 ||sixtrading.net^|
 ||sizilien-haus.de^|
 ||sizzle24.de^|
@@ -26719,6 +26762,7 @@
 ||slotxogamel.com^|
 ||slovenijalekarna24.com^|
 ||sloveos.com^|
+||slowburner.de^|
 ||slowtidestore.com^|
 ||slubmauritius.com^|
 ||sma-bkgruppe.com^|
@@ -26927,6 +26971,7 @@
 ||solarenergie-beleuchtung.de^|
 ||solarenergiemarkt.com^|
 ||solarien-berlin.de^|
+||solarmik.de^|
 ||solarnoir.de^|
 ||solarplanet24.net^|
 ||solarpowerde.com^|
@@ -27411,6 +27456,7 @@
 ||starherobit.com^|
 ||starintegrated.ltd^|
 ||stark-ebike.de^|
+||starkwerkzeug.de^|
 ||starlaaarthi.com^|
 ||starlight-peace.net^|
 ||starpres.top^|
@@ -28063,6 +28109,7 @@
 ||superonlineshopslovenija.com^|
 ||superonlineshopturkiye.com^|
 ||supersapparel.com^|
+||supersavehub.com^|
 ||supership.top^|
 ||supersofabezug.com^|
 ||supersonk.com^|
@@ -28845,6 +28892,7 @@
 ||theedwebdeal.com^|
 ||theeramon.top^|
 ||theeternalstate.org^|
+||theexplorerco.com^|
 ||thefacejacketbest.de^|
 ||thefamitree.com^|
 ||thefashiongame.net^|
@@ -30080,6 +30128,7 @@
 ||tupperware-eu.shop^|
 ||tupperware-osterreich.com^|
 ||tupperware-uaeonline.com^|
+||tupperwareeu.shop^|
 ||tupperwarestore-us.com^|
 ||tupperwarseonline.com^|
 ||tuppsale-eu.shop^|
@@ -30340,6 +30389,7 @@
 ||universalbundle.com^|
 ||universalcyclinghelmet.com^|
 ||universaliy.net^|
+||universalshippings.com^|
 ||universaltransitxpress.com^|
 ||univragri.com^|
 ||uniwiinc.com^|
@@ -31525,6 +31575,7 @@
 ||voltabuy.com^|
 ||voltbankinternational.com^|
 ||voltedage.com^|
+||volthausgeraete.de^|
 ||voltryzapex.app^|
 ||voltryzapex.at^|
 ||volture.de^|
@@ -31781,6 +31832,7 @@
 ||warthunder.at^|
 ||wascheparfum.at^|
 ||wascheparfume.de^|
+||waschzone.com^|
 ||washcloth.fewexplosion.xyz^|
 ||washmass.com^|
 ||washstudy.com^|
@@ -31890,6 +31942,7 @@
 ||wearsproducts.com^|
 ||wearstudios.com^|
 ||wearsunique.com^|
+||weastde.com^|
 ||weatherwear.de^|
 ||web-rezeptfrei.de^|
 ||web.bossaapp.com^|
@@ -32867,6 +32920,7 @@
 ||yoocaa.com^|
 ||yoohal.com^|
 ||yoolo.shop^|
+||yooofa.com^|
 ||yooso.de^|
 ||yorky.site^|
 ||yortree.com^|
@@ -33004,6 +33058,7 @@
 ||zapom.de^|
 ||zapzoii.top^|
 ||zaqqstore.com^|
+||zaradum.com^|
 ||zaradum.de^|
 ||zarah-boutique.de^|
 ||zarahomeeu.com^|
@@ -33265,6 +33320,7 @@
 ||zureblue.com^|
 ||zureonglobal.com^|
 ||zurichregionblick.com^|
+||zurusten.com^|
 ||zusellmk.click^|
 ||zvfashions.com^|
 ||zvs-stark-saalfeld.de^|
