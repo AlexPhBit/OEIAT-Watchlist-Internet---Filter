@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-01T00:01:01.109157Z
+! Generated: 2026-04-01T03:44:11.887801Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -124,6 +124,7 @@
 ||77unishop.com^|
 ||7econds.com^|
 ||7gdrh9ip2p1.tipicodeco.nl^|
+||7k9lod.com^|
 ||85-bktrade.com^|
 ||88-films.myshopify.com^|
 ||8826.amazoncoin.su^|
@@ -548,6 +549,7 @@
 ||agrenius.at^|
 ||agri-bud.com^|
 ||agrial-culture.com^|
+||agriandindusupply.com^|
 ||agribean.com^|
 ||agricolaindustrial.com^|
 ||agriculturi.com^|
@@ -5200,6 +5202,7 @@
 ||chicusfurniture.com^|
 ||chicusoutdoor.com^|
 ||chicuszone.com^|
+||chicvo.com^|
 ||chicwalking.com^|
 ||chicwatersport.com^|
 ||chicwearfantasy.com^|
@@ -7180,7 +7183,6 @@
 ||diag-wagen.de^|
 ||dialog-unternehmensberatung.de^|
 ||diamix.de^|
-||diamond-solution.net^|
 ||diamond-sport-gear.com^|
 ||diamondpainterde.shop/^|
 ||diamondpen.store^|
@@ -8406,6 +8408,7 @@
 ||elisehassoun.com^|
 ||eliseify.com^|
 ||eliskincare.shop^|
+||elite-flows.com^|
 ||elite-real-estate.com^|
 ||eliteguarantybk.com^|
 ||elitekard.de^|
@@ -9134,6 +9137,7 @@
 ||exklusiv-online.de^|
 ||exloversvs.life^|
 ||exlurebays.com^|
+||exner-collegen.de^|
 ||exner-kollegen.net^|
 ||exobaustoffe.de^|
 ||exotekracingparts.com^|
@@ -11088,6 +11092,7 @@
 ||gartenbedarfs-de.com^|
 ||gartenbee.com^|
 ||gartenbeetzubehoer.com^|
+||gartenbiliger.com^|
 ||gartenbillig.com^|
 ||gartenbnke.com^|
 ||gartendekoprada.de^|
@@ -16818,6 +16823,7 @@
 ||likesell.store^|
 ||likeshoeees.com^|
 ||liketosurf.com^|
+||likitter.shop^|
 ||likwispect.com^|
 ||lilafkj.com^|
 ||lilamstore.shop^|
@@ -18283,6 +18289,7 @@
 ||meinmoda.de^|
 ||meinmodellshop.com^|
 ||meinoel24.com^|
+||meinperfekterlebenslauf.de^|
 ||meinradladen.com^|
 ||meintechnik.de^|
 ||meintherapiedecken.de^|
@@ -21253,6 +21260,7 @@
 ||optsteeltools.com^|
 ||optsummerapparel.com^|
 ||optsummerfinery.com^|
+||opttinux.com^|
 ||opttooldepot.com^|
 ||opttoolfield.com^|
 ||opttoolplus.com^|
@@ -23113,6 +23121,7 @@
 ||proofsagen.com^|
 ||proopenair.com^|
 ||proopenairgear.com^|
+||prooplitecommunity.shop^|
 ||prooutside.com^|
 ||propagaty.com^|
 ||propellerfinnen.com^|
@@ -24652,6 +24661,7 @@
 ||roomard.xyz^|
 ||roomdecoraction.shop^|
 ||roomeverything.com^|
+||roomfurnitureshop.com^|
 ||roominabox.shop^|
 ||roominaboxde.shop/^|
 ||roomosa.homes^|
@@ -29147,6 +29157,7 @@
 ||three60-gmbh.com^|
 ||thresholdi.com^|
 ||thresholdk.com^|
+||thriftfolio.com^|
 ||thrillingmotion.com^|
 ||thrillingoutdoor.com^|
 ||thrillsnew.com^|
@@ -31026,9 +31037,11 @@
 ||velorria.com^|
 ||veloura.at^|
 ||veloush.de^|
+||velozenit.com^|
 ||veloznegrinyanet.com^|
 ||veltriscapital.com^|
 ||veltronglobal.com^|
+||veluflex.com^|
 ||velvetparfumde.com^|
 ||velvezev.ru^|
 ||vemoso-shop.de^|
@@ -31852,6 +31865,7 @@
 ||watch-fakes.to^|
 ||watchcod-ca.shop^|
 ||watchcod-en.shop^|
+||watchcod-hr.shop^|
 ||watchcod-mc.shop^|
 ||watchcod-nz.shop^|
 ||watchesbuy.to^|
@@ -32008,7 +32022,9 @@
 ||wefashion.net^|
 ||wegdesholz.com^|
 ||wegner-autoreifen.shop^|
+||wegoeuro.com^|
 ||wegoeurope.com^|
+||wegoflight.com^|
 ||wegovy-osterreich.com^|
 ||wegovymexicopharmacy.com^|
 ||weidmullertool.com^|
