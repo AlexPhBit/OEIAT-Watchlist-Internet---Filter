@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-01T23:46:25.193269Z
+! Generated: 2026-04-02T01:00:55.283695Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -904,6 +904,7 @@
 ||alpenlinie.at^|
 ||alpennord.de^|
 ||alpenrose-mode.com^|
+||alpenwien.com^|
 ||alpenwolken.de^|
 ||alperchokenarev.com^|
 ||alpha-killaz.co^|
@@ -1317,6 +1318,7 @@
 ||antyear.com^|
 ||anuraclo.com^|
 ||anwaelte-brinkmann.de^|
+||anwalt-rieger.de^|
 ||anxiair.xyz^|
 ||any-estates.com^|
 ||anyoneeer.top^|
@@ -2289,6 +2291,7 @@
 ||bachelorm.com^|
 ||bachmann-kanzlei.de^|
 ||back-attack.de^|
+||back-dani.shop^|
 ||backformen-sale.com^|
 ||backformen-shop.com^|
 ||backformenonsale.com^|
@@ -13510,6 +13513,7 @@
 ||horizons28.com^|
 ||horizonsmusic.co.uk^|
 ||horizontaln.com^|
+||horizontix.de^|
 ||hormanns24.de^|
 ||hormans.de^|
 ||hormenne.top^|
@@ -14244,6 +14248,7 @@
 ||insolvenz-veit.de^|
 ||insolvenz.veit-kanzlei.de^|
 ||insolvenzrecht-rick.de^|
+||insolvenzrecht-rieger.de^|
 ||inspectionk.com^|
 ||inspectiony.com^|
 ||inspirasikus.com^|
@@ -15212,6 +15217,7 @@
 ||kasper-autoreifen.shop^|
 ||kasperfit.com^|
 ||kassdes.com^|
+||kastner-oehler-de.com^|
 ||katana-deutschland.de^|
 ||katanningtravel.com^|
 ||katarzynapat.com^|
@@ -17155,6 +17161,7 @@
 ||lorinthewild.com^|
 ||lorissajohnson.com^|
 ||loro-pianas.de^|
+||lorrauy.shop^|
 ||lorryspottingshop.com^|
 ||loscedros.org^|
 ||losmilitares.com^|
@@ -19895,6 +19902,7 @@
 ||new-trendfashion.com^|
 ||new-voguehut.com^|
 ||newadultstore.com^|
+||newair.blacktime.sbs^|
 ||newairfield.com^|
 ||newambesonne.com^|
 ||newamerrug.com^|
@@ -27423,7 +27431,6 @@
 ||stadtplan-local.com^|
 ||staffedgeca.com^|
 ||stahl-autoreifen.shop^|
-||stahlgear.de^|
 ||stahlsarg.de^|
 ||stahlwandpoolde.com^|
 ||stalloneinnovations.com^|
