@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-02T23:49:15.834961Z
+! Generated: 2026-04-03T01:24:20.167325Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1607,6 +1607,7 @@
 ||arnold-steimle.de^|
 ||arnoldswelpenhaus.com^|
 ||arnoldwelpenhaus.com^|
+||arnstadter-einkauf.de^|
 ||aron-handel.de^|
 ||arosatempus.shop^|
 ||around-re.com^|
@@ -1721,6 +1722,7 @@
 ||asfmagtollshop.cyou^|
 ||asfmeqrs.cfd^|
 ||asfnagvignette.sa.com^|
+||asfnneghs.cyou^|
 ||asfuinsag.info^|
 ||asgeirpetursson.com^|
 ||ash-modern.com^|
@@ -1812,6 +1814,7 @@
 ||asuleas.com^|
 ||asvgu.at^|
 ||at-elektrohaus.com^|
+||at-gruppo24.com^|
 ||at-paylivery.shop^|
 ||at-setrafimoney.org^|
 ||at-upwork.site^|
@@ -2607,6 +2610,7 @@
 ||baumarkt-ulstertal.de^|
 ||baumarktverkauf.de^|
 ||baumeistermodels.com^|
+||baumkau.com^|
 ||baumme.de^|
 ||baumwollbaby.shop/^|
 ||baumwunsch.com^|
@@ -4193,6 +4197,7 @@
 ||bruhnn.de^|
 ||bruland.store^|
 ||brunateschuhewerksverkauf.de^|
+||brunboisdechauffage.at^|
 ||brundino.de^|
 ||brunetsludmila.com^|
 ||brunner-autoreifen.com^|
@@ -6380,6 +6385,7 @@
 ||daily-clearance.com^|
 ||daily-disney.com^|
 ||daily-jewelry123.com^|
+||dailychallenge1.com^|
 ||dailyexpertfx.com^|
 ||dailyforu.com^|
 ||dailyjoy.shop^|
@@ -7911,6 +7917,7 @@
 ||e-bikesparepartsde.com^|
 ||e-bikesstore.com^|
 ||e-designworks.de^|
+||e-finanzmarket.com^|
 ||e-fliteshop.com^|
 ||e-foldimate.com^|
 ||e-holzgmbh.com^|
@@ -8134,6 +8141,7 @@
 ||edisonlamps.co^|
 ||edithannabeck.de^|
 ||edithhardware.shop^|
+||editionschuh.com^|
 ||editorialrobot.com^|
 ||edituragenius.com^|
 ||edjgyf.store^|
@@ -8438,6 +8446,7 @@
 ||ellameyer.de^|
 ||ellanorahamburg.com^|
 ||elle-weber.de^|
+||elle-zurich.ch^|
 ||elle-zurich.com^|
 ||ellela.de^|
 ||ellenmanicure.shop^|
@@ -8744,6 +8753,7 @@
 ||ergo-ruhrgebiet.de^|
 ||ergobackpacks.com^|
 ||ergoneers.at^|
+||ergrolabrantnerkg.com^|
 ||ericachemical.shop^|
 ||ericacoscia.com^|
 ||ericalynnhang.com^|
@@ -8879,7 +8889,6 @@
 ||ethbuyers.online^|
 ||ethek-ahlsen.co.uk^|
 ||etherost.shop^|
-||etherscan.io^|
 ||ethicamper.shop^|
 ||ethikadeutschland.com^|
 ||ethikaosterreich.com^|
@@ -9141,6 +9150,7 @@
 ||exloversvs.life^|
 ||exlurebays.com^|
 ||exner-collegen.de^|
+||exner-kollegen.de^|
 ||exner-kollegen.net^|
 ||exobaustoffe.de^|
 ||exotekracingparts.com^|
@@ -9385,6 +9395,7 @@
 ||falk-reifenversand.com^|
 ||falke-online.shop^|
 ||falken-stein.de^|
+||falkengraz.com^|
 ||fallegverslun.com^|
 ||fallesson.com^|
 ||fallible.top^|
@@ -9696,6 +9707,7 @@
 ||felicityjohnson.shop^|
 ||felinette.top^|
 ||felipag.com^|
+||felira.de^|
 ||felitos.de^|
 ||felivo-germany.de^|
 ||felivoo.de^|
@@ -9755,6 +9767,7 @@
 ||ferntrailcollective.com^|
 ||fernwehcampingde.com^|
 ||ferplastdeutschland.shop^|
+||ferplasthaustierbedarf.com^|
 ||ferplastverkaufe.com^|
 ||ferramentao.com^|
 ||ferramentautensili.com^|
@@ -9828,6 +9841,7 @@
 ||fidilityprofx.com^|
 ||field-baseball.com^|
 ||field-locomotive.com^|
+||fieldclothes.com^|
 ||fieldfurnish.com^|
 ||fieldstyleus.com^|
 ||fielgesn.shop^|
@@ -9956,6 +9970,7 @@
 ||finexleaders.com^|
 ||finexleaders.eu^|
 ||finexleaders.uk^|
+||finio24.com^|
 ||fink-foerster.de^|
 ||finmarketsfx.com^|
 ||finmatra.de^|
@@ -10832,6 +10847,7 @@
 ||gaborbelgie.com^|
 ||gaborbelgie.net^|
 ||gaborbelgique.org^|
+||gaborberlin.com^|
 ||gaborberlin.de^|
 ||gaborbootsnorge.com^|
 ||gaborbulgaria.com^|
@@ -15802,6 +15818,7 @@
 ||knottenwollede.shop^|
 ||knowlikebuy.com^|
 ||knuffeldecke.de^|
+||knusperwelt.com^|
 ||knwex.com^|
 ||ko-consult.at^|
 ||koaer.shop^|
@@ -17000,6 +17017,7 @@
 ||livingwallstapeten.com^|
 ||livinmillep.com^|
 ||livoka.se^|
+||livorentino.com^|
 ||livoro-deutschland.com^|
 ||livoza.de^|
 ||livsy.ch^|
@@ -18697,6 +18715,7 @@
 ||mioutletp.com^|
 ||mipkes.com^|
 ||miraclened.com^|
+||miraeeparis.de^|
 ||miraefashion.com^|
 ||miraiweb.org^|
 ||mirakl-ch.com^|
@@ -24489,6 +24508,7 @@
 ||river-adventure.com^|
 ||rivergrassca.com^|
 ||rivero-budde.de^|
+||riversidebuzz.com^|
 ||rivertapca.com^|
 ||riverthamis.co.uk^|
 ||riverviewx.com^|
@@ -25905,6 +25925,7 @@
 ||serenadeutschland.de^|
 ||serendipity-parties.com^|
 ||serendiplty.com^|
+||sereneify.com^|
 ||serenitybot.com^|
 ||serenitylamp.com^|
 ||serenomaison.com^|
@@ -27577,6 +27598,7 @@
 ||stevemaddenwien.at^|
 ||stevenjenks.com^|
 ||stevysstudio.com^|
+||steyrtracteursgmbh.at^|
 ||sthorie.com^|
 ||sticeetand.com^|
 ||stichtroopt.com^|
@@ -28462,6 +28484,7 @@
 ||talafish.store^|
 ||talariaebikes.com^|
 ||talaya.de^|
+||talenorvixa.com^|
 ||talents-sourcenow.com^|
 ||talentsxperts.com^|
 ||talenx.world^|
@@ -31885,6 +31908,7 @@
 ||water-bagshop.com^|
 ||waterade.top^|
 ||watercupvogue.com^|
+||waterdrop-osterreich.at^|
 ||waterkant.shop^|
 ||watermotionod.com^|
 ||waterparkdays.com^|
@@ -32054,6 +32078,7 @@
 ||weinfreunde-outlet.shop^|
 ||weinfreunde.wine-outlet.shop^|
 ||weinfreundea1s-de.com^|
+||weinfreunoutlet.com^|
 ||weingut-erbeldinger.shop^|
 ||weinlover.com^|
 ||weinmannmode.de^|
@@ -32798,6 +32823,7 @@
 ||xxl-posterprint.de^|
 ||xxonnect.com^|
 ||xxxlcatering.at^|
+||xxxlutz-eu.shop^|
 ||xxxlutzfurniturepartner.com/#/^|
 ||xxxlutzfurniturepartner.net^|
 ||xxxlutzfurniturepartner.online^|
