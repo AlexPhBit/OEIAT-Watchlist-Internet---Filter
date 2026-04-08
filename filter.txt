@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-07T23:50:04.759221Z
+! Generated: 2026-04-08T01:50:27.916238Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1712,6 +1712,7 @@
 ||asfinsde.com^|
 ||asfintarg.com^|
 ||asfishop.com^|
+||asfjmeqe.sbs^|
 ||asfl-info.com^|
 ||asflnag.bond^|
 ||asflnag.com^|
@@ -1965,6 +1966,7 @@
 ||aurgkb.com^|
 ||auriaofficiel.com^|
 ||aurocie.com^|
+||auroradore.com^|
 ||auroraforyou.de^|
 ||aurorahikari.com^|
 ||auroravv.com^|
@@ -2637,6 +2639,7 @@
 ||baydresslove.com^|
 ||bayer-heizen.at^|
 ||bayerischegeschenke.com^|
+||bayerischeu.de^|
 ||bayerwald-heizoel.de^|
 ||bayreuth-boutique.de^|
 ||bayshop.tw^|
@@ -4544,6 +4547,7 @@
 ||cambuyg.top^|
 ||camelactiveireland.com^|
 ||camelia-blumen.de^|
+||cameragearshop.de^|
 ||camerasphoto.shop^|
 ||camerllia.com^|
 ||cametoshop.store^|
@@ -4594,6 +4598,7 @@
 ||campingtools.shop^|
 ||campingtrailequip.com^|
 ||campingzube.com^|
+||campingzubehorhub.com^|
 ||campkit-saleshop.com^|
 ||campkitsaleshop.com^|
 ||camponsale.store^|
@@ -6190,6 +6195,7 @@
 ||cryptotradetarget.com^|
 ||cryptotradingfxt.com^|
 ||cryptovertxex.com^|
+||cryptoweb3pro.com^|
 ||cryptradeoptions.com^|
 ||crystablue.com^|
 ||crystal-de.com^|
@@ -6803,6 +6809,7 @@
 ||deguocmqlrs.com^|
 ||degussa-goldhandel.online^|
 ||degussa-goldhandell.com^|
+||degussa-onlineseite.de^|
 ||degussa-onlineshop.de^|
 ||degussa-page.de^|
 ||degussa.one^|
@@ -6924,6 +6931,8 @@
 ||demellierosterreich.com^|
 ||demiartdecorations.com^|
 ||demirdentalonline.shop^|
+||demmerimrecht.de^|
+||demmermail.com^|
 ||demobaza.shop^|
 ||demoniaaustria.top^|
 ||demoniadeutschland.de^|
@@ -8207,6 +8216,7 @@
 ||egscap.com^|
 ||egw-best.nl^|
 ||eheringede.com^|
+||ehfzhepg.shop^|
 ||ehkschutzengel.de^|
 ||ehlers-reifen.com^|
 ||ehlertswelpen.com^|
@@ -9009,6 +9019,7 @@
 ||europaischeapotheke.com^|
 ||europamarket.de^|
 ||europatradecapital.com^|
+||europe-pack.eu^|
 ||europe-pharm.net^|
 ||europe.all-est.com^|
 ||europe.build-en.com^|
@@ -10545,6 +10556,7 @@
 ||freietaube.shop^|
 ||freigardenstyle.com^|
 ||freigexact.com^|
+||freiheitcamping.com^|
 ||freiholz.at^|
 ||freilaufrollende.com^|
 ||freischlafen-de.myshopify.com^|
@@ -11436,6 +11448,7 @@
 ||getoutdoortool.com^|
 ||getpickleballpaddle.com^|
 ||getpowertool.com^|
+||getqr.com^|
 ||getrcparts.com^|
 ||getrichbb.com^|
 ||getryoko.com^|
@@ -12264,6 +12277,7 @@
 ||gutes-brennholz.com^|
 ||guteseben.de^|
 ||gutgarten.com^|
+||gutmotorradteile.com/^|
 ||gutscheingarten24.de^|
 ||gutscheinglueck24.de^|
 ||gutumzug.at^|
@@ -13563,6 +13577,7 @@
 ||hotboygood.site^|
 ||hotbrooks.com^|
 ||hotcamera.shop^|
+||hotcarmodificationparts.com^|
 ||hotcheapswear.store^|
 ||hotcryptomarket.com^|
 ||hotdealine.com^|
@@ -13727,6 +13742,7 @@
 ||huber-schuhes.com^|
 ||huber-schuhes.com/^|
 ||huber-wien.com^|
+||huberd.com^|
 ||hubers-salzburg.at^|
 ||hubersalzburg.at^|
 ||huberskitchen.com^|
@@ -15214,6 +15230,7 @@
 ||karlkanide.shop^|
 ||karlramharter.at^|
 ||karlsale.com^|
+||karlson-berlin.com^|
 ||karmakissde.shop^|
 ||karmalove.shop^|
 ||karneval-zingst.de^|
@@ -15730,6 +15747,7 @@
 ||klgm-eiche.de^|
 ||klhooq.com^|
 ||klick-ndb.de^|
+||klima-bonus.app^|
 ||klimmotorrad.com^|
 ||kling-rasenmaher.com^|
 ||klingerdirndl.com^|
@@ -16835,6 +16853,8 @@
 ||lihi3.com/qir2Y^|
 ||likablesunny.com^|
 ||likablew.com^|
+||likdl.shop^|
+||likds.shop^|
 ||likeceosk.click^|
 ||likeespritde.com^|
 ||likehandtool.com^|
@@ -19005,6 +19025,7 @@
 ||modulerdekor.com^|
 ||modwayhomeitem.com^|
 ||moebel-olimp.de^|
+||moebel-onlineshop.com^|
 ||moebelcenterremscheid.de^|
 ||moebeldiscount24.com^|
 ||moebelonline24.com^|
@@ -19200,6 +19221,7 @@
 ||motionwish.com^|
 ||motivatew.com^|
 ||motivationlinkca.com^|
+||moto-discounts-germany.com^|
 ||motoadren.com^|
 ||motoculturedirecte.com^|
 ||motoglobal-trucking.com^|
@@ -20475,6 +20497,7 @@
 ||nunuwax.top^|
 ||nuovoairet.com^|
 ||nur-uhren.de^|
+||nurioso.com^|
 ||nurkaffee.at^|
 ||nurseryfurnitures.com^|
 ||nursingaccessoriesstore.com^|
@@ -22511,6 +22534,7 @@
 ||placex-x.shop^|
 ||placexs.shop^|
 ||placidco.com^|
+||placidena.com^|
 ||plan-social.com^|
 ||planeoboden.com^|
 ||planetahoma.com^|
@@ -23907,6 +23931,7 @@
 ||reebokosterreich.at^|
 ||reebokosterreichoutlet.com^|
 ||reebokoutlet.de^|
+||reeddecory.com^|
 ||reef-deutschland.com^|
 ||reelmasterde.com^|
 ||reepner.com^|
@@ -24214,6 +24239,7 @@
 ||rentin.store^|
 ||rentitoutw.shop^|
 ||rentshoplk.shop^|
+||rentyet.shop^|
 ||renve-berlin.com^|
 ||renzandfriends.shop^|
 ||reopalor.com^|
@@ -24928,6 +24954,7 @@
 ||rvca-surf.com^|
 ||rvcaaustria.com^|
 ||rvwvh.com^|
+||rw-insolvenzverwaltung.de^|
 ||rwb-stuttgart.de^|
 ||rwcstore.com^|
 ||rwebvines.com^|
@@ -26947,6 +26974,7 @@
 ||sobrecesped.com^|
 ||socamug.com^|
 ||soccerskillshop.com^|
+||soccerssp.com^|
 ||soccxmode.com^|
 ||sochutz.shop^|
 ||socialentropy.com^|
@@ -27257,6 +27285,7 @@
 ||spielprokonsole24.shop^|
 ||spielsmarkt.com^|
 ||spielwaren-fisiu.de^|
+||spielwaren-tonies.com^|
 ||spielwarenneu.de^|
 ||spielzeug-schuster.com^|
 ||spielzeug-traum.com^|
@@ -31196,6 +31225,7 @@
 ||verygroupretails.com^|
 ||verymaner.com^|
 ||veryretails.com^|
+||vesa-mode.de^|
 ||vesburst.shop^|
 ||vesicit.xyz^|
 ||vesinhhoatam.com^|
@@ -32072,6 +32102,7 @@
 ||wein-vip.shop^|
 ||weinbergmunchen.de^|
 ||weindorf-lonsheim.de^|
+||weinekaufen.com^|
 ||weinesprituosen.com^|
 ||weinfreunde-desale.shop^|
 ||weinfreunde-deutsch.shop^|
@@ -32548,6 +32579,7 @@
 ||wondiot.com^|
 ||wood-art-germany.de^|
 ||wood-ohanlon.com^|
+||woodelivo.com^|
 ||woodenelse.com^|
 ||woodensbag.shop^|
 ||wooderstock.com^|
@@ -32667,6 +32699,7 @@
 ||wunschau.de^|
 ||wunschfans.de^|
 ||wunschurlaub24.com^|
+||wuording.shop^|
 ||wuqmp.com^|
 ||wusjay.shop^|
 ||wuvutbp.com^|
@@ -33126,6 +33159,7 @@
 ||zasarrot.shop^|
 ||zasmshop.top^|
 ||zatruesonline.de^|
+||zaubberkraft.de^|
 ||zaubelkid.com^|
 ||zaubergartenpro.com^|
 ||zauchensee-altenmarkt.at^|
