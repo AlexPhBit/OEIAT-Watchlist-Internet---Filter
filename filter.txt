@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-08T23:46:31.981036Z
+! Generated: 2026-04-09T00:56:21.881062Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -972,6 +972,7 @@
 ||alttpe.com^|
 ||alturuszimx.com^|
 ||aluhsda.com^|
+||alunaclo.de^|
 ||aluproholz.shop^|
 ||alurela.de^|
 ||alureva.de^|
@@ -1452,6 +1453,7 @@
 ||apple-ui.com^|
 ||appleacceseriesshop.com^|
 ||appleeden.de^|
+||appleofedenshoes.shop^|
 ||appliance-bertazzoni.com^|
 ||appliancesbertazzoni.com^|
 ||appliancesbest.com^|
@@ -3629,6 +3631,7 @@
 ||blackgurlzsmagickloset.com^|
 ||blackrmarket.com^|
 ||blacksheepsportseu.shop^|
+||blacktridentpop.shop^|
 ||blackyakdeutschland.com^|
 ||blade-pirates.de^|
 ||bladebasics.com^|
@@ -6702,7 +6705,6 @@
 ||dealpinaverkauf.com^|
 ||dealpopzone.com^|
 ||deals-bicycle.com^|
-||deals.beautymomente.com^|
 ||dealsarenawebsite.myshopify.com^|
 ||dealsbauble.com^|
 ||dealsbay.site^|
@@ -6721,6 +6723,7 @@
 ||dealustool.com^|
 ||dealviral.de^|
 ||dealwinkelyes.shop^|
+||deangelnshop.com^|
 ||dearfashionable.com^|
 ||dearomatico.com^|
 ||dearskiing.com^|
@@ -7157,6 +7160,7 @@
 ||devoza.de^|
 ||dewatchmall.shop^|
 ||deweins.com^|
+||dewello-shop.de^|
 ||dewelschutz.de^|
 ||dewohntraum.com^|
 ||dewscmotorrad.shop/^|
@@ -7845,7 +7849,6 @@
 ||dugoutmugs.shop^|
 ||duisburg-fashion.de^|
 ||duitsland1.myshopify.com^|
-||dukes-duchess.de^|
 ||dulcine.de^|
 ||dulontransport.com^|
 ||dumara-reifen.com^|
@@ -8854,6 +8857,7 @@
 ||essensverkaufs.com^|
 ||essentiallyca.com^|
 ||essentialoilnew.com^|
+||essentials-osterreich.at^|
 ||essentialshousehold.com^|
 ||essentiel-shoe.com^|
 ||essentielbags.com^|
@@ -9777,6 +9781,7 @@
 ||ferne-schied.de^|
 ||ferntrailcollective.com^|
 ||fernwehcampingde.com^|
+||feronilva.com^|
 ||ferplastdeutschland.shop^|
 ||ferplasthaustierbedarf.com^|
 ||ferplastverkaufe.com^|
@@ -11349,6 +11354,7 @@
 ||german-audio-equipment.com^|
 ||german-deal.com^|
 ||german-discount-carsparts.com^|
+||germanfishinggear.com^|
 ||germanfurnituremart.com^|
 ||germangoodsonline.com^|
 ||germania-ce.de^|
@@ -11969,6 +11975,7 @@
 ||gradine.top^|
 ||graefde.com^|
 ||graf-collegen.com^|
+||graf-wien.com^|
 ||grafosignsv.com^|
 ||granadabelekhotel.com^|
 ||granderioam.com^|
@@ -15333,6 +15340,7 @@
 ||kbattian.shop^|
 ||kbavliv.com^|
 ||kbcshop.shop/^|
+||kbetake.com^|
 ||kbnlogistics.com^|
 ||kbs-kanzlei.de^|
 ||kbuildex.com^|
@@ -28446,6 +28454,7 @@
 ||systemgram.com^|
 ||systemiy.com^|
 ||systemofdown.com^|
+||syyqjsxt.shop^|
 ||syyywatches.shop^|
 ||sz-fishing.de^|
 ||szdafanl.com^|
@@ -28484,6 +28493,7 @@
 ||taegliches-brot.at^|
 ||taffetaandtattoos.com^|
 ||tagalots.com^|
+||tagesschau.finance^|
 ||tagestrips.at^|
 ||tagkitchenware.de^|
 ||tagmarkets.com^|
@@ -32339,6 +32349,7 @@
 ||wilcombree.com^|
 ||wildanimal.shop^|
 ||wildblumenparadies.de^|
+||wildcatchco.com^|
 ||wildeflame.de^|
 ||wildflowercasesphilippines.com^|
 ||wildling-berlin.com^|
@@ -32377,6 +32388,7 @@
 ||williamsbrandus.com^|
 ||williamscantal.com^|
 ||williamsrebate.com^|
+||willintter.shop^|
 ||willis-forum.at^|
 ||willistonforcestore.com^|
 ||willth.xyz^|
