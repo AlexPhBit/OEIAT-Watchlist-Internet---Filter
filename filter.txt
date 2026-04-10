@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-09T23:56:06.967915Z
+! Generated: 2026-04-10T03:34:04.432778Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -387,6 +387,7 @@
 ||adjoinas.com^|
 ||adjoinssowe.com^|
 ||adjoningtem.com^|
+||adl.dimelux.top^|
 ||adl.fcnqy.shop^|
 ||adl.jccjm.shop^|
 ||adl.lreubk.shop^|
@@ -1320,6 +1321,7 @@
 ||anuraclo.com^|
 ||anwaelte-brinkmann.de^|
 ||anwalt-rieger.de^|
+||anwalt-sirrenberg.com^|
 ||anxiair.xyz^|
 ||any-estates.com^|
 ||anyoneeer.top^|
@@ -1563,6 +1565,7 @@
 ||arenaswimstore.com^|
 ||aresc.de^|
 ||aretephoenix.com^|
+||arfinag.icu^|
 ||arguscapital.net^|
 ||arialscompany.at^|
 ||ariat-megasales.shop^|
@@ -3062,6 +3065,7 @@
 ||bestduct.life^|
 ||bestduka.com^|
 ||beste-apotheke.com^|
+||beste-brannholzpremium.de^|
 ||beste-gardinen.de^|
 ||beste-motorrad.com^|
 ||bestebike.de^|
@@ -4432,6 +4436,7 @@
 ||bvsprobtp.com^|
 ||bvuyyds.shop^|
 ||bwonline.eurosale.shop^|
+||bws-beratung.com^|
 ||bx25dlbkubota.fahrzeugs.com^|
 ||bxcapitalmarkets.eu^|
 ||bxrlin.de^|
@@ -6758,6 +6763,7 @@
 ||deckcalmn.com^|
 ||decker-reifen.com^|
 ||decleaners.de^|
+||decokento.com^|
 ||decoopy.com^|
 ||decoratem.com^|
 ||decoratende.de^|
@@ -11074,6 +11080,7 @@
 ||garazicuesta.com^|
 ||garborine.com^|
 ||garcia.co.at^|
+||garden-caddy.com^|
 ||garden-caddy.de^|
 ||garden-machines-shop.com^|
 ||garden-machines.com^|
@@ -13925,6 +13932,7 @@
 ||ibkulwear.com^|
 ||ibl-hgw.de^|
 ||ibleromptly.net^|
+||ibointernational.com^|
 ||ibratie.com^|
 ||ibtakagn.com^|
 ||icarbuddy.com^|
@@ -16353,6 +16361,7 @@
 ||lasportivaoutdoor.com^|
 ||lasportivaoutlet.at^|
 ||lasportivaoutlet.club^|
+||lasportivaoutlet.de^|
 ||lasportivas.at^|
 ||lasportivas.de^|
 ||lasportivaservice.com^|
@@ -16607,6 +16616,7 @@
 ||lekarenslovenska.com^|
 ||lekarenslovenska24.com^|
 ||lekarnaslo.com^|
+||lekisports.com^|
 ||lekiweb.com^|
 ||lektn.com^|
 ||lektp.com^|
@@ -19450,6 +19460,7 @@
 ||musikpowerboxing.com^|
 ||musikprofi.com^|
 ||musikstrings.com^|
+||musikstudiobox.com^|
 ||musikwelt-lindner.de^|
 ||musiqueonline.com^|
 ||musk.actws.best^|
@@ -21422,6 +21433,7 @@
 ||orthomode.de^|
 ||orthoomed.com^|
 ||orthopadie-berlin.com^|
+||orthopädischeschuhe.de^|
 ||orthovital.at^|
 ||ortliebline.com^|
 ||ortliebpack.com^|
@@ -23893,6 +23905,7 @@
 ||rechato.com^|
 ||rechtsanwalt-adams.com^|
 ||rechtsanwalt-scheer.net^|
+||rechtsanwalt-sirrenberg.de^|
 ||reciprocalx.com^|
 ||reciprocau.com^|
 ||recognizen.com^|
@@ -24431,6 +24444,7 @@
 ||rice-retail.shop^|
 ||rice.msoleil.shop^|
 ||ricemly.com^|
+||richagloves.com^|
 ||richardkellenbergerlaw.com^|
 ||richardlakota.com^|
 ||richardsandals.shop^|
@@ -27109,6 +27123,7 @@
 ||solovairsschweiz.com^|
 ||solovairwien.at^|
 ||solovairwien.com^|
+||soltect.de^|
 ||solvexpulse-53-ai.org^|
 ||solvgem.com^|
 ||solvuskredit.com^|
@@ -29037,6 +29052,7 @@
 ||themantools.com^|
 ||themazenbest.site^|
 ||themdbuilding.com^|
+||themetcloisters.com^|
 ||themountainarea.com^|
 ||themountainbikede.com^|
 ||themountainnew.com^|
@@ -31229,6 +31245,7 @@
 ||verttion.top^|
 ||verummarkt.store^|
 ||verwaltungsnotar.online^|
+||verwertung-sirrenberg.com^|
 ||verworkdeutschland.com^|
 ||verycanvas.com^|
 ||verygoodfootwear.com^|
