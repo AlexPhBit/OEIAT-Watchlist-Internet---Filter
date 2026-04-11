@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-11T00:01:14.772118Z
+! Generated: 2026-04-11T03:18:11.240880Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1292,7 +1292,6 @@
 ||anpario.de^|
 ||anpicker.com^|
 ||anrespond.com^|
-||anreutrp.com^|
 ||anseham.com^|
 ||ansky.life^|
 ||answerafor.com^|
@@ -1967,6 +1966,7 @@
 ||auraterraplaza.com^|
 ||aureamunich.de^|
 ||aurelllc.com^|
+||aurendal.com^|
 ||aurevo-fashion.com^|
 ||aurgkb.com^|
 ||auriaofficiel.com^|
@@ -2296,7 +2296,6 @@
 ||babytoyslimited.store^|
 ||babywarepromo.com^|
 ||babyweltde.com^|
-||bacara.com.ar^|
 ||bacedic.com^|
 ||bachelorm.com^|
 ||bachmann-kanzlei.de^|
@@ -3721,6 +3720,7 @@
 ||blumen-steu.com^|
 ||blumenladen.de^|
 ||blumenrose.de^|
+||blumenshopdeutschland.de^|
 ||blumenstore.com^|
 ||blumestar.com^|
 ||blumira.shop^|
@@ -7922,6 +7922,7 @@
 ||dynamodeal.de^|
 ||dynoscooterde.shop^|
 ||dyshopvip.com^|
+||dyson-de.de^|
 ||dyynnafitsale.shop^|
 ||dyzay.com^|
 ||dzhanagulovn.com^|
@@ -7950,7 +7951,6 @@
 ||e.holzheiz.com^|
 ||e24-handel.com^|
 ||e24-handel.net^|
-||ea-heizoel.com^|
 ||eacsquash.fr^|
 ||eaepp.com^|
 ||eafengrowkniveshub.com^|
@@ -9863,7 +9863,6 @@
 ||fidilityprofx.com^|
 ||field-baseball.com^|
 ||field-locomotive.com^|
-||fieldclothes.com^|
 ||fieldfurnish.com^|
 ||fieldstyleus.com^|
 ||fielgesn.shop^|
@@ -11123,6 +11122,7 @@
 ||garten-hagemann.com^|
 ||garten-heimwerken.com^|
 ||garten-outdoor.com^|
+||garten-pflanzen-pro.com^|
 ||garten-rasentraktor.com^|
 ||garten-see.de^|
 ||garten-welt.net^|
@@ -12669,6 +12669,7 @@
 ||hausttion.top^|
 ||hausundgarten.haus^|
 ||hausundgarten.latahalcom.shop^|
+||hausversand.com^|
 ||hauswelt.shop^|
 ||hautarzt-augsburg.info^|
 ||hauwuwatch.com^|
@@ -12834,7 +12835,6 @@
 ||heiz-oel24.com^|
 ||heiz-pellets24.com^|
 ||heiz-traum.com^|
-||heizco.de^|
 ||heizdirekt.de^|
 ||heizelo.de^|
 ||heizenbillig.com^|
@@ -12842,7 +12842,6 @@
 ||heizex.de^|
 ||heizfast.de^|
 ||heizfreude.de^|
-||heizfuel.de^|
 ||heizhaus-kohle.de^|
 ||heizino.de^|
 ||heizkauf.de^|
@@ -12852,7 +12851,6 @@
 ||heizl.de^|
 ||heizlager.de^|
 ||heizline.at^|
-||heizo24.de^|
 ||heizoel-24.com^|
 ||heizoel-24.eu^|
 ||heizoel-austria.com^|
@@ -15464,7 +15462,6 @@
 ||kevxxx.shop^|
 ||kewoma.com^|
 ||kewoo.shop^|
-||key34.com^|
 ||keyblissboutique.com^|
 ||keyboardpopular.com^|
 ||keycaps-vibe.com^|
@@ -18018,6 +18015,7 @@
 ||martizz.store^|
 ||martsbuy.site^|
 ||martyflo.shop^|
+||marveliona.com^|
 ||marvellies.net^|
 ||marvelous-shopping.com^|
 ||marvelovus.com^|
@@ -21416,6 +21414,7 @@
 ||orivelle-official.com^|
 ||orizegment.com^|
 ||orlend.com^|
+||orlidelo.com^|
 ||ornamentli.com^|
 ||ornamenttoy.com^|
 ||orrebol.com^|
@@ -22025,7 +22024,6 @@
 ||pateful.com^|
 ||paterry.top^|
 ||pathappiy.com^|
-||pathchop.com^|
 ||pathe-box.com^|
 ||patiokitstore.com^|
 ||patiotrue.com^|
@@ -23697,6 +23695,7 @@
 ||ragwearoutlet.de^|
 ||raharet.com^|
 ||raidntrail.com^|
+||raiffeisen-gewinn.vip^|
 ||raiffeisen-osterreich.com^|
 ||raiffeisenmeinelba.com^|
 ||raifvrkredit-at.com^|
@@ -24843,6 +24842,7 @@
 ||rreplace.com^|
 ||rromaakt.de^|
 ||rrsstore.com^|
+||rs-remorque.com^|
 ||rs2-finance.com^|
 ||rsahansuwa.shop^|
 ||rsf-services.de^|
@@ -25099,7 +25099,6 @@
 ||sale.orunning.shop^|
 ||sale.salostyle.com^|
 ||sale.salozshop.com^|
-||sale.yjfgndf.top^|
 ||saleabaseball.com^|
 ||saleabike.com^|
 ||saleactivewearstore.com^|
@@ -27376,6 +27375,7 @@
 ||sportemporiumgift.com^|
 ||sportfishtackle-de.com^|
 ||sportfrisky.com^|
+||sportgearde.com^|
 ||sportgoodsorder.com^|
 ||sporthome19.com^|
 ||sporthubonsale.com^|
@@ -27590,6 +27590,7 @@
 ||steedtrade.com^|
 ||steelcabinetsonline.com^|
 ||steelite-au.com^|
+||steelseries.com.de^|
 ||steeltoolspro.com^|
 ||steen-text.de^|
 ||stefanie-falk.at^|
@@ -29052,7 +29053,6 @@
 ||themantools.com^|
 ||themazenbest.site^|
 ||themdbuilding.com^|
-||themetcloisters.com^|
 ||themountainarea.com^|
 ||themountainbikede.com^|
 ||themountainnew.com^|
@@ -31460,6 +31460,7 @@
 ||visibleurge.com^|
 ||visinature.com^|
 ||visionarycaapital.com^|
+||visionauto-solution.com^|
 ||visionfancyclothing.com^|
 ||visionfx.me^|
 ||visionunitca.com^|
