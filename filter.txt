@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-13T23:57:54.004585Z
+! Generated: 2026-04-14T03:35:07.312340Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -962,6 +962,7 @@
 ||altituden.com^|
 ||altogelther.com^|
 ||altonaldana.com^|
+||altotrailer.com^|
 ||altoxida.com^|
 ||altradeutschland.de^|
 ||altralaufschuhe.com^|
@@ -2606,6 +2607,7 @@
 ||baugeraterabatt.com^|
 ||bauhausss.com^|
 ||bauhobby.com^|
+||bauknoten.com^|
 ||baukomps.com^|
 ||baumann-autoreifen.shop^|
 ||baumann-elektroniks.de^|
@@ -3280,6 +3282,7 @@
 ||biddletrendy.com^|
 ||bidmask.com^|
 ||bidshoping.com^|
+||bienenstock-potsdam.com^|
 ||bienll.de^|
 ||biensmix.com^|
 ||biety.store^|
@@ -3384,6 +3387,7 @@
 ||bikexlc.com^|
 ||bikexschool.de^|
 ||bikezstores.com^|
+||bikezubehoershop.com^|
 ||bikingbrand.com^|
 ||bikingears.com^|
 ||bikingfirefighter.de^|
@@ -3512,7 +3516,6 @@
 ||bison-bb.net^|
 ||bisontradepro.com^|
 ||bisuitcte.com^|
-||bit.ly/redzac-sale^|
 ||bitai-method.com^|
 ||bitaimethod.com^|
 ||bitalphaai.io^|
@@ -3885,6 +3888,7 @@
 ||boschverkauf.com^|
 ||bose.com.de^|
 ||bosegal.site^|
+||bosen-outdoor.com^|
 ||bosettichiara.com^|
 ||bosndealb.com^|
 ||bosquesanrafael.com^|
@@ -4212,6 +4216,7 @@
 ||brunetsludmila.com^|
 ||brunner-autoreifen.com^|
 ||brunner-reifenhandel.shop^|
+||brunnercampen.com^|
 ||brunnerluzern.com^|
 ||brunnerversand.de^|
 ||brunoberg.com^|
@@ -5866,6 +5871,7 @@
 ||consumptione.com^|
 ||contacttain.com^|
 ||containerbewegen.com^|
+||containercargo.shop^|
 ||containercompany.shop^|
 ||containert.com^|
 ||containtools.com^|
@@ -7176,6 +7182,7 @@
 ||dexoraoutlet.com^|
 ||dextuls.life^|
 ||dexverse.info^|
+||dexxxlutz.shop^|
 ||dezallade.com^|
 ||dezcmoi.com^|
 ||dezelia.de^|
@@ -7556,6 +7563,8 @@
 ||dommels.de^|
 ||domorgel-billerbeck.de^|
 ||domstrren.com^|
+||domuslumi.com^|
+||don-art.de^|
 ||donalfonsopucci.com^|
 ||donalovehair.de^|
 ||donbium.com^|
@@ -8808,6 +8817,7 @@
 ||ertops2021.com^|
 ||ervain.shop^|
 ||erviagas.sbs^|
+||erviagas.top^|
 ||es.agnieszkamizerak.com^|
 ||es.arielvalenzuela.com^|
 ||es.landofm.com^|
@@ -11016,6 +11026,7 @@
 ||galaxygroup.io^|
 ||galaxylicht.shop^|
 ||galeme.com^|
+||galera-markt.com^|
 ||galeria-bergmann.de^|
 ||galeriasale.de^|
 ||galeriasale.shop^|
@@ -11146,6 +11157,7 @@
 ||gartenhausmodern.com^|
 ||gartenimfreienkauf.com^|
 ||gartenira.com^|
+||gartenix.com^|
 ||gartenladende.com^|
 ||gartenlandschaftladen.com^|
 ||gartenliebe.gabinsafbiz.shop^|
@@ -11896,6 +11908,7 @@
 ||goodotisnop.click^|
 ||goodoutfitcheap.com^|
 ||goodpinky.com^|
+||goodpriceclothes.com^|
 ||goodpricedrugs.com^|
 ||goodqualitypot.com^|
 ||goodsafield.com^|
@@ -12353,6 +12366,7 @@
 ||habelieb.shop^|
 ||habeliebde.shop/^|
 ||haberfasher.com^|
+||habitataro.com^|
 ||habitatero.com^|
 ||habitatforshoes.com^|
 ||habitlaw.com^|
@@ -13504,6 +13518,7 @@
 ||homewinsome.com^|
 ||homeworkisnice.top^|
 ||homikeka.com^|
+||homilivi.com^|
 ||hominage.top^|
 ||homlsy.shop^|
 ||hommestage.com^|
@@ -13586,6 +13601,7 @@
 ||hostillca.com^|
 ||hot-mystery-deals.xyz^|
 ||hot-recharging.com^|
+||hotbikede.com^|
 ||hotboygood.site^|
 ||hotbrooks.com^|
 ||hotcamera.shop^|
@@ -14231,6 +14247,7 @@
 ||infunnelg.com^|
 ||ing-ruecker.de^|
 ||ingayoga.de^|
+||inglesinas.de^|
 ||ingolstadtmodehaus.de^|
 ||ingraew.store^|
 ||ingramfineart.com^|
@@ -14832,6 +14849,7 @@
 ||jma-heimarbeit.net^|
 ||jmilyshop.com^|
 ||jmzodb.shop^|
+||jn-recruitment.at^|
 ||jnasashop.com^|
 ||jnelr.saishu.shop^|
 ||jnhomducvn.shop^|
@@ -15436,6 +15454,7 @@
 ||kenzrpd.store^|
 ||keotgmbh.com^|
 ||keppey.com^|
+||keramikkde.pro^|
 ||kern-reifenversand.shop^|
 ||kernekom.com^|
 ||kernvogel.com^|
@@ -16246,6 +16265,7 @@
 ||lambsheepca.com^|
 ||lameox.com^|
 ||lamict.com^|
+||lamiva.de^|
 ||lamp-center.com^|
 ||lamp-hotsale.com^|
 ||lampafford.com^|
@@ -16788,6 +16808,7 @@
 ||lidltoday.com^|
 ||lidora.de^|
 ||lidoras.com^|
+||lidou.shop^|
 ||liebeart.de^|
 ||liebelibelle.de^|
 ||liebes-decke.de^|
@@ -17441,6 +17462,7 @@
 ||lukasenergie.com^|
 ||lukaslerchner.at^|
 ||lukasmullerwelpenzuhause.com^|
+||lukasplazapauls.shop^|
 ||lukemann.de^|
 ||lukguide.com^|
 ||lukmall.shop^|
@@ -18200,6 +18222,7 @@
 ||mechanicsn.com^|
 ||mechanit.top^|
 ||meclothly.com^|
+||mecomic.de^|
 ||med-care.space^|
 ||med-direkt.com^|
 ||med-es.com^|
@@ -19697,6 +19720,7 @@
 ||nartionwant.com^|
 ||nasablitarn.top^|
 ||nasamesh.com^|
+||nasarise-plush.com^|
 ||naschmarkt-bier.at^|
 ||nasentia.de^|
 ||naserusecom.com^|
@@ -19863,6 +19887,7 @@
 ||nestkraft.de^|
 ||nestleena.com^|
 ||nestleovae.com^|
+||nestmypad.com^|
 ||nestproh.com^|
 ||nestrack.shop^|
 ||nestyheim.de^|
@@ -20143,6 +20168,7 @@
 ||nicetechpro.com^|
 ||nicetoolpalace.com^|
 ||niceusopp.com^|
+||nicheforge.com^|
 ||nichespares.com^|
 ||nicheten.com^|
 ||nicikuscheltiere.com^|
@@ -20983,6 +21009,7 @@
 ||onclouddeutschland.com^|
 ||onclouddeutschlande.com^|
 ||onclouddubai.com^|
+||oncloudoutlet.at^|
 ||onclouds.us.com^|
 ||oncloudschuhe.at^|
 ||oncloudshoeoutlet.com^|
@@ -23501,6 +23528,7 @@
 ||quasiant.top^|
 ||quatalitive.com^|
 ||quatclub.com^|
+||qubira.shop^|
 ||quechasult.com^|
 ||queckone.com^|
 ||queen-sparkles.com^|
@@ -23768,6 +23796,7 @@
 ||rasenmaherwendik.de^|
 ||rasenmotor.com/^|
 ||rasenshop24.com^|
+||rasenstolz.com^|
 ||rases.work^|
 ||rasition.top^|
 ||rasossidi.com^|
@@ -24243,6 +24272,7 @@
 ||removean.top^|
 ||renaissancepartners.org^|
 ||renatehilfe.com^|
+||rene-verlag.com^|
 ||renemoney444.m.ec21.com^|
 ||renery.top^|
 ||renetverito.com^|
@@ -25687,6 +25717,7 @@
 ||schuhe-onsaleshop.com^|
 ||schuhe-unisa.de^|
 ||schuhe.schachfuerstenfeld.at^|
+||schuhebaer.com^|
 ||schuhebullboxer.de^|
 ||schuhechoice.com^|
 ||schuheclarks.de^|
@@ -25743,6 +25774,7 @@
 ||schwarzseide.myshopify.com^|
 ||schweden-hus.at^|
 ||schwedenwanderung.de^|
+||schwedler-apotheken.de^|
 ||schweissplattenzubehoerde.shop/^|
 ||schweiz-neumarkt.com^|
 ||schweizaktuell-news.com^|
@@ -25926,6 +25958,7 @@
 ||selltr.com^|
 ||sellxt.online^|
 ||selmarketool.shop^|
+||selorentiva.com^|
 ||selphymade.de^|
 ||sem-solar.de^|
 ||semahomesale.com^|
@@ -27041,6 +27074,7 @@
 ||sol-staking.com^|
 ||sola-mode.de^|
 ||solaceous.top^|
+||solamira.de^|
 ||solamyc.com^|
 ||solandis.com^|
 ||solanik.de^|
@@ -29486,6 +29520,7 @@
 ||tonda-reifen.com^|
 ||tondeusediscount.com^|
 ||tonedo.de^|
+||tonies-de.com^|
 ||tonies-geschaft.com^|
 ||tonies-rabatt.com^|
 ||tonies-rabattpreis.com^|
@@ -31277,6 +31312,7 @@
 ||vevor.de^|
 ||vevorstore.net^|
 ||vewens.de^|
+||vexiebox.myshopify.com^|
 ||vexorfitness.com^|
 ||vexxsel.online^|
 ||veyegr.com^|
@@ -31333,6 +31369,7 @@
 ||victoroutlet.de^|
 ||victoryshop.shop^|
 ||vidageneral.com^|
+||vidalivi.com^|
 ||videoastrum.net^|
 ||videohobbies.com^|
 ||videowalca.com^|
@@ -31482,6 +31519,7 @@
 ||vitalshieeld.com^|
 ||vitalvigoury.com^|
 ||vitamin-schmiede24.de^|
+||vitanourishhub.com^|
 ||vitawellshop.shop^|
 ||vitev.net^|
 ||vitkovice.net^|
@@ -31808,6 +31846,7 @@
 ||waermewald.de^|
 ||waffeleisende.com^|
 ||waffen-outdoor.com^|
+||waffenlager.com^|
 ||waffenundjagdwelt.com^|
 ||wafhong.shop^|
 ||wafturef.com^|
@@ -32215,6 +32254,7 @@
 ||werke-anhangers.com^|
 ||werkgeist.com^|
 ||werkvoorraden.com^|
+||werkzeug-brandl.com^|
 ||werkzeug-salesshop.com^|
 ||werkzeug-und-maschinen.com^|
 ||werkzeug-zuhr.de^|
