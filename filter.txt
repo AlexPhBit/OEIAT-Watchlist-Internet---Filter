@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-14T23:57:46.570105Z
+! Generated: 2026-04-15T03:33:55.561373Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1729,6 +1729,8 @@
 ||asfmeqrs.cfd^|
 ||asfnagvignette.sa.com^|
 ||asfnneghs.cyou^|
+||asfrnagi.beer^|
+||asfrnagi.lat^|
 ||asfuinsag.info^|
 ||asgeirpetursson.com^|
 ||ash-modern.com^|
@@ -5915,6 +5917,7 @@
 ||cookwareretail.space^|
 ||coolactionca.com^|
 ||coolbuysite.com^|
+||coolgin.com^|
 ||cooling-ace.de^|
 ||coollightus.com^|
 ||coolriverside.com^|
@@ -6509,7 +6512,6 @@
 ||dasfurnilux.myshopify.com^|
 ||dashausderjuwelenosterreich.com^|
 ||dashdeals.de^|
-||dashlogic.com^|
 ||dashuepfenkomma.shop^|
 ||daskarnevalkostuem.de^|
 ||dasleselabor.com^|
@@ -6894,6 +6896,7 @@
 ||dekorationenrabatt.com^|
 ||dekorationsbillig.com^|
 ||dekorationsmeister.com^|
+||dekorativeholzprodukte.com^|
 ||dekovasen.com^|
 ||dekucherabatt.com^|
 ||delaamoebel.shop/^|
@@ -8182,6 +8185,7 @@
 ||edpills.de^|
 ||edpillsmed.com^|
 ||edpilulanetwork.com^|
+||edreamtrips.com^|
 ||edrxmeds.com^|
 ||edsale.top^|
 ||edsheeranus.com^|
@@ -8850,6 +8854,7 @@
 ||esmartfinance.ltd^|
 ||esmeraldaworld.com^|
 ||esmitfandb.com^|
+||esn-fitness.com^|
 ||esnsupply.shop^|
 ||esoftn.shop^|
 ||esotecs.com^|
@@ -9656,6 +9661,7 @@
 ||fasty-revolution.com^|
 ||fat.lwesll.top^|
 ||fatbike-de.com^|
+||fatburner-guru.de^|
 ||fatburners.at^|
 ||fatea.shop^|
 ||fatechamp.com^|
@@ -11765,6 +11771,7 @@
 ||gnope.com^|
 ||gnstigemedikamenteonlinekaufen.com^|
 ||gnstores.shop^|
+||go-campingmaster.com^|
 ||go-dynergy.com^|
 ||go-elsim.com^|
 ||goadapter.com^|
@@ -11963,6 +11970,7 @@
 ||gotobedroom.com^|
 ||gotpharma.net^|
 ||gotrax.store^|
+||gotshod.monster^|
 ||gotteeshirts.live^|
 ||gottesiemen.com^|
 ||gourdonboutique.com^|
@@ -12376,7 +12384,6 @@
 ||hackettaustria.at^|
 ||hackettlondonde.com^|
 ||hackettoutlets.com^|
-||hackmann-heizoel.de^|
 ||hadadypoor.com^|
 ||haden.at^|
 ||hadiahslotlogin.com^|
@@ -12742,6 +12749,7 @@
 ||healthful-pills.com^|
 ||healthpharmrx365.net^|
 ||healthproducts-sales.com^|
+||healthroutine.com^|
 ||healthskiing.com^|
 ||healthstockoff.com^|
 ||healththrivewith.com^|
@@ -13054,6 +13062,7 @@
 ||herzbegehrtduesseldorf.shop^|
 ||herzens-mensch.de^|
 ||herzensnotiz.de^|
+||herzfunken.com^|
 ||herzkissenmallin.de^|
 ||herzklang-tirol.at^|
 ||herzmitliebe.de^|
@@ -13068,6 +13077,7 @@
 ||heuer-reifenhandel.com^|
 ||heuselaw.de^|
 ||heuser-garderobe.de^|
+||heute-horoskope.de^|
 ||heveganl.com^|
 ||hexagonresources.org^|
 ||heydearde.shop/^|
@@ -13297,7 +13307,6 @@
 ||hoiyon.com^|
 ||hojreel.com^|
 ||hoka--shoes.com^|
-||hoka-italia.it^|
 ||hokaat.co.at^|
 ||hokaaustria.com^|
 ||hokaaustriaonline.com^|
@@ -13675,6 +13684,7 @@
 ||household-onsale.com^|
 ||householdcheap.com^|
 ||householdchic.com^|
+||householdessentialslab.com^|
 ||householdexclusive.com^|
 ||householdnice.com^|
 ||householdrefrigerator.com^|
@@ -14379,6 +14389,7 @@
 ||interactionm.com^|
 ||interactiony.com^|
 ||interactp.com^|
+||interarino.com^|
 ||interestingchild.com^|
 ||interexpressway.com^|
 ||interharbours.com^|
@@ -14787,6 +14798,7 @@
 ||jeveray.com^|
 ||jevolo-de.com^|
 ||jewellery-palace.com^|
+||jewelleryina.com^|
 ||jeweloptimal.com^|
 ||jewelry-fine.com^|
 ||jewelrycherish.com^|
@@ -15780,6 +15792,7 @@
 ||klhooq.com^|
 ||klick-ndb.de^|
 ||klima-bonus.app^|
+||klimabonus2026.at^|
 ||klimmotorrad.com^|
 ||kling-rasenmaher.com^|
 ||klingerdirndl.com^|
@@ -15942,6 +15955,7 @@
 ||kontomeinelbaraiffeisen.com^|
 ||kontoraiffeisenmeinelba.com^|
 ||kontoverlaengerung.com^|
+||koochand.com^|
 ||koodakde.shop^|
 ||koohahant.com^|
 ||koomilised.shop^|
@@ -16029,6 +16043,7 @@
 ||krktz-m9pwrf3k.top^|
 ||krnbcase.com^|
 ||krobboshop.de^|
+||kronberg-partner.de^|
 ||kronbergwien.at^|
 ||kronenstil.de^|
 ||kronwald-mode.de^|
@@ -16846,6 +16861,7 @@
 ||lifesattributes.de^|
 ||lifestyle-brands-us.com^|
 ||lifestylebicycle.com^|
+||lifestylemallshop.com^|
 ||lifestyleshoe.com^|
 ||liformedeutschland.com^|
 ||liformedeutschlands.com^|
@@ -17927,6 +17943,7 @@
 ||marielundpromo.com^|
 ||marielundverkauf.com^|
 ||mariemhd.com^|
+||marien-apotheken.de^|
 ||mariett-mode.de^|
 ||mariliarho.com^|
 ||marilynrng.com^|
@@ -18131,6 +18148,7 @@
 ||maxiquercy.com^|
 ||maxmarasite.com^|
 ||maxmarastyle.shop^|
+||maxpeedingrods.de^|
 ||maxpotenz.de^|
 ||maxtravel.at^|
 ||maxuptrade.org^|
@@ -18709,6 +18727,7 @@
 ||millaroem.com^|
 ||milleniumtradenetwork.com^|
 ||millimetrey.com^|
+||million-recht.de^|
 ||millioncrystal.com^|
 ||millwoodshomege.com^|
 ||millyhomepool.com^|
@@ -20454,6 +20473,7 @@
 ||novant.fr^|
 ||novarixtrader.net^|
 ||novasabers.de^|
+||novateki.com^|
 ||novator-consulting.com^|
 ||novatrustmarket.com^|
 ||novelbuys.com^|
@@ -21798,6 +21818,7 @@
 ||ovially.top^|
 ||ovodeutschland.com^|
 ||ovonas-x.com^|
+||ovrise.com^|
 ||ovrtkbndit.com^|
 ||ovura-store.com^|
 ||ovxh.schimmelpeter.cz^|
@@ -25348,6 +25369,7 @@
 ||salvatoria.de^|
 ||salzana.de^|
 ||salzar.store^|
+||salzburg-atelier.at^|
 ||salzburg-outlet.at^|
 ||salzburgapotheke.com^|
 ||salzburgmode.at^|
@@ -26729,7 +26751,6 @@
 ||sivanitanerland.com^|
 ||sivhome.com^|
 ||siwetr.com^|
-||siwgm.holdenouterwear.shop^|
 ||sixcv.shop^|
 ||sixgun.datevote.shop^|
 ||sixtrading.net^|
@@ -27363,7 +27384,6 @@
 ||spinvest.group^|
 ||spiralo.de^|
 ||spiretime.com^|
-||spirg.rwecanje.cyou^|
 ||spirit-tattoo.at^|
 ||spirits-official.com^|
 ||spiritualsalt.co^|
@@ -29689,6 +29709,7 @@
 ||topeuro-shop.com^|
 ||topfahrradzubehor.com^|
 ||topfastget.com^|
+||topfelite.shop^|
 ||topfewo.com^|
 ||topfingerboardstore.shop^|
 ||topglas.shop/^|
@@ -30342,6 +30363,7 @@
 ||uaccuve.com^|
 ||uaddylotto.top^|
 ||uaedisscount.com^|
+||uaeteampissei.team^|
 ||ualaswaq.com^|
 ||uaqcx.shop^|
 ||uastudioshop.com^|
@@ -31305,6 +31327,7 @@
 ||vetenade.com^|
 ||vetntilate.com^|
 ||vetola.de^|
+||vetretto.myshopify.com^|
 ||vetriebs-center.de^|
 ||vetrinecubi.com^|
 ||vetter-reifenhandel.com^|
@@ -31373,6 +31396,7 @@
 ||videoastrum.net^|
 ||videohobbies.com^|
 ||videowalca.com^|
+||vidiofy.co^|
 ||vidmason.com^|
 ||vielfaltonlineshop.com^|
 ||vienna-ag.at^|
@@ -31838,7 +31862,6 @@
 ||vzafiradev.shop^|
 ||w.store-mvp.shop^|
 ||w.unisosterreich.shop^|
-||wabp.sleepysheepy.shop^|
 ||wachstuchshop24.shop^|
 ||waco-logistics.com^|
 ||wadada.online^|
@@ -31919,7 +31942,6 @@
 ||wanduhru.de^|
 ||wangzze.top^|
 ||wanlibiggarig.com^|
-||wanlongxin1.com^|
 ||wannapeas.com^|
 ||wannounce.com^|
 ||wanparky.com^|
