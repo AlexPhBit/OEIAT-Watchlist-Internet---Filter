@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-15T23:25:03.750521Z
+! Generated: 2026-04-16T00:08:37.310348Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1969,7 +1969,6 @@
 ||auraterraplaza.com^|
 ||aureamunich.de^|
 ||aurelllc.com^|
-||aurendal.com^|
 ||aurevo-fashion.com^|
 ||aurgkb.com^|
 ||auriaofficiel.com^|
@@ -4552,6 +4551,7 @@
 ||callqzq.com^|
 ||calmdetox-shop.com^|
 ||calmsnerves.com^|
+||calmstructure.com^|
 ||calocalsale.com^|
 ||calorie-active.ernahrungsweg.de^|
 ||calvira.de^|
@@ -4686,6 +4686,7 @@
 ||capital500.eu^|
 ||capital888.net^|
 ||capitalcorpasset.com^|
+||capitalexpressmetatrade.net^|
 ||capitalfair.co^|
 ||capitalinvestmentreviews.com^|
 ||capitallabs.net^|
@@ -8345,6 +8346,7 @@
 ||electrikbbq.com^|
 ||electro-boss.shop^|
 ||electro-deal.fr^|
+||electro-redeker.de^|
 ||electro-worlds.shop^|
 ||electrodeal.shop^|
 ||electrogaiety.com^|
@@ -12402,6 +12404,7 @@
 ||hahaishow.com^|
 ||hahalandsale.shop^|
 ||hahn-autoreifen.shop^|
+||hahncontainer.de^|
 ||haidyjameson.com^|
 ||haifrisrr.com^|
 ||haiolla.com^|
@@ -16538,6 +16541,7 @@
 ||lebenreuder.com^|
 ||lebens-glanz.com^|
 ||lebens-traum.at^|
+||lebensartikel.com^|
 ||lebensenerqi.at^|
 ||lebensguter.com^|
 ||lebenskompassde.shop^|
@@ -19007,6 +19011,7 @@
 ||modehausravensburg.com^|
 ||modehauswieser.myshopify.com^|
 ||modeheimverkauf.com^|
+||modeir-modehaus.de^|
 ||modeis24.shop^|
 ||modeish.com^|
 ||modekick.com^|
@@ -20137,6 +20142,7 @@
 ||nexet.xyz^|
 ||nexity-assets.com^|
 ||nexoil.de^|
+||nexolc.com^|
 ||next-bricks.com^|
 ||nextcareerflow.online^|
 ||nextchain.at^|
@@ -21571,6 +21577,7 @@
 ||ottoversand-at.com^|
 ||ottowhale.com^|
 ||ottoxa.com^|
+||ottoxaus.net^|
 ||ouacctv.com^|
 ||oubeaute.de^|
 ||oud.sint-janscollege.be^|
@@ -22693,6 +22700,7 @@
 ||plusfighting.com^|
 ||plusfootwearus.com^|
 ||plusforski.com^|
+||plushroomdesign.com^|
 ||plushshop.com^|
 ||plushy-lucky.co.uk^|
 ||plusknivesus.com^|
@@ -27731,6 +27739,7 @@
 ||stilvollesgeschirr.com^|
 ||stilvollherr.de^|
 ||stimeyou.com^|
+||stinco-insolvenz.de^|
 ||sting-ring.de^|
 ||stitchcompagnon.store^|
 ||stitchfia.com^|
@@ -30727,6 +30736,7 @@
 ||usdoggiedelight.com^|
 ||usdtgsr.icu^|
 ||usdurabletools.com^|
+||use.ai^|
 ||useclecticshop.com^|
 ||usedgyraiment.com^|
 ||uselarge.com^|
@@ -31126,6 +31136,7 @@
 ||vegarpedersen.com^|
 ||vegetationk.com^|
 ||vehicleaftermarketpart.com^|
+||vehiclepartmart.com^|
 ||vehicles-onsale.com^|
 ||veimul.shop^|
 ||veit-insolvenz.de^|
@@ -31393,6 +31404,7 @@
 ||victoryshop.shop^|
 ||vidageneral.com^|
 ||vidalivi.com^|
+||vidaserenahogar.com^|
 ||videoastrum.net^|
 ||videohobbies.com^|
 ||videowalca.com^|
@@ -32701,6 +32713,7 @@
 ||workshlutch.com^|
 ||workshop-equip.com^|
 ||workshopgearonline.com^|
+||workysander.shop^|
 ||world-catering.com^|
 ||world-medic-store.com^|
 ||world-trendy.com^|
