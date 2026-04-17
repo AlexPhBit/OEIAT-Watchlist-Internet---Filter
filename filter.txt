@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-16T23:50:59.833450Z
+! Generated: 2026-04-17T03:29:38.994327Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -307,6 +307,7 @@
 ||acmefurnitureus.com^|
 ||acmehomesale.com^|
 ||acmejoyde.shop/^|
+||acmesalehvqm.click^|
 ||acontador.top^|
 ||acoryxgroup.com^|
 ||acprdcu.com^|
@@ -389,6 +390,7 @@
 ||adjoningtem.com^|
 ||adl.dimelux.top^|
 ||adl.fcnqy.shop^|
+||adl.iuvxvo.shop^|
 ||adl.jccjm.shop^|
 ||adl.lreubk.shop^|
 ||adl.okhxm.shop^|
@@ -1335,6 +1337,7 @@
 ||aobjektif.shop^|
 ||aoc-ottica.it^|
 ||aodlchangwangyj.jxckd.shop^|
+||AOFEIDA.COM^|
 ||aoifede.com^|
 ||aoohoo.shop^|
 ||aoshimamodel.com^|
@@ -5264,6 +5267,7 @@
 ||chillgod.com^|
 ||chilllady.com^|
 ||chillup.at^|
+||chimballsas.com^|
 ||china-hifi-audio.com^|
 ||chippewa--boots.com^|
 ||chipworley.com^|
@@ -5324,6 +5328,7 @@
 ||church.tjhhylh.com^|
 ||chusaldrey.com^|
 ||chuteboardsale.com^|
+||chxskfar.shop^|
 ||chytah.com^|
 ||ciacrleurnt.com^|
 ||cialis-online20mg.online^|
@@ -5427,6 +5432,7 @@
 ||classicagacampolin.com^|
 ||classicbeaglepuppieshome.com^|
 ||classiccitychic.com^|
+||classicdesignoutlet.com^|
 ||classicfinery.com^|
 ||classicmopedde.shop/^|
 ||classicsandalsonline.com^|
@@ -6224,6 +6230,7 @@
 ||crystoramalight.com^|
 ||cs-pharmacy.net^|
 ||csbdbuy.com^|
+||csbsts.site^|
 ||csebasoft.com^|
 ||cserveni.at^|
 ||csfenagp.icu^|
@@ -7292,6 +7299,7 @@
 ||digisingl.ru^|
 ||digiszone.com^|
 ||digitaldeptstore.com^|
+||digitale-horoskope.de^|
 ||digitale-vignette-online.at^|
 ||digitaler-euro.com.de^|
 ||digitalmarkt.online^|
@@ -8390,6 +8398,7 @@
 ||elektriker-zone.at^|
 ||elektriker.fink24.info^|
 ||elektriker.kv-service.at^|
+||elektriker.lindens.at^|
 ||elektriker.pavlik24.at^|
 ||elektriker7d.at^|
 ||elektro-bohmer.com^|
@@ -8415,6 +8424,7 @@
 ||elektronische-strasse.com^|
 ||elektronlinestore.com^|
 ||elektroschanze.com^|
+||elektrosde.com^|
 ||elektrosuess.at^|
 ||elektrotop-shop.com^|
 ||elektrowellen.com^|
@@ -12005,6 +12015,7 @@
 ||gradine.top^|
 ||graefde.com^|
 ||graf-collegen.com^|
+||graf-collegen.de^|
 ||graf-wien.com^|
 ||grafosignsv.com^|
 ||granadabelekhotel.com^|
@@ -14348,6 +14359,7 @@
 ||installateur.artpro-24.pro^|
 ||installateur.hilfe-24.at^|
 ||installateur.jvb24.at^|
+||installateur.lindens.at^|
 ||installateur.pavlik24.at^|
 ||installateur.prs247.tech^|
 ||installateur.werbe-koc.at^|
@@ -15796,6 +15808,7 @@
 ||klick-ndb.de^|
 ||klima-bonus.app^|
 ||klimabonus2026.at^|
+||klimakaelteprofi.com^|
 ||klimmotorrad.com^|
 ||kling-rasenmaher.com^|
 ||klingerdirndl.com^|
@@ -16825,6 +16838,7 @@
 ||lidlpod.com^|
 ||lidlshopelysium.com^|
 ||lidltoday.com^|
+||lidnz.shop^|
 ||lidora.de^|
 ||lidoras.com^|
 ||lidou.shop^|
@@ -17187,6 +17201,7 @@
 ||logtgg.com^|
 ||logvoyage.com^|
 ||lohninger-irrsee.at^|
+||lohr-treuhand.com^|
 ||lojgxdixo.com^|
 ||lokalversand.nl^|
 ||lokalweert.de^|
@@ -17684,6 +17699,7 @@
 ||madeinbremenstore.shop^|
 ||madeinkcde.shop^|
 ||madeleine-issing.com^|
+||madepants.de^|
 ||madfjtlfd.top^|
 ||madfriesq.com^|
 ||madhukaal.com^|
@@ -18265,6 +18281,7 @@
 ||mediaxim.com^|
 ||medibus.at^|
 ||medicalandbeautycare.com^|
+||medicalapotheke.com^|
 ||medicalbasic.de^|
 ||medicamententreparticulier.com^|
 ||medicine73.com^|
@@ -18409,6 +18426,7 @@
 ||meistergrill24.de^|
 ||meistergroup.shop^|
 ||meisterkuchen-pro.de^|
+||meistervolt.de^|
 ||meiyunz.com^|
 ||mekiepshop.com^|
 ||mekikb.com^|
@@ -19285,6 +19303,7 @@
 ||motivatew.com^|
 ||motivationlinkca.com^|
 ||moto-discounts-germany.com^|
+||moto-teile24.com^|
 ||motoadren.com^|
 ||motoculturedirecte.com^|
 ||motoglobal-trucking.com^|
@@ -19892,6 +19911,7 @@
 ||neolineus.com^|
 ||neopass.de^|
 ||neosysco.com^|
+||neotechix.com^|
 ||neoveris.shop^|
 ||neowatt.shop^|
 ||nepalnet.de^|
@@ -19910,6 +19930,7 @@
 ||nest0.shop^|
 ||nestkraft.de^|
 ||nestleena.com^|
+||nestleix.com^|
 ||nestleovae.com^|
 ||nestmypad.com^|
 ||nestproh.com^|
@@ -20573,6 +20594,7 @@
 ||nursingsale.store^|
 ||nurssery.com^|
 ||nurulamal.com^|
+||nusalemqjxy.click^|
 ||nutboat.co.uk^|
 ||nutrimcaps.com^|
 ||nuttytoolpart.com^|
@@ -20604,6 +20626,7 @@
 ||nyhead.atsearch.shop^|
 ||nyhead.bookfocus.surf^|
 ||nyhead.costswant.baby^|
+||nyhead.localdraw.shop^|
 ||nyhead.morepush.shop^|
 ||nyhead.openwind.shop^|
 ||nyhead.rulefit.baby^|
@@ -20916,6 +20939,7 @@
 ||okbon.de^|
 ||oketofit.com^|
 ||okfitness.at^|
+||okhat.fundtable.shop^|
 ||okjordans.com^|
 ||okmbure.shop^|
 ||oko-heizung.com^|
@@ -24604,6 +24628,7 @@
 ||rituals-outlet.shop^|
 ||rituals-prize.com^|
 ||ritualsbdays.com^|
+||ritualsfaces.com^|
 ||ritualshopper.com^|
 ||ritualsorganic.com^|
 ||ritualsoutlets.com^|
@@ -25785,6 +25810,7 @@
 ||schumann-reifen.com^|
 ||schurianpartner.at^|
 ||schusselprada.com^|
+||schuster-kanzlei.de^|
 ||schuster-wien.at^|
 ||schusters-handel.de^|
 ||schutz-mode.de^|
@@ -26544,6 +26570,7 @@
 ||shopsbossclearan.de^|
 ||shopsbreast.com^|
 ||shopsenduro.com^|
+||shopsgogo.shop^|
 ||shopskisnowboard.com^|
 ||shopsmountain.com^|
 ||shopsnowski.com^|
@@ -31220,6 +31247,7 @@
 ||venority.de^|
 ||venoswears.de^|
 ||vensix.shop^|
+||ventechatgpt.com^|
 ||ventilatoroase.myshopify.com^|
 ||ventrafx.com^|
 ||ventrary.top^|
@@ -32077,6 +32105,7 @@
 ||wbotian.com^|
 ||wbr-freizeitwelt.de^|
 ||wbrandplus.shop^|
+||wbymall.store^|
 ||wbysocket.com^|
 ||wcasasanremo.com^|
 ||wcomprasur.com^|
@@ -32116,6 +32145,7 @@
 ||wearshapeup.com^|
 ||wearslifestyle.com^|
 ||wearsproducts.com^|
+||wearstepz.com^|
 ||wearstudios.com^|
 ||wearsunique.com^|
 ||weastde.com^|
@@ -32381,6 +32411,7 @@
 ||whiindia.org^|
 ||whileics.top^|
 ||whilester.top^|
+||whipl.de^|
 ||whiskertails.com^|
 ||whiskybests.com^|
 ||whiskysorten.com^|
