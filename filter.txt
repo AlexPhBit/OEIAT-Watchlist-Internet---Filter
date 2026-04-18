@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-17T23:54:27.774537Z
+! Generated: 2026-04-18T03:17:40.486752Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1232,6 +1232,7 @@
 ||animaltoys-shop.com^|
 ||animationsummer.at^|
 ||animefigure.de^|
+||animefigureworld.com^|
 ||animestorify.com^|
 ||animesuperstore.shop^|
 ||animive.xyz^|
@@ -1458,7 +1459,6 @@
 ||apple-ui.com^|
 ||appleacceseriesshop.com^|
 ||appleeden.de^|
-||appleofedenshoes.shop^|
 ||appliance-bertazzoni.com^|
 ||appliancesbertazzoni.com^|
 ||appliancesbest.com^|
@@ -1831,6 +1831,7 @@
 ||at-upwork.site^|
 ||at.collectory.se^|
 ||at.curalise.com^|
+||at.eeelgnte.shop^|
 ||at.esrlive.com^|
 ||at.flexumgel-official.shop^|
 ||at.gluconv.com^|
@@ -4074,6 +4075,7 @@
 ||brennholzdirekt.com^|
 ||brennholzdoeg.com^|
 ||brennholzfolgner.com^|
+||brennholzhalberstad.com^|
 ||brennholzhandelnhn.com^|
 ||brennholzkaufende.shop^|
 ||brennholzkiefer.com^|
@@ -8834,6 +8836,7 @@
 ||ervain.shop^|
 ||erviagas.sbs^|
 ||erviagas.top^|
+||erzgebirger-uhrwerk.com^|
 ||es.agnieszkamizerak.com^|
 ||es.arielvalenzuela.com^|
 ||es.landofm.com^|
@@ -11627,6 +11630,7 @@
 ||gisellechule.co.uk^|
 ||gisemo.com^|
 ||gitarrenheld.at^|
+||gitarreundklavier.com^|
 ||giulianatafferini.com^|
 ||giulitelr.com^|
 ||giunews.com^|
@@ -13321,6 +13325,7 @@
 ||hoiyon.com^|
 ||hojreel.com^|
 ||hoka--shoes.com^|
+||hoka-schuhe.de^|
 ||hokaat.co.at^|
 ||hokaaustria.com^|
 ||hokaaustriaonline.com^|
@@ -25667,6 +25672,7 @@
 ||schlosszone.at^|
 ||schluesseldienst-hilfe.at^|
 ||schluesseldienst-hilft.at^|
+||schluesseldienst.platz-1.at^|
 ||schluesseldienst123.at^|
 ||schluesseldienstinwien.at^|
 ||schlummerkids.de^|
@@ -26295,6 +26301,7 @@
 ||shoessitepro.com^|
 ||shoessoutlet.store^|
 ||shoessports-shop.com^|
+||shoessura.com^|
 ||shoestopsell.store^|
 ||shoesummerldis.com^|
 ||shoesusbrand.com^|
@@ -30646,6 +30653,7 @@
 ||urbandecostyle.com^|
 ||urbanfahrt.de^|
 ||urbanflarehub.com^|
+||urbanfurnicraft.com^|
 ||urbanhugo.com^|
 ||urbanoutletstores.com^|
 ||urbeauty4u.org^|
@@ -31212,6 +31220,7 @@
 ||velocityh.com^|
 ||veloclublouhannais.com^|
 ||velodirectstore.de^|
+||velonawarehouse.com^|
 ||velora-mode.de^|
 ||velorin.de^|
 ||velorria.com^|
@@ -31447,6 +31456,7 @@
 ||viennaaustrohotel.com^|
 ||viennadecor.online^|
 ||viennameerschaum.com^|
+||viennamode.com^|
 ||viennamodehaus.at^|
 ||viennareps.com^|
 ||viennastil.at^|
@@ -33133,6 +33143,7 @@
 ||yolanle.com^|
 ||yolkkl.shop^|
 ||yonexosterreich.com^|
+||yonexs.at^|
 ||yongset.shop^|
 ||yonkine.com^|
 ||yoocaa.com^|
@@ -33275,6 +33286,7 @@
 ||zapfie.shop^|
 ||zapom.de^|
 ||zapzoii.top^|
+||zaqqshoes.com^|
 ||zaqqstore.com^|
 ||zaradum.com^|
 ||zaradum.de^|
