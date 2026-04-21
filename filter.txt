@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-20T23:23:50.129366Z
+! Generated: 2026-04-21T00:08:01.344386Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -577,6 +577,7 @@
 ||ahtaidu.com^|
 ||ahtavin.com^|
 ||ahyokaboutique.com^|
+||ai-horoskope.de^|
 ||aiapp2025.com^|
 ||aicheleholzgmbh.de^|
 ||aidanmattoxdress.com^|
@@ -1214,6 +1215,7 @@
 ||anhanger360.com^|
 ||anhangercenter.com^|
 ||anhangerdienst.com^|
+||anhangermaschinen.com^|
 ||anhangerplus.com^|
 ||anhangerr.com^|
 ||anhangershop-24.com^|
@@ -1708,6 +1710,7 @@
 ||asfinag.life^|
 ||asfinag.live^|
 ||asfinag.me^|
+||asfinag.sbs^|
 ||asfinag.shop^|
 ||asfinag.today^|
 ||asfinaga.com^|
@@ -2344,6 +2347,7 @@
 ||baffinstiefels.com^|
 ||bag-handmade.com^|
 ||bag-owner.com^|
+||bag-promo.com^|
 ||bagarian.top^|
 ||bagduffel.com^|
 ||bagenjoy.com^|
@@ -3202,6 +3206,7 @@
 ||betrugsbekampfer.com^|
 ||betrugsdezernat.com^|
 ||betrugsdezernat.org^|
+||betrugsexperten.de^|
 ||betrugsrecht.de^|
 ||bettdeckenkissen.com^|
 ||bettenfist.com^|
@@ -4077,6 +4082,7 @@
 ||brennholzfolgner.com^|
 ||brennholzhalberstad.com^|
 ||brennholzhandelnhn.com^|
+||brennholzhoffmich.com^|
 ||brennholzkaufende.shop^|
 ||brennholzkiefer.com^|
 ||brennholzmeister.de^|
@@ -5188,6 +5194,7 @@
 ||chicballus.com^|
 ||chicboho.com^|
 ||chicchaussure.com^|
+||chicco.com.de^|
 ||chiccondor.com^|
 ||chiccouturez.com^|
 ||chiccratethe.com^|
@@ -5381,6 +5388,7 @@
 ||cityraderschritte.com^|
 ||cityshops.at^|
 ||ciunw.com^|
+||civ-vertrieb.de^|
 ||civasan.ca^|
 ||civature.top^|
 ||civey.at^|
@@ -5459,6 +5467,7 @@
 ||clausrothe.de^|
 ||clayood.com^|
 ||clayshop.shop/^|
+||cleanavio.com^|
 ||cleancarpet.store^|
 ||cleancorner.store^|
 ||cleanserprada.com^|
@@ -6298,6 +6307,7 @@
 ||curvedream.de^|
 ||curveif.com^|
 ||curving.top^|
+||cusb4.com^|
 ||cusewin.cc^|
 ||cushygait.com^|
 ||custably.com^|
@@ -6406,6 +6416,7 @@
 ||dachtraegeronline.com^|
 ||dachvr.okologischrlw.cyou^|
 ||dackelfreude.shop/^|
+||dackeltraum.com^|
 ||dackelwelpen.at^|
 ||dadashopk.com^|
 ||dadofthree.com^|
@@ -7830,6 +7841,7 @@
 ||drugs-36.com^|
 ||drugs247.net^|
 ||drumcovere.com^|
+||drune.de^|
 ||druseal.com^|
 ||druvia.shop^|
 ||drxon.de^|
@@ -7860,6 +7872,7 @@
 ||dtlhsa.com^|
 ||dts-werbeagentur.de^|
 ||dualsuns.com^|
+||dualtron-scooters.com^|
 ||dualtronpower.shop^|
 ||duannbbm.com^|
 ||duarilly.com^|
@@ -8016,6 +8029,7 @@
 ||easyeveryca.com^|
 ||easyfiles.io^|
 ||easyfsala.com^|
+||easylivora.com^|
 ||easymove-eu.com^|
 ||easyoel.net^|
 ||easyoil24.de^|
@@ -8394,6 +8408,7 @@
 ||elektriker-fischer.at^|
 ||elektriker-fritz.de^|
 ||elektriker-hilfe.at^|
+||elektriker-hoffmeyer.de^|
 ||elektriker-john.at^|
 ||elektriker-koc.at^|
 ||elektriker-notdienstwien.com^|
@@ -10342,6 +10357,9 @@
 ||fnepf.greekblackberries.com^|
 ||fngalaxy.de^|
 ||fnpmarkets.co^|
+||foamr.ch^|
+||foamr.de^|
+||foamr.nl^|
 ||focusedskiing.com^|
 ||fodgramstar.com^|
 ||foeger.shop^|
@@ -10715,6 +10733,7 @@
 ||fuehrungszeugnis-service.eu^|
 ||fuehrungszeugnis.at^|
 ||fuelglovet.com^|
+||fuelmeister.de^|
 ||fuelta.co^|
 ||fuensid.com^|
 ||fuesschentraeume.de^|
@@ -12529,6 +12548,7 @@
 ||handtoolworld.com^|
 ||handwerkspark.com^|
 ||handwerkzeugshop.com^|
+||handy-horoskope.de^|
 ||handy-hotels.at^|
 ||handyfamilytool.com^|
 ||handygearstore.com^|
@@ -14416,6 +14436,7 @@
 ||interiorbyjuan.com^|
 ||interiordesignusa.com^|
 ||interiordome.com^|
+||interiorene.com^|
 ||interiorlightingshop.com^|
 ||interiorofficial.com^|
 ||intermediatee.net^|
@@ -14555,6 +14576,7 @@
 ||isaacbaby.live^|
 ||isabel-modehaus.de^|
 ||isabelharense.com^|
+||isabellazce.de^|
 ||isabellefrancois.shop^|
 ||isabellegracejewde.shop^|
 ||isabellemallard.com^|
@@ -15107,6 +15129,7 @@
 ||justshopy4u.com^|
 ||juststylse.shop^|
 ||justvanilla.de^|
+||jutevibers.com^|
 ||juvenda.de^|
 ||juwelenhaus.com^|
 ||juwelenpalastdeutschland.com^|
@@ -15218,6 +15241,8 @@
 ||kaminj.top^|
 ||kaminoland.de^|
 ||kamlily.com^|
+||kammerjaeger-fischer.de^|
+||kammerjaeger-hoffmeyer.de^|
 ||kammerjaeger-notruf.at^|
 ||kammerjaeger24h.at^|
 ||kammerjaeger7d.at^|
@@ -16041,6 +16066,7 @@
 ||krechtinger.de^|
 ||kredavramovic.at^|
 ||kreditgrun.com^|
+||kredithaus24.eu^|
 ||kreditoptimal.com^|
 ||kreditsicher.com^|
 ||kreditwizard.com^|
@@ -16194,6 +16220,7 @@
 ||kyalecto.com^|
 ||kybcart.shop^|
 ||kyddos.shop^|
+||kylar.de^|
 ||kyliefoley.com^|
 ||kylyn2021.com^|
 ||kyma-store.de^|
@@ -17041,6 +17068,8 @@
 ||lisamknight.com^|
 ||lisascholzhunde3.de^|
 ||lisaundich.de^|
+||lisft.shop^|
+||lisjo.shop^|
 ||liskinthof.com^|
 ||lisleshop.com^|
 ||lisshansen.com^|
@@ -18431,6 +18460,7 @@
 ||meistergrill24.de^|
 ||meistergroup.shop^|
 ||meisterkuchen-pro.de^|
+||meisterschnitt.com^|
 ||meistervolt.de^|
 ||meiyunz.com^|
 ||mekiepshop.com^|
@@ -18873,6 +18903,7 @@
 ||mitchellandness-de.com^|
 ||mitchelsale.shop^|
 ||mitiendra.com^|
+||mitkindundrad.de^|
 ||mitrueshop.com^|
 ||mitsegeln-gesucht.de^|
 ||mitsubishiautopartsshop.com^|
@@ -19114,6 +19145,7 @@
 ||moebel-onlineshop.com^|
 ||moebelcenterremscheid.de^|
 ||moebeldiscount24.com^|
+||moebelgutlager.com^|
 ||moebelonline24.com^|
 ||moebelpunkt.com^|
 ||moebelundgarten.com^|
@@ -19512,6 +19544,7 @@
 ||musicstylish.com^|
 ||musicusstore.com^|
 ||musicworldde.com^|
+||musik-laden.com^|
 ||musik-planet.com^|
 ||musikgearhub.com^|
 ||musikgermany.com^|
@@ -20606,6 +20639,7 @@
 ||nuvinodeutschland.com^|
 ||nuvistio.com^|
 ||nuvonda.shop^|
+||nuxifuland.shop^|
 ||nuxxu.de^|
 ||nv-logistic-trade-sl.com^|
 ||nv-neuburg.de^|
@@ -20651,6 +20685,7 @@
 ||oadkb.endorthc.pl^|
 ||oaiv-freiburg.de^|
 ||oakdalerotary.org^|
+||oakgetloft.com^|
 ||oakprimefinance.com^|
 ||oamteqit.com^|
 ||oandini.com^|
@@ -20951,6 +20986,9 @@
 ||okohausplus.com^|
 ||okonjoseph.com^|
 ||okrb.su^|
+||okuracookware.ch^|
+||okuracookware.com^|
+||okuracookware.de^|
 ||okvdo.top^|
 ||okwave.betstrong.baby^|
 ||okwave.superblog.baby^|
@@ -21123,6 +21161,7 @@
 ||online-apotek.no^|
 ||online-bathrooms.com^|
 ||online-bedstore.com^|
+||online-betrugs-hilfe.de^|
 ||online-columbia.com^|
 ||online-fahrradwelt.com^|
 ||online-file-converter.com^|
@@ -21430,6 +21469,7 @@
 ||oraclelights.shop^|
 ||oraed.shop^|
 ||orajalifei.com^|
+||oralb-austria.com^|
 ||oralfree.online^|
 ||oramnot.xyz^|
 ||orange-ltd.org^|
@@ -21546,6 +21586,7 @@
 ||oshop.at^|
 ||oshoplive.com^|
 ||oshriomsai.com^|
+||osiris.com.de^|
 ||oskarzebedeus.com^|
 ||osmodeutschland.de^|
 ||osoarw.monster^|
@@ -21567,6 +21608,7 @@
 ||ostiair.xyz^|
 ||osuparva.com^|
 ||osuraring.com^|
+||oswald-juergens24.de^|
 ||osynca.com^|
 ||ot-living.de^|
 ||otasyas.shop^|
@@ -21621,6 +21663,7 @@
 ||ourcheapluv.site^|
 ||oursreplica.com^|
 ||out-runningde.com^|
+||outaim.herate.shop^|
 ||outball.de^|
 ||outbuysnow.site^|
 ||outdoor-camping-discounts.com^|
@@ -23874,6 +23917,7 @@
 ||raucherbein.at^|
 ||raum-lust.de^|
 ||raum-und-gruen.de^|
+||raumduftpflegebedarf.com^|
 ||rauschde.site^|
 ||rauter-beck.de^|
 ||rave-atelier.com^|
@@ -25590,6 +25634,7 @@
 ||sbdsvpland.com^|
 ||sbebitos.com^|
 ||sbikeparts.com^|
+||sbk-hoffmeyer.de^|
 ||sblt.net^|
 ||sbontemps.com^|
 ||sbosmadu.com^|
@@ -25805,6 +25850,7 @@
 ||schulbedarfsales.com^|
 ||schuler-autoreifen.com^|
 ||schulte-boutique.de^|
+||schultefashion.com^|
 ||schultemode.de^|
 ||schultheissundroth.de^|
 ||schultz-autoreifen.shop^|
@@ -26702,6 +26748,7 @@
 ||simaspedition.com^|
 ||simavspeditions.com^|
 ||simcityzone.de^|
+||simikj.com^|
 ||similarly.illegalstore.xyz^|
 ||similarlye.com^|
 ||simileshaped.com^|
@@ -27291,6 +27338,7 @@
 ||soscot.at^|
 ||sosdta.com^|
 ||sotiriairene.com^|
+||sotruck-partners.com^|
 ||soufeel.de^|
 ||soulobjecs.shop^|
 ||soundbarssaleshop.com^|
@@ -28854,6 +28902,7 @@
 ||temptlife.com^|
 ||temude.com^|
 ||ten-estate.com^|
+||tencap.herate.shop^|
 ||tenddaily.com^|
 ||tendencye.com^|
 ||tendencyi.com^|
@@ -31574,6 +31623,7 @@
 ||visionauto-solution.com^|
 ||visionfancyclothing.com^|
 ||visionfx.me^|
+||visioninvesti.com^|
 ||visionunitca.com^|
 ||visitaserbia.com^|
 ||visitorspur.com^|
@@ -31602,6 +31652,7 @@
 ||viv-club.com^|
 ||viva-maket.com^|
 ||vivabrush.de^|
+||vivaharmoni.com^|
 ||vivaia-schuhe.de^|
 ||vivaia.com^|
 ||vivaiacollection.com^|
