@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-21T23:41:35.992375Z
+! Generated: 2026-04-22T01:07:54.581941Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -5026,6 +5026,7 @@
 ||ceylonss.com^|
 ||cfashionus.com^|
 ||cfd.amadeus-markets.com^|
+||cfd.diamond-tradeltd.com^|
 ||cfd.divine-group.io^|
 ||cfd.ebsmarket.org^|
 ||cfd.platformt121-3-3.com^|
@@ -6240,6 +6241,7 @@
 ||crystinasdreams.cfd^|
 ||crystoramalight.com^|
 ||cs-pharmacy.net^|
+||csbclo.de^|
 ||csbdbuy.com^|
 ||csbsts.site^|
 ||csebasoft.com^|
@@ -12149,6 +12151,7 @@
 ||grillspro.shop^|
 ||grillsrabatt.com^|
 ||grillssoon.de^|
+||grillterrasse.com^|
 ||grillwiese.shop^|
 ||grillwwiese.de^|
 ||grillzentrale.shop^|
@@ -15418,6 +15421,7 @@
 ||kayser-haushalt.de^|
 ||kayshopshop.com^|
 ||kazaarfragrancesde.shop^|
+||kazoomba.com^|
 ||kbattian.shop^|
 ||kbavliv.com^|
 ||kbcshop.shop/^|
@@ -17054,6 +17058,7 @@
 ||liport.evenfix.shop^|
 ||liport.lowcruise.shop^|
 ||liport.manhand.shop^|
+||lippenrot.com^|
 ||lippetaler-bauhandel.de^|
 ||lipsfick.com^|
 ||liqnte.com^|
@@ -17900,6 +17905,7 @@
 ||mammutwien.at^|
 ||mampede.shop/^|
 ||man-homes.com^|
+||management-zander.de^|
 ||manatic.xyz^|
 ||manbeck.de^|
 ||mancheap.com^|
@@ -18840,6 +18846,7 @@
 ||minosec.com^|
 ||minse.shop^|
 ||mintchop.com^|
+||mintechh.com^|
 ||minusis.com^|
 ||minymode.shop^|
 ||minz-club.de^|
@@ -19536,6 +19543,7 @@
 ||musicalinstrumentsmall.com^|
 ||musicalnstrumentsale.com^|
 ||musiceur.top^|
+||musicgearcenter.com^|
 ||musichotsale.com^|
 ||musichotsales.com^|
 ||musicmodish.com^|
@@ -19914,6 +19922,7 @@
 ||neckcrack.de^|
 ||necklaceh.com^|
 ||necklacek.com^|
+||neclune.com^|
 ||necmarkt.com^|
 ||neded.de^|
 ||nederlandse-apotheek.com^|
@@ -21024,6 +21033,7 @@
 ||oliviachic.com^|
 ||oliviamoreau.de^|
 ||olivianel.com^|
+||olivias-horoskope.de^|
 ||oliviashape-de.store^|
 ||olixie.com^|
 ||olkowiczcvk.com^|
@@ -21363,6 +21373,7 @@
 ||oonadish.com^|
 ||oonide.shop/^|
 ||oonooo.shop^|
+||oonowa.myshopify.com^|
 ||oopoie.shop^|
 ||opabitcoin.com^|
 ||opaned.com^|
@@ -21744,6 +21755,7 @@
 ||outdoorstudio1973.store^|
 ||outdoorsusrealm.com^|
 ||outdoorusoffer.com^|
+||outdoorwarenhaus.com^|
 ||outdoorzelte.com^|
 ||outerwearvip.com^|
 ||outfany.com^|
@@ -27504,6 +27516,7 @@
 ||sport-sivia.de^|
 ||sport-verkaufs.com^|
 ||sportandoutdoorstore.com^|
+||sportanwaelte.de^|
 ||sportapothekeonline.com^|
 ||sportartikelbox.com^|
 ||sportartikelwelt.com^|
@@ -29333,6 +29346,7 @@
 ||thewoodsde.shop/^|
 ||theworldaccessories.com^|
 ||theworldofralph.com^|
+||thiamtransports.com^|
 ||thickhairr.com^|
 ||thielegmbh-cokg.shop^|
 ||thierseifer.de^|
@@ -33249,6 +33263,7 @@
 ||ytahoorart.com^|
 ||ytcel.com^|
 ||ytcycling.com^|
+||ythebyre.top^|
 ||ytjef.carsonarchitectsinc.com^|
 ||yuan-paygroup.com^|
 ||yuankelai.buzz^|
