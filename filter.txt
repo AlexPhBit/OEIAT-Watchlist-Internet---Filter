@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-23T00:00:25.215857Z
+! Generated: 2026-04-23T03:44:40.518477Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -559,6 +559,7 @@
 ||agrimodul.com^|
 ||agrimodul.de^|
 ||agriram.es^|
+||agriservice640.com^|
 ||agro-garten-market.de^|
 ||agru-paradis.com^|
 ||agserviceplus.com^|
@@ -945,6 +946,7 @@
 ||alsclearance.com^|
 ||alsoatic.top^|
 ||alsobeside.com^|
+||alstran-spedition.com^|
 ||alsurfflexible.com^|
 ||alsurfhandpick.com^|
 ||altayyabab.com^|
@@ -1474,6 +1476,7 @@
 ||appreciatil.com^|
 ||approshop.com^|
 ||approvaln.com^|
+||approve-reservation-euro.com^|
 ||apptimizer-vip.com^|
 ||appworldng.com^|
 ||apremiumsurf.com^|
@@ -5894,6 +5897,7 @@
 ||containerbewegen.com^|
 ||containercargo.shop^|
 ||containercompany.shop^|
+||containerdienstheiliggmbh.de^|
 ||containert.com^|
 ||containtools.com^|
 ||conteneursducoin.com^|
@@ -6041,6 +6045,7 @@
 ||cotsrabatt.de^|
 ||cotswoldluxde.shop^|
 ||cotswoshop.com^|
+||cottanest.com^|
 ||cottline.com^|
 ||cottobot.com^|
 ||cottonsocks-sales.com^|
@@ -6571,6 +6576,7 @@
 ||day-lees.de^|
 ||day2crypto.com^|
 ||daygpl.shop^|
+||dayoner.com^|
 ||daypacksonstore.com^|
 ||dayswithg.com^|
 ||daytee.de^|
@@ -7141,6 +7147,7 @@
 ||dethegreenmonkey.shop/^|
 ||detierbedarf.com^|
 ||detsnk.com^|
+||detson.de^|
 ||detsound.com^|
 ||deu.grandado.com^|
 ||deugears.shop/^|
@@ -8481,6 +8488,7 @@
 ||elise-schmuck.de^|
 ||elisehassoun.com^|
 ||eliseify.com^|
+||elisirofficial.com^|
 ||eliskincare.shop^|
 ||elite-flows.com^|
 ||elite-real-estate.com^|
@@ -9061,6 +9069,7 @@
 ||euromedicplus.com^|
 ||euromedshop.net^|
 ||euromedsonline.net^|
+||eurometal-structure.com^|
 ||euronics-ser.de^|
 ||euronicspowergame.com^|
 ||euronicsser.de^|
@@ -10642,6 +10651,7 @@
 ||frequentlycite.com^|
 ||freshair-retreat.com^|
 ||freshdepoot.com^|
+||freshelino.com^|
 ||freshheavy.com^|
 ||freshhoods.com^|
 ||freshkaamelott.shop^|
@@ -12519,6 +12529,7 @@
 ||handelscenter24.de^|
 ||handelshaus-buchem.de^|
 ||handelskutsche.de^|
+||handelsnation.com^|
 ||handelswiss1.com^|
 ||handeny.com^|
 ||handjobleathergoods.com^|
@@ -13391,6 +13402,7 @@
 ||holycropsw.top^|
 ||holz-aluprofi.de^|
 ||holz-fleischhacker.com^|
+||holz-hambach.com^|
 ||holz-lagerversand.de^|
 ||holz-pellets24.com^|
 ||holz-sales.com^|
@@ -14644,6 +14656,7 @@
 ||itemusfilms.com^|
 ||itguruu.com^|
 ||ithardpulsede.shop^|
+||itisrainvintage.com^|
 ||itoro.io^|
 ||itribely.com^|
 ||itrolexshop.com^|
@@ -15276,9 +15289,11 @@
 ||kanziii.net^|
 ||kanzlei-dahlmanns-witten.de^|
 ||kanzlei-guehmann.de^|
+||kanzlei-niva.de^|
 ||kanzlei-ra.net^|
 ||kanzlei-röcherimrecht.de^|
 ||kanzlei-roth.org^|
+||kanzlei-statz.de^|
 ||kanzleiklaus.de^|
 ||kaodasuan.shop^|
 ||kaperes.com^|
@@ -15939,6 +15954,7 @@
 ||kobaltoutlet.com^|
 ||kobe-voitore.com^|
 ||kobenhavnworld.com^|
+||kobsarwelpen.de^|
 ||koch-handel24.de^|
 ||koch-reifen.com^|
 ||koch-versand.de^|
@@ -16045,6 +16061,7 @@
 ||kqivlfk.top^|
 ||krabihotelsthailand.net^|
 ||kraemer-garten.de^|
+||kraftdesweins.com^|
 ||kraftholz.shop^|
 ||krafttoolco.com^|
 ||krahl-container.eu^|
@@ -16865,6 +16882,7 @@
 ||lidlde.online^|
 ||lidleurireland.com^|
 ||lidleurope.com^|
+||lidlhh.shop^|
 ||lidlloutlet.shop^|
 ||lidlly.com^|
 ||lidlmarketeu.ru^|
@@ -17198,6 +17216,7 @@
 ||loakeoutlet.shop^|
 ||loakeschuhe.com^|
 ||loakeschweiz.net^|
+||locajardin.com^|
 ||localdealservices.com^|
 ||localilyy.com^|
 ||localkami.com^|
@@ -17982,6 +18001,7 @@
 ||marcos-machado.com^|
 ||marcosbrito.com^|
 ||marcsoriaux.com^|
+||marcuweklingboutique.shop^|
 ||marcveriont.de^|
 ||marezcorpq.com^|
 ||margaretannlynch.com^|
@@ -19460,6 +19480,7 @@
 ||msohandel.de^|
 ||mstrunaz.shop^|
 ||mt4forextradecrypto.com^|
+||mtbandroad.com^|
 ||mtbchainringssales.com^|
 ||mth14.at^|
 ||mtjarmart.shop^|
@@ -19554,6 +19575,7 @@
 ||musicworldde.com^|
 ||musik-laden.com^|
 ||musik-planet.com^|
+||musikgarage.com^|
 ||musikgearhub.com^|
 ||musikgermany.com^|
 ||musikgeschaft.com^|
@@ -20414,6 +20436,7 @@
 ||nograinmedia.com^|
 ||noija.shop^|
 ||nojuwear.com^|
+||nokimoon.shop^|
 ||nola-amsterdam.com^|
 ||nolandsports.shop^|
 ||nolanverkauf.de^|
@@ -25826,6 +25849,7 @@
 ||schreiber-autoreifen.shop^|
 ||schreiner-rasenmaher.com^|
 ||schreinerei-michl.de^|
+||schreyer-ra.de^|
 ||schroder-dusseldorf.de^|
 ||schubert-reifen.com^|
 ||schuberthonlines.shop^|
@@ -26203,6 +26227,7 @@
 ||sgginvest.com^|
 ||sgpill.com^|
 ||sgregoriou.shop^|
+||sgtruffe.com^|
 ||sgxaex.com^|
 ||sh-spielwaren.com^|
 ||shaarks.com^|
@@ -28343,6 +28368,7 @@
 ||superfitshoescanada.com^|
 ||superfitsko.com^|
 ||superfitskotilbud.com^|
+||superfitstores.com^|
 ||superfitsuisse.com^|
 ||superfitvyprodej.com^|
 ||superfitwebshop.com^|
@@ -28358,6 +28384,7 @@
 ||superonlineshopromania.com^|
 ||superonlineshopslovenija.com^|
 ||superonlineshopturkiye.com^|
+||superoutletshopsuomi.com^|
 ||supersapparel.com^|
 ||supersavehub.com^|
 ||supership.top^|
@@ -31511,6 +31538,7 @@
 ||vidiofy.co^|
 ||vidmason.com^|
 ||vielfaltonlineshop.com^|
+||vienessa.com^|
 ||vienna-ag.at^|
 ||vienna-moda.de^|
 ||vienna-modehaus.at^|
@@ -31652,6 +31680,7 @@
 ||vitalehomede.shop/^|
 ||vitalgesund.at^|
 ||vitalismoemi.com^|
+||vitalkompass-de.com^|
 ||vitalohnerezept.nl^|
 ||vitalprojekte.at^|
 ||vitalshieeld.com^|
