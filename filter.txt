@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-23T23:25:23.498553Z
+! Generated: 2026-04-24T00:10:13.852114Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2406,6 +2406,7 @@
 ||balitaberlin.de^|
 ||baljevicmiroslav.com^|
 ||balkone.co.at^|
+||balkongluck.com^|
 ||ballanda.de^|
 ||ballerns.de^|
 ||balletflatssale.com^|
@@ -3760,6 +3761,7 @@
 ||bmatbat.com^|
 ||bmbgreen.com^|
 ||bmcloth.com^|
+||bmfflnanzonlinegv.at^|
 ||bmgvinyl.shop^|
 ||bmpharmacy-official.com^|
 ||bmpharmacyofficial.com^|
@@ -3882,6 +3884,7 @@
 ||bootsprofi.com^|
 ||bootsschuheshop.com^|
 ||booxfritz.de^|
+||booxshop.de^|
 ||bopsiz.store^|
 ||borcons.de^|
 ||bordcltiat.net^|
@@ -5266,6 +5269,7 @@
 ||child-outdoor.com^|
 ||child-vogue.com^|
 ||childcommodity.com^|
+||childeducationalshop.com^|
 ||childhoodtimeltd.com^|
 ||childjoinca.com^|
 ||childlikemodel.shop^|
@@ -5940,6 +5944,7 @@
 ||cookwareretail.space^|
 ||coolactionca.com^|
 ||coolbuysite.com^|
+||coolcare.mx^|
 ||coolgin.com^|
 ||cooling-ace.de^|
 ||coollightus.com^|
@@ -6009,6 +6014,7 @@
 ||cosmeticotwoo.com^|
 ||cosmeticsfield.com^|
 ||cosmeticsfind.com^|
+||cosmeticshopcenter.com^|
 ||cosmeticsilky.com^|
 ||cosmeticsyy.com^|
 ||cosmic-rays.de^|
@@ -7570,6 +7576,7 @@
 ||doktor-potenzmittel.shop^|
 ||doktor-rezeptfrei.com^|
 ||doktorpotenzmittel.de^|
+||dokumentenkaufen.eu^|
 ||dolandcosmetics.com^|
 ||dolaxe.com^|
 ||dolceamara.com^|
@@ -9396,6 +9403,7 @@
 ||fahrradhandel-berger.de^|
 ||fahrradhandel-hartmann.de^|
 ||fahrradhandel-kappler.de^|
+||fahrradhandel-koumagnon.de^|
 ||fahrradhandel-kramer.de^|
 ||fahrradhandel-krause.de^|
 ||fahrradhandel-martin.de^|
@@ -9533,6 +9541,7 @@
 ||fannyborius.com^|
 ||fannydubois.com^|
 ||fanshotsale.com^|
+||fanskicke.com^|
 ||fansouvenirs.store^|
 ||fansretail.com^|
 ||fantasie-farbe.de^|
@@ -12368,6 +12377,7 @@
 ||guy-mulhen.com^|
 ||guyfruit.com^|
 ||guyhardly.com^|
+||gvbmfflnanzonline.info/kddeI3^|
 ||gw-style.com^|
 ||gwcsale.towncabco.com^|
 ||gwcshop.towncabco.com^|
@@ -12426,6 +12436,7 @@
 ||habitataro.com^|
 ||habitatero.com^|
 ||habitatforshoes.com^|
+||habitatovae.com^|
 ||habitlaw.com^|
 ||habitualn.com^|
 ||habitualy.com^|
@@ -12596,6 +12607,7 @@
 ||hannover-mode.de^|
 ||hannoverebike.de^|
 ||hanrogeschaft.xyz^|
+||hans-engelke-energie.de^|
 ||hans-pick.de^|
 ||hanscompanies.com^|
 ||hanse-bird.de^|
@@ -13531,6 +13543,7 @@
 ||homeplaceshop.com^|
 ||homeprotool.com^|
 ||homerootsoutlet.com^|
+||homersport.de^|
 ||homerugsale.com^|
 ||homerungrocers.com^|
 ||homes-alpha.com^|
@@ -14537,6 +14550,7 @@
 ||ipillstore.net^|
 ||ipokerword.com^|
 ||ipowerdirekt.de^|
+||iptvanbieter.at^|
 ||iptvdutch.store^|
 ||ipuroangebote.com^|
 ||iq-fast.com^|
@@ -15294,6 +15308,7 @@
 ||kanzlei-röcherimrecht.de^|
 ||kanzlei-roth.org^|
 ||kanzlei-statz.de^|
+||kanzlei-zimmermann-partner.com^|
 ||kanzleiklaus.de^|
 ||kaodasuan.shop^|
 ||kaperes.com^|
@@ -15398,6 +15413,7 @@
 ||kaufhausaccessoires.com^|
 ||kaufhausde.online^|
 ||kaufhausde.top^|
+||kaufhaushamburg.com^|
 ||kaufhausonline.com^|
 ||kaufhausrabatt.com^|
 ||kaufhaustier.com^|
@@ -16890,6 +16906,7 @@
 ||lidlnewshop.com^|
 ||lidlpalace.com^|
 ||lidlpod.com^|
+||lidlpp.shop^|
 ||lidlshopelysium.com^|
 ||lidltoday.com^|
 ||lidnz.shop^|
@@ -17948,6 +17965,7 @@
 ||manlyfor.com^|
 ||manlyhost.com^|
 ||mannerapotheke24.com^|
+||mannheimmodehaus.com^|
 ||ManoloBlahnik-osterreich.com^|
 ||manonjipnzz.com^|
 ||manorchfr.com^|
@@ -19025,6 +19043,7 @@
 ||mobile-wellnessoase.de^|
 ||mobile.visc.top^|
 ||mobilephonelocator.net^|
+||mobilerheizungen.de^|
 ||mobilfunk-schmidtchen.de^|
 ||mobilixpro.com^|
 ||mobilmitkids.de^|
@@ -20432,6 +20451,7 @@
 ||noerr-mbb.de^|
 ||nofaithstudios.com^|
 ||nofs-fr.com^|
+||nofs.online^|
 ||nofsclothing.de^|
 ||nograinmedia.com^|
 ||noija.shop^|
@@ -22422,6 +22442,7 @@
 ||peterhobbies.shop^|
 ||peterjeskouhren.de^|
 ||peterkaiserschuhe.de^|
+||peterkenkelgruppe.de^|
 ||peters-insurance.de^|
 ||petershagen-hotel.de^|
 ||petersimrecht.de^|
@@ -23169,7 +23190,6 @@
 ||prima-shiplines.com^|
 ||primalsale.shop^|
 ||primamulch.at^|
-||primaprofi-reinigung.at^|
 ||primary-structures.de^|
 ||primarycarenw.com^|
 ||primaryearrings.com^|
@@ -27623,6 +27643,7 @@
 ||sprachgenie.at^|
 ||sprayitonyou.com^|
 ||spreewaldkiste.shop^|
+||sprengler-direkt.de^|
 ||spring-exp.com^|
 ||spring-express.com^|
 ||spring4sale.com^|
@@ -28639,6 +28660,7 @@
 ||syniaty.com^|
 ||synizesis.com^|
 ||syntagma-marktforschung.net^|
+||syntek-ai.app^|
 ||synthesizechic.com^|
 ||synthesizemergechic.com^|
 ||synthesizestylish.com^|
@@ -29579,6 +29601,7 @@
 ||tjrtcbsbq.com^|
 ||tkeesdeutschland.com^|
 ||tkeesdeutschland.de^|
+||tkensure.top^|
 ||tkhalidex.com^|
 ||tkkogata.com^|
 ||tkn-transport.com^|
@@ -30629,6 +30652,7 @@
 ||unibail-assets.com^|
 ||unibois-stammholz.com^|
 ||unice688.com^|
+||unico-studio.com^|
 ||unicotok.com^|
 ||unikatknopf.de^|
 ||unikatportrait.shop/^|
@@ -31618,6 +31642,7 @@
 ||vintedreselling.eu^|
 ||vintross.de^|
 ||vinylcollectorde.shop^|
+||vinylrecordmall.com^|
 ||violawatch.shop^|
 ||violetandrose.de^|
 ||violte-plant.net^|
@@ -32389,6 +32414,7 @@
 ||wellzy.de^|
 ||welpen-tierheim.com^|
 ||welpenexperten.de^|
+||welpentraum.de^|
 ||welstv.at^|
 ||welt-fashion.de^|
 ||welta.pro^|
