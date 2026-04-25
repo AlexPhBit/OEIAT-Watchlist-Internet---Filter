@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-24T23:56:18.122489Z
+! Generated: 2026-04-25T03:25:23.151097Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -194,6 +194,7 @@
 ||aboardcloth.com^|
 ||abodeare.com^|
 ||abodeena.com^|
+||abodeene.com^|
 ||abolder.com^|
 ||aboukide.shop/^|
 ||aboutbeingold.com^|
@@ -19405,6 +19406,7 @@
 ||motorrad70.com^|
 ||motorraderhelme.de^|
 ||motorraders.de^|
+||motorradking.com^|
 ||motorradoutfit.com^|
 ||motorradteileonline.com^|
 ||motorradteileshop.com^|
@@ -22955,6 +22957,7 @@
 ||poolboys-onlineshop.de^|
 ||poolcosmetic.com^|
 ||poolfilterneu.de^|
+||poolfreunde.com^|
 ||poolreinigerde.com^|
 ||poolsaunasupply.com^|
 ||poolshoesus.com^|
@@ -27684,6 +27687,7 @@
 ||sratimd.com^|
 ||src-allgaeu.de^|
 ||srrcops.org^|
+||srylab.bio^|
 ||srzsnkrs.com^|
 ||ss888.shop^|
 ||ssatin.com^|
@@ -32444,9 +32448,11 @@
 ||werisee.com^|
 ||werk-garten.de^|
 ||werk-werkzeuge.com^|
+||werkbedarf24.de^|
 ||werkboxpro.com^|
 ||werke-anhangers.com^|
 ||werkgeist.com^|
+||werkora-industrial.com^|
 ||werkvoorraden.com^|
 ||werkzeug-brandl.com^|
 ||werkzeug-salesshop.com^|
