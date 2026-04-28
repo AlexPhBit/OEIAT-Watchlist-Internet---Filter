@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-28T00:07:57.686898Z
+! Generated: 2026-04-28T04:05:56.414248Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2748,6 +2748,7 @@
 ||beautyfasion.com^|
 ||beautyfulu.com^|
 ||beautygiftsets.com^|
+||beautyhaarshop.com^|
 ||beautyhausberlin.de^|
 ||beautyketten.com^|
 ||beautykolor.com^|
@@ -4516,6 +4517,7 @@
 ||c-and-a.store^|
 ||c-apotheke.de^|
 ||c-t-s-logistics.com^|
+||c-und-a-austria.com^|
 ||c21watches.com^|
 ||ca-agentur.de^|
 ||ca.carlottatortorella.com^|
@@ -5791,6 +5793,7 @@
 ||comfydog.de^|
 ||comfypjs.shop^|
 ||comfytravel.de^|
+||comfyure.com^|
 ||comhuvo.com^|
 ||comiccharacters-shop.com^|
 ||comicsbyhaemi.com^|
@@ -6322,6 +6325,7 @@
 ||curveif.com^|
 ||curving.top^|
 ||cusb4.com^|
+||cusb8.com^|
 ||cusewin.cc^|
 ||cushygait.com^|
 ||custably.com^|
@@ -6828,6 +6832,7 @@
 ||decorcategory.com^|
 ||decordew.com^|
 ||decorevery.com^|
+||decorlivio.com^|
 ||decorustools.com^|
 ||decotik.de^|
 ||decryptotradefx.com^|
@@ -7962,6 +7967,7 @@
 ||dwaynejohnson.de^|
 ||dwelldome.com^|
 ||dwellinguse.com^|
+||dwellivory.com^|
 ||dwightpoe.shop^|
 ||dxdab.com^|
 ||dxo-trader.com^|
@@ -8961,6 +8967,7 @@
 ||estoken.tech^|
 ||estraorchard.com^|
 ||estrategen.de^|
+||esy-oil.com^|
 ||esyqefp.top^|
 ||et.butgas.com^|
 ||etacticali.com^|
@@ -10377,6 +10384,7 @@
 ||fnenus.com^|
 ||fnepf.greekblackberries.com^|
 ||fngalaxy.de^|
+||fniyitegeka.org^|
 ||fnpmarkets.co^|
 ||foamr.ch^|
 ||foamr.de^|
@@ -10482,6 +10490,7 @@
 ||formula-handel.de^|
 ||formula-section.net^|
 ||fornialegnaaccessori.com^|
+||foronhausgeraete.de^|
 ||forpatiofurniture.com^|
 ||forsalecosmetics.com^|
 ||forsalemusic.com^|
@@ -11103,6 +11112,7 @@
 ||galleriacart.it^|
 ||galleyonline.com^|
 ||galonos.com^|
+||galvirexora.com^|
 ||gamadino.com^|
 ||gamblingdevicen.com^|
 ||gamblr.shop/^|
@@ -11213,6 +11223,7 @@
 ||gartenbnke.com^|
 ||gartendekoprada.de^|
 ||gartenexperte.at^|
+||gartenfarbewelt.com^|
 ||gartenfreunde-murrhardt.de^|
 ||gartengenosse.de^|
 ||gartengreifer.de^|
@@ -11673,6 +11684,7 @@
 ||gitarrenheld.at^|
 ||gitarreundklavier.com^|
 ||giulianatafferini.com^|
+||giuliaravelli.com^|
 ||giulitelr.com^|
 ||giunews.com^|
 ||giveloveshop.site^|
@@ -14688,6 +14700,7 @@
 ||ivelay.com^|
 ||ivernamart.com^|
 ||ivetmem.com^|
+||ivfan.herate.shop^|
 ||ivfile.hpattack.shop^|
 ||ivkvv.com^|
 ||ivyever.com^|
@@ -15991,6 +16004,7 @@
 ||koel--schuhe.com^|
 ||koellers.de^|
 ||koenig-naturfriseur.de^|
+||koenigssee-uhrmanufaktur.de^|
 ||koenigsthal.de^|
 ||kofireisen.com^|
 ||kofitnessd.top^|
@@ -16082,6 +16096,7 @@
 ||kraftdesweins.com^|
 ||kraftholz.shop^|
 ||krafttoolco.com^|
+||kraftwerk-solar.com^|
 ||krahl-container.eu^|
 ||krahnstoever-rostock.com^|
 ||kraitshopes.com^|
@@ -20476,6 +20491,7 @@
 ||nonoi-studio.shop^|
 ||nonsolovino.co.at^|
 ||nooeberln.store^|
+||nookhavenz.com^|
 ||nooranenonen.com^|
 ||nora-bergen.com^|
 ||noracora.com^|
@@ -20610,6 +20626,7 @@
 ||noveltysdirect.com^|
 ||noveltywomens.com^|
 ||novenie.top^|
+||noventracapitals.com^|
 ||noveraxcapital.com^|
 ||novermessen.de^|
 ||noveteadram.com^|
@@ -21176,6 +21193,7 @@
 ||oneact.formchain.shop^|
 ||oneact.hairblue.blog^|
 ||oneact.incomelog.shop^|
+||oneact.localdraw.shop^|
 ||oneact.petermoon.click^|
 ||oneact.testflag.click^|
 ||oneact.workscap.shop^|
@@ -22509,6 +22527,7 @@
 ||pflanz-stein.de^|
 ||pflanzbedarfsladen.com^|
 ||pflanzsinn.com^|
+||pflegeprofi-shop.com^|
 ||pflegeschonheit.com^|
 ||pforp.net^|
 ||pfoten-traum.com^|
@@ -28355,6 +28374,7 @@
 ||suntonaal.com^|
 ||sunuyles.com^|
 ||sunzapatos.es^|
+||supavero.com^|
 ||super-discount-farma.com^|
 ||super-hair.at^|
 ||super-pharm-fr.net^|
@@ -29457,6 +29477,7 @@
 ||thresholdi.com^|
 ||thresholdk.com^|
 ||thriftfolio.com^|
+||thriftnexus.com^|
 ||thrillingmotion.com^|
 ||thrillingoutdoor.com^|
 ||thrillsnew.com^|
@@ -30773,6 +30794,7 @@
 ||urbanfahrt.de^|
 ||urbanflarehub.com^|
 ||urbanfurnicraft.com^|
+||urbangrowde.com^|
 ||urbanhugo.com^|
 ||urbanoutletstores.com^|
 ||urbeauty4u.org^|
@@ -32637,6 +32659,7 @@
 ||wildlingshoeswien.at^|
 ||wildmodesoldes.com^|
 ||wildschlaf.com^|
+||wildundfreide.com^|
 ||wildweststructures.com^|
 ||wilehuppy.com^|
 ||wilfriedngatchi.com^|
@@ -32723,6 +32746,7 @@
 ||wiswinds.shop^|
 ||witchrabi.com^|
 ||witeanerly.com^|
+||withingss.at^|
 ||withoution.com^|
 ||withoution.net^|
 ||withstndridg.com^|
@@ -33402,6 +33426,7 @@
 ||zamratech-sf.com^|
 ||zandder.com^|
 ||zangenprince.de^|
+||zaniro.shop^|
 ||zanondo.com^|
 ||zantmekanik.com^|
 ||zanvon.com^|
@@ -33481,6 +33506,7 @@
 ||zendocs.com^|
 ||zendoo.de^|
 ||zendurede.shop/^|
+||zenglowz.com^|
 ||zengyt.com^|
 ||zenidol.info^|
 ||zenla.de^|
@@ -33514,6 +33540,7 @@
 ||zeusfya.com^|
 ||zevamia.com^|
 ||zevarpalace.pk^|
+||zeveau.com^|
 ||zevoon.de^|
 ||zeynoa.de^|
 ||zezzo.de^|
