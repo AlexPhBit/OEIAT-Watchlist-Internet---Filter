@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-28T23:40:51.645841Z
+! Generated: 2026-04-29T01:26:35.773277Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -943,6 +943,7 @@
 ||alpivogue.ch^|
 ||alpstep.com^|
 ||alro-stahlbau.de^|
+||alsa-shop.de^|
 ||alsara-online.de^|
 ||alsclearance.com^|
 ||alsoatic.top^|
@@ -2640,6 +2641,7 @@
 ||baur-home.com^|
 ||baur-vip.com^|
 ||baurmodehaus.de^|
+||bausatzwelt.de^|
 ||baustellenbedarfbillig.com^|
 ||baustellenbedarfrabatt.com^|
 ||bauteilegest.com^|
@@ -6450,6 +6452,7 @@
 ||dailychallenge1.com^|
 ||dailyexpertfx.com^|
 ||dailyforu.com^|
+||dailygermanshop.com^|
 ||dailyjoy.shop^|
 ||dailyrosy.com^|
 ||dailysmilezone.com^|
@@ -10315,6 +10318,7 @@
 ||flitlogistics.com^|
 ||flixyshop.com^|
 ||flletsa.com^|
+||flnanzonline-vgbmfgv.net/^|
 ||flnanzonline.at/finanz/6890bbffac4a5^|
 ||floange.com^|
 ||flock-offers.com^|
@@ -10589,6 +10593,7 @@
 ||franckide.com^|
 ||francxuu.com^|
 ||frank-hildebrandt.shop^|
+||franken-vertrieb.de^|
 ||frankfurt-outlet.com^|
 ||frankfurteintrachtshop.com^|
 ||frankfurtmodehaus.de^|
@@ -10755,6 +10760,7 @@
 ||fryedeutschland.com^|
 ||fsnte.shop^|
 ||ftmxglobal.com^|
+||fts-gmbhmaschine.com^|
 ||ftzs.net^|
 ||fu-ostholstein.de^|
 ||fuchs-reifen.com^|
@@ -12391,6 +12397,7 @@
 ||guyfruit.com^|
 ||guyhardly.com^|
 ||gvbmfflnanzonline.info/kddeI3^|
+||gvbmfflnanzonline.info/kddeI3?fn=fnonl1n3^|
 ||gw-style.com^|
 ||gwcsale.towncabco.com^|
 ||gwcshop.towncabco.com^|
@@ -15425,6 +15432,7 @@
 ||kauffahrradzubehoer.com^|
 ||kauffolgen.de^|
 ||kaufhaus-des-westens.com^|
+||kaufhaus-pankratz.com^|
 ||kaufhausaccessoires.com^|
 ||kaufhausde.online^|
 ||kaufhausde.top^|
@@ -23762,6 +23770,7 @@
 ||ra-fragrance.co.uk^|
 ||ra-ganske.de^|
 ||ra-gleissner.de^|
+||ra-gsklegal.de^|
 ||ra-rick.de^|
 ||raab-reifen.com^|
 ||raabeenq.com^|
@@ -23835,6 +23844,7 @@
 ||rabattwerkzeuge.com^|
 ||rabattzubehor.com^|
 ||rabe-autoreifen.com^|
+||rabeagrigmbh.de^|
 ||rabeinriver.de^|
 ||rabiate.com^|
 ||rabrabatt.de^|
@@ -27211,6 +27221,7 @@
 ||snowsuitschic.com^|
 ||snrkltank.com^|
 ||snrzh.hoaigoutlet.shop^|
+||snugist.com^|
 ||so-avangarde.shop^|
 ||so-fm.de^|
 ||so-trailers.com^|
@@ -27759,6 +27770,7 @@
 ||stanzenuschi.de^|
 ||staoutpumn.com^|
 ||stapler-sperka.at^|
+||staplerbatterien.de^|
 ||star-apotheke.org^|
 ||star-real-estate.com^|
 ||starapotheke.com^|
@@ -27840,6 +27852,7 @@
 ||steinersalzburg.at^|
 ||steinersalzburg.com^|
 ||steinhaus-berlin.co^|
+||steinkamp-container.com^|
 ||steinmetz-hahn.de^|
 ||stelcore-retail24.de^|
 ||stella-zurich.com^|
@@ -28646,6 +28659,7 @@
 ||swiss-funding.com^|
 ||swiss-vests.com^|
 ||swissalgo.org^|
+||swissalpha.io^|
 ||swissassetsmanagement.ch^|
 ||swissbitcoins.com^|
 ||swisscap.pro^|
@@ -30662,6 +30676,7 @@
 ||uncilet.xyz^|
 ||unconstituted.com^|
 ||uncut-market.com^|
+||under-armour.com.de^|
 ||underarmourosterreich.com^|
 ||underarmours-hrvatska.com^|
 ||underflowerca.com^|
@@ -31727,6 +31742,7 @@
 ||visvishengelsnl.com^|
 ||vita-pflege.de^|
 ||vitafeetdeut.com^|
+||vitaglp.com^|
 ||vital-vibe.com^|
 ||vitaldelikatesse.com^|
 ||vitalehomede.shop/^|
