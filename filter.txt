@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-29T23:15:43.146208Z
+! Generated: 2026-04-30T00:11:27.316749Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1847,6 +1847,7 @@
 ||at.ketonaktiv.com^|
 ||at.llinacrda.shop^|
 ||at.mammotion.com^|
+||at.qfmiceden.shop^|
 ||at.skinliy.com^|
 ||at.tesup.com^|
 ||at.trabajo.org^|
@@ -2975,6 +2976,7 @@
 ||bergwanderershop.com^|
 ||bergxperten.com^|
 ||bergxperten.de^|
+||berichtprofi.de^|
 ||beriuty.com^|
 ||berk-designs.de^|
 ||berkler-anhanger.com^|
@@ -4086,6 +4088,7 @@
 ||brennholz-hofmann.de^|
 ||brennholz-konig.de^|
 ||brennholz360.com^|
+||brennholzanhanger.de^|
 ||brennholzbereich.com^|
 ||brennholzdirekt.com^|
 ||brennholzdoeg.com^|
@@ -4301,6 +4304,7 @@
 ||buchverlag-scholz.de^|
 ||buchwerft-verlag.de^|
 ||buck-reifenhandel.com^|
+||buckbirch.com^|
 ||buckleybelts.de^|
 ||buckleybelts.de^|
 ||buckleyswiss.com^|
@@ -4331,6 +4335,7 @@
 ||build-en.com^|
 ||buildawhip.shop^|
 ||building-toysshop.com^|
+||buildmaterialstore.com^|
 ||builikee.com^|
 ||buitifo-fashion.com^|
 ||bukkwood.com^|
@@ -5368,6 +5373,7 @@
 ||ciknxj.top^|
 ||cilstorey.com^|
 ||cim-media.de^|
+||cima-bois.com^|
 ||cimga.ltd^|
 ||cinderella-braut.de^|
 ||cindystenglein.com^|
@@ -5869,6 +5875,7 @@
 ||concepty.co^|
 ||concreatieh.com^|
 ||condior.top^|
+||condokameleon.com^|
 ||condutbarn.com^|
 ||confidentin.com^|
 ||confidentp.com^|
@@ -6987,6 +6994,7 @@
 ||demadeal.com^|
 ||demays.cc^|
 ||demeaningfulbrands.com^|
+||demeano.com^|
 ||demediz.com^|
 ||demedpets.com^|
 ||demeindlshop.com/^|
@@ -7123,6 +7131,7 @@
 ||designersunglass.store^|
 ||designhomeshop.com^|
 ||designmensshoes.com^|
+||designoliq.com^|
 ||designox.today^|
 ||designsaquatics.com^|
 ||designsautoparts.com^|
@@ -7314,6 +7323,7 @@
 ||diestrumpfmacher.shop^|
 ||diet-keto.info^|
 ||dietdiney.com^|
+||dieterrux-dienstleistungs.de^|
 ||dieterza.co.uk^|
 ||dieterzika.co.uk^|
 ||dietollemode.com^|
@@ -9276,6 +9286,7 @@
 ||express-inv.com^|
 ||express-rezeptfrei.de^|
 ||expressbigsale.top^|
+||expressbrennholz.de^|
 ||expresseinkauf.com^|
 ||expressfreightslogistics.com^|
 ||expresslogisticfreightworld.com^|
@@ -10632,6 +10643,7 @@
 ||freedomsfind.com^|
 ||freeeu.top^|
 ||freeics.top^|
+||freemanagement.de^|
 ||freepitmk.shop^|
 ||freeseem.com^|
 ||freeshippingallorde.shop^|
@@ -13451,6 +13463,7 @@
 ||holzelite.de^|
 ||holzerneblocke.com^|
 ||holzflicken.at^|
+||holzgartenprofi.de^|
 ||holzhambach.com^|
 ||holzhandelhensel.com^|
 ||holzlagermarket.com^|
@@ -13523,6 +13536,7 @@
 ||homegoods-promo.com^|
 ||homegoodstotal.com^|
 ||homegymsupply.co.uk^|
+||homehavnz.com^|
 ||homehillsdale.com^|
 ||homehinkleylighting.com^|
 ||homehulsta.com^|
@@ -13547,6 +13561,7 @@
 ||homeloty.com^|
 ||homelovingus.com^|
 ||homeluxehub.com^|
+||homelyia.com^|
 ||homelyno.com^|
 ||homelysale.com^|
 ||homemodernliving.com^|
@@ -14124,6 +14139,7 @@
 ||idolpanion.com^|
 ||idonotlikewait.top^|
 ||idpconseil.fr^|
+||ie-audit.com^|
 ||ieceonstamps.com^|
 ||iedustars.com^|
 ||iefax.costswant.baby^|
@@ -15237,6 +15253,7 @@
 ||kaffeesnackbar.com^|
 ||kaffeeuhlenbusch.de^|
 ||kaffeewelt.store^|
+||kaffeezentrale-de.com^|
 ||kaffefashion.com^|
 ||kaffeglueck.de^|
 ||kaftlatelitastore.com^|
@@ -15932,6 +15949,7 @@
 ||kneepadsales.com^|
 ||kneipphaeusl.at^|
 ||knice.shop^|
+||knieexpert.de^|
 ||knife-coldsteel.com^|
 ||knife-limit.com^|
 ||knife-plus.com^|
@@ -17682,6 +17700,7 @@
 ||luxdentala.com^|
 ||luxe-collective-fashion.com^|
 ||luxeberlin.de^|
+||luxeblissliving.com^|
 ||luxeclone.shop^|
 ||luxecycleshop.com^|
 ||luxedore.com^|
@@ -21240,6 +21259,7 @@
 ||onitsukatigervogue.com^|
 ||oniverlopez.com^|
 ||onkel-nolte.de^|
+||onkmusic.com^|
 ||online-apotek.no^|
 ||online-bathrooms.com^|
 ||online-bedstore.com^|
@@ -21434,6 +21454,7 @@
 ||ontimehome.store^|
 ||ontimelive.com^|
 ||ontraccourier.com^|
+||onyvatransport.com^|
 ||onyxcookwarede.shop/^|
 ||ooctaviat.store^|
 ||oofooosale.us^|
@@ -23869,6 +23890,7 @@
 ||radfahrenrabatt.com^|
 ||radfahrzeit.com^|
 ||radhabeauty.shop^|
+||radhandel24.de^|
 ||radiadoresadicionales.com^|
 ||radiantelixir.com^|
 ||radikhub.com^|
@@ -25701,6 +25723,7 @@
 ||savela.de^|
 ||savemosaic.com^|
 ||saveoffer.de^|
+||savepromoable.com^|
 ||saveshape.net^|
 ||savesilomart.com^|
 ||savesprintmart.com^|
@@ -28096,6 +28119,7 @@
 ||strabenmotorrad.com^|
 ||strahlentier.de^|
 ||strahlerdeck.com^|
+||strahlwerk24.com^|
 ||straightnaturals.com^|
 ||strapology.co^|
 ||strassenhelden.at^|
@@ -28131,6 +28155,7 @@
 ||strickwareverkauf.com^|
 ||stricttofu.com^|
 ||stridepure.de^|
+||striegel-k-containers.de^|
 ||strielkowski.com^|
 ||strikerateca.com^|
 ||striking-oils.myshopify.com^|
@@ -28158,6 +28183,7 @@
 ||studienfabrik.com^|
 ||studio-aktivplus.de^|
 ||studioboutique.shop/^|
+||studioherr.com^|
 ||studiolavela.com^|
 ||studiolivde.shop^|
 ||studiominq.com^|
@@ -28431,6 +28457,7 @@
 ||superfitsuisse.com^|
 ||superfitvyprodej.com^|
 ||superfitwebshop.com^|
+||superie.de^|
 ||superie.de^|
 ||superiormore.com^|
 ||superiorwilderdog.com^|
@@ -30605,6 +30632,7 @@
 ||uhrsprung-bar.at^|
 ||uhrstern.net^|
 ||uhvcti.shop^|
+||uiahgpuutgr.top^|
 ||uiredg.com^|
 ||uirght.com^|
 ||uiwsacop.shop^|
@@ -33538,6 +33566,7 @@
 ||zentoil.de^|
 ||zentraleapo.de^|
 ||zentralorgan.at^|
+||zentrof.com^|
 ||zenvada.de^|
 ||zenymab.com^|
 ||zeppeespadrillas.com^|
