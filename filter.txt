@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-04-30T23:10:49.743119Z
+! Generated: 2026-05-01T00:10:23.423294Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -134,6 +134,7 @@
 ||99rabats.shop^|
 ||a.seven-st.com^|
 ||a1-anlagen.com^|
+||a1businessnet.live/a1/principal.php^|
 ||a31c.org^|
 ||aaaclothing.ru^|
 ||aachentag.com^|
@@ -396,6 +397,7 @@
 ||adl.lreubk.shop^|
 ||adl.okhxm.shop^|
 ||adl.wiksh.shop^|
+||adl.zixoko.shop^|
 ||adlermodehaus.de^|
 ||adllwyj67.wuhlzk.shop^|
 ||admiralbrokerz.com^|
@@ -1848,6 +1850,7 @@
 ||at.llinacrda.shop^|
 ||at.mammotion.com^|
 ||at.qfmiceden.shop^|
+||at.rattaay.com^|
 ||at.skinliy.com^|
 ||at.tesup.com^|
 ||at.trabajo.org^|
@@ -6064,6 +6067,7 @@
 ||cotsrabatt.de^|
 ||cotswoldluxde.shop^|
 ||cotswoshop.com^|
+||cottagoshop.com^|
 ||cottanest.com^|
 ||cottline.com^|
 ||cottobot.com^|
@@ -6821,6 +6825,7 @@
 ||deckcalmn.com^|
 ||decker-reifen.com^|
 ||decleaners.de^|
+||decohousely.com^|
 ||decokento.com^|
 ||decoopy.com^|
 ||decoratem.com^|
@@ -6938,6 +6943,7 @@
 ||dekarikatur.shop^|
 ||dekkerstrans.com^|
 ||dekkertransport.com^|
+||dekoartikelrabatt.de^|
 ||dekoobjektrabatt.com^|
 ||dekoorial.shop/^|
 ||dekoorialeu.shop^|
@@ -10017,6 +10023,7 @@
 ||finapactglobal.net^|
 ||finarixisx.de^|
 ||finaxanlage.de^|
+||finca-selection.com^|
 ||finca-vermittlung.com^|
 ||fincaferien24.com^|
 ||fincaguru.com^|
@@ -11625,9 +11632,11 @@
 ||giecy.com^|
 ||giesswein--schuhe.com^|
 ||giesswein-neu.de^|
+||giesswein.com.de^|
 ||giesswein.ro^|
 ||giesswein.shop^|
 ||giessweinat.at^|
+||giessweinno.com^|
 ||giessweins.at^|
 ||giessweins.it^|
 ||giessweinschuhe.com^|
@@ -13048,6 +13057,7 @@
 ||helium-miners-uk.com^|
 ||helix-sports.de^|
 ||helladeau.shop^|
+||helldivers-merch.com^|
 ||helle-klevens.shop^|
 ||helleklevende.shop/^|
 ||hellermodus.com^|
@@ -14139,7 +14149,6 @@
 ||idolpanion.com^|
 ||idonotlikewait.top^|
 ||idpconseil.fr^|
-||ie-audit.com^|
 ||ieceonstamps.com^|
 ||iedustars.com^|
 ||iefax.costswant.baby^|
@@ -15931,6 +15940,7 @@
 ||kluthbaustoffe.shop^|
 ||kluthbaustoffede.shop^|
 ||klynu.com^|
+||km-baumarkt.de^|
 ||km-holz.de^|
 ||kmacobdt.com^|
 ||kmartinusa.net^|
@@ -17712,6 +17722,7 @@
 ||luxeshelf.com^|
 ||luxeshopcart.com^|
 ||luxesilkwear.com^|
+||luxevibehub.com^|
 ||luxfewo.de^|
 ||luxfi.de^|
 ||luxgomall.com^|
@@ -18448,6 +18459,7 @@
 ||meester-werk.com^|
 ||meetbopai.com^|
 ||meetcurve.de^|
+||meetdo.waraid.shop^|
 ||meetfigure.com^|
 ||meetmzfeed.live^|
 ||megababiesusade.shop^|
@@ -19082,6 +19094,7 @@
 ||mobelprada-de.com^|
 ||mobelspeichern-de.com^|
 ||mobelzuhause.com^|
+||mobetrix.com^|
 ||mobiche.com^|
 ||mobile-find.mobi^|
 ||mobile-wellnessoase.de^|
@@ -20068,6 +20081,7 @@
 ||nestmypad.com^|
 ||nestproh.com^|
 ||nestrack.shop^|
+||nestscapehub.com^|
 ||nestyheim.de^|
 ||net-inkasso.de^|
 ||net-profit.eu^|
@@ -20292,6 +20306,7 @@
 ||newvwuuniforms.com^|
 ||newworld55.com^|
 ||newworld89.com^|
+||nexavor.shop^|
 ||nexeashop.com^|
 ||nexet.xyz^|
 ||nexity-assets.com^|
@@ -22298,6 +22313,7 @@
 ||payice.xyz^|
 ||payprgold.live^|
 ||payszpz.cf^|
+||paywayslite.com^|
 ||pazarst.com^|
 ||pazoda.store^|
 ||pbc-olympic.de^|
@@ -23007,6 +23023,7 @@
 ||poolcosmetic.com^|
 ||poolfilterneu.de^|
 ||poolfreunde.com^|
+||pooloase.shop^|
 ||poolreinigerde.com^|
 ||poolsaunasupply.com^|
 ||poolshoesus.com^|
@@ -23680,6 +23697,7 @@
 ||qmypalm.com^|
 ||qnesz.shop^|
 ||qnethini.com^|
+||qnfreerypc.click^|
 ||qnoveckads.com^|
 ||qoaktax.com^|
 ||qodixcredit.com^|
@@ -24528,6 +24546,7 @@
 ||reposla.com^|
 ||reproccial.com^|
 ||reproduction.store^|
+||repsberlin.com^|
 ||repsfuse.com^|
 ||reptileagent.at^|
 ||repuhren.de^|
@@ -25851,6 +25870,7 @@
 ||schmidmodesalzburg.de^|
 ||schmidt-boutique.de^|
 ||schmidt-reifenhandel.shop^|
+||schmidtiefbaugmbh.de^|
 ||schmidtmode.de^|
 ||schmidtstil.com^|
 ||schmiede-kunst.at^|
@@ -26043,6 +26063,7 @@
 ||sdfqcza.shop^|
 ||sdhguy.com^|
 ||sdhzdislavice.cz^|
+||sdjiy.shop^|
 ||sdk-transport.com^|
 ||sdmndpkrec.com^|
 ||se-vignette-france.com^|
@@ -28024,6 +28045,7 @@
 ||store.birkxsale.com^|
 ||store.dobot.cc^|
 ||store.minisforum.de^|
+||store.savemarketed.com^|
 ||store.useum.org^|
 ||store.yeelight.com^|
 ||store3s.top^|
@@ -30222,6 +30244,7 @@
 ||transporte-moroncillo.com^|
 ||transportes-arditrans-sl.com^|
 ||transportsmer.com^|
+||transportwelt.com^|
 ||trantone.online^|
 ||tranulashop.com^|
 ||trappingsart.com^|
@@ -30840,6 +30863,7 @@
 ||urbangrowde.com^|
 ||urbanhugo.com^|
 ||urbanoutletstores.com^|
+||urbanvibesretreat.com^|
 ||urbeauty4u.org^|
 ||urbetter.ca^|
 ||urbmale.cc^|
@@ -31726,6 +31750,7 @@
 ||vip-vision.za.com^|
 ||vip.birkesales.com^|
 ||vip.desigualgift.com^|
+||vip.frontiermarket.icu^|
 ||vip.marketadvisor.icu/RdzSmYM5^|
 ||vipaksideu.com^|
 ||vipbusyaa.xyz^|
@@ -32280,6 +32305,7 @@
 ||watersportsstores.com^|
 ||watson-manchester.com^|
 ||wattcafe.fr^|
+||wattpionier.de^|
 ||wauwcapow.shop/^|
 ||waveriderco.com^|
 ||wavetech-store.com^|
@@ -32929,6 +32955,7 @@
 ||woodonus.com^|
 ||woodzsprada.de^|
 ||woofgear.de^|
+||wooflyx.com^|
 ||woofstuffde.shop^|
 ||woofz.academy^|
 ||woofz.com^|
@@ -33568,6 +33595,7 @@
 ||zentralorgan.at^|
 ||zentrof.com^|
 ||zenvada.de^|
+||zenvys.de^|
 ||zenymab.com^|
 ||zeppeespadrillas.com^|
 ||zerewonder.com^|
