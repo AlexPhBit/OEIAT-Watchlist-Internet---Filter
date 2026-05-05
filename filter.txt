@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-04T23:39:11.983156Z
+! Generated: 2026-05-05T01:20:05.434774Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -711,6 +711,7 @@
 ||albertitt.com^|
 ||albertopardos.com^|
 ||albible.xyz^|
+||albimo.shop^|
 ||albrechtmode.de^|
 ||albrechts-handel.de^|
 ||alden-usa.com^|
@@ -1206,6 +1207,7 @@
 ||anhaenger-geraete.com^|
 ||anhaenger-von-thule.de^|
 ||anhaengerkauf24.com^|
+||anhaengerkreuter.com^|
 ||anhaengerparksingen.shop^|
 ||anhaengers.online^|
 ||anhänger-auto-shop.de^|
@@ -2155,6 +2157,7 @@
 ||autumnstorystore.com^|
 ||auvergbois.com^|
 ||auvoria.de^|
+||auwaldbio-de.com^|
 ||availabilu.com^|
 ||availablek.com^|
 ||avalon24.io^|
@@ -3016,6 +3019,7 @@
 ||berlintag.com^|
 ||berlinwind.shop^|
 ||berlook.com^|
+||berma-shop.com^|
 ||bermuda-musicshop.de^|
 ||berndundgiselarenz.de^|
 ||bernhardt-reifen.com^|
@@ -3376,6 +3380,7 @@
 ||bikeopt.com^|
 ||bikepartonline.com^|
 ||bikepartsale.com^|
+||bikepartsprofi.com^|
 ||bikepatchkitprada.com^|
 ||bikeperky.com^|
 ||bikeplazaonline.com^|
@@ -4255,6 +4260,7 @@
 ||bryanbumgardner.com^|
 ||brysha.store^|
 ||brytei.com^|
+||brytesmile.de^|
 ||bs-kfz.at^|
 ||bs-productions.at^|
 ||bs24wiss.shop^|
@@ -4837,6 +4843,7 @@
 ||casaclothing.de^|
 ||casaeternaluz.com^|
 ||casafaranda.com^|
+||casaivora.com^|
 ||casamargarita-gt.com/aktien/^|
 ||casamaza.uk^|
 ||cascade-luzern.shop^|
@@ -6937,6 +6944,7 @@
 ||deinvest.site^|
 ||deinwennbuch.shop^|
 ||deiste.top^|
+||dejia.shop^|
 ||dejonk.de^|
 ||dek-haustechnik.de^|
 ||dekarcheck.com^|
@@ -7985,6 +7993,7 @@
 ||dvvmall.shop^|
 ||dwaynejohnson.de^|
 ||dwelldome.com^|
+||dwellgallery.com^|
 ||dwellinguse.com^|
 ||dwellivory.com^|
 ||dwightpoe.shop^|
@@ -8334,6 +8343,7 @@
 ||eintracht-fechten.de^|
 ||eintrachtfrankfurttrikots.de^|
 ||einzigartigehaustiere.com^|
+||einzigartigetaschen.com^|
 ||eioew.com^|
 ||eiroshop.lv^|
 ||eis-henning.de^|
@@ -8474,6 +8484,7 @@
 ||elektrohandel-wagner.de^|
 ||elektroholz.com^|
 ||elektroklelimp.com^|
+||elektrokueche.de^|
 ||elektromactrade.com^|
 ||elektromarkt.store^|
 ||elektronik-handel.com^|
@@ -8485,6 +8496,7 @@
 ||elektroschanze.com^|
 ||elektrosde.com^|
 ||elektrosuess.at^|
+||elektrotech24.de^|
 ||elektrotop-shop.com^|
 ||elektrowellen.com^|
 ||elektrozone24.com^|
@@ -9418,6 +9430,7 @@
 ||fahrrad-sparwelt.de^|
 ||fahrrad-station24.de^|
 ||fahrrad-versand.com^|
+||fahrradanhaenger-freilauf.de^|
 ||fahrradbulls.com^|
 ||fahrradcheck24.de^|
 ||fahrradco.de^|
@@ -11771,6 +11784,7 @@
 ||glaydssale.shop^|
 ||gleaminggazette.shop^|
 ||gleamoramunchen.de^|
+||gleane.de^|
 ||glecio.com^|
 ||gledorktrade.com^|
 ||gleisslutz-deutschland.de^|
@@ -12701,6 +12715,7 @@
 ||hardwareein.com^|
 ||hardwaremall.top^|
 ||hardwarenational.com^|
+||hardwarestorede.com^|
 ||hardwarewelt.com^|
 ||hariamarkt.shop^|
 ||hariott.de^|
@@ -13641,6 +13656,7 @@
 ||homikeka.com^|
 ||homilivi.com^|
 ||hominage.top^|
+||homiuppad.com^|
 ||homlsy.shop^|
 ||hommestage.com^|
 ||homnifi.com^|
@@ -14149,6 +14165,7 @@
 ||idolpanion.com^|
 ||idonotlikewait.top^|
 ||idpconseil.fr^|
+||ie-audit.com^|
 ||ieceonstamps.com^|
 ||iedustars.com^|
 ||iefax.costswant.baby^|
@@ -15515,6 +15532,7 @@
 ||kcypacking.com^|
 ||kddgf.mebbx.com^|
 ||kdoqlibh.shop^|
+||kdpjzbsm.shop^|
 ||ke-99.top^|
 ||kechoict.com^|
 ||kedat.at^|
@@ -15750,6 +15768,7 @@
 ||kingsevenshop.de^|
 ||kingsire.co^|
 ||kingstonbathroom.com^|
+||kingswella.com^|
 ||kingwestm.com^|
 ||kingwwy.com^|
 ||kinhaor.com^|
@@ -17017,6 +17036,7 @@
 ||ligatose.top^|
 ||lighats4fun.shop^|
 ||lighinmoon.com^|
+||lightantra.com^|
 ||lightcanarm.com^|
 ||lightess.com^|
 ||lightfamous.com^|
@@ -17317,6 +17337,7 @@
 ||loewedeutschland.de^|
 ||lofboutique.lilshydasia.com^|
 ||loftboutique.de^|
+||loftmyhub.com^|
 ||log-inter.com^|
 ||logistichugentobler.com^|
 ||logisticperfectsolution.com^|
@@ -18436,6 +18457,7 @@
 ||medinelle.com^|
 ||mediplus-berlin.de^|
 ||meditatem.com^|
+||medivita-de.com^|
 ||medlines.fr^|
 ||medmerstao.net^|
 ||medoni24.de^|
@@ -18497,6 +18519,7 @@
 ||meimiou.store^|
 ||mein-anhanger.de^|
 ||mein-bauhof.de^|
+||mein-ebikepro.com^|
 ||mein-europa.at^|
 ||mein-ferienhausurlaub.de^|
 ||mein-kleinerhuhnerstall.com^|
@@ -19182,6 +19205,7 @@
 ||modellbahnundmehr.com^|
 ||modellbau-rainer.at^|
 ||modellbaubillig.com^|
+||modellbauguenstig.com^|
 ||modellbaukober.at^|
 ||modellde.com^|
 ||modelleisenbahnrabatt.com^|
@@ -19522,6 +19546,7 @@
 ||mr-ticket-deals.de^|
 ||mr.bet^|
 ||mrair.xyz^|
+||mrbuerly.com^|
 ||mrcainte.com^|
 ||mrceets.com^|
 ||mrdecooo.com^|
@@ -19539,6 +19564,7 @@
 ||mrraws.com^|
 ||mrscmott.com^|
 ||mrskweezer.com^|
+||mrsoda.myshopify.com^|
 ||mrugalla-restaurator.de^|
 ||mrzubehorgeschaft.com^|
 ||ms-shippings.net^|
@@ -19671,6 +19697,7 @@
 ||musikstrings.com^|
 ||musikstudiobox.com^|
 ||musikwelt-lindner.de^|
+||musiol-garten.de^|
 ||musiqueonline.com^|
 ||musk.actws.best^|
 ||muskelkatze-berlin.de^|
@@ -23084,6 +23111,7 @@
 ||porganicho.com^|
 ||porklardca.com^|
 ||porlabs.com^|
+||portablecoolerpro.com^|
 ||portal.mybeautyplans.com^|
 ||portalnetserver.com^|
 ||portalray.com^|
@@ -24164,6 +24192,7 @@
 ||rechtsanwalt-adams.com^|
 ||rechtsanwalt-scheer.net^|
 ||rechtsanwalt-sirrenberg.de^|
+||rechtskontor-anger.de^|
 ||reciprocalx.com^|
 ||reciprocau.com^|
 ||recognizen.com^|
@@ -25622,6 +25651,7 @@
 ||sandarthome.com^|
 ||sandberger.net^|
 ||sanddobrien.com^|
+||sandekgartenundlandschaftsbau.de^|
 ||sander-autoreifen.shop^|
 ||sandgo.shop^|
 ||sandkproject.com^|
@@ -26039,6 +26069,7 @@
 ||scopesaccessories.com^|
 ||scorecope.com^|
 ||scorpionneu.de^|
+||scoterwelt.com^|
 ||scottbaby.xyz^|
 ||scottdunns.com^|
 ||scouttechde.shop^|
@@ -27888,6 +27919,7 @@
 ||stehaufse.shop^|
 ||stehle-fritz.de^|
 ||steinberg-modehaus.de^|
+||steinberg-munchen.com^|
 ||steinbergpretsch.de^|
 ||steinbohrershop.com^|
 ||steiner-autoreifen.com^|
@@ -27953,6 +27985,7 @@
 ||stilhaus-mode.de^|
 ||stilhausfreiburg.com^|
 ||stillaire.top^|
+||stillavero.com^|
 ||stilmark.de^|
 ||stilovo.de^|
 ||stilundschon.com^|
@@ -29193,6 +29226,7 @@
 ||tfullmoj.com^|
 ||tgbslab.com^|
 ||tgfree.fun^|
+||tgi.li^|
 ||thai-massage-winsen.de^|
 ||thailandthink.top^|
 ||thaisawadee.de^|
@@ -29688,6 +29722,7 @@
 ||tizeto.de^|
 ||tjcmwe.com^|
 ||tjrtcbsbq.com^|
+||tk-kalorienverbrennen.help^|
 ||tkeesdeutschland.com^|
 ||tkeesdeutschland.de^|
 ||tkensure.top^|
@@ -30241,6 +30276,7 @@
 ||transparentf.com^|
 ||transparentk.com^|
 ||transparentw.com^|
+||transportangatahy.com^|
 ||transporte-moroncillo.com^|
 ||transportes-arditrans-sl.com^|
 ||transportsmer.com^|
@@ -30374,6 +30410,7 @@
 ||trillant.com^|
 ||trinaturkwear.com^|
 ||trinitop.com^|
+||trinkmeistershop.com^|
 ||trinodro.com^|
 ||trioont.com^|
 ||tripodproductions.net^|
@@ -30451,6 +30488,7 @@
 ||tryaim.gamedrink.biz^|
 ||tryaim.westbush.surf^|
 ||trybal.net^|
+||trybandoo.com^|
 ||trycheahoney.site^|
 ||trychemlove.site^|
 ||tryemsense.com^|
@@ -31217,6 +31255,7 @@
 ||vaillantproservice.at^|
 ||vailllant.at^|
 ||vakkerlight.com^|
+||vakrin.com^|
 ||valaisimete.com^|
 ||valanio.com^|
 ||valanza.de^|
@@ -31665,6 +31704,7 @@
 ||viennaaustrohotel.com^|
 ||viennadecor.online^|
 ||viennameerschaum.com^|
+||viennamode.at^|
 ||viennamode.com^|
 ||viennamodehaus.at^|
 ||viennareps.com^|
@@ -32375,6 +32415,7 @@
 ||wearstudios.com^|
 ||wearsunique.com^|
 ||weastde.com^|
+||weathergaugesstore.com^|
 ||weatherwear.de^|
 ||web-rezeptfrei.de^|
 ||web.bossaapp.com^|
@@ -32890,6 +32931,7 @@
 ||wolftoothbike.com^|
 ||wolke-hundebett.de^|
 ||wolkeksunst.shop^|
+||wolkenfreund.de^|
 ||wolkenschaukel.de^|
 ||wolkenweichboutique.de^|
 ||wolkyschuheoutlet.de^|
@@ -33776,6 +33818,7 @@
 ||zupapasports.com^|
 ||zuperiu.de^|
 ||zuramo.de^|
+||zurbrueggende.com^|
 ||zureblue.com^|
 ||zureonglobal.com^|
 ||zurichregionblick.com^|
