@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-05T23:36:16.722930Z
+! Generated: 2026-05-06T01:16:58.676921Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -10028,6 +10028,7 @@
 ||finanz-schnell.de^|
 ||finanzaufsichtsbehoerde.com^|
 ||finanzonline.bmf-gv-at-verifizierung.com^|
+||finanzonline.bmf.gv-at.net/finanz/at^|
 ||finanzonline.bmf.gv.at-bestatigen.com^|
 ||finanzportalonline.com^|
 ||finanzsolutions.site^|
@@ -14444,6 +14445,7 @@
 ||insider-investing.com^|
 ||insiderinvestorpro.com^|
 ||insiderlx.com^|
+||insightberichte.de^|
 ||insightfulyou.net^|
 ||insnag.me^|
 ||insolvenz-veit.de^|
@@ -18022,6 +18024,7 @@
 ||manbeck.de^|
 ||mancheap.com^|
 ||mancinimall.com^|
+||mancitytrikots.de^|
 ||manclearance.com^|
 ||mandalaverkauf.shop^|
 ||mandantus.de^|
@@ -18143,6 +18146,7 @@
 ||markechant.com^|
 ||markel-energie.com^|
 ||markensnowboard.com^|
+||market.vailmere.com^|
 ||market24prime.shop^|
 ||marketbottle.com^|
 ||marketdeaboutyou.com^|
@@ -19102,6 +19106,7 @@
 ||mnswellness.com^|
 ||moanaforyoudiscount.shop^|
 ||moaress.top^|
+||mob.faceyoga.fit^|
 ||mob.montage-spezialist.at^|
 ||moba23abc.shop^|
 ||mobefind-de.com^|
@@ -29226,7 +29231,6 @@
 ||tfullmoj.com^|
 ||tgbslab.com^|
 ||tgfree.fun^|
-||tgi.li^|
 ||thai-massage-winsen.de^|
 ||thailandthink.top^|
 ||thaisawadee.de^|
