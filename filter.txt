@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-06T23:09:40.865342Z
+! Generated: 2026-05-07T00:05:54.641215Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1195,6 +1195,7 @@
 ||angelosimone.com^|
 ||angelzubehoerladen.com^|
 ||angenehme.de^|
+||angermaierwiesn.de/^|
 ||angiecutlery.shop^|
 ||anglediscount.com^|
 ||angling-pro.com^|
@@ -1570,6 +1571,7 @@
 ||arcubev.com^|
 ||arda-car.com^|
 ||ardentandash.com^|
+||ardenza.store^|
 ||ardora.at^|
 ||area-fashion.com^|
 ||area.bitnixer.net^|
@@ -2448,6 +2450,7 @@
 ||balvionex.com^|
 ||bamboo-page.com^|
 ||bamboolikes.com^|
+||bamboomyly.com^|
 ||bamega-reifen.com^|
 ||bamelabuy.shop^|
 ||bamyejosh.shop^|
@@ -2954,6 +2957,7 @@
 ||berg-freundeoutlets.shop^|
 ||berg-reifenversand.com^|
 ||bergbk.de^|
+||berger-deals.com^|
 ||berger-research.net^|
 ||berger-roland.com^|
 ||bergermode.com^|
@@ -7992,6 +7996,7 @@
 ||dvsongrlf.top^|
 ||dvvmall.shop^|
 ||dwaynejohnson.de^|
+||dwellcollect.com^|
 ||dwelldome.com^|
 ||dwellgallery.com^|
 ||dwellinguse.com^|
@@ -12347,6 +12352,7 @@
 ||gtelecharger.com^|
 ||gthebeefirm.com^|
 ||gtl-courier.com^|
+||gtltic-anhaenger.de^|
 ||gtmn.store^|
 ||gtpgrl.com^|
 ||gts-investment.com^|
@@ -12434,6 +12440,7 @@
 ||guyhardly.com^|
 ||gvbmfflnanzonline.info/kddeI3^|
 ||gvbmfflnanzonline.info/kddeI3?fn=fnonl1n3^|
+||gvflnanzonline-erneuern.at/fnid/HQn96kgQ^|
 ||gw-style.com^|
 ||gwcsale.towncabco.com^|
 ||gwcshop.towncabco.com^|
@@ -12772,6 +12779,7 @@
 ||haus-marienthal.de^|
 ||haus-naturholz.com^|
 ||haus-stmartin.de^|
+||haus-winterfeld.de^|
 ||hausannette.de^|
 ||hausbulle.de^|
 ||hausdampf.com^|
@@ -15511,6 +15519,7 @@
 ||kavehomesale.shop^|
 ||kavri.de^|
 ||kawaiiroleplay.com^|
+||kayaksadvanced.com^|
 ||kaybrownsey.com^|
 ||kayh.tovy.shop^|
 ||kayi-handel.de^|
@@ -16210,6 +16219,7 @@
 ||krsmusik.de^|
 ||krueger-dirndl-outlet.shop^|
 ||krueger-dirndleu.shop^|
+||kruegermadl.de^|
 ||kruegertracht.de^|
 ||kruegertrachten.de^|
 ||krug-reifenhandel.com^|
@@ -18169,6 +18179,7 @@
 ||marketusgear.com^|
 ||marketussports.com^|
 ||marketworksupply.com^|
+||marketxarproducts.shop^|
 ||markezia.com^|
 ||markhellbuschde.shop/^|
 ||markierskibindungen.com^|
@@ -19163,6 +19174,7 @@
 ||mode-zurich.ch^|
 ||modea.ch^|
 ||modeackermann.de^|
+||modeatelier-nord.de^|
 ||modeatelier-weber.de^|
 ||modeausaugsburg.com^|
 ||modebaldessarini.de^|
@@ -23479,6 +23491,7 @@
 ||prooutside.com^|
 ||propagaty.com^|
 ||propellerfinnen.com^|
+||propellets.pro^|
 ||properties-list.com^|
 ||propertisz.com^|
 ||property-24.com^|
@@ -24917,6 +24930,7 @@
 ||robogarten.shop^|
 ||robogartende.com^|
 ||roboinvest.at^|
+||roborockosterreich.at^|
 ||roborockoutlet.de^|
 ||roborocks.at^|
 ||roborocks.de^|
@@ -26175,6 +26189,7 @@
 ||sehringger.de^|
 ||sehrruhig.de^|
 ||seibelsdorf-ffw.de^|
+||seiden-haus.de^|
 ||seidl-mode.com^|
 ||seidler-outlet.de^|
 ||seidleroutlet.de^|
@@ -27681,6 +27696,7 @@
 ||sportartikelwelt.com^|
 ||sportausrustung-de.com^|
 ||sportausstattung24.de^|
+||sportbagsshop.com^|
 ||sportbekleidung-de.com^|
 ||sportbekleidungde.com^|
 ||sportbhsshop.com^|
