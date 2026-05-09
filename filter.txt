@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-09T01:25:03.845387Z
+! Generated: 2026-05-09T04:53:06.798484Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -744,6 +744,7 @@
 ||alfcasino1.com/de/^|
 ||alfdever.com^|
 ||alfiag.cfd^|
+||alfinags.bond^|
 ||alfinanz.ch^|
 ||alfonline.de^|
 ||alfons-bentele.de^|
@@ -1195,7 +1196,7 @@
 ||angelosimone.com^|
 ||angelzubehoerladen.com^|
 ||angenehme.de^|
-||angermaierwiesn.de/^|
+||angermaierwiesn.de^|
 ||angiecutlery.shop^|
 ||anglediscount.com^|
 ||angling-pro.com^|
@@ -2060,6 +2061,7 @@
 ||automotivediscount.store^|
 ||automotivehandtools.shop^|
 ||automotives-keim.gmbh^|
+||automotorplus.com^|
 ||automotorradkomponente.com^|
 ||autopartssave.com^|
 ||autoreifen-abel.com^|
@@ -2670,6 +2672,7 @@
 ||baybenbdt.com^|
 ||baydresslove.com^|
 ||bayer-heizen.at^|
+||bayer-stephan.de^|
 ||bayerischegeschenke.com^|
 ||bayerischeu.de^|
 ||bayerwald-heizoel.de^|
@@ -2708,6 +2711,7 @@
 ||bbviptheme.shop^|
 ||bbviptotal.shop^|
 ||bcbock.shop^|
+||bch-oberursel.de^|
 ||bcokojidrip.shop^|
 ||bcpchoice.shop^|
 ||bcpstores.shop^|
@@ -3007,6 +3011,7 @@
 ||berlinfog.com^|
 ||berlinget.com^|
 ||berlinherren.de^|
+||berlinkaffee.myshopify.com^|
 ||berlinmedz.com^|
 ||berlinmoon.com^|
 ||berlinmusiccraft.com^|
@@ -3520,6 +3525,7 @@
 ||bireada.com^|
 ||birgit-hamburg.de^|
 ||birken-online.com^|
+||birken-stockde.shop^|
 ||birkendeal.com^|
 ||birkenselections.com^|
 ||birkenstockeusale.com^|
@@ -4847,6 +4853,7 @@
 ||casaclothing.de^|
 ||casaeternaluz.com^|
 ||casafaranda.com^|
+||casagomart.com^|
 ||casaivora.com^|
 ||casamargarita-gt.com/aktien/^|
 ||casamaza.uk^|
@@ -5579,6 +5586,7 @@
 ||clorven.shop^|
 ||closast.top^|
 ||closeery.top^|
+||closeoutstore.de^|
 ||closinggsale.com^|
 ||clotha-boutique.de^|
 ||clothefinance.com^|
@@ -5999,6 +6007,7 @@
 ||coralcoveswim.com^|
 ||cordes-reifenversand.com^|
 ||coregarment.com^|
+||coremat-industrie.com^|
 ||corentinmaribro.shop^|
 ||coreprettys.com^|
 ||corestationsystems.sbs^|
@@ -6466,6 +6475,7 @@
 ||daftarpltk.com^|
 ||daheim-gut.ch^|
 ||daheimgut.ch^|
+||daheimgut.com^|
 ||dahlmuehle.de^|
 ||daietdy.top^|
 ||daily-clearance.com^|
@@ -6985,6 +6995,7 @@
 ||deliversafev.com^|
 ||delivv.shop^|
 ||delix.at^|
+||delksm.com^|
 ||dellelily.com^|
 ||delluniversita.com^|
 ||delmad-agro-spedition.com^|
@@ -8040,6 +8051,7 @@
 ||e-shopplat.com^|
 ||e-trekkingrader.com^|
 ||e-vignette.cz^|
+||e-youbikes.com^|
 ||e.holzheiz.com^|
 ||e24-handel.com^|
 ||e24-handel.net^|
@@ -8934,6 +8946,7 @@
 ||eshoesoutlet.com^|
 ||eshop-univers.de^|
 ||eshop.sintech.cn^|
+||eshop.vailmere.com^|
 ||eshop6v.tk^|
 ||eshops.lol^|
 ||eshopsmartonline.com^|
@@ -9839,6 +9852,7 @@
 ||felicites-gbr.de^|
 ||felicityjohnson.shop^|
 ||felinette.top^|
+||felino-sport.de^|
 ||felipag.com^|
 ||felira.de^|
 ||felitos.de^|
@@ -10115,6 +10129,7 @@
 ||fintechnews.live^|
 ||fintegral.fund^|
 ||fintegral.world^|
+||fintessxpert.com^|
 ||fintrexia.org^|
 ||finyxrefund.com^|
 ||fiorenz.com^|
@@ -10825,6 +10840,7 @@
 ||fuitrpt.com^|
 ||fulda-handel.de^|
 ||fullhousee.com^|
+||fullsora.de^|
 ||fullswingfootwear.com^|
 ||fullzcash.com^|
 ||funccy.com^|
@@ -11344,6 +11360,7 @@
 ||gbi.segaeg.top^|
 ||gbootssale.com^|
 ||gbpusdcryptotrade.live^|
+||gbr-office.de^|
 ||gbviu-vip.shop^|
 ||gbwjstored.com^|
 ||gc-bag.com^|
@@ -12978,6 +12995,7 @@
 ||heirloom-us.com^|
 ||heirm.today^|
 ||heise-reifenversand.com^|
+||heisehaus.com^|
 ||heisen-handel.de^|
 ||heisen-handels.de^|
 ||heisenberg24.com^|
@@ -13251,6 +13269,7 @@
 ||hidra-pool.com^|
 ||hierarchyi.com^|
 ||hierarchyk.com^|
+||hifistudioroma.com^|
 ||hig-finance.com^|
 ||high-corporate.com^|
 ||high-levelchicgeneral.com^|
@@ -13620,6 +13639,7 @@
 ||homes-space.com^|
 ||homesdecorsale.com^|
 ||homeseven.de^|
+||homestorex.com^|
 ||homesunglow.com^|
 ||homesupplybest.com^|
 ||homesupplymarket.com^|
@@ -13889,6 +13909,7 @@
 ||hsabtit.com^|
 ||hsc-brunner.at^|
 ||hsd-installationstechnik.at^|
+||hsdienst.at^|
 ||hsflogisticsgroup.com^|
 ||hsk-bessel.de^|
 ||hsleibnitz.at^|
@@ -14224,6 +14245,7 @@
 ||iiozb.shop^|
 ||iiroom.adcreate.website^|
 ||iivity.top^|
+||ijhardware.com^|
 ||ijiombc.site^|
 ||ikakleha.top^|
 ||ikici.com^|
@@ -14361,6 +14383,7 @@
 ||indoorlehurstconsultancy.com^|
 ||industrialprotool.com^|
 ||industrialstop.shop^|
+||industriehub.de^|
 ||inedito.fr^|
 ||ineedthisorder.com^|
 ||inertiafinance.co^|
@@ -14939,6 +14962,7 @@
 ||jet-setter.shop^|
 ||jetaxtrade.pro^|
 ||jetprofund.net^|
+||jetterix.com^|
 ||jeulia.de^|
 ||jeveray.com^|
 ||jevolo-de.com^|
@@ -16241,6 +16265,7 @@
 ||kryptonitemaxxis.com^|
 ||kryptovip.com^|
 ||krystalfragrance.shop^|
+||ks-baumarkt.com^|
 ||ks.tizml.shop/JnM8PaQb^|
 ||ksecass.com^|
 ||kshakeshc.com^|
@@ -16271,6 +16296,7 @@
 ||kue-arbeit.at^|
 ||kuechen-point24.com^|
 ||kuechenblume.net^|
+||kuechenmeistershop.com^|
 ||kuechesale.com^|
 ||kuehnenagel-service.de^|
 ||kuethe-kollegen.com^|
@@ -17820,6 +17846,7 @@
 ||m.daefox.com^|
 ||m.gluschwein.de^|
 ||m.hotacryptovip.com^|
+||m.kaufjoy.de^|
 ||m.lavonde.de^|
 ||m.lightinthebox.com^|
 ||m.sakerwerkzeuge.de^|
@@ -18535,6 +18562,7 @@
 ||mein-anhanger.de^|
 ||mein-bauhof.de^|
 ||mein-ebikepro.com^|
+||mein-euro-kredit.de^|
 ||mein-europa.at^|
 ||mein-ferienhausurlaub.de^|
 ||mein-kleinerhuhnerstall.com^|
@@ -18578,6 +18606,7 @@
 ||meingartenhimmel.de^|
 ||meingeschaftss.com^|
 ||meinholzz.de^|
+||meinhuggies.com^|
 ||meinkleinerhuhnerstall-at.com^|
 ||meinkrimskrams.de^|
 ||meinmaison.de^|
@@ -18732,6 +18761,7 @@
 ||merovia.de^|
 ||meroycollection.store^|
 ||merrell-austria.com^|
+||merrell-deutschland.de^|
 ||Merrell-osterreich.at^|
 ||merrell-osterreich.com^|
 ||merrellaustria.at^|
@@ -18813,6 +18843,7 @@
 ||mfk-gastroprofi.de^|
 ||mfootwearus.com^|
 ||mga-deutschland.de^|
+||mgaffaires.com^|
 ||mgatmf.com^|
 ||mgrouplfm.top^|
 ||mh-garten24.com^|
@@ -18871,6 +18902,7 @@
 ||middlewill.com^|
 ||midformsandalen.net^|
 ||midikleider.com^|
+||midlandmodels.com^|
 ||midlayer-online.com^|
 ||midnightchems.com^|
 ||midnighti.com^|
@@ -19055,6 +19087,7 @@
 ||miusts.com^|
 ||mivona.de^|
 ||mivoxa.de^|
+||mivoza-store.com^|
 ||mivoza.de^|
 ||mivrex.com^|
 ||mivukclothes.com^|
@@ -20794,6 +20827,8 @@
 ||nutboat.co.uk^|
 ||nutrimcaps.com^|
 ||nuttytoolpart.com^|
+||nuubu-store.com^|
+||nuubu.com^|
 ||nuvinodeutschland.com^|
 ||nuvistio.com^|
 ||nuvonda.shop^|
@@ -23067,6 +23102,7 @@
 ||poolcosmetic.com^|
 ||poolfilterneu.de^|
 ||poolfreunde.com^|
+||pooloas.de^|
 ||pooloase.shop^|
 ||poolreinigerde.com^|
 ||poolsaunasupply.com^|
@@ -23985,6 +24021,7 @@
 ||raduniversum.de^|
 ||radyo-muzik.com^|
 ||radzeit.com^|
+||radzubehoer24.com^|
 ||raealed.club^|
 ||raeuber-und-komplizene.shop^|
 ||raeuberundkomplizen.shop/^|
@@ -24544,6 +24581,7 @@
 ||reminora.com^|
 ||remintive.com^|
 ||remorcas.com^|
+||remorque-fermee-ffrance.com^|
 ||remote-rpo-at.com^|
 ||remoteonlinehub.com^|
 ||removean.top^|
@@ -25897,6 +25935,7 @@
 ||schluesseldienst-hilfe.at^|
 ||schluesseldienst-hilft.at^|
 ||schluesseldienst.platz-1.at^|
+||schluesseldienst.valers.site^|
 ||schluesseldienst123.at^|
 ||schluesseldienstinwien.at^|
 ||schlummerkids.de^|
@@ -27961,6 +28000,7 @@
 ||stemecommunity.com^|
 ||stemorien.com^|
 ||stengelra.com^|
+||stephanbayer.de^|
 ||stephanheinrich.shop^|
 ||stephaniehotting.com^|
 ||stephanwagner.at^|
@@ -28008,6 +28048,7 @@
 ||stillaire.top^|
 ||stillavero.com^|
 ||stilmark.de^|
+||stilmoment.com^|
 ||stilovo.de^|
 ||stilundschon.com^|
 ||stilvollberlin.de^|
@@ -28062,6 +28103,7 @@
 ||stonearmoryde.shop^|
 ||stoneisland-outlet.de^|
 ||stonesandrockz.com^|
+||stonewyld.com^|
 ||stoolsale.com^|
 ||stoov.shop/^|
 ||stooveu.shop^|
@@ -28097,6 +28139,7 @@
 ||store.aktuellerezensionen.de^|
 ||store.birkvsale.com^|
 ||store.birkxsale.com^|
+||store.dealofferix.com^|
 ||store.dobot.cc^|
 ||store.minisforum.de^|
 ||store.savemarketed.com^|
@@ -28192,6 +28235,7 @@
 ||stouttrim.com^|
 ||stowerdubaik.shop^|
 ||stoxdc.com^|
+||stpremorques.com^|
 ||strabenmotorrad.com^|
 ||strahlentier.de^|
 ||strahlerdeck.com^|
@@ -29742,6 +29786,7 @@
 ||tizeto.de^|
 ||tjcmwe.com^|
 ||tjrtcbsbq.com^|
+||tk-deburncalories.shop^|
 ||tk-kalorienverbrennen.help^|
 ||tkeesdeutschland.com^|
 ||tkeesdeutschland.de^|
@@ -30298,6 +30343,7 @@
 ||transparentw.com^|
 ||transportangatahy.com^|
 ||transporte-moroncillo.com^|
+||transportes-angel-salinas.com^|
 ||transportes-arditrans-sl.com^|
 ||transportsmer.com^|
 ||transportwelt.com^|
@@ -31484,6 +31530,7 @@
 ||vellamia.de^|
 ||vellera.de^|
 ||velmaspekingese.com^|
+||velo-nation.com^|
 ||velocityh.com^|
 ||veloclublouhannais.com^|
 ||velodirectstore.de^|
@@ -31868,6 +31915,7 @@
 ||vitalvigoury.com^|
 ||vitamin-schmiede24.de^|
 ||vitanourishhub.com^|
+||vitarela.at^|
 ||vitawellshop.shop^|
 ||vitev.net^|
 ||vitkovice.net^|
@@ -32509,6 +32557,7 @@
 ||weidmullertool.com^|
 ||weidner-shop.de^|
 ||weigelt-heizung.de^|
+||weihnachtsdekokaufen.com^|
 ||weikershem.de^|
 ||weilco.myshopify.com^|
 ||weile-tech.de^|
