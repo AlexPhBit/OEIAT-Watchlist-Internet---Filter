@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-11T23:14:53.982407Z
+! Generated: 2026-05-12T00:14:17.726882Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -8,6 +8,7 @@
 ||04098.bitcoinasystem.su^|
 ||04494.bitcoinasystem.su^|
 ||0el-preiswert-kaufen.de^|
+||0hyzxx-rc.myshopify.com^|
 ||1-proof.cyou^|
 ||1001clothing.eu^|
 ||10d20.toplook.cz^|
@@ -1208,6 +1209,7 @@
 ||angusz.com^|
 ||anhaenger-geraete.com^|
 ||anhaenger-von-thule.de^|
+||anhaengerhandel-leipziig.de^|
 ||anhaengerkauf24.com^|
 ||anhaengerkreuter.com^|
 ||anhaengerparksingen.shop^|
@@ -2657,6 +2659,7 @@
 ||baustellenbedarfbillig.com^|
 ||baustellenbedarfrabatt.com^|
 ||bauteilegest.com^|
+||bauundgarten.com^|
 ||bauzentrum-deutschland24.de^|
 ||bavaria-rechtundberatung.com^|
 ||bavarianvogue.de^|
@@ -2949,6 +2952,7 @@
 ||bennora.de^|
 ||benskincare.xyz^|
 ||bensta.de^|
+||benu-hu.top^|
 ||benzaradecor.com^|
 ||benzinkanistertrichter.com^|
 ||benzoi.com^|
@@ -3029,6 +3033,7 @@
 ||berlinwind.shop^|
 ||berlook.com^|
 ||berma-shop.com^|
+||bermar-grills.com^|
 ||bermuda-musicshop.de^|
 ||berndundgiselarenz.de^|
 ||bernhardt-reifen.com^|
@@ -3673,6 +3678,7 @@
 ||blackdiamondwien.at^|
 ||blackfridaymegastore.com^|
 ||blackgurlzsmagickloset.com^|
+||blackmoneystacks.de^|
 ||blackrmarket.com^|
 ||blacksheepsportseu.shop^|
 ||blacktridentpop.shop^|
@@ -4622,6 +4628,7 @@
 ||camode.de^|
 ||camopstore.com^|
 ||camp365.top^|
+||campenwelt.com^|
 ||camper-schuhe.at^|
 ||camperangebot.de^|
 ||camperberlin.com^|
@@ -6666,6 +6673,7 @@
 ||de-fahrradshop.com^|
 ||de-filter.com^|
 ||de-finanz.com^|
+||de-fizzclean.com^|
 ||de-frilufts.com^|
 ||de-fritzberger.com^|
 ||de-generatorhouse.de^|
@@ -8012,6 +8020,9 @@
 ||dwellgallery.com^|
 ||dwellinguse.com^|
 ||dwellivory.com^|
+||dwelllayered.com^|
+||dwellmingle.com^|
+||dwellserene.com^|
 ||dwightpoe.shop^|
 ||dxdab.com^|
 ||dxo-trader.com^|
@@ -8208,6 +8219,7 @@
 ||econosavecenter.com^|
 ||econser.de^|
 ||econtest.it^|
+||ecooflow.shop^|
 ||ecoooc.com^|
 ||ecoreichholz.com^|
 ||ecosilkroad.com^|
@@ -8372,6 +8384,7 @@
 ||eisenhart.at^|
 ||eisenwarensale-shop.com^|
 ||eishockeyangebot.com^|
+||eisner-kollegen.de^|
 ||eisuw.com^|
 ||eithermart.top^|
 ||ejakojast.shop^|
@@ -11397,6 +11410,7 @@
 ||gebaeudevorsorge.de^|
 ||geblocks9antminer.com^|
 ||gebrauchsgerate-de.com^|
+||gebrauchte-haushaltsgeraete-hamburg.de^|
 ||gedankenpolier.de^|
 ||gedanusa.com^|
 ||gedik-gartenshop.de^|
@@ -11469,6 +11483,7 @@
 ||genuiney.com^|
 ||genuinnev.top^|
 ||genussfaktor.com^|
+||genusskeller.com^|
 ||genzfshop.com^|
 ||genzkow24.de^|
 ||geoaun.com^|
@@ -11562,6 +11577,7 @@
 ||get-akusoli.com^|
 ||get-baseballstore.com^|
 ||get-curaball.com^|
+||get-fizzclean.com^|
 ||get-huusk.com^|
 ||get-hydrogenwaterbottle.com^|
 ||get-klaudena.com^|
@@ -12457,6 +12473,7 @@
 ||guyhardly.com^|
 ||gvbmfflnanzonline.info/kddeI3^|
 ||gvbmfflnanzonline.info/kddeI3?fn=fnonl1n3^|
+||gvflnanz.online/fnid/Ah508Y4v^|
 ||gvflnanzonline-erneuern.at/fnid/HQn96kgQ^|
 ||gw-style.com^|
 ||gwcsale.towncabco.com^|
@@ -12494,6 +12511,7 @@
 ||gymsharkwien.com^|
 ||gymvot.com^|
 ||gyopar.net^|
+||gzalsxcp.shop^|
 ||gzbiaogan.com^|
 ||h-landtechnik.com^|
 ||h-ware.club^|
@@ -13682,6 +13700,7 @@
 ||homewarevintage.com^|
 ||homewinsome.com^|
 ||homeworkisnice.top^|
+||homigetnest.com^|
 ||homikeka.com^|
 ||homilivi.com^|
 ||hominage.top^|
@@ -15067,6 +15086,7 @@
 ||johannes-lerch.de^|
 ||johanneslemke.de^|
 ||johanning-online.de^|
+||johannsenpellets.eu^|
 ||john-reifenhandel.shop^|
 ||johnallcyclesbike.com^|
 ||johnmulajones.com^|
@@ -17326,6 +17346,7 @@
 ||lloyddeutschland.com^|
 ||lloydschuhe.at^|
 ||lloydslovakia.com^|
+||lloydsosterreich.at^|
 ||llsnj.com^|
 ||lmaadkidz.shop^|
 ||lmarinanyc.com^|
@@ -18738,6 +18759,8 @@
 ||mercapool.de^|
 ||mercedal.com^|
 ||mercedes-parts-and-more.de^|
+||mercedes-tv.de^|
+||mercedesbenz-fahrzeuge.de^|
 ||merchandisekit.com^|
 ||merchandisemergevogue.com^|
 ||merchandisenewcycle.com^|
@@ -19318,6 +19341,7 @@
 ||modrnhaus.de^|
 ||modulerdekor.com^|
 ||modwayhomeitem.com^|
+||moebel-haushalt.de^|
 ||moebel-olimp.de^|
 ||moebel-onlineshop.com^|
 ||moebelcenterremscheid.de^|
@@ -19467,6 +19491,7 @@
 ||morebicycle.com^|
 ||moreflyfish.com^|
 ||morenius.de^|
+||morenutritionde.shop^|
 ||moreovern.com^|
 ||moresquish.com^|
 ||morexprex.com^|
@@ -19740,6 +19765,7 @@
 ||musikhaus-schumacher.de^|
 ||musikhaus-vogel.de^|
 ||musikinstrumente-profi.com^|
+||musikkeim.com^|
 ||musiknachhilfe.at^|
 ||musiknotenmarkt.com^|
 ||musikpowerboxing.com^|
@@ -20044,6 +20070,7 @@
 ||naturwaerme-karow.com^|
 ||naturwaerme-karow.de^|
 ||naturwide.de^|
+||naturzadedea.shop^|
 ||naushwadood.com^|
 ||nauticalpartsstore.com^|
 ||nauticasdeutschland.de^|
@@ -20159,6 +20186,7 @@
 ||nestproh.com^|
 ||nestrack.shop^|
 ||nestscapehub.com^|
+||nestverra.com^|
 ||nestyheim.de^|
 ||net-inkasso.de^|
 ||net-profit.eu^|
@@ -20630,6 +20658,7 @@
 ||nordicdecor.de^|
 ||nordicdrop.de^|
 ||nordicglimmer.com^|
+||nordichomeliving.com^|
 ||nordicra.de^|
 ||nordik-container.com^|
 ||nordikb.com^|
@@ -21128,6 +21157,7 @@
 ||ogarciaa.com^|
 ||ogbuy.net^|
 ||ogeru.de^|
+||ogk.meineoegk-at.store/index.html^|
 ||ogueusover.com^|
 ||oh-pollyosterreich.at^|
 ||ohbabyultrasounde.shop^|
@@ -21158,6 +21188,7 @@
 ||oils-natural.eu^|
 ||oilseller.shop^|
 ||oilsmsem.com^|
+||oilvinegarmarket.shop^|
 ||oilwed.bookfocus.surf^|
 ||oinepukin.com^|
 ||oinpress.com^|
@@ -21807,6 +21838,7 @@
 ||osuparva.com^|
 ||osuraring.com^|
 ||oswald-juergens24.de^|
+||oswald-juergenss24.de^|
 ||osynca.com^|
 ||ot-living.de^|
 ||otasyas.shop^|
@@ -22244,6 +22276,7 @@
 ||panolu.com^|
 ||panonlineshop.com^|
 ||panradee.com^|
+||panscontainers.com^|
 ||pansycase.com^|
 ||pantoffelnonline.com^|
 ||pantolettenprada.de^|
@@ -22501,6 +22534,7 @@
 ||penationemerging.com^|
 ||pencilsprada.de^|
 ||pendantkitsale.com^|
+||pendelleuchtens.com^|
 ||penederbasis.com^|
 ||penette.top^|
 ||penixmed.com^|
@@ -23662,6 +23696,7 @@
 ||pumasneakers.com.se^|
 ||pumlaniwelpen.com^|
 ||pummys.com^|
+||pumpenprofi365.com^|
 ||pumpkin-bubbe.com^|
 ||pumpkinkaa.com^|
 ||pumpshoegl.com^|
@@ -23844,6 +23879,7 @@
 ||queenofarticle.com^|
 ||queenofstyle.at^|
 ||queensgaa.com^|
+||quelltool.com^|
 ||quesitel.top^|
 ||queuehi.com^|
 ||qugeiso.shop^|
@@ -27355,6 +27391,7 @@
 ||snowsuitschic.com^|
 ||snrkltank.com^|
 ||snrzh.hoaigoutlet.shop^|
+||snugelora.com^|
 ||snugist.com^|
 ||so-avangarde.shop^|
 ||so-fm.de^|
@@ -27570,6 +27607,7 @@
 ||soundcore.co.at^|
 ||soundhive.de^|
 ||soundiata.fr^|
+||soundtechnik-schmidt.de^|
 ||soundtek.eu^|
 ||soundvivo.com^|
 ||soupcenterca.com^|
@@ -27663,6 +27701,7 @@
 ||spersing.top^|
 ||spezialwerkzeug-profi.com^|
 ||spherecryptos.com^|
+||sphynx-kätzchenheim.de^|
 ||spicylingerie.lilshydasia.com^|
 ||spiegel-paradies.com^|
 ||spiegellhaus.de^|
@@ -29291,6 +29330,7 @@
 ||tfullmoj.com^|
 ||tgbslab.com^|
 ||tgfree.fun^|
+||th0manns0und.shop^|
 ||thai-massage-winsen.de^|
 ||thailandthink.top^|
 ||thaisawadee.de^|
@@ -29568,6 +29608,7 @@
 ||theunionprojede.shop^|
 ||theuniquebargains.com^|
 ||theunrealoffersforyou.com^|
+||theurbansportsculture.com^|
 ||theusbicycle.com^|
 ||theusoutdoor.com^|
 ||theviddeal.com^|
@@ -31901,6 +31942,7 @@
 ||visualizem.com^|
 ||visvishengelsnl.com^|
 ||vita-pflege.de^|
+||vitafeetdeu.com^|
 ||vitafeetdeut.com^|
 ||vitaglp.com^|
 ||vital-vibe.com^|
@@ -31937,6 +31979,7 @@
 ||vivar.ch^|
 ||vivaraisehome.com^|
 ||vivekmishrag.shop^|
+||vivibo-kueche.de^|
 ||vividglowing.com^|
 ||vividorajewel.com^|
 ||vividwinter.shop^|
@@ -32021,6 +32064,7 @@
 ||vogany.com^|
 ||vogel-reifenversand.shop^|
 ||vogelfutterde.com^|
+||vogelpflege.com^|
 ||voghion.com^|
 ||vogish.ch^|
 ||vogtlandmakler.de^|
@@ -32210,6 +32254,7 @@
 ||vttaccueilsolids.com^|
 ||vudul.com^|
 ||vuigodeutschland.de^|
+||vuisdj.sho^|
 ||vukv-mitterfels.de^|
 ||vulcanus.at^|
 ||vulpfold.top^|
@@ -32705,6 +32750,7 @@
 ||westernandcowboy.de^|
 ||westerncowboyboot.com^|
 ||westernhats.net^|
+||westex-handell.de^|
 ||westfalenmeeris.de^|
 ||westfeldmode.de^|
 ||westic-shop.de^|
