@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-12T23:33:19.324481Z
+! Generated: 2026-05-13T01:27:21.315314Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -602,6 +602,7 @@
 ||aimatape.xyz^|
 ||aimpshop.com^|
 ||ainhoaotegi.com^|
+||ainorton.com^|
 ||air-jordan4.com^|
 ||air-max.at^|
 ||air-uposterreich.at^|
@@ -678,6 +679,7 @@
 ||aktionheizung.de^|
 ||aktivabenteuer.de^|
 ||aktivall.de^|
+||aktivanzug.com^|
 ||aktivimfreien.com^|
 ||aku-vital.de^|
 ||akunarfinance.com^|
@@ -1235,6 +1237,7 @@
 ||anhangershop24.com^|
 ||anhangershopsey.com^|
 ||anhangerwagen.com^|
+||anhor-sports.shop^|
 ||ani--zoo.com^|
 ||anibatchr.com^|
 ||anigame.shop^|
@@ -3442,6 +3445,7 @@
 ||bildahoide.shop/^|
 ||bildhauerbergwerk.at^|
 ||bildhauerey.de^|
+||bildsieg.com^|
 ||bilionhouse.com^|
 ||billa.prizmar.at^|
 ||billabong.com.de^|
@@ -3739,6 +3743,7 @@
 ||blscorpy.com^|
 ||blsolar.de^|
 ||blsyconcept.com^|
+||bltyydzv.shop^|
 ||blucontue.com^|
 ||blue-immo.com^|
 ||blue-mart.shop^|
@@ -6473,6 +6478,7 @@
 ||dachprode.shop/^|
 ||dachtraegeronline.com^|
 ||dachvr.okologischrlw.cyou^|
+||dacimmo.com^|
 ||dackelfreude.shop/^|
 ||dackeltraum.com^|
 ||dackelwelpen.at^|
@@ -8736,6 +8742,7 @@
 ||energie-heizheld.de^|
 ||energie-nordost.de^|
 ||energie-quellen.at^|
+||energiefach.com^|
 ||energiegewinner24.de^|
 ||energieheld24.com^|
 ||energieholzpellets.com^|
@@ -9851,6 +9858,7 @@
 ||feiautumn.top^|
 ||feilerelektro.com^|
 ||feinkaufshop.com^|
+||feinkleidung.com^|
 ||feinstrumpfhosenneu.com^|
 ||feintoll.de^|
 ||feixunseo.com^|
@@ -9994,6 +10002,7 @@
 ||fiberxptool.com^|
 ||fibovest.com^|
 ||fibusgewerblicherbuchhalter.com^|
+||ficbnk.com/^|
 ||fichtenaumodehaus.de^|
 ||ficiior.xyz^|
 ||fideligencia.com^|
@@ -10383,6 +10392,7 @@
 ||flitlogistics.com^|
 ||flixyshop.com^|
 ||flletsa.com^|
+||flnanzonline-gvbmfgv.net/^|
 ||flnanzonline-vgbmfgv.net/^|
 ||flnanzonline.at/finanz/6890bbffac4a5^|
 ||floange.com^|
@@ -12814,6 +12824,7 @@
 ||haus-marienthal.de^|
 ||haus-naturholz.com^|
 ||haus-stmartin.de^|
+||haus-wein.com^|
 ||haus-winterfeld.de^|
 ||hausannette.de^|
 ||hausbulle.de^|
@@ -15062,6 +15073,7 @@
 ||joanoks.com^|
 ||joazim.com^|
 ||job-box.at^|
+||jobam.shop^|
 ||jobchange.at^|
 ||jobdreamonline.com^|
 ||jobflow.careers^|
@@ -16205,6 +16217,7 @@
 ||kraemer-garten.de^|
 ||kraftdesweins.com^|
 ||kraftholz.shop^|
+||kraftraumpro.com^|
 ||krafttoolco.com^|
 ||kraftwerk-solar.com^|
 ||krahl-container.eu^|
@@ -16531,6 +16544,7 @@
 ||landhomedecor.com^|
 ||landluftde.shop^|
 ||landmannde.shop/^|
+||landmaschinen-deutschland.de^|
 ||landnostalgie.de^|
 ||landornaments.com^|
 ||landoverprtcanada.shop^|
@@ -17182,6 +17196,7 @@
 ||limmstore.com^|
 ||limoza.de^|
 ||linashop.de^|
+||linavellegoods.com^|
 ||lindabonf.shop^|
 ||lindbergmode.de^|
 ||lindela.de^|
@@ -17398,6 +17413,7 @@
 ||loftboutique.de^|
 ||loftmyhub.com^|
 ||log-inter.com^|
+||loggiawelt.com^|
 ||logistichugentobler.com^|
 ||logisticperfectsolution.com^|
 ||logisticteamgmbh.com^|
@@ -17929,6 +17945,7 @@
 ||magartens.com^|
 ||magemma.com^|
 ||magenta-oat.com^|
+||magenta.zgwqds.com/at^|
 ||magentaappat.top^|
 ||magentashelf.com^|
 ||mageshapi.com^|
@@ -19141,6 +19158,7 @@
 ||mkaisha.shop^|
 ||mkcshop.com^|
 ||mkgarrisone.com^|
+||mkijnds.shop^|
 ||mkiplmout.com^|
 ||mklidsa.shop^|
 ||mknen.com^|
@@ -23202,6 +23220,7 @@
 ||portal.mybeautyplans.com^|
 ||portalnetserver.com^|
 ||portalray.com^|
+||portaqua.shop^|
 ||portefeuillephoto.com^|
 ||porterblushu.com^|
 ||porterpowermatic.com^|
@@ -24284,6 +24303,7 @@
 ||rechtsanwalt-scheer.net^|
 ||rechtsanwalt-sirrenberg.de^|
 ||rechtskontor-anger.de^|
+||rechtund-gesetz.com^|
 ||reciprocalx.com^|
 ||reciprocau.com^|
 ||recognizen.com^|
@@ -24588,7 +24608,6 @@
 ||related-ag.com^|
 ||relationshipi.com^|
 ||relativitye.com^|
-||relaxholz.at^|
 ||relaxingbedroom.com^|
 ||relevantf.com^|
 ||relevantkichenshop.com^|
@@ -24686,6 +24705,7 @@
 ||residence-immo.com^|
 ||residentrail.com^|
 ||reslishd.com^|
+||resolved.defisolution.net^|
 ||respeaonsct.com^|
 ||responseion.net^|
 ||restarrs.world^|
@@ -24904,6 +24924,7 @@
 ||riosale.online^|
 ||riotintofx-crypto.com^|
 ||riotpillow.de^|
+||rip-curl.co.at^|
 ||ripcurl.co.at^|
 ||ripematernitysale.com^|
 ||ripematernityshop.com^|
@@ -25951,6 +25972,7 @@
 ||schirmlampenneu.de^|
 ||schladmingevents.at^|
 ||schlafewo.de^|
+||schlafglanz.com^|
 ||schlafhimmel.com^|
 ||schlafhimmelshop.de^|
 ||schlaftabletten-rezeptfrei.org^|
@@ -27302,6 +27324,7 @@
 ||smartstoy.shop^|
 ||smartundgeizig.de^|
 ||smartvest.site^|
+||smartwaerme.com^|
 ||smartwavepulse.com^|
 ||smarty-shop24.de^|
 ||smazdak.com^|
@@ -27353,6 +27376,7 @@
 ||sneakio.de^|
 ||sneaku-mag.de^|
 ||sneakwearlab.com^|
+||sneakwelt.com^|
 ||sneawin.com^|
 ||sngartenbau.de^|
 ||snikteks.com^|
@@ -28079,6 +28103,7 @@
 ||stil-bruch.at^|
 ||stil-mode.de^|
 ||stilado.de^|
+||stilblazer.com^|
 ||stilehaus.de^|
 ||stilejx.stilop.mom^|
 ||stilgut-wien.at^|
@@ -29278,6 +29303,7 @@
 ||test9.org^|
 ||testafey.com^|
 ||testcortiy.com^|
+||testdomain2.org^|
 ||testereo.com^|
 ||testheld.me^|
 ||testmattrd.top^|
@@ -29735,6 +29761,7 @@
 ||tierfriedhof-kamps.de^|
 ||tierhandlungszuchter.com^|
 ||tierheimweisz.com^|
+||tierleckerli.com^|
 ||tiernahrungoutlet.com^|
 ||tierparadies-de.com^|
 ||tierpflegeprodukte.com^|
@@ -30973,6 +31000,7 @@
 ||upcock.hetouch.shop^|
 ||updebatesociety.com^|
 ||updez.com^|
+||upecho.pcmachine.shop^|
 ||upgradebikewear.com^|
 ||upgradeburton.com^|
 ||upgradeoutdoors.com^|
@@ -32164,6 +32192,7 @@
 ||voluntarys.top^|
 ||vomatmotorrat.com^|
 ||vomero.store^|
+||von-kronen.com^|
 ||vonauto.de^|
 ||voncleir.com^|
 ||vondacoco.com^|
@@ -32622,6 +32651,7 @@
 ||weinfreunde.wine-outlet.shop^|
 ||weinfreundea1s-de.com^|
 ||weinfreunoutlet.com^|
+||weinfrisch.com^|
 ||weingut-erbeldinger.shop^|
 ||weinlover.com^|
 ||weinmannmode.de^|
