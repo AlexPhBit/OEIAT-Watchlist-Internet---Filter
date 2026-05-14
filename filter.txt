@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-13T22:54:17.701815Z
+! Generated: 2026-05-14T00:08:51.099440Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -748,6 +748,7 @@
 ||alfdever.com^|
 ||alfiag.cfd^|
 ||alfinags.bond^|
+||alfinags.work^|
 ||alfinanz.ch^|
 ||alfonline.de^|
 ||alfons-bentele.de^|
@@ -3259,6 +3260,7 @@
 ||bewegungsmeister.de^|
 ||beweich.de^|
 ||bewoix.com^|
+||bewolken.de^|
 ||bewusstsein-ibk.at^|
 ||bexis-assets.com^|
 ||bexisassets.com^|
@@ -3734,6 +3736,7 @@
 ||blomusoutlet.com^|
 ||bloodid.xyz^|
 ||bloomingkocode.shop^|
+||bloomiquestore.shop^|
 ||bloomperfumde.shop^|
 ||bloomplot.com^|
 ||blooseye.com^|
@@ -6564,6 +6567,7 @@
 ||danquocom.com^|
 ||dansur.shop^|
 ||dantesavoy.de^|
+||danxon.de^|
 ||danysmusicshopcheap.shop^|
 ||dapate.de^|
 ||dappercrib.com^|
@@ -6675,6 +6679,7 @@
 ||de-bbq.com^|
 ||de-bike.com^|
 ||de-birke.com^|
+||de-cnovapaymoney.org^|
 ||de-cryptotrade.com^|
 ||de-fahrradshop.com^|
 ||de-filter.com^|
@@ -8024,6 +8029,7 @@
 ||dwellcollect.com^|
 ||dwelldome.com^|
 ||dwellgallery.com^|
+||dwellhavenly.com^|
 ||dwellinguse.com^|
 ||dwellivory.com^|
 ||dwelllayered.com^|
@@ -9231,6 +9237,7 @@
 ||eveneer.top^|
 ||eveningdressesonsale.com^|
 ||evenmin.com^|
+||evenro.de^|
 ||eventagentur13.at^|
 ||eventaquatics.com^|
 ||eventatak.com^|
@@ -9579,6 +9586,7 @@
 ||familienschatze.com^|
 ||familienzug.ch^|
 ||familievlaar.com^|
+||familiewelpenhaus.com^|
 ||famillehuon.com^|
 ||familo.net^|
 ||family-pills.com^|
@@ -13569,6 +13577,7 @@
 ||holzwerkzeugekaufen.com^|
 ||homado.de^|
 ||homaletic.top^|
+||homanero.com^|
 ||home-aytm.com^|
 ||home-coast.com^|
 ||home-commodity.com^|
@@ -19074,6 +19083,7 @@
 ||mirawall.de^|
 ||mirefood.shop^|
 ||mireillehauck.com^|
+||mirellavilla.com^|
 ||miriambelin.com^|
 ||miriamljones.com^|
 ||mirkamoen.com^|
@@ -20499,6 +20509,7 @@
 ||nicole-modehaus.de^|
 ||nicole777.com^|
 ||nicoleberlin.de^|
+||nicolekennel.de^|
 ||nicoleroasters.shop^|
 ||nicoletstratton.com^|
 ||nicoll.at^|
@@ -22847,6 +22858,7 @@
 ||pillenrezeptfrei.de^|
 ||pillenwelt.at^|
 ||pillintrip.com^|
+||pillo-haus.myshopify.com^|
 ||pillola-italia.com^|
 ||pillow-sales.com^|
 ||pillows-decor.com^|
@@ -23860,6 +23872,7 @@
 ||qtewan.com^|
 ||quaally.shop^|
 ||quadrals.de^|
+||qualiprodukt.de^|
 ||qualitatsdampf.com^|
 ||quality-viagra.site^|
 ||qualitygadgetshop.com^|
@@ -26144,6 +26157,7 @@
 ||schuster-wien.at^|
 ||schusters-handel.de^|
 ||schutz-mode.de^|
+||schutzhand.com^|
 ||schwaarm.de^|
 ||schwab-outlet.de^|
 ||schwab-reifenhandel.com^|
@@ -28587,6 +28601,7 @@
 ||sunnylas.com^|
 ||sunnymors.com^|
 ||sunpanhomekit.com^|
+||sunplux.com^|
 ||sunrigh.com^|
 ||sunset-ag.com^|
 ||sunsetwell.com^|
@@ -30882,6 +30897,7 @@
 ||umsatz-generator.de^|
 ||umwatchvip.com^|
 ||umweltplus-sr.de^|
+||umymall.com^|
 ||umzug-borowski.de^|
 ||umzugmagyer.at^|
 ||umzugsmeister-villach.at^|
@@ -32289,6 +32305,7 @@
 ||vulpfold.top^|
 ||vumonvision.com^|
 ||vupkurs.com^|
+||vutereck.com^|
 ||vvexf.shop^|
 ||vvhqaq.top^|
 ||vvichio.shop^|
@@ -32642,6 +32659,7 @@
 ||weimmer.de^|
 ||wein-vip.shop^|
 ||weinbergmunchen.de^|
+||weindepot24.com^|
 ||weindorf-lonsheim.de^|
 ||weinekaufen.com^|
 ||weinesprituosen.com^|
@@ -33684,6 +33702,7 @@
 ||zamratech-sf.com^|
 ||zandder.com^|
 ||zangenprince.de^|
+||zaniro.eu.cc^|
 ||zaniro.shop^|
 ||zanondo.com^|
 ||zantmekanik.com^|
@@ -33760,6 +33779,7 @@
 ||zemacys.com^|
 ||zemsaffiliate.com^|
 ||zemti.de^|
+||zen-walk.de^|
 ||zenbotique.com^|
 ||zendocs.com^|
 ||zendoo.de^|
@@ -33948,6 +33968,7 @@
 ||ztplatonic.com^|
 ||ztwss.sistersbeautyworld-lhs.de^|
 ||zubehorstiefel.com^|
+||zuchterheim.com^|
 ||zuedy.de^|
 ||zuhauseshopde.shop/^|
 ||zuhaushop.de^|
