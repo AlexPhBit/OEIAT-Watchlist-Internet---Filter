@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-14T23:41:26.254196Z
+! Generated: 2026-05-15T01:45:44.130091Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -10843,6 +10843,7 @@
 ||fruugo.at^|
 ||fryedeutschland.com^|
 ||fsnte.shop^|
+||fsphost.com^|
 ||ftmxglobal.com^|
 ||fts-gmbhmaschine.com^|
 ||ftzs.net^|
