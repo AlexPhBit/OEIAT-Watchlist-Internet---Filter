@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-15T23:37:42.437106Z
+! Generated: 2026-05-16T01:24:13.273430Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -401,6 +401,7 @@
 ||adl.zixoko.shop^|
 ||adlermodehaus.de^|
 ||adllwyj67.wuhlzk.shop^|
+||adlz.ekyyq.shop^|
 ||admiralbrokerz.com^|
 ||admireactor.net^|
 ||admotours.de^|
@@ -1095,6 +1096,7 @@
 ||amplelivingroom.com^|
 ||amplesunshine.com^|
 ||ampro3donlineshop.shop/^|
+||amremorques.com^|
 ||ams-sale.com^|
 ||amsa2024.com^|
 ||amsamazon.cz^|
@@ -1222,6 +1224,7 @@
 ||anhanger-behalter.de^|
 ||anhanger-handler.com^|
 ||anhanger-kaufen.de^|
+||anhanger-kreuter.com^|
 ||anhänger-meister.de^|
 ||anhanger-shop.com^|
 ||anhanger-shop24.com^|
@@ -1263,6 +1266,7 @@
 ||anklebootsstoreshop.com^|
 ||ankotec.de^|
 ||anlagenberatung.at^|
+||anlassgeschenke.com^|
 ||anlyoanarn.com^|
 ||anmbunt.com^|
 ||anna-atelier.com^|
@@ -2483,6 +2487,7 @@
 ||bapegermany.com^|
 ||bapeoutfits.com^|
 ||baprventu.info^|
+||bar-experte.com^|
 ||barando-online.de^|
 ||barando-shop.de^|
 ||barbara-taschen.com^|
@@ -3018,6 +3023,7 @@
 ||berlinfast.com^|
 ||berlinfog.com^|
 ||berlinget.com^|
+||berlinglamour.de^|
 ||berlinherren.de^|
 ||berlinkaffee.myshopify.com^|
 ||berlinmedz.com^|
@@ -3674,6 +3680,7 @@
 ||bkboddxai.shop^|
 ||bkbodux.xyz^|
 ||bkepnix.com^|
+||bkfashionsandals.top^|
 ||bkisingh.com^|
 ||black-forestcake.com^|
 ||black-shepp-gastroservice.com^|
@@ -4359,6 +4366,7 @@
 ||bueroservice-kompakt.de^|
 ||buestyle.com^|
 ||buffalodavidbittonmall.com^|
+||buffaloskorsverige.com^|
 ||buffetanlage.at^|
 ||bufnkce.top^|
 ||bugabooashland.com^|
@@ -10879,6 +10887,7 @@
 ||functional-bike.com^|
 ||functoolslp.com^|
 ||fundfconsult.at^|
+||fundfennel.com^|
 ||fundgoxpro-solution.com^|
 ||fundgoxpro.net^|
 ||fundgoxprosolution.com^|
@@ -11430,6 +11439,7 @@
 ||geblocks9antminer.com^|
 ||gebrauchsgerate-de.com^|
 ||gebrauchte-haushaltsgeraete-hamburg.de^|
+||gebrauchtwagenzuverkaufen.com^|
 ||gedankenpolier.de^|
 ||gedanusa.com^|
 ||gedik-gartenshop.de^|
@@ -11622,6 +11632,7 @@
 ||getecovex.com^|
 ||getenergyfix.com^|
 ||getfashionnew.com^|
+||getfund-8733.twil.io/confirm^|
 ||getfurnitureabout.com^|
 ||getguitarowner.com^|
 ||getherion.com^|
@@ -12382,6 +12393,7 @@
 ||grunhaus.bebincommerce.store^|
 ||grunovo.com^|
 ||grunsamen.de^|
+||gruntechde.com^|
 ||gruntmuzicz.com^|
 ||gruppenhaussauerland.com^|
 ||grxnhv.shop^|
@@ -17038,6 +17050,7 @@
 ||lichtprofis.com^|
 ||lichtraumenergetik.at^|
 ||lichtvondeutschland.com^|
+||lichtzauberaustria.com^|
 ||lidawood.eu^|
 ||lideabag.com^|
 ||lidfitnesseu.shop^|
@@ -23098,6 +23111,7 @@
 ||pohl-autoreifen.shop^|
 ||pohl-kanzlei.de^|
 ||poiloh.com^|
+||poiner.com^|
 ||point-x.shop^|
 ||poiradar.at^|
 ||poiush.com^|
@@ -23241,6 +23255,7 @@
 ||portfold.xyz^|
 ||portfoliorebalancingforyou.com^|
 ||porzellansale.com^|
+||poseidon-home.com^|
 ||positickets.com^|
 ||positivesy.com^|
 ||positonsid.com^|
@@ -25158,6 +25173,7 @@
 ||roomfurnitureshop.com^|
 ||roominabox.shop^|
 ||roominaboxde.shop/^|
+||roommyhut.com^|
 ||roomosa.homes^|
 ||roomscarth.com^|
 ||roomster.top^|
@@ -27684,6 +27700,7 @@
 ||sparimperium.shop/^|
 ||sparkingde.shop^|
 ||sparklemycar.com^|
+||sparkv.co^|
 ||sparmarie24.de^|
 ||sparprime.com^|
 ||sparwahnsinn24.de^|
@@ -29527,6 +29544,7 @@
 ||theluminouswild.com^|
 ||themaddengirl.com^|
 ||themantools.com^|
+||themarthub.com^|
 ||themazenbest.site^|
 ||themdbuilding.com^|
 ||themountainarea.com^|
@@ -29982,6 +30000,7 @@
 ||toniesrabatt.com^|
 ||toniesschritte.com^|
 ||toniessonderangebot.com^|
+||toniesspielzeug.com^|
 ||toniesverkauf-de.com^|
 ||tonigk.com^|
 ||tonikg.com^|
@@ -31572,6 +31591,7 @@
 ||vehicleaftermarketpart.com^|
 ||vehiclepartmart.com^|
 ||vehicles-onsale.com^|
+||veilwellness.com^|
 ||veimul.shop^|
 ||veit-insolvenz.de^|
 ||veit-kanzlei.de^|
