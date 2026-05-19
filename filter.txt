@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-18T23:46:58.778127Z
+! Generated: 2026-05-19T01:51:35.234217Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2141,6 +2141,7 @@
 ||autosbios.com^|
 ||autoteiledirektde.com^|
 ||autoteileelopode.shop^|
+||autoteileharbor.com^|
 ||autoteilejetzt.com^|
 ||autoteilerabatt.com^|
 ||autoteilewerkzeug.com^|
@@ -3513,6 +3514,7 @@
 ||bio-viertel.at^|
 ||bioamsee.de^|
 ||bioclicksicilia.it^|
+||bioen-tech.de^|
 ||bioeneix.de^|
 ||bioenergieheizung.com^|
 ||biofreear.live^|
@@ -4344,6 +4346,7 @@
 ||buchverlag-scholz.de^|
 ||buchwerft-verlag.de^|
 ||buck-reifenhandel.com^|
+||buckbasil.com^|
 ||buckbirch.com^|
 ||buckleybelts.de^|
 ||buckleybelts.de^|
@@ -8694,6 +8697,7 @@
 ||emmajpotts.com^|
 ||emmalipp.com^|
 ||emmalove.de^|
+||emmamodehaus.com^|
 ||emmaschneider.de^|
 ||emmastebbings.com^|
 ||emmastein.shop^|
@@ -8936,6 +8940,7 @@
 ||erlebnisart.at^|
 ||erleschuhe.shop^|
 ||erleseneweine24.com^|
+||erneurungogk.at/ogk/dn5OdWLd^|
 ||ernst-reifenhandel.com^|
 ||eroadstore.com^|
 ||erodisfashion.com^|
@@ -9401,6 +9406,7 @@
 ||eyewearandframes.com^|
 ||ezbuyremedieshere24.com^|
 ||ezezbuy.com^|
+||ezigarettestore.com^|
 ||ezmarkets.io^|
 ||ezoom.top^|
 ||ezou.top^|
@@ -9575,6 +9581,7 @@
 ||falke-online.shop^|
 ||falken-stein.de^|
 ||falkengraz.com^|
+||falkenmode.de^|
 ||fallegverslun.com^|
 ||fallesson.com^|
 ||fallible.top^|
@@ -10696,6 +10703,7 @@
 ||franziskawelpenhaus.com^|
 ||franzisko-dachdecker.de^|
 ||franzmorit.shop^|
+||franzoesischebulldogge.at^|
 ||frastischeshop.com^|
 ||frau-geheimnisse.de^|
 ||frauchic.com^|
@@ -10747,6 +10755,7 @@
 ||freilaufrollende.com^|
 ||freischlafen-de.myshopify.com^|
 ||freitag-osterreich.com^|
+||freitag-taschen.com^|
 ||freitagosterreich.at^|
 ||freitagosterreich.com^|
 ||freiwing.de^|
@@ -11344,6 +11353,7 @@
 ||gartenort.de^|
 ||gartenova.com^|
 ||gartenpalast.net^|
+||gartenpaula.de^|
 ||gartenpflanzende.com^|
 ||gartenpflege-service-wien.at^|
 ||gartenpicks.de^|
@@ -12746,6 +12756,7 @@
 ||hansenaphoteke.net^|
 ||hansenpharma.net^|
 ||hansepuzzle.shop^|
+||hansholzmotor.de^|
 ||hanshu-posthouse.com^|
 ||hanskatzchensheim.com^|
 ||hansrasenmaher.com^|
@@ -13147,6 +13158,7 @@
 ||helinoxlife.com^|
 ||heliohouse.shop^|
 ||helium-miners-uk.com^|
+||helivo.de^|
 ||helix-sports.de^|
 ||helladeau.shop^|
 ||helldivers-merch.com^|
@@ -13206,6 +13218,7 @@
 ||henrykkrueger.com^|
 ||henryo.de^|
 ||henrystyle.de^|
+||henslymo.com^|
 ||hensphere.shop^|
 ||henworld.shop^|
 ||henylife.shop^|
@@ -16424,6 +16437,7 @@
 ||kyddos.shop^|
 ||kylar.de^|
 ||kyliefoley.com^|
+||kylora.de^|
 ||kylyn2021.com^|
 ||kyma-store.de^|
 ||kynaz10fashion.com^|
@@ -17761,6 +17775,7 @@
 ||lulutox.com^|
 ||lumaluca.com^|
 ||lumanova.ch^|
+||lumawerks.de^|
 ||lumelia-de.com^|
 ||lumendecor.de^|
 ||lumentes.com^|
@@ -18086,6 +18101,7 @@
 ||mallmakeup.com^|
 ||mallorca-center.com^|
 ||mallorca-experten.com^|
+||mallorca-holidayhomes.com^|
 ||mallorca-homerentals.com^|
 ||mallorca-in-sicht.com^|
 ||mallorca-rentvillas.com^|
@@ -18689,6 +18705,7 @@
 ||meistergroup.shop^|
 ||meisterkuchen-pro.de^|
 ||meisterschnitt.com^|
+||meistersunny.de^|
 ||meistervolt.de^|
 ||meiyunz.com^|
 ||mekiepshop.com^|
@@ -19283,6 +19300,7 @@
 ||modeboutique.store^|
 ||modeboutiquederherzen.com^|
 ||modeboutiqueweber.de^|
+||modedeu.com^|
 ||modedisne.de^|
 ||modeengels.de^|
 ||modefest.de^|
@@ -21445,6 +21463,7 @@
 ||online-pillen-rezeptfrei.de^|
 ||online-pills.com^|
 ||online-rezeptfrei.de^|
+||online-sign.net/^|
 ||online-textile.com^|
 ||online-tonies.shop^|
 ||online-versand-rezeptfrei.de^|
@@ -22571,6 +22590,8 @@
 ||pellina.shop/^|
 ||peloft.shop^|
 ||pelopel.com^|
+||peluxiv.at^|
+||peluxiv.com^|
 ||pelzfreunde.com^|
 ||pen-bella.de^|
 ||penationaspect.com^|
@@ -22714,6 +22735,7 @@
 ||petzoneoff.com^|
 ||petzonesale.com^|
 ||petzoneusoff.com^|
+||pexcer.com^|
 ||peyarpark.com^|
 ||pezole.de^|
 ||pf-ff.com^|
@@ -22734,6 +22756,7 @@
 ||pfoten-traum.com^|
 ||pfotenfans.com^|
 ||pfotentrend.com^|
+||pfotenzug.com^|
 ||pftain.top^|
 ||pfzstoreu.xyz^|
 ||pg99.cc^|
@@ -23459,6 +23482,7 @@
 ||printokindia.com^|
 ||printyourgesicht24.de^|
 ||prinz-reifenversand.com^|
+||prinzmode-berlin.de^|
 ||prioclinrity.com^|
 ||priorsupply.com^|
 ||priorwhis.com^|
@@ -23531,6 +23555,7 @@
 ||produkttester-anmeldung.com^|
 ||proeuromeds.com^|
 ||proevery.com^|
+||prof-vet.com^|
 ||profahrradteile.com^|
 ||profayansy.com^|
 ||professionaltoolus.com^|
@@ -24935,6 +24960,7 @@
 ||rigginghardwareshop.com^|
 ||rightie.xyz^|
 ||rigmorkarlsen.com^|
+||rihilozavoradvisorynet.digital^|
 ||riiokya.shop^|
 ||rikoltoy.com^|
 ||rileyynch.top^|
@@ -27033,6 +27059,7 @@
 ||signalif.com^|
 ||signaturedesignhome.com^|
 ||signiefysubo.com^|
+||signonlinenow.net/^|
 ||sigxnazz.shop^|
 ||siifik.shop^|
 ||siilance.com^|
@@ -27505,7 +27532,6 @@
 ||solamyc.com^|
 ||solandis.com^|
 ||solanik.de^|
-||solanix.de^|
 ||solanzo.de^|
 ||solar-claussen.de^|
 ||solar-ecke.com^|
@@ -27904,6 +27930,7 @@
 ||sportyraiment.com^|
 ||spotiifyprimesnova.ct.ws^|
 ||spowo.at^|
+||sppulsar.shop^|
 ||sprachgenie.at^|
 ||sprayitonyou.com^|
 ||spreewaldkiste.shop^|
@@ -28607,6 +28634,7 @@
 ||sunjewelsk.shop^|
 ||sunlitecycle.com^|
 ||sunlitstyles.com^|
+||sunlu-filaments.com^|
 ||sunmorrison.com^|
 ||sunnivaonline.shop^|
 ||sunniyis.de^|
@@ -32335,6 +32363,7 @@
 ||vvshopping.top^|
 ||vwfqk.com^|
 ||vwraresparepartshop.com^|
+||vwutaq.com^|
 ||vxiqv.com^|
 ||vyepehijab.com^|
 ||vyjak.com^|
@@ -32774,6 +32803,7 @@
 ||werkzeug-brandl.com^|
 ||werkzeug-salesshop.com^|
 ||werkzeug-und-maschinen.com^|
+||werkzeug-und-maschinen.de^|
 ||werkzeug-zuhr.de^|
 ||werkzeugangebot.shop^|
 ||werkzeugbauladen.com^|
@@ -32981,6 +33011,7 @@
 ||wimmer-boutique.at^|
 ||wimpanista.shop/^|
 ||wimpanistaeu.shop^|
+||win2daycasino.at^|
 ||winandwine.com^|
 ||wind.illegalstore.xyz^|
 ||windelwissendeava.shop^|
