@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-21T23:09:10.296810Z
+! Generated: 2026-05-22T00:15:59.982687Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1869,6 +1869,7 @@
 ||at.ketonaktiv.com^|
 ||at.llinacrda.shop^|
 ||at.mammotion.com^|
+||at.nneelkwerf.net^|
 ||at.qfmiceden.shop^|
 ||at.rattaay.com^|
 ||at.skinliy.com^|
@@ -6980,6 +6981,7 @@
 ||deine-djs.de^|
 ||deine-mode.shop^|
 ||deine-wolle.shop^|
+||deinefunde.de^|
 ||deinegartenprofis.de^|
 ||deinemoebelpacker24.at^|
 ||deineschmuckkiste.de^|
@@ -7432,6 +7434,7 @@
 ||diliving.com^|
 ||dilov.de^|
 ||dimbers.de^|
+||dimedell.com^|
 ||dimela.shop^|
 ||dimensiok.com^|
 ||dimensionaly.com^|
@@ -19431,6 +19434,7 @@
 ||moebelcenterremscheid.de^|
 ||moebeldiscount24.com^|
 ||moebelgutlager.com^|
+||moebelkick.de^|
 ||moebelonline24.com^|
 ||moebelpunkt.com^|
 ||moebelundgarten.com^|
@@ -19806,6 +19810,7 @@
 ||municipaz.com^|
 ||municoffee.shop/^|
 ||munitax-group.com^|
+||munster-mode.com^|
 ||munster-mode.de^|
 ||muorgstore.com^|
 ||muralover.com^|
@@ -23388,6 +23393,7 @@
 ||precipitaty.com^|
 ||precisetoolland.com^|
 ||precisetoolroom.com^|
+||precision-labs.de^|
 ||precless.top^|
 ||prednisolon-rezeptfrei-osterreich.com^|
 ||prednisone-buyonline.site^|
@@ -23515,6 +23521,7 @@
 ||priorwhis.com^|
 ||prisbert.com^|
 ||priseria.com^|
+||prismirror.shop^|
 ||privaag.com^|
 ||privaag.com/de/^|
 ||privana.shop/^|
@@ -24853,6 +24860,7 @@
 ||revolutionraceapps.com^|
 ||revolutionracecam.com^|
 ||revolutionraceclothes.com^|
+||revolutionracede.de^|
 ||revolutionraceinc.com^|
 ||revolutionraceinfo.com^|
 ||revolutionracemag.com^|
@@ -27088,7 +27096,7 @@
 ||signalif.com^|
 ||signaturedesignhome.com^|
 ||signiefysubo.com^|
-||signonlinenow.net/^|
+||signonlinenow.net^|
 ||sigxnazz.shop^|
 ||siifik.shop^|
 ||siilance.com^|
@@ -27691,6 +27699,7 @@
 ||soothingkitchen.com^|
 ||sopheria.de^|
 ||sophiaberlin.de^|
+||sophiamode.de^|
 ||sophiepapelard.com^|
 ||sophieweberr.com^|
 ||sophisticatedpants.com^|
@@ -28205,6 +28214,7 @@
 ||stilmark.de^|
 ||stilmoment.com^|
 ||stilovo.de^|
+||stilrosa.com^|
 ||stilundschon.com^|
 ||stilvollberlin.de^|
 ||stilvollemebel.com^|
@@ -31866,6 +31876,7 @@
 ||vevorstore.net^|
 ||vewens.de^|
 ||vexiebox.myshopify.com^|
+||vexontor.com^|
 ||vexorfitness.com^|
 ||vexxsel.online^|
 ||veyegr.com^|
@@ -33977,6 +33988,7 @@
 ||zlitefm.com^|
 ||zlitelight.com^|
 ||zloae.shop^|
+||zlongs.com^|
 ||zlyconline.shop/^|
 ||zlyconlinede.shop/^|
 ||zmazmitech.com^|
@@ -34005,6 +34017,7 @@
 ||zone-truck.com^|
 ||zone-vogue.com^|
 ||zone-watersports.com^|
+||zone404.com^|
 ||zoneautopro.com^|
 ||zoneautopro.com/de/^|
 ||zonebabyware.com^|
