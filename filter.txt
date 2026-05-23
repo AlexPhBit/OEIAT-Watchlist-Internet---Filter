@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-22T23:48:34.557188Z
+! Generated: 2026-05-23T01:55:48.250126Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1524,6 +1524,7 @@
 ||aqua-fun.shop^|
 ||aquaadvent.com^|
 ||aquacompasstrade.com^|
+||aquaflexshop.de^|
 ||aquamarinashopde.com^|
 ||aquarienbedarf.com^|
 ||aquarienkauf.com^|
@@ -1992,6 +1993,7 @@
 ||augenoptik-tomaschek.de^|
 ||augesterne.de^|
 ||augire.com^|
+||augsburgerkunstschachtel.de^|
 ||augusabe.com^|
 ||augustbergwatch.store^|
 ||augustsandgrende.shop/^|
@@ -2677,6 +2679,7 @@
 ||bausatzwelt.de^|
 ||baustellenbedarfbillig.com^|
 ||baustellenbedarfrabatt.com^|
+||baustoffwerkzeug.com^|
 ||bauteilegest.com^|
 ||bauundgarten.com^|
 ||bauzentrum-deutschland24.de^|
@@ -2930,6 +2933,7 @@
 ||bellissimoo.de^|
 ||bellizimas.shop^|
 ||bellow5.com^|
+||belmonthouse.co.za^|
 ||belmontr.com^|
 ||belna.de^|
 ||belogistik.de^|
@@ -5227,6 +5231,7 @@
 ||chebkbest.site^|
 ||checkist.top^|
 ||checkout.ekommmedia.com^|
+||checkout.rezeptedesgeschmacks.com^|
 ||checkthesolutions.com^|
 ||cheerfulvibes.shop^|
 ||chefbergeron.com^|
@@ -6039,6 +6044,7 @@
 ||coplimentues.com^|
 ||copozz.de^|
 ||copperal.shop^|
+||copterdeals.de^|
 ||copyexptrade.com^|
 ||copymarkca.com^|
 ||copyshop-schimek.de^|
@@ -10234,6 +10240,7 @@
 ||fischerrabatt.de^|
 ||fischers-modehaus.de^|
 ||fischerundwagner.de^|
+||fischerwarenhaus.com^|
 ||fischhandeln.de^|
 ||fishanglermart.com^|
 ||fishapparels.com^|
@@ -12686,6 +12693,7 @@
 ||hamuelmaschinen.com^|
 ||hamurgrlakprofi.shop^|
 ||hanazimu.com^|
+||handarbeitenkaess.de^|
 ||handbagbrandsonline.com^|
 ||handbagdbonlinevip.com^|
 ||handball-fanshop.com^|
@@ -16032,6 +16040,7 @@
 ||klausalten.de^|
 ||klausholz.com^|
 ||kleankanteenbottle.com^|
+||kleaskunst.de^|
 ||klebemeister.shop/^|
 ||kleid-speichernde.com^|
 ||kleider-kabinett.de^|
@@ -16424,6 +16433,9 @@
 ||kunst-onxzclince.shop^|
 ||kunstdirekt.shop/^|
 ||kunstdirektde.shop/^|
+||kunstgeschwind.de^|
+||kunstkulisse.de^|
+||kunststoffsteine.de^|
 ||kunsttextilwerken.com^|
 ||kunstundkitsch.at^|
 ||kunstundspielde.shop/^|
@@ -19699,6 +19711,7 @@
 ||mozoshop.myshopify.com^|
 ||mozvur.com^|
 ||mparnews.com^|
+||mpgarten-shop.de^|
 ||mpgymwear.com^|
 ||mpilihanku.com^|
 ||mpreis-2023.myfreesites.net^|
@@ -20677,6 +20690,7 @@
 ||nnorwards.com^|
 ||no-bull-deutschland.de^|
 ||noahcat.shop^|
+||noble-alliance.com^|
 ||noblecosplay.com^|
 ||noblepawz.com^|
 ||noblevista.de^|
@@ -21895,6 +21909,7 @@
 ||ortovoxs.at^|
 ||ortovoxs.de^|
 ||ortovoxsport.com^|
+||orvynwien.com^|
 ||orykas.de^|
 ||oryzom.de^|
 ||orzsay.com^|
@@ -22249,6 +22264,7 @@
 ||ownervogue.com^|
 ||ownerwheels.com^|
 ||ownsen.com^|
+||ownyourregion.eu^|
 ||owowmoney.com^|
 ||owrock.com^|
 ||oxautozubeh.de^|
@@ -27957,6 +27973,7 @@
 ||sportswear-pro.com^|
 ||sportswearpaired.com^|
 ||sportszea.com^|
+||sporttritt.com^|
 ||sportuni.best^|
 ||sportusmusthave.com^|
 ||sportusnovelty.com^|
@@ -28028,6 +28045,7 @@
 ||ssternlaw.com^|
 ||ssxsmither.com^|
 ||ssystrypers.com^|
+||stabileersatzteile.com^|
 ||stablegrowthexchange.com^|
 ||stableprocapital.pro^|
 ||stackeven.com^|
@@ -30176,6 +30194,7 @@
 ||toolssweet.com^|
 ||toolstopquality.com^|
 ||toolstoreszr.com^|
+||toolsundteile.com^|
 ||toolsupplyus.com^|
 ||toolsusportable.com^|
 ||toolsvarious.com^|
@@ -31655,6 +31674,7 @@
 ||vecticon.co^|
 ||vedapant.com^|
 ||vedcyeplta.top^|
+||veedelmaskenshop.de^|
 ||veeneustore.com^|
 ||veestis.de^|
 ||vegan-food-company.com^|
@@ -32014,6 +32034,7 @@
 ||vintagebohobagde.shop^|
 ||vintagefemalecheap.com^|
 ||vintagehomekit-us.com^|
+||vintageitisrain.store^|
 ||vintageladies.de^|
 ||vintageusfurniture.com^|
 ||vintanzo.de^|
