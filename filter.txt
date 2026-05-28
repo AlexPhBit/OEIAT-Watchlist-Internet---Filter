@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-27T23:50:30.173723Z
+! Generated: 2026-05-28T04:16:20.061866Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -3028,6 +3028,7 @@
 ||beriuty.com^|
 ||berk-designs.de^|
 ||berkler-anhanger.com^|
+||berkler-maschinen.de^|
 ||berkshirede.myshopify.com^|
 ||berladod.com^|
 ||berlin-angeboteshop.com^|
@@ -3439,6 +3440,7 @@
 ||bikerabatt.com^|
 ||bikeridestore.com^|
 ||bikerimtapede.com^|
+||bikerkultur.com^|
 ||bikes-maintenance.com^|
 ||bikesattel.at^|
 ||bikesecke.com^|
@@ -4107,6 +4109,7 @@
 ||brauer-reifen.com^|
 ||braun-24.com^|
 ||braunboutique.com^|
+||brauneagrar.com^|
 ||brautkleiderprada.com^|
 ||brautkleiderrabatt.com^|
 ||brautkleidersales.com^|
@@ -4593,7 +4596,6 @@
 ||c-t-s-logistics.com^|
 ||c-und-a-austria.com^|
 ||c21watches.com^|
-||ca-agentur.de^|
 ||ca.carlottatortorella.com^|
 ||ca.lindseytennant.com^|
 ||caactioncoalition.org^|
@@ -6840,6 +6842,7 @@
 ||dealcourier.com^|
 ||dealcoxfurniture.com^|
 ||dealcutlery.com^|
+||dealdockery.com^|
 ||dealerdevin.shop/^|
 ||dealfieberde.de^|
 ||dealfundus.de^|
@@ -11898,6 +11901,7 @@
 ||glassesde.com^|
 ||glassesify.com^|
 ||glassesneon.com^|
+||glassespartssupplyhub.com^|
 ||glassry.top^|
 ||glaswarenrabatt.com^|
 ||glaydssale.shop^|
@@ -12452,6 +12456,7 @@
 ||gs-eu.com^|
 ||gsb24.shop^|
 ||gshallmall.com^|
+||gshandels.com^|
 ||gshpanel.com^|
 ||gsialfresco.com^|
 ||gsib-partner.com^|
@@ -12812,6 +12817,7 @@
 ||hanwagosterreich.at^|
 ||Hanwagosterreich.at^|
 ||hanwagoutletstore.de^|
+||hanwagschuhedeutschland.de^|
 ||hanwagschuhefabrikverkauf.com^|
 ||hanwagwien.at^|
 ||haohuoconsultancy.com^|
@@ -16668,6 +16674,7 @@
 ||lanternschweizfestival.com^|
 ||lanvin.at^|
 ||laoiay.com^|
+||lapinora.at^|
 ||lapistra.de^|
 ||lappjantan.com^|
 ||laptop-akku-de.com^|
@@ -16699,6 +16706,7 @@
 ||laserhex.shop^|
 ||lasern-statt-bohren.de^|
 ||lashellos.com^|
+||lasora-lights.de^|
 ||laspop.top^|
 ||lasporitiva.com^|
 ||lasport.top^|
@@ -19304,6 +19312,7 @@
 ||mobelgeschaft-neu.com^|
 ||mobelgeschaftneu.com^|
 ||mobelmagie.com^|
+||mobelmomente.com^|
 ||mobelneu.com^|
 ||mobelniedrigerpreis.com^|
 ||mobelonlineshop24.com^|
@@ -19623,6 +19632,7 @@
 ||moriifit.myshopify.com^|
 ||morisound.com^|
 ||moro-fahrraeder.de^|
+||morpilotsales.shop^|
 ||morrcei.top^|
 ||morreysale.space^|
 ||morriscofabric.com^|
@@ -26020,6 +26030,7 @@
 ||savehalo.com^|
 ||savehubx.com^|
 ||savela.de^|
+||savemarketzeny.com^|
 ||savemosaic.com^|
 ||saveoffer.de^|
 ||savepromoable.com^|
@@ -28354,6 +28365,7 @@
 ||store.dealofferix.com^|
 ||store.dobot.cc^|
 ||store.minisforum.de^|
+||store.miremonta.com^|
 ||store.savemarketed.com^|
 ||store.useum.org^|
 ||store.yeelight.com^|
@@ -32805,6 +32817,7 @@
 ||weimann-handel.de^|
 ||weimar-promenade.de^|
 ||weimar-wedding.de^|
+||weimifuwl.com^|
 ||weimmer.de^|
 ||wein-vip.shop^|
 ||weinbergmunchen.de^|
@@ -33926,6 +33939,7 @@
 ||zelektro.shop^|
 ||zeleso.de^|
 ||zeliteduhk.com^|
+||zeloriacore.com^|
 ||zeltkinggear.com^|
 ||zeltneu.com^|
 ||zeltundschlaf.com^|
@@ -34147,6 +34161,7 @@
 ||zurichregionblick.com^|
 ||zurusten.com^|
 ||zusellmk.click^|
+||zuverlassigerkredit.com^|
 ||zvfashions.com^|
 ||zvs-stark-saalfeld.de^|
 ||zwatch-italy.shop^|
