@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-28T23:57:45.109987Z
+! Generated: 2026-05-29T04:36:21.360666Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -440,6 +440,7 @@
 ||advancedprofit.cc^|
 ||advantagewalldecor.com^|
 ||advantagewallpaper.com^|
+||advanziagroup.com^|
 ||advaplusa.com^|
 ||advatgeous.com^|
 ||advent67.com^|
@@ -794,6 +795,7 @@
 ||alimhomeoutlet.shop^|
 ||alina-handel.de^|
 ||alinatonce.com^|
+||alinea-online.com^|
 ||alisosshoredentist.com^|
 ||alitec-online-sto.shop^|
 ||aliveffect.com^|
@@ -1529,6 +1531,7 @@
 ||aquaadvent.com^|
 ||aquacompasstrade.com^|
 ||aquaflexshop.de^|
+||aquagenie-installationen.com^|
 ||aquamarinashopde.com^|
 ||aquarienbedarf.com^|
 ||aquarienkauf.com^|
@@ -1976,6 +1979,7 @@
 ||audientce.com^|
 ||audienticys.com^|
 ||audikaufen.de^|
+||audio-seleccio.com^|
 ||audiogeraterabatt.com^|
 ||audiomachinery.de^|
 ||audiwa.de^|
@@ -5402,6 +5406,7 @@
 ||christianlouboutinschuhe.com^|
 ||christianpomowski.de^|
 ||christies-realestate.com^|
+||christina-theresa.com^|
 ||christinaroutt.com^|
 ||christine-mode.com^|
 ||christinehiggs.com^|
@@ -6120,6 +6125,7 @@
 ||cosmosix.de^|
 ||cosmozone.de^|
 ||cosmwmagic.com^|
+||cosori.at^|
 ||cosösterreich.com^|
 ||cosplay-space.com^|
 ||cosplaydetailed.com^|
@@ -6447,6 +6453,7 @@
 ||cutpricedfurniture.com^|
 ||cutpricefootwear.com^|
 ||cutpricesport.com^|
+||cutsalesabc.click^|
 ||cutshopcentral.com^|
 ||cutterfarm.de^|
 ||cuttlefish.approveturn.xyz^|
@@ -7181,6 +7188,7 @@
 ||dernumismatiker.de^|
 ||derpokal.at^|
 ||derpoly.de^|
+||dersa-spedition.com^|
 ||derschlusselanhanger.de^|
 ||dersect.com^|
 ||dertagesreport.com^|
@@ -10766,6 +10774,7 @@
 ||freeacorbetts.com^|
 ||freeacts.info^|
 ||freeacy.com^|
+||freeavmhzwr.click^|
 ||freedodo.xyz^|
 ||freedomhats.shop^|
 ||freedommosesschuhede.com^|
@@ -11086,6 +11095,7 @@
 ||gabelnshop.com^|
 ||gabion24.de^|
 ||gabor-factory-outlet.com^|
+||gabor-net.com^|
 ||gabor-polska.com^|
 ||gabor-schuhe.at^|
 ||gabor-schweizs.com^|
@@ -11380,6 +11390,7 @@
 ||gartengenosse.de^|
 ||gartengreifer.de^|
 ||gartenhausmodern.com^|
+||garteni.de^|
 ||gartenimfreienkauf.com^|
 ||gartenira.com^|
 ||gartenix.com^|
@@ -11775,6 +11786,7 @@
 ||giessweins.at^|
 ||giessweins.it^|
 ||giessweinschuhe.com^|
+||giessweinshop.com^|
 ||giessweinsneaker.com^|
 ||gift-backpack.com^|
 ||gift-outlet.com^|
@@ -11892,6 +11904,7 @@
 ||glamstadt.com^|
 ||glanz-mode.de^|
 ||glanzberg-mode.de^|
+||glanzschuh.com^|
 ||glaprestige.com^|
 ||glas-gs.de^|
 ||glas-plus.at^|
@@ -11997,6 +12010,7 @@
 ||gmbholz.com^|
 ||gmd-koeln.de^|
 ||gmethopoth.com^|
+||gmfcar-sol.com^|
 ||gmperrierl.com^|
 ||gnarty.xyz^|
 ||gnatsion.top^|
@@ -12442,6 +12456,7 @@
 ||gruenstark.de^|
 ||gruenstein.inc^|
 ||gruncal-markt.com^|
+||grundstoffs-de.com^|
 ||grunekraft.shop^|
 ||grunekraft.store^|
 ||grunetulpe.com^|
@@ -15015,6 +15030,7 @@
 ||jbjqzssht.com^|
 ||jbl-deutschland.de^|
 ||jblaga.top^|
+||jblat.at^|
 ||jblonline.store^|
 ||jboonenp.com^|
 ||jbschultis.com^|
@@ -16310,6 +16326,7 @@
 ||kqivlfk.top^|
 ||krabihotelsthailand.net^|
 ||kraemer-garten.de^|
+||kraft-profil-technik.eu^|
 ||kraftdesweins.com^|
 ||kraftholz.shop^|
 ||kraftraumpro.com^|
@@ -18091,6 +18108,7 @@
 ||maha-fairytale.net^|
 ||mahawishrezvi.com^|
 ||mahle-ek.com^|
+||mahroboterhaus.myshopify.com^|
 ||mahsooni.shop^|
 ||maiermodehaus.de^|
 ||maikekloss.de^|
@@ -19224,6 +19242,7 @@
 ||mitbellashop.de^|
 ||mitchellandness-de.com^|
 ||mitchelsale.shop^|
+||miteckenundkantenboutique.shop^|
 ||mitiendra.com^|
 ||mitkindundrad.de^|
 ||mitrueshop.com^|
@@ -19437,6 +19456,7 @@
 ||modernegartenmobel.com^|
 ||modernhome-pro.com^|
 ||modernlightus.com^|
+||modernoutdoorstandard.de^|
 ||modernpuzzle.shop^|
 ||modernsclothes.com^|
 ||modernsdirect.com^|
@@ -22509,6 +22529,7 @@
 ||pasqu.com^|
 ||pass-handelshaus.de^|
 ||pass-swiss.com^|
+||passendenschuhe.com^|
 ||passieveld.com^|
 ||passion-fotos.de^|
 ||passionatemotion.com^|
@@ -28097,6 +28118,7 @@
 ||stadtplan-local.com^|
 ||staffedgeca.com^|
 ||stahl-autoreifen.shop^|
+||stahlmotorrad.com^|
 ||stahlsarg.de^|
 ||stahlwandpoolde.com^|
 ||stalloneinnovations.com^|
@@ -28818,6 +28840,7 @@
 ||superonlineshopslovenija.com^|
 ||superonlineshopturkiye.com^|
 ||superoutletshopsuomi.com^|
+||superpdxzxc.click^|
 ||supersapparel.com^|
 ||supersavehub.com^|
 ||supership.top^|
@@ -33031,6 +33054,7 @@
 ||whsyspa.top^|
 ||whungeroir.shop^|
 ||why-whalechild.com^|
+||whzyxd.com^|
 ||wi-pm.de^|
 ||wibois.com^|
 ||wicherns.de^|
@@ -33390,6 +33414,7 @@
 ||wowperucken.de^|
 ||woyuosn.com^|
 ||wpm-studien.net^|
+||wpokr.store^|
 ||wpyslr.com^|
 ||wqnck.com^|
 ||wra24.de^|
