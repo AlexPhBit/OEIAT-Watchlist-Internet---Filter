@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-05-29T23:57:38.395403Z
+! Generated: 2026-05-30T04:11:07.658448Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -744,6 +744,7 @@
 ||alexander-veyron.de^|
 ||alexandrabergier.com^|
 ||alexasmarthomedevices.com^|
+||alexitemsdemir.shop^|
 ||alexivanovdoors.com^|
 ||alexmagnino.com^|
 ||alexxcarmona.com^|
@@ -1537,6 +1538,7 @@
 ||aquarienkauf.com^|
 ||aquarisonlineshop.de^|
 ||aquaristik-seiten.de^|
+||aquaristikteichstore.com^|
 ||aquariumopt.com^|
 ||aquascapers-galerie.com^|
 ||aquasportkleidung.com^|
@@ -2213,6 +2215,7 @@
 ||avex-group.co^|
 ||aviacle.xyz^|
 ||avinatrg.com^|
+||aviorewear.com^|
 ||avirturonics.shop^|
 ||avocat-selosse.fr^|
 ||avojkl.com^|
@@ -8155,6 +8158,7 @@
 ||easarwood.com^|
 ||easctb.com^|
 ||easehabits1.com^|
+||easeviro.com^|
 ||eashgpay.com^|
 ||easies.de^|
 ||easilsector.com^|
@@ -8434,6 +8438,7 @@
 ||einfachelinklogistik.com^|
 ||einfaches-aufwarmen.com^|
 ||einfachknorke.de^|
+||einfahbacken.de^|
 ||einkaufen-at.com^|
 ||einkaufsmarkt-rost.de^|
 ||einkommens.club^|
@@ -9866,6 +9871,7 @@
 ||fatea.shop^|
 ||fatechamp.com^|
 ||fatesit.com^|
+||fatfax.ratewell.shop^|
 ||fatfax.wantbrand.shop^|
 ||fatjonashkambi.com^|
 ||fatreio.com^|
