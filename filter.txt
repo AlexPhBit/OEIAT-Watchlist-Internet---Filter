@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-01T23:45:58.503258Z
+! Generated: 2026-06-02T02:05:18.936994Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -11,6 +11,7 @@
 ||0hyzxx-rc.myshopify.com^|
 ||1-proof.cyou^|
 ||1001clothing.eu^|
+||101vectorcenter.sbs^|
 ||10d20.toplook.cz^|
 ||10figuredentist.com^|
 ||10xcryptotrade.uk^|
@@ -400,6 +401,7 @@
 ||adl.lreubk.shop^|
 ||adl.okhxm.shop^|
 ||adl.tlhqca.shop^|
+||adl.ukdil.shop^|
 ||adl.wiksh.shop^|
 ||adl.zixoko.shop^|
 ||adlermodehaus.de^|
@@ -2452,6 +2454,7 @@
 ||balitaberlin.de^|
 ||baljevicmiroslav.com^|
 ||balkone.co.at^|
+||balkonfix.com^|
 ||balkongluck.com^|
 ||ballanda.de^|
 ||ballerns.de^|
@@ -3884,6 +3887,7 @@
 ||bog-apotheke.com^|
 ||bogdanski-salonbau.com^|
 ||bogensportdeister.shop^|
+||boggbags.de^|
 ||boggussalebog.com^|
 ||bognerosterreich.at^|
 ||bogonomo.com^|
@@ -4988,6 +4992,7 @@
 ||catsquishy.com^|
 ||cattop.xyz^|
 ||catwebh.com^|
+||catwebshop.com^|
 ||causedbeby.com^|
 ||cavallifashion.com^|
 ||cavella.store^|
@@ -6341,6 +6346,7 @@
 ||cryptoprofittable247.com^|
 ||cryptoqate.com^|
 ||cryptoschutz24.de^|
+||cryptosdeg.com^|
 ||cryptosmarket.com^|
 ||cryptotradeclub.ltd^|
 ||cryptotradetarget.com^|
@@ -7348,6 +7354,7 @@
 ||dezallade.com^|
 ||dezcmoi.com^|
 ||dezelia.de^|
+||dezisher.com^|
 ||dezubehor.com^|
 ||dfdge.shop^|
 ||dfejyzbt.shop^|
@@ -9052,6 +9059,7 @@
 ||esneuroutlet.com^|
 ||esnsupply.shop^|
 ||esoftn.shop^|
+||esotecde.shop^|
 ||esotecs.com^|
 ||espace-cluny.com^|
 ||espaceverts.com^|
@@ -13485,6 +13493,7 @@
 ||hithertoh.com^|
 ||hitidaet.com^|
 ||hitshe.com^|
+||hitzehaus.com^|
 ||hivasportsl.com^|
 ||hivehubb.us^|
 ||hiwered.com^|
@@ -14974,6 +14983,7 @@
 ||jacmusfashion.com^|
 ||jacobbag.shop^|
 ||jacobcloudimage.com^|
+||jacobs-handel24.de^|
 ||jacobs-reifenversand.com^|
 ||jacoobss.store^|
 ||jafar-france.fr^|
@@ -15647,6 +15657,7 @@
 ||kaufbrennholz.de^|
 ||kaufdefahrrad.com^|
 ||kaufen-rezeptfrei.de^|
+||kaufen-vignette.digital^|
 ||kaufen-vignette.shop^|
 ||kaufen-virium.com^|
 ||kaufenbrennholz.com^|
@@ -16287,6 +16298,7 @@
 ||konrad-mode.com^|
 ||konradmode.shop^|
 ||konsolei.biz^|
+||konsoleneugenpro24.com^|
 ||kontakt-wiesbaden.de^|
 ||kontano.de^|
 ||kontomeinelbaraiffeisen.com^|
@@ -17151,6 +17163,7 @@
 ||lichten-berg.de^|
 ||lichtenraderfeuerwerkverkauf.shop/^|
 ||lichthaeusl.de^|
+||lichtnelkegardens.com^|
 ||lichtprofis.com^|
 ||lichtraumenergetik.at^|
 ||lichtvondeutschland.com^|
@@ -19709,6 +19722,7 @@
 ||motoheatedclothing.com^|
 ||motoholland.com^|
 ||motokultur-shop.com^|
+||motonordic.shop^|
 ||motorblockelektrik.com^|
 ||motorcyclecastlex.com^|
 ||motorcycleonussale.com^|
@@ -20804,6 +20818,7 @@
 ||nonsolovino.co.at^|
 ||nooeberln.store^|
 ||nookhavenz.com^|
+||nookmyio.com^|
 ||nooranenonen.com^|
 ||nora-bergen.com^|
 ||noracora.com^|
@@ -20817,6 +20832,7 @@
 ||nordbag-hamburg.de^|
 ||norden-brennholz.com^|
 ||nordheim-mode.de^|
+||nordheimhausgmbh.myshopify.com^|
 ||nordholzshop.de^|
 ||nordicauto-transport.com^|
 ||nordicci.de^|
@@ -22016,6 +22032,7 @@
 ||otcantabuse.com^|
 ||otech-duesseldorf.com^|
 ||oteeiio.shop^|
+||otfknife.at^|
 ||otha.net^|
 ||othersot.top^|
 ||otisbaby.shop^|
@@ -22860,6 +22877,7 @@
 ||pferdephysio-arndt.de^|
 ||pflanz-stein.de^|
 ||pflanzbedarfsladen.com^|
+||pflanzen-de.com^|
 ||pflanzsinn.com^|
 ||pflegeprofi-shop.com^|
 ||pflegeschonheit.com^|
@@ -23579,6 +23597,7 @@
 ||primekredit.com^|
 ||primelogisticllc.com^|
 ||primesupply.shop^|
+||primetoolingsupply.com^|
 ||primetraing.shop^|
 ||primo-invest.com^|
 ||primosaison.de^|
@@ -24092,6 +24111,7 @@
 ||quirkytwirl.com^|
 ||quiz.prosperi.academy^|
 ||quordlepuzzles.de^|
+||quorven.com^|
 ||quotationi.com^|
 ||quotatiuilt.net^|
 ||quozia.shop^|
@@ -24110,6 +24130,7 @@
 ||qxequitytrade.com^|
 ||qxrorat.top^|
 ||qynyqkj.com^|
+||qytre.com^|
 ||qzzfg7zy0r.online^|
 ||r7-tools.com^|
 ||ra-fragrance.co.uk^|
@@ -25431,6 +25452,7 @@
 ||rspasian.com^|
 ||rsshagen.de^|
 ||rstadspa.com^|
+||rsteelelawfirm.com^|
 ||rstfurncheap.com^|
 ||rsuhisd.shop^|
 ||rt-intertrans.com^|
@@ -27596,6 +27618,7 @@
 ||snrzh.hoaigoutlet.shop^|
 ||snugelora.com^|
 ||snugist.com^|
+||snugvo.com^|
 ||so-avangarde.shop^|
 ||so-fm.de^|
 ||so-trailers.com^|
@@ -29497,7 +29520,6 @@
 ||test9.org^|
 ||testafey.com^|
 ||testcortiy.com^|
-||testdomain2.org^|
 ||testereo.com^|
 ||testheld.me^|
 ||testmattrd.top^|
@@ -30385,7 +30407,6 @@
 ||torbianelli.com^|
 ||torcamb.com^|
 ||torhildm.com^|
-||tormeister.at^|
 ||torshelp.top^|
 ||torstenvwparzer.com^|
 ||tortment.top^|
@@ -32146,6 +32167,7 @@
 ||virandos.de^|
 ||viranny.de^|
 ||virany.de^|
+||vircominfo.de^|
 ||virdos.de^|
 ||virginiacontrino.com^|
 ||virginiapezzolo.com^|
@@ -32300,6 +32322,7 @@
 ||vogelpflege.com^|
 ||voghion.com^|
 ||vogish.ch^|
+||voglbaugeschaftgmbh.de^|
 ||vogtlandmakler.de^|
 ||vogue-district.com^|
 ||vogue-kids.com^|
@@ -33978,6 +34001,7 @@
 ||zemacys.com^|
 ||zemsaffiliate.com^|
 ||zemti.de^|
+||zen-online.com^|
 ||zen-walk.de^|
 ||zenbotique.com^|
 ||zendocs.com^|
