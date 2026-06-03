@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-02T22:10:51.989530Z
+! Generated: 2026-06-03T00:05:12.601579Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2009,6 +2009,7 @@
 ||augusabe.com^|
 ||augustbergwatch.store^|
 ||augustsandgrende.shop/^|
+||auhandmade.com^|
 ||auinthor.com^|
 ||auniversaltool.com^|
 ||auntdaisysshop.com^|
@@ -5810,6 +5811,7 @@
 ||coinstong.com^|
 ||coinstuart.com^|
 ||coinswallet.cc^|
+||coinvoro.com^|
 ||coinwealthinv.com^|
 ||coinwexes.com^|
 ||cokdolum.com^|
@@ -12012,6 +12014,10 @@
 ||gluconol-capsules.com^|
 ||gluecksraupe.shop^|
 ||glueex.com^|
+||glurvextopin-at.at^|
+||glurvextopin-gb.com^|
+||glurvextopin-official.com^|
+||glurvextopin.at^|
 ||gluschwein.de^|
 ||glytchf.com^|
 ||gm-portal.co^|
@@ -12445,6 +12451,7 @@
 ||groupinpolitics.top^|
 ||grovio.shop^|
 ||grow-dutch.com^|
+||grow-investat.com^|
 ||growano.com^|
 ||growetic.top^|
 ||growingcat.com^|
@@ -13733,6 +13740,7 @@
 ||homeforalessi.com^|
 ||homefusionmarket.com^|
 ||homeglobalviews.com^|
+||homeglownest.com^|
 ||homegoods-plus.com^|
 ||homegoods-promo.com^|
 ||homegoodstotal.com^|
@@ -18324,6 +18332,7 @@
 ||marezcorpq.com^|
 ||margaretannlynch.com^|
 ||margareteworm.de^|
+||margarethes-garten.com^|
 ||margaretmcpadden.com^|
 ||margiecoco.com^|
 ||marginalk.com^|
@@ -18743,6 +18752,7 @@
 ||meihaoday.net^|
 ||meikemode.de^|
 ||meimiou.store^|
+||mein-alltagsbedarf.com^|
 ||mein-anhanger.de^|
 ||mein-bauhof.de^|
 ||mein-ebikepro.com^|
@@ -18841,6 +18851,7 @@
 ||mellesa.de^|
 ||mellifluently.shop^|
 ||melliloquent.shop^|
+||mellowivor.com^|
 ||melnbean.com^|
 ||melodiewerk.de^|
 ||melodigear.com^|
@@ -21163,6 +21174,7 @@
 ||oe24.io^|
 ||oebhw.at^|
 ||oefinancejm.com^|
+||oei.unitedinvest.net^|
 ||oeiprne.com^|
 ||oekologischebaustoffede.shop/^|
 ||oekowohn.com^|
@@ -22083,6 +22095,7 @@
 ||outaim.herate.shop^|
 ||outball.de^|
 ||outbuysnow.site^|
+||outdoor-ausrustung24.com^|
 ||outdoor-camping-discounts.com^|
 ||outdoor-eu.clothingsaleuk.com^|
 ||outdoor-eu.shop^|
@@ -25142,6 +25155,7 @@
 ||rituals-prize.com^|
 ||ritualsbdays.com^|
 ||ritualsfaces.com^|
+||ritualsgleam.com^|
 ||ritualshopper.com^|
 ||ritualsorganic.com^|
 ||ritualsoutlets.com^|
@@ -27562,6 +27576,7 @@
 ||sneaker.eurfootwear.com^|
 ||sneaker.outletseur.com^|
 ||sneaker2020z.com^|
+||sneakerfee.com^|
 ||sneakermood.eu^|
 ||sneakernews12.top^|
 ||sneakernews36.top^|
@@ -28801,6 +28816,7 @@
 ||sunnylas.com^|
 ||sunnymors.com^|
 ||sunpanhomekit.com^|
+||sunpaym1.world^|
 ||sunplux.com^|
 ||sunrigh.com^|
 ||sunset-ag.com^|
@@ -29462,7 +29478,6 @@
 ||tentssaleshop.com^|
 ||ten­sor.ag^|
 ||tepffd.com^|
-||teppichversand24.de^|
 ||tepwise.top^|
 ||teralin-de.store^|
 ||terange.com^|
@@ -30596,6 +30611,7 @@
 ||trailblazeshop.com^|
 ||trailer-container.com^|
 ||trailer-master.de^|
+||trailer-master.eu^|
 ||trailertour.com^|
 ||trailrunningsale.com^|
 ||trainhause.com^|
@@ -31955,6 +31971,7 @@
 ||vertrauenwin.de^|
 ||verttion.top^|
 ||verummarkt.store^|
+||verwaltung-gmbh.com^|
 ||verwaltungsnotar.online^|
 ||verwertung-sirrenberg.com^|
 ||verworkdeutschland.com^|
@@ -33282,6 +33299,7 @@
 ||wohnelektro.com^|
 ||wohnengeschaft.de^|
 ||wohnenlinxx.de^|
+||wohnfinden.com^|
 ||wohngartenwelt.de^|
 ||wohnideebilder.shop^|
 ||wohnish.de^|
@@ -33733,6 +33751,7 @@
 ||yeloxo.shop^|
 ||yem.foundation^|
 ||yenki-derm.eu^|
+||yerbrtaa.lol^|
 ||yesgoo.online^|
 ||yesmole.com^|
 ||yesokjewelry.com^|
