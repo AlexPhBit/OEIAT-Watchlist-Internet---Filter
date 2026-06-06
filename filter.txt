@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-05T23:36:27.262078Z
+! Generated: 2026-06-06T01:33:17.035254Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -3820,6 +3820,8 @@
 ||blum-film.de^|
 ||blumen-pro.de^|
 ||blumen-steu.com^|
+||blumenelbracht.de^|
+||blumengretel.de^|
 ||blumenladen.de^|
 ||blumenrose.de^|
 ||blumenshopdeutschland.de^|
@@ -4460,6 +4462,7 @@
 ||burtonsnowboard.de^|
 ||burtschenko.at^|
 ||buschmuller.com^|
+||busenshop.de^|
 ||busforsaled.com^|
 ||bushyy.com^|
 ||business-analyse.at^|
@@ -6690,6 +6693,7 @@
 ||daveamor.us^|
 ||daveintheshop.com^|
 ||davesaunderscfo.com^|
+||david-pauli24.de^|
 ||davidbeckershop.de^|
 ||davidecarlini.com^|
 ||davidkimboyle.net^|
@@ -7404,6 +7408,7 @@
 ||diaskfz.com^|
 ||dibluco.com^|
 ||dicable.xyz^|
+||dicamgruppe.de^|
 ||diccord.ru/nitro^|
 ||dick-reifen.com^|
 ||dickbath.live^|
@@ -8135,6 +8140,7 @@
 ||e-bikesparepartsde.com^|
 ||e-bikesstore.com^|
 ||e-designworks.de^|
+||e-fahrradrabatt.com^|
 ||e-finanzmarket.com^|
 ||e-fliteshop.com^|
 ||e-foldimate.com^|
@@ -8501,6 +8507,7 @@
 ||elatrell.com^|
 ||elbazalijamal.com^|
 ||elbschein.de^|
+||eldestore.de^|
 ||eldond.club^|
 ||eldraw.antido.biz^|
 ||eldraw.funvisual.rest^|
@@ -9065,6 +9072,7 @@
 ||esmitfandb.com^|
 ||esn-fitness.com^|
 ||esneuroutlet.com^|
+||esnoutleteur.com^|
 ||esnsupply.shop^|
 ||esoftn.shop^|
 ||esotecde.shop^|
@@ -9575,6 +9583,7 @@
 ||fahrradhandel-koumagnon.de^|
 ||fahrradhandel-kramer.de^|
 ||fahrradhandel-krause.de^|
+||fahrradhandel-lehmann.de^|
 ||fahrradhandel-martin.de^|
 ||fahrradhandel-richter.de^|
 ||fahrradhandel-rothbart.de^|
@@ -10456,6 +10465,7 @@
 ||fleurop-official.com^|
 ||flex-house.de^|
 ||flexarbeit.com^|
+||flexbikes.de^|
 ||flexcapital.top^|
 ||flexeal-tech.de^|
 ||flexhilfe.de^|
@@ -10857,6 +10867,7 @@
 ||freshlookformen.com^|
 ||freshmarkt24.com^|
 ||fressnapfs.shop^|
+||fressnapwindhundde.com^|
 ||frest.shop^|
 ||fretboardfusion.com^|
 ||freteshion.com^|
@@ -11432,6 +11443,7 @@
 ||gartenpaula.de^|
 ||gartenpflanzende.com^|
 ||gartenpflege-service-wien.at^|
+||gartenpflegebodensee.de^|
 ||gartenpicks.de^|
 ||gartenplus24.com^|
 ||gartenpools24.de^|
@@ -11719,7 +11731,6 @@
 ||getecovex.com^|
 ||getenergyfix.com^|
 ||getfashionnew.com^|
-||getfund-8733.twil.io/confirm^|
 ||getfurnitureabout.com^|
 ||getguitarowner.com^|
 ||getherion.com^|
@@ -11800,6 +11811,7 @@
 ||giashopx.com^|
 ||gideonsarmymusic.com^|
 ||giecy.com^|
+||giesportaquitaine.com^|
 ||giesswein--schuhe.com^|
 ||giesswein-neu.de^|
 ||giesswein.com.de^|
@@ -14146,6 +14158,7 @@
 ||humule.xyz^|
 ||hundaidirectinsu.xyz^|
 ||hunde-katzen.at^|
+||hundeakupunkteur.de^|
 ||hundebedarfsale.com^|
 ||hundekka-de.com^|
 ||hundeladende.com^|
@@ -15482,6 +15495,7 @@
 ||kaffee-love.de^|
 ||kaffee-paradies.net^|
 ||kaffee-teeshopde.com^|
+||kaffeealternative.de^|
 ||kaffeeangebote.com^|
 ||kaffeemaschinebillig.com^|
 ||kaffeemech.myshopify.com^|
@@ -15589,6 +15603,7 @@
 ||kaperes.com^|
 ||kapes-agency.com^|
 ||kapitalmagazin.de^|
+||kapmazmateriaux.com^|
 ||kappawien.at^|
 ||kapschteja.at^|
 ||kapselexpress.de^|
@@ -15819,6 +15834,7 @@
 ||kendoraa.de^|
 ||kenjinew.com^|
 ||kennedydwilde.com^|
+||kenotistflowio.digital^|
 ||kenough.de^|
 ||kensonsfordogsde.shop^|
 ||kentucky-eu-online.shop^|
@@ -16094,6 +16110,7 @@
 ||klakers.com^|
 ||klang-coburg.de^|
 ||klang-plan.de^|
+||klangatem.com^|
 ||klangplan.net^|
 ||klangvoll-events.at^|
 ||klar-haus.de^|
@@ -18109,7 +18126,6 @@
 ||magartens.com^|
 ||magemma.com^|
 ||magenta-oat.com^|
-||magenta.zgwqds.com/at^|
 ||magentaappat.top^|
 ||magentashelf.com^|
 ||mageshapi.com^|
@@ -18208,6 +18224,7 @@
 ||maleenthiele.shop^|
 ||malen-und-reisen.de^|
 ||malens-boutique.de^|
+||malentestheaterpalast.de^|
 ||maleny.de^|
 ||malerbedarf-sales.com^|
 ||malereikopie.de^|
@@ -18270,6 +18287,7 @@
 ||manclearance.com^|
 ||mandalaverkauf.shop^|
 ||mandantus.de^|
+||mandashop.de^|
 ||manenabeauty.de^|
 ||manenjoy.com^|
 ||maneyers.com^|
@@ -18931,6 +18949,7 @@
 ||mentailtyinand.top^|
 ||mentalitynot.top^|
 ||mentech.shop^|
+||mentfieldlgs.com^|
 ||mentione.com^|
 ||menwearhandpick.com^|
 ||menwearshopping.com^|
@@ -19259,6 +19278,7 @@
 ||misalena.com^|
 ||miscesure.top^|
 ||misciron.com^|
+||miscota.de^|
 ||misegxiu.com^|
 ||misello.fun^|
 ||misgift.de^|
@@ -20112,6 +20132,7 @@
 ||myskins.co^|
 ||mysodastream.shop^|
 ||myspirituosen.com^|
+||mysportfisch.de^|
 ||mysportpower.com^|
 ||myspyally.com^|
 ||mysterygift365.top^|
@@ -20218,6 +20239,7 @@
 ||naserusecom.com^|
 ||nasha-pressa.shop^|
 ||nashfishing.com^|
+||nashuashop.de^|
 ||nasioalca.com^|
 ||naspersworldsmarket.com^|
 ||nat-s.co^|
@@ -21046,6 +21068,7 @@
 ||nuiebathroom.com^|
 ||nuintic.top^|
 ||nula-berlin.de^|
+||nullpromille-bier.com^|
 ||nullthirity.com^|
 ||numanvdw.com^|
 ||numerr.com^|
@@ -21828,6 +21851,7 @@
 ||opensource.salesforce.com^|
 ||openuplife.com^|
 ||openuplongbeach.com^|
+||operakuechen.de^|
 ||operar.xyz^|
 ||operatemotion.com^|
 ||operationaly.com^|
@@ -21976,6 +22000,7 @@
 ||orivelle-official.com^|
 ||orizegment.com^|
 ||orlend.com^|
+||orlenshop.de^|
 ||orlidelo.com^|
 ||ornamentli.com^|
 ||ornamenttoy.com^|
@@ -23973,6 +23998,7 @@
 ||purouw.com^|
 ||purple-slurp.com^|
 ||purpleflyingfishlimited.com^|
+||purposefulcareerpath.click^|
 ||purprints.com^|
 ||purprints.net^|
 ||purpurtic.top^|
@@ -24545,6 +24571,7 @@
 ||redbeyie.com^|
 ||redexcoln.com^|
 ||redhighca.com^|
+||redlich-becker.de^|
 ||redpoint-invest.com^|
 ||redprotein.at^|
 ||redrow.shop^|
@@ -24857,6 +24884,7 @@
 ||remorcas.com^|
 ||remorque-fermee-ffrance.com^|
 ||remote-rpo-at.com^|
+||remotejobseu.site^|
 ||remoteonlinehub.com^|
 ||removean.top^|
 ||renaissancepartners.org^|
@@ -26151,6 +26179,7 @@
 ||scannero.io^|
 ||scanpanoutlet.com^|
 ||scarpa-outlet-online.shop^|
+||scarpaosterreich.at^|
 ||scarpaoutdooor.com^|
 ||scarpaschuheoutlet.at^|
 ||scarpaschuhesale.at^|
@@ -26166,6 +26195,7 @@
 ||scentioy.com^|
 ||scgyj.animepanorama.com^|
 ||schaap.at^|
+||schachworkshop.de^|
 ||schafflutzel-motorgerate.com^|
 ||schafproduktion24.de^|
 ||schalen-shop.com^|
@@ -26994,6 +27024,7 @@
 ||shopbuyzone.com^|
 ||shopcampinghiking.com^|
 ||shopcdy.online^|
+||shopcenterde.de^|
 ||shopcheapluv.site^|
 ||shopchicgeneral.com^|
 ||shopclun.com^|
@@ -27506,6 +27537,7 @@
 ||sloveos.com^|
 ||slowburner.de^|
 ||slowtidestore.com^|
+||slreinigungsfirma.de^|
 ||slubmauritius.com^|
 ||sma-bkgruppe.com^|
 ||small-folkde.shop^|
@@ -28071,6 +28103,7 @@
 ||sportmusthave.com^|
 ||sportnewsdirect.com^|
 ||sportodyssey.ritll.com^|
+||sportonauten.de^|
 ||sportprodukteverkauf.com^|
 ||sportprosport.com^|
 ||sports-off.com^|
@@ -28258,6 +28291,7 @@
 ||staubsauger-profi24.de^|
 ||staubsauger24.net^|
 ||staubsaugerhaus.de^|
+||staubsaugerland.de^|
 ||staubzon.de^|
 ||staud-deutschland.com^|
 ||staud.clothing^|
@@ -29220,6 +29254,7 @@
 ||taegliches-brot.at^|
 ||taffetaandtattoos.com^|
 ||tagalots.com^|
+||tagespflegedorfflitzer.de^|
 ||tagesschau.finance^|
 ||tagestrips.at^|
 ||tagkitchenware.de^|
@@ -29611,6 +29646,7 @@
 ||tgfree.fun^|
 ||th0manns0und.shop^|
 ||thai-massage-winsen.de^|
+||thailaendischekuecheberlin.de^|
 ||thailandthink.top^|
 ||thaisawadee.de^|
 ||thaliano.de^|
@@ -29664,6 +29700,7 @@
 ||thebitcoinmethod.org^|
 ||thebitindex.ai^|
 ||thebookishshop.shop^|
+||thebreakfastshop.de^|
 ||thebrightfurniture.com^|
 ||thebrooklyn.net^|
 ||thebutlerspecialty.com^|
@@ -30558,6 +30595,7 @@
 ||track-ni.org^|
 ||tracksline.com^|
 ||tracksmithdeutschland.com^|
+||tracksuitshop.de^|
 ||tracybudd.shop^|
 ||trade-gpt.ai^|
 ||trade-mbitm.com^|
@@ -31114,6 +31152,7 @@
 ||ulrichandree.com^|
 ||ulrike-lingl.com^|
 ||ulta-beauty-us.com^|
+||ultenicstaubsauger.com^|
 ||ultimateasdc.com^|
 ||ultimatelyt.com^|
 ||ultimatetattoosuppde.shop^|
@@ -31861,6 +31900,7 @@
 ||velionpartner.net^|
 ||vellamia.de^|
 ||vellera.de^|
+||velmart-berlin.com^|
 ||velmaspekingese.com^|
 ||velo-nation.com^|
 ||velocityh.com^|
@@ -32581,6 +32621,7 @@
 ||w.store-mvp.shop^|
 ||w.unisosterreich.shop^|
 ||wachstuchshop24.shop^|
+||wachstumsworkshop.de^|
 ||waco-logistics.com^|
 ||wadada.online^|
 ||wadriha.shop^|
@@ -33102,6 +33143,7 @@
 ||whileics.top^|
 ||whilester.top^|
 ||whipl.de^|
+||whiskerhalo.com^|
 ||whiskertails.com^|
 ||whiskybests.com^|
 ||whiskyrabatt.com^|
@@ -34188,7 +34230,6 @@
 ||zone-truck.com^|
 ||zone-vogue.com^|
 ||zone-watersports.com^|
-||zone404.com^|
 ||zoneautopro.com^|
 ||zoneautopro.com/de/^|
 ||zonebabyware.com^|
