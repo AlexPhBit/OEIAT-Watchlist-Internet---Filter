@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-06T23:12:41.529147Z
+! Generated: 2026-06-07T01:34:25.052325Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -3010,7 +3010,7 @@
 ||berger-research.net^|
 ||berger-roland.com^|
 ||bergermode.com^|
-||bergersearch.at/^|
+||bergersearch.at^|
 ||bergexperten.de^|
 ||bergfahrrad.com^|
 ||bergfreunde-buy.shop^|
