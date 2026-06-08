@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-07T23:32:47.607273Z
+! Generated: 2026-06-08T01:58:57.768987Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -12670,7 +12670,7 @@
 ||haarstyle.net^|
 ||haarweltfriseureinrichtung.shop/^|
 ||haase-autoreifen.com^|
-||haasrecruiting.at/^|
+||haasrecruiting.at^|
 ||haazeair.com^|
 ||habakidtoy.com^|
 ||habbel-haustechnik.de^|
@@ -14341,6 +14341,7 @@
 ||icosality.top^|
 ||icprc.tcs-rud.com^|
 ||ictholder.com^|
+||id-finanzonline.at/datenaktualisierung/RFID430230340^|
 ||idabitar.com^|
 ||idaffodil.shop^|
 ||idailyshop.com^|
