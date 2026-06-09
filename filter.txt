@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-08T23:59:05.264258Z
+! Generated: 2026-06-09T04:19:30.619228Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -115,6 +115,7 @@
 ||5sternedeals.shop/^|
 ||6-drugs.com^|
 ||602a84.myshopify.com^|
+||64personality.com^|
 ||6589.coinsystem.su^|
 ||66new-bike.com^|
 ||674985034.myshoplaza.com^|
@@ -485,6 +486,7 @@
 ||aerobicsbrand.com^|
 ||aeromed-hamburg.de^|
 ||aeropetstransport.com^|
+||aeropress.co.at^|
 ||aersix.com^|
 ||aetherarkex.com^|
 ||aetos-deutschland.de^|
@@ -1744,6 +1746,7 @@
 ||asfinag-group.com^|
 ||asfinag-vignette.com^|
 ||asfinag.at-info.shop^|
+||asfinag.at-service.shop^|
 ||asfinag.at-shop.info^|
 ||asfinag.at-shop.live^|
 ||asfinag.life^|
@@ -3206,6 +3209,7 @@
 ||bestirprices.com^|
 ||bestkht.com^|
 ||bestkitchen-sale.com^|
+||bestkitchenwarede.com^|
 ||bestknifeworld.com^|
 ||bestknivescenter.com^|
 ||bestmaher.com^|
@@ -4269,6 +4273,7 @@
 ||broilkingde.com^|
 ||brokereins.com^|
 ||brokereins1.com^|
+||brokersinternaational.com^|
 ||brokertec-eu.org^|
 ||brokerzeroca.com^|
 ||broksi.de^|
@@ -4409,6 +4414,7 @@
 ||buenoschuhe.de^|
 ||bueroablage.at^|
 ||buerobedarfshop.com^|
+||bueromoebels.de^|
 ||bueroservice-kompakt.de^|
 ||buestyle.com^|
 ||buffalodavidbittonmall.com^|
@@ -4454,6 +4460,7 @@
 ||burn-plus.de^|
 ||burnout-cockpit.de^|
 ||burnoutstopper.at^|
+||buroausstattung.com^|
 ||bursyswork.live^|
 ||burton-shops.com^|
 ||burton.co.at^|
@@ -4691,6 +4698,7 @@
 ||camopstore.com^|
 ||camp365.top^|
 ||campenwelt.com^|
+||camper--schuhe.com^|
 ||camper-schuhe.at^|
 ||camperangebot.de^|
 ||camperberlin.com^|
@@ -4811,6 +4819,7 @@
 ||capitalsail.com^|
 ||capitalxf.com^|
 ||capitalxfmarket.com^|
+||capitalxsolution.com^|
 ||capofini.com^|
 ||capogrillo.com^|
 ||capquess.com^|
@@ -5196,6 +5205,7 @@
 ||chaosdesign24de.shop/^|
 ||chaplinr.com^|
 ||chapmbv.com^|
+||chaps-herrenmode.com^|
 ||chaps-herrenmode.de^|
 ||chapterfinish.com^|
 ||chapterrest.store^|
@@ -5425,6 +5435,7 @@
 ||christina-theresa.com^|
 ||christinaroutt.com^|
 ||christine-mode.com^|
+||christinefamiliewelpen.com^|
 ||christinehiggs.com^|
 ||christmas-offer.com^|
 ||christmasdecorusa.com^|
@@ -5472,6 +5483,7 @@
 ||cim-media.de^|
 ||cima-bois.com^|
 ||cimga.ltd^|
+||cimnelatlas.click^|
 ||cinderella-braut.de^|
 ||cindystenglein.com^|
 ||cine-flix.co^|
@@ -6230,6 +6242,7 @@
 ||cp24.pl^|
 ||cpee.top^|
 ||cpket.com^|
+||cplollp.com^|
 ||cpopnow.com^|
 ||cprcg.mebbx.com^|
 ||cqqodsports.com^|
@@ -6674,6 +6687,7 @@
 ||daskarnevalkostuem.de^|
 ||dasleselabor.com^|
 ||dasoffiziellespadel.com^|
+||dasoo.de^|
 ||dasorevaparis.de^|
 ||dassoustore.com^|
 ||daswirthshaus.com^|
@@ -6847,6 +6861,7 @@
 ||de.ultimate-gainz.com^|
 ||de.wellreplicas.to^|
 ||de.xynapay.com^|
+||de1.aiinshgits.de^|
 ||de1.landurm.com^|
 ||de3.nicozerv.com^|
 ||de4.luxedressshop.com^|
@@ -7965,6 +7980,7 @@
 ||drmartens-outlet.com^|
 ||drmartens-outlets.com^|
 ||drmartensberlin.de^|
+||drmartensboots.co.at^|
 ||drmartensdeutschlandsale.de^|
 ||drmartensjadonsale.de^|
 ||drmartensportugaloutlet.com^|
@@ -8408,6 +8424,7 @@
 ||effectualfashion.com^|
 ||effectvesr.top^|
 ||efficiencye.com^|
+||efficient-flow.solutions^|
 ||efficienthandtools.com^|
 ||efficienttoolbase.com^|
 ||efficienttoolshop.com^|
@@ -9595,6 +9612,7 @@
 ||fahrradhelmeneu.com^|
 ||fahrradkassettede.com^|
 ||fahrradkleinteile.com^|
+||fahrradkontor.com^|
 ||fahrradladen-brand.de^|
 ||fahrradladen-hoffmann.de^|
 ||fahrradladende.com^|
@@ -9616,6 +9634,7 @@
 ||fahrradspeichernde.com^|
 ||fahrradstorm.com^|
 ||fahrradstromkreis.com^|
+||fahrradt.de^|
 ||fahrradteiledepot.com^|
 ||fahrradteileladen.com^|
 ||fahrradtrek.com^|
@@ -9667,6 +9686,7 @@
 ||fallinof.com^|
 ||fallular.top^|
 ||faltengarten.com^|
+||falthammer-markt.com^|
 ||falzoro.de^|
 ||famaceous.top^|
 ||famgeschenk.de^|
@@ -12284,6 +12304,7 @@
 ||gr.gluconv.com^|
 ||grabateea.com^|
 ||grablee.store^|
+||grace-hawthorne.com^|
 ||graces-buy.com^|
 ||gracesboutiquecalifornia.com^|
 ||graciostyus.com^|
@@ -12669,6 +12690,7 @@
 ||haarpflegehaut.com^|
 ||haarstyle.net^|
 ||haarweltfriseureinrichtung.shop/^|
+||haas-partner.com^|
 ||haase-autoreifen.com^|
 ||haasrecruiting.at^|
 ||haazeair.com^|
@@ -13941,6 +13963,7 @@
 ||hosetensil.com^|
 ||hospweine.shop/^|
 ||hosseinrazi.shop^|
+||hostagetapedeutschland.de^|
 ||hostalesquella.com^|
 ||hostillca.com^|
 ||hot-mystery-deals.xyz^|
@@ -15827,6 +15850,7 @@
 ||kellybridgetann.com^|
 ||kellylylh.com^|
 ||kellyys.com^|
+||keltraxde.com^|
 ||keltygear.com^|
 ||kemarde.shop/^|
 ||kemera.de^|
@@ -16843,6 +16867,7 @@
 ||laudabletool.com^|
 ||laudeer.top^|
 ||laufbekleidungonshop.com^|
+||laufenalltagnatur.com^|
 ||laufenlust.com^|
 ||laufrad-outlet24.de^|
 ||laufschule-janson.de^|
@@ -17075,6 +17100,7 @@
 ||lemonshack.top^|
 ||lempsinklisa.com^|
 ||lems-deutschland.de^|
+||lems.com.de^|
 ||lemsdeutschland.com^|
 ||lemsschuhe.at^|
 ||lemsschuhedeutschland.de^|
@@ -17513,6 +17539,7 @@
 ||livsy.ch^|
 ||livsy.de^|
 ||liwed.barpalm.shop^|
+||liwed.wedstrip.shop^|
 ||lizabete.com^|
 ||lizandtaylor.de^|
 ||lizarddoe.com^|
@@ -18371,6 +18398,7 @@
 ||margitnohel.at^|
 ||margittaweiss.de^|
 ||maria-gabriele.com^|
+||mariaeva-wien.at^|
 ||mariana-organics.com^|
 ||marianahas.com^|
 ||mariandmaison.com^|
@@ -18393,6 +18421,7 @@
 ||marinadecoration.com^|
 ||marinataillade.com^|
 ||marineausstattung.com^|
+||marinepartde.com^|
 ||marinepartdepots.com^|
 ||marionmaurer.com^|
 ||mariostoppani.it^|
@@ -19036,6 +19065,7 @@
 ||metahapy.com^|
 ||metalflower-pot.com^|
 ||metallartcinti.it^|
+||metallicastores.com^|
 ||metallicn.com^|
 ||metalsme.com^|
 ||metalworking-tools.com^|
@@ -19491,6 +19521,7 @@
 ||modellbahnshop-club.shop^|
 ||modellbahnundmehr.com^|
 ||modellbau-rainer.at^|
+||modellbau-zentrum.com^|
 ||modellbaubillig.com^|
 ||modellbauguenstig.com^|
 ||modellbaukober.at^|
@@ -20939,6 +20970,7 @@
 ||norulesjustfun.de^|
 ||norutonh.com^|
 ||norwayhotel.net^|
+||norwiss.de^|
 ||norya.de^|
 ||nostoposports.com^|
 ||not-bad.shop^|
@@ -23624,6 +23656,7 @@
 ||price-fee.com^|
 ||price.mytestopay.com^|
 ||priceaiclub.com^|
+||pricehaiku.com^|
 ||pricesboxstore.com^|
 ||priceslash.shop^|
 ||prigaudited.buzz^|
@@ -23856,6 +23889,7 @@
 ||protectiveskates.com^|
 ||proteinrain.com^|
 ||protektorenmotorrad.com^|
+||prothermwoodpellets.com^|
 ||protmina.com^|
 ||protobetter.com^|
 ||protool-site.com^|
@@ -24063,6 +24097,7 @@
 ||qhgest.com^|
 ||qhzshcku.shop^|
 ||qidi3d.com^|
+||qievpfhz.shop^|
 ||qihaobuy.com^|
 ||qinatmospheregitterman.com^|
 ||qinero.com^|
@@ -25248,6 +25283,7 @@
 ||ro9.landunk.com^|
 ||road-vignette.shop^|
 ||roadkultur.de^|
+||roadtrip-camping.com^|
 ||roamanapparel.com^|
 ||roamanwear.com^|
 ||roasterprada.de^|
@@ -25600,6 +25636,7 @@
 ||runonde.club^|
 ||runons.club^|
 ||runonshop.top^|
+||runrigstack.click^|
 ||runsaucony.com^|
 ||runshoesdeals.store^|
 ||runshoesmall.online^|
@@ -28900,6 +28937,7 @@
 ||superdryosterreich.com^|
 ||superdrywien.at^|
 ||superea.fun^|
+||superexpressholz.de^|
 ||superfaditem.com^|
 ||superficialk.com^|
 ||superfit-discount.shop^|
@@ -30479,6 +30517,7 @@
 ||topyieldoptions.online^|
 ||toqpatent.com^|
 ||toratoe.com^|
+||torbeschlagestobgriffe.com^|
 ||torbianelli.com^|
 ||torcamb.com^|
 ||torhildm.com^|
@@ -32214,6 +32253,7 @@
 ||vintageitisrain.store^|
 ||vintageladies.de^|
 ||vintageusfurniture.com^|
+||vintageweinde.com^|
 ||vintanzo.de^|
 ||vintaro.de^|
 ||vintedi.vip^|
@@ -32629,6 +32669,7 @@
 ||waermewald.de^|
 ||waffeleisende.com^|
 ||waffen-outdoor.com^|
+||waffen24de.com^|
 ||waffenlager.com^|
 ||waffenundjagdwelt.com^|
 ||wafhong.shop^|
@@ -32735,6 +32776,7 @@
 ||warmbike.com^|
 ||warmcreativemall.com^|
 ||warmeholzhaus.com^|
+||warmeluxe.com^|
 ||warmeprofi.com^|
 ||warmesocken.com^|
 ||warmheld.de^|
@@ -32746,6 +32788,7 @@
 ||warmsettle.com^|
 ||warmtccident.com^|
 ||warmthsta.com^|
+||warmthvo.com^|
 ||warnerbrosshp.com^|
 ||warnerbrossuk.com^|
 ||waroly.com^|
@@ -33388,6 +33431,7 @@
 ||wolf-zart.com^|
 ||wolffashion.de^|
 ||wolffashiondeutschland.com^|
+||wolffcomerce.de^|
 ||wolfffashion.de^|
 ||wolffs-revier.de^|
 ||wolfgang-hagen.shop^|
