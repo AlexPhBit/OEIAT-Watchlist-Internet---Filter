@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-09T22:49:50.886014Z
+! Generated: 2026-06-10T00:05:14.111624Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -613,6 +613,7 @@
 ||aimpshop.com^|
 ||ainhoaotegi.com^|
 ||ainorton.com^|
+||aio-vita.com^|
 ||air-jordan4.com^|
 ||air-max.at^|
 ||air-uposterreich.at^|
@@ -2897,6 +2898,7 @@
 ||beiermode.de^|
 ||beievade.shop/^|
 ||beiids.com^|
+||beinfit-official.de^|
 ||beinfit.de^|
 ||beingpick.click^|
 ||beisimple.de^|
@@ -12052,6 +12054,7 @@
 ||gluckstucke.de^|
 ||gluco-slim.net^|
 ||gluconol-capsules.com^|
+||gluecks-stern.de^|
 ||gluecksraupe.shop^|
 ||glueex.com^|
 ||glurvextopin-at.at^|
@@ -13954,6 +13957,7 @@
 ||horstz.shop^|
 ||hortensies.com^|
 ||hortihaven.net^|
+||hortura.de^|
 ||horzesshop.top^|
 ||hosalet.com^|
 ||hoscaleshop.com^|
@@ -14269,6 +14273,7 @@
 ||hycsm.site^|
 ||hydrafitnessparde.shop^|
 ||hydrationoutdoor.com^|
+||hydraulicboatparts.com^|
 ||hydroforming.at^|
 ||hydrogearworld.com^|
 ||hyfhu.com^|
@@ -17673,6 +17678,7 @@
 ||loonlineshopnorge.com^|
 ||loonlineshopslovenija.com^|
 ||loonlineshopsverige.com^|
+||loop-earplugsschweiz.com^|
 ||loopearplugs.at^|
 ||loopearplugsosterreich.com^|
 ||looseice.com^|
@@ -18537,6 +18543,7 @@
 ||maryslayton.com^|
 ||masalelo.shop^|
 ||maschinen-brennholz.de^|
+||maschinenpreiswert.com^|
 ||maschinenwelt24.com^|
 ||mascotsmall.com^|
 ||mashilt.com^|
@@ -20969,6 +20976,7 @@
 ||nortonf.com^|
 ||norulesjustfun.de^|
 ||norutonh.com^|
+||norvielle.de^|
 ||norwayhotel.net^|
 ||norwiss.de^|
 ||norya.de^|
@@ -28752,6 +28760,7 @@
 ||style-curtain.com^|
 ||style-lighting.com^|
 ||style-parks.com^|
+||style2ndhand.com^|
 ||stylearena.store^|
 ||styleathletic.com^|
 ||stylebalenciaga.com^|
@@ -29633,6 +29642,7 @@
 ||testcortiy.com^|
 ||testereo.com^|
 ||testheld.me^|
+||testiqs.com^|
 ||testmattrd.top^|
 ||testomedstore.com^|
 ||tetbatmaschinen.com^|
@@ -33090,6 +33100,7 @@
 ||werke-anhangers.com^|
 ||werkgeist.com^|
 ||werkora-industrial.com^|
+||werkstattgerateprofi.com^|
 ||werkvoorraden.com^|
 ||werkzeug-brandl.com^|
 ||werkzeug-salesshop.com^|
@@ -33407,6 +33418,7 @@
 ||wohlwohnen.at^|
 ||wohn-perle.de^|
 ||wohnelektro.com^|
+||wohnello.com^|
 ||wohnengeschaft.de^|
 ||wohnenlinxx.de^|
 ||wohnfinden.com^|
