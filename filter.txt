@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-10T23:02:43.466964Z
+! Generated: 2026-06-11T01:37:26.813626Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -6029,6 +6029,7 @@
 ||containercargo.shop^|
 ||containercompany.shop^|
 ||containerdienstheiliggmbh.de^|
+||containerservicestarzgmbh.de^|
 ||containert.com^|
 ||containtools.com^|
 ||conteneursducoin.com^|
@@ -8614,6 +8615,7 @@
 ||elektriker.lindens.at^|
 ||elektriker.pavlik24.at^|
 ||elektriker7d.at^|
+||elektro-bechtle.de^|
 ||elektro-bohmer.com^|
 ||elektro-geschaft.com^|
 ||elektro-haiden.at^|
@@ -12461,6 +12463,7 @@
 ||grosseauswahl.com^|
 ||grosshandel-24.net^|
 ||grossiste-parfum-generique.com^|
+||grotecenergy.com^|
 ||groteno.de^|
 ||groundies-finland.com^|
 ||groundies-osterreich.com^|
@@ -15781,6 +15784,7 @@
 ||kbetake.com^|
 ||kbnlogistics.com^|
 ||kbs-kanzlei.de^|
+||kbs-management.cc^|
 ||kbuildex.com^|
 ||kckmoneyy.com^|
 ||kckocv.shop^|
@@ -16413,6 +16417,7 @@
 ||kraftdesweins.com^|
 ||kraftholz.shop^|
 ||kraftraumpro.com^|
+||krafttool24.com^|
 ||krafttoolco.com^|
 ||kraftwerk-solar.com^|
 ||krahl-container.eu^|
@@ -22447,6 +22452,7 @@
 ||oxzibyte.com^|
 ||oyemas.com^|
 ||oyoyhome.com^|
+||ozeanhaustiereluftwegelieferung.de^|
 ||ozempic-kaufen.com^|
 ||ozempic-tirzepatide.eu^|
 ||ozempickaufenn.com^|
@@ -22976,6 +22982,7 @@
 ||pflegeprofi-shop.com^|
 ||pflegeschonheit.com^|
 ||pforp.net^|
+||pfotegws.de^|
 ||pfoten-traum.com^|
 ||pfotenfans.com^|
 ||pfotentrend.com^|
@@ -23230,6 +23237,7 @@
 ||plastitracor.com^|
 ||platform.amndmtrade.com^|
 ||platform.invesco-trading.com^|
+||platform.softwarecrownex.com^|
 ||platform.wilsonpartnertrade.com^|
 ||platformmind.quest^|
 ||platformpedalde.com^|
@@ -23793,6 +23801,7 @@
 ||profibaubedarf.com^|
 ||profibikes.de^|
 ||proficienct.com^|
+||profikueche.com^|
 ||profile-residential.com^|
 ||profiofen.com^|
 ||profiraeder.de^|
@@ -24068,6 +24077,7 @@
 ||pwbeq.com^|
 ||pwowide.com^|
 ||pxzcl.com^|
+||pylomoshop.com^|
 ||pyroforms.at^|
 ||pyrry.xyz^|
 ||pytssw.com^|
@@ -28162,6 +28172,7 @@
 ||sportsbreezy.com^|
 ||sportsbrooks.com^|
 ||sportscardssales.com^|
+||sportschuheinov.com^|
 ||sportschuheshop.com^|
 ||sportsfactoryeu.shop^|
 ||sportsfeverbazaar.com^|
@@ -32907,6 +32918,7 @@
 ||wearessentiel.com^|
 ||wearfelity.de^|
 ||wearfondyouw.com^|
+||weargiesswein.shop^|
 ||wearmountainsports.com^|
 ||wearnwatt.de^|
 ||wearowner.com^|
@@ -33655,6 +33667,7 @@
 ||wwllan.com^|
 ||wwmode.de^|
 ||wwujiao2w.x.yupoo.com^|
+||www.banking.narodnabanka.sk^|
 ||Www.heizoil24.net^|
 ||www.lynch-care.com^|
 ||www.telser-two.site^|
