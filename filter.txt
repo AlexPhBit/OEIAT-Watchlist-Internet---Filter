@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-15T23:20:43.566126Z
+! Generated: 2026-06-16T02:10:01.851144Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -124,6 +124,7 @@
 ||713forvena.kiraninternational.co.in^|
 ||7238.amazoncoin.su^|
 ||74days.com^|
+||77jobwear.com^|
 ||77unishop.com^|
 ||7econds.com^|
 ||7gdrh9ip2p1.tipicodeco.nl^|
@@ -1370,6 +1371,7 @@
 ||anwaelte-brinkmann.de^|
 ||anwalt-rieger.de^|
 ||anwalt-sirrenberg.com^|
+||anwaltskanzlei-kammann.de^|
 ||anxiair.xyz^|
 ||any-estates.com^|
 ||anyoneeer.top^|
@@ -1405,6 +1407,7 @@
 ||apelt-handel.com^|
 ||apelt-handel.de^|
 ||apelt-shop.de^|
+||apertino-shop.de^|
 ||apexflora.com^|
 ||apexmaquinariaindustrial.com^|
 ||apexshekel.com^|
@@ -1810,6 +1813,7 @@
 ||asicsinwien.com^|
 ||asicskinetica.com^|
 ||asicsosterreich.at^|
+||asicsoutlet.at^|
 ||asicsoutletosterreich.at^|
 ||asicsoutletsdeutschland.com^|
 ||asicsshoe.net^|
@@ -4482,6 +4486,7 @@
 ||bunterstil.com^|
 ||buntewarenwelt.com^|
 ||buntfleckshop.shop/^|
+||burberryoutlet.at^|
 ||burgmoebel.de^|
 ||buriayre.com^|
 ||buristo.de^|
@@ -5441,6 +5446,7 @@
 ||chipworley.com^|
 ||chirpydeals.com^|
 ||chittababy.com^|
+||chloes.com.de^|
 ||chloetetu.com^|
 ||chltltd.com^|
 ||chonses.shop^|
@@ -6425,6 +6431,7 @@
 ||csbclo.de^|
 ||csbdbuy.com^|
 ||csbsts.site^|
+||cschwindt-24.de^|
 ||csebasoft.com^|
 ||cserveni.at^|
 ||csfenagp.icu^|
@@ -10685,6 +10692,7 @@
 ||fondluck.com^|
 ||fonneria.com^|
 ||fontis-shop.shop^|
+||foodiefusionworld.com^|
 ||foodixs.com^|
 ||foodonline.site^|
 ||foodprepexperts.com^|
@@ -10734,6 +10742,7 @@
 ||foreststoneca.com^|
 ||forever-rock.com^|
 ||forever21-us.com^|
+||foreverjoy.site^|
 ||forevermal.com^|
 ||forex-eze.com^|
 ||forex-eze.io^|
@@ -10878,6 +10887,7 @@
 ||fredestiny.com^|
 ||fredperryonlineshop.de^|
 ||fredperryosterreich.com^|
+||fredperryoutlet.de^|
 ||fredperryoutletosterreich.com^|
 ||freeabikes.com^|
 ||freeacnevs.xyz^|
@@ -11092,6 +11102,7 @@
 ||furbagseu.shop^|
 ||furbagsway.shop^|
 ||furdielandwirtschaft.com^|
+||furlaoutlet.de^|
 ||furnidays.de^|
 ||furnishdwell.com^|
 ||furnishfinds.com^|
@@ -11798,6 +11809,7 @@
 ||get-akusoli.com^|
 ||get-baseballstore.com^|
 ||get-curaball.com^|
+||get-epicooler.com^|
 ||get-fizzclean.com^|
 ||get-huusk.com^|
 ||get-hydrogenwaterbottle.com^|
@@ -11908,6 +11920,7 @@
 ||giesswein--schuhe.com^|
 ||giesswein-neu.de^|
 ||giesswein.com.de^|
+||giesswein.cz^|
 ||giesswein.ro^|
 ||giesswein.shop^|
 ||giessweinat.at^|
@@ -12213,6 +12226,7 @@
 ||goldencurrencies.trade^|
 ||goldenewelpen.com^|
 ||goldengoose-austria.myshoplaza.com^|
+||goldengoosesale.at^|
 ||goldengoosesale.de^|
 ||goldengoosess.shop^|
 ||goldeninvestbroker.com^|
@@ -13530,6 +13544,7 @@
 ||hfro.sunsperience.com^|
 ||hfsie.com^|
 ||hgoobtimio.cc^|
+||hgtyfd.shop^|
 ||hhb-garten.de^|
 ||hheexpot.com^|
 ||hi-goeedoo.com^|
@@ -14040,6 +14055,7 @@
 ||horstz.shop^|
 ||hortensies.com^|
 ||hortihaven.net^|
+||hortmann-law.de^|
 ||hortura.de^|
 ||horzesshop.top^|
 ||hosalet.com^|
@@ -16253,6 +16269,7 @@
 ||klarsteinkuche.com^|
 ||klartnzm.glanzrmvh.click^|
 ||klarvi.de^|
+||klarwise.de^|
 ||klassfx.com^|
 ||klassisch.grafik-krakora.at^|
 ||klassischesfahrradneu.com^|
@@ -16300,6 +16317,8 @@
 ||klick-ndb.de^|
 ||klima-bonus.app^|
 ||klimabonus-2026.net^|
+||klimabonus.cc^|
+||klimabonus.co^|
 ||klimabonus2026.at^|
 ||klimakaelteprofi.com^|
 ||klimmotorrad.com^|
@@ -16496,6 +16515,7 @@
 ||kostuemp.de^|
 ||kostummode.com^|
 ||kostumparty.com^|
+||kotropfenwelt.com^|
 ||kotte-handel.com^|
 ||kotte-handel.de^|
 ||koucy.com^|
@@ -16801,6 +16821,7 @@
 ||lagerverkauf-at.com^|
 ||lagerversand-direkt.de^|
 ||lagerversand-hamburg.de^|
+||lago-capital.com^|
 ||lagoma24.com^|
 ||lagowt.com^|
 ||laguaguac.com^|
@@ -16953,6 +16974,7 @@
 ||lasportivaworld.com^|
 ||lassola.de^|
 ||lassola.it^|
+||lasten-anhanger.com^|
 ||lastresortshipping.com^|
 ||lasylife.top^|
 ||latahalcom.shop^|
@@ -17240,6 +17262,7 @@
 ||leoclothing.shop^|
 ||leohandel24.de^|
 ||leohome.shop^|
+||leonboutique.co^|
 ||leonhardmaterialien.com^|
 ||leonidmatthias.shop^|
 ||leonie-fashion.at^|
@@ -17556,6 +17579,7 @@
 ||linoviacrate.com^|
 ||linuxtexte.de^|
 ||linxcoinen.com^|
+||linzapotheke.com^|
 ||linzgedenkt.at^|
 ||liobathelabel.de^|
 ||liona.shop^|
@@ -17637,6 +17661,7 @@
 ||liviaberlin.de^|
 ||liviafood.shop^|
 ||livicy.de^|
+||livingaction.de^|
 ||livingbestsellers.com^|
 ||livingcatnapper.com^|
 ||livingchamonix.com^|
@@ -17738,6 +17763,7 @@
 ||loerce.com^|
 ||loevass.com^|
 ||loewe-vom-sauerland.de^|
+||loewe.co.at^|
 ||loewedeutschland.de^|
 ||lofboutique.lilshydasia.com^|
 ||loftboutique.de^|
@@ -17782,6 +17808,7 @@
 ||longchampale.eu.com^|
 ||longchamposterreich.at^|
 ||longchamposterrelch.com^|
+||longchampsale.de^|
 ||longchomp.de.com^|
 ||longmatchca.com^|
 ||longtime-gothic.de^|
@@ -17846,6 +17873,7 @@
 ||louiesagents.com^|
 ||louisbraillechor.at^|
 ||louise-boutique.com^|
+||louise-perrin.de^|
 ||louisens.de^|
 ||louiseperez.space^|
 ||louisepet.shop^|
@@ -18428,6 +18456,7 @@
 ||mammabump.de^|
 ||mammotion.com^|
 ||mammutoutletschweiz.com^|
+||mammutsale.at^|
 ||mammutstockistsireland.com^|
 ||mammutwien.at^|
 ||mampede.shop/^|
@@ -20380,6 +20409,7 @@
 ||nameesque.top^|
 ||nameitfever.shop^|
 ||nameitsale.shop^|
+||namemycase.com^|
 ||namethispodcast.com^|
 ||namibiainvestmentfund.org^|
 ||namicloth.com^|
@@ -21160,6 +21190,7 @@
 ||novana-berlin.de^|
 ||novando.de^|
 ||novant.fr^|
+||novarellahomegmbh.myshopify.com^|
 ||novarixtrader.net^|
 ||novasabers.de^|
 ||novateki.com^|
@@ -21388,6 +21419,7 @@
 ||oe24.io^|
 ||oebhw.at^|
 ||oefinancejm.com^|
+||oegk-aktualisierung.net^|
 ||oei.unitedinvest.net^|
 ||oeiprne.com^|
 ||oekologischebaustoffede.shop/^|
@@ -22240,6 +22272,7 @@
 ||osotic.com^|
 ||ospharma.com^|
 ||ospreyneu.de^|
+||ospreys.com.de^|
 ||ossiladende.shop^|
 ||osswald.shop^|
 ||osteland-z24.de^|
@@ -24266,6 +24299,7 @@
 ||qinero.com^|
 ||qinstaweb.com^|
 ||qiotltd.com^|
+||qisbysji.shop^|
 ||qjgqu.com^|
 ||qlepy.com^|
 ||qlodus.de^|
@@ -25464,6 +25498,7 @@
 ||robertoserafini.store^|
 ||robertosthelabel.com^|
 ||robertotagle.com^|
+||roberts.pl^|
 ||robertsmary.com^|
 ||robinienmoebel.de^|
 ||robinlipari.shop^|
@@ -26506,6 +26541,7 @@
 ||schneeelll.de^|
 ||schneider-boutique.at^|
 ||schneider-fashionhouse.com^|
+||schneider-keller.com^|
 ||schneider-radhaus.com^|
 ||schneider-radsport.com^|
 ||schneider-reifen.com^|
@@ -26753,6 +26789,7 @@
 ||sehrruhig.de^|
 ||seibelsdorf-ffw.de^|
 ||seiden-haus.de^|
+||seidenblumen-ross.com^|
 ||seidl-mode.com^|
 ||seidler-outlet.de^|
 ||seidleroutlet.de^|
@@ -27499,6 +27536,7 @@
 ||silux.shop^|
 ||siluxurybags.shop^|
 ||silvanass.co.uk^|
+||silveraureus.com^|
 ||silvermansde.shop^|
 ||silvertapca.com^|
 ||silverwanderlustjewels.com^|
@@ -27668,6 +27706,7 @@
 ||skilllinktalent-deu.com^|
 ||skims-deutschland.com^|
 ||skims.at^|
+||skimss.at^|
 ||skimsschweiz.com^|
 ||skina.nu^|
 ||skincareshophd.com^|
@@ -28370,6 +28409,7 @@
 ||sppulsar.shop^|
 ||sprachgenie.at^|
 ||sprachreiseshop.de^|
+||spraygrounds.de^|
 ||sprayitonyou.com^|
 ||spreewaldkiste.shop^|
 ||sprengler-direkt.de^|
@@ -29398,6 +29438,7 @@
 ||swissvendo.ch^|
 ||swisswatche.com^|
 ||switchesangebote.de^|
+||switzlabs.com^|
 ||swivy.de^|
 ||swixeinkaufen.com^|
 ||swixfabrikverkauf.com^|
@@ -29659,6 +29700,7 @@
 ||teaneckus.com^|
 ||teascnnale.com^|
 ||teaspoonca.com^|
+||tech-outlet.site^|
 ||tech-porta.de^|
 ||tech-sikora.de^|
 ||techaccessoriesshop.com^|
@@ -29708,6 +29750,7 @@
 ||teiip.com^|
 ||teilbetreuteswohnen.at^|
 ||teilefahrradde.com^|
+||teilradln.de^|
 ||teilwerkstatt.com^|
 ||tekimek.com^|
 ||tekmariss.com^|
@@ -30046,6 +30089,7 @@
 ||thenelson.shop^|
 ||thenetfarmacia.com^|
 ||thenewparts.com^|
+||thenorthface-outlet.de^|
 ||thenorthfaceaustria.com^|
 ||thenorthfacedeutschland.com^|
 ||theodore-furniture.com^|
@@ -30283,6 +30327,7 @@
 ||tienda-pellets.com^|
 ||tierbedarfshop.com^|
 ||tiere.at^|
+||tierewelpenhaus.de^|
 ||tierfriedhof-kamps.de^|
 ||tierhandlungszuchter.com^|
 ||tierheimweisz.com^|
@@ -30681,6 +30726,7 @@
 ||topmedstore.de^|
 ||topmodeltoys.com^|
 ||topmotorcycleparts.com^|
+||topmusicalinstrument.com^|
 ||topnotinengaging.top^|
 ||topo-laufschuhe.de^|
 ||topoathleticschuhe.at^|
@@ -32875,6 +32921,7 @@
 ||vzafiradev.shop^|
 ||w.store-mvp.shop^|
 ||w.unisosterreich.shop^|
+||wachautoteile.com^|
 ||wachstuchshop24.shop^|
 ||wachstumsworkshop.de^|
 ||waco-logistics.com^|
@@ -33450,6 +33497,7 @@
 ||wiehenstahl.co^|
 ||wieldise.com^|
 ||wiemos-shop.de^|
+||wienapotheke.com^|
 ||wiendomizil.at^|
 ||wienschmidt.at^|
 ||wiesmann-mode.de^|
@@ -33482,6 +33530,7 @@
 ||wildlingshoes-germany.com^|
 ||wildlingshoes-nl.com^|
 ||wildlingshoes-schweiz.com^|
+||wildlingshoes.cc^|
 ||wildlingshoes.cz^|
 ||wildlingshoesaustralia.com^|
 ||wildlingshoescanada.com^|
@@ -33876,6 +33925,7 @@
 ||wwwvvvbbb.shop^|
 ||wxinthai.com^|
 ||wxnlucky.com^|
+||wxqpdv.vip^|
 ||wynajemwroclaw.com^|
 ||wzyzz.hillvieworganicfarm.com^|
 ||x-clarity.com^|
@@ -34595,6 +34645,7 @@
 ||zynexorai.com^|
 ||zyphorbit-at.com^|
 ||zyphorbit.at^|
+||zyronpaneele.com^|
 ||zyskoro.app^|
 ||zytocapitalnew.com^|
 ||zyyef.com^|
