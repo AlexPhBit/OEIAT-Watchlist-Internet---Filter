@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-18T22:24:03.162682Z
+! Generated: 2026-06-19T00:11:03.469086Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -105,6 +105,7 @@
 ||4803967.info^|
 ||4living.at^|
 ||4rxofficial.com^|
+||4udrive.eu^|
 ||5-drugs.com^|
 ||50bikes.de^|
 ||52magicdownload.com^|
@@ -694,6 +695,7 @@
 ||aktivabenteuer.de^|
 ||aktivall.de^|
 ||aktivanzug.com^|
+||aktivbike24.com^|
 ||aktivimfreien.com^|
 ||aku-vital.de^|
 ||akunarfinance.com^|
@@ -1591,6 +1593,7 @@
 ||arcaktuell.de^|
 ||archency.top^|
 ||archeschuheberlin.de^|
+||archetype.mental-impulse.com^|
 ||architectes-fr.com^|
 ||architektur-leben.at^|
 ||archivesh.com^|
@@ -1758,6 +1761,7 @@
 ||asfinag-group.com^|
 ||asfinag-vignette.com^|
 ||asfinag.at-info.shop^|
+||asfinag.at-secure.icu^|
 ||asfinag.at-service.shop^|
 ||asfinag.at-shop.info^|
 ||asfinag.at-shop.live^|
@@ -1906,6 +1910,7 @@
 ||at.trabajo.org^|
 ||at.ultimate-gainz.com^|
 ||at.wloom.com^|
+||at1.wetlnca.shop^|
 ||at9.ketonaktiv.com^|
 ||ataraxy.bike^|
 ||atarres.com^|
@@ -2275,6 +2280,7 @@
 ||axicp.net^|
 ||axilmbient.com^|
 ||axiogenesis.com^|
+||axisaicore.digital^|
 ||axismakup.com^|
 ||axl-staking.com^|
 ||axl-staking.de^|
@@ -3049,6 +3055,7 @@
 ||bergfreunde.saleseur.com^|
 ||bergfreundeoutlets.shop^|
 ||berghausoutlet.cc^|
+||bergheim-mode.com^|
 ||bergkaminholz.at^|
 ||berglust.shop^|
 ||bergmann-dusseldorf.de^|
@@ -3991,6 +3998,7 @@
 ||bookssale.shop^|
 ||boombooty.de^|
 ||boomjoo.co^|
+||boomstammen-ribere.com^|
 ||boori-baby.com^|
 ||boostedbuys.com^|
 ||booster-lastminute.com^|
@@ -4114,6 +4122,7 @@
 ||bra-multiuse8s.bestirprice.com^|
 ||bra-multiuse8s.summers4sale.com^|
 ||bra-multiuse9.summers4sale.com^|
+||brabantiadeutschland.de^|
 ||brabantiastore.com^|
 ||brachylet.top^|
 ||bradfordcutlery.com^|
@@ -4192,6 +4201,7 @@
 ||breitner-berlin.de^|
 ||bremen-fashion.de^|
 ||bremen-nutzholz.com^|
+||bremenmari.de^|
 ||bremenzeig.com^|
 ||bremer-boutique.de^|
 ||bremer-reifen.com^|
@@ -7714,6 +7724,7 @@
 ||dkcoindey.com^|
 ||dkirmizu.com^|
 ||dklmvni.com^|
+||dkmrf.com^|
 ||dknyoutlet.store^|
 ||dlablanchy.com^|
 ||dladypaint.com^|
@@ -7798,6 +7809,7 @@
 ||doleras.com^|
 ||dolkins.de^|
 ||dollsandsofttoys.com^|
+||dolomite-de.myshopify.com^|
 ||dolomite.co.at^|
 ||dolomite.com.de^|
 ||dolophin.com^|
@@ -7988,6 +8000,19 @@
 ||dreifussn.com^|
 ||dreirei.com^|
 ||dreissig105.de^|
+||drelkuvizen-at.net^|
+||drelkuvizen-austria.at^|
+||drelkuvizen-ca.com^|
+||drelkuvizen-official.net^|
+||drelkuvizen-official.org^|
+||drelkuvizen.at^|
+||drelkuvizen.business^|
+||drelkuvizen.buzz^|
+||drelkuvizen.co.at^|
+||drelkuvizen.com^|
+||drelkuvizen.net^|
+||drelkuvizen.org^|
+||drelkuvizen.site^|
 ||dremberlyn.com^|
 ||dresdenboutique.com^|
 ||dresdenmodehaus.de^|
@@ -8195,6 +8220,7 @@
 ||dyizmiyl.shop^|
 ||dylanceramics.space^|
 ||dylanrays.com^|
+||dymoby.com^|
 ||dyn-amo.com^|
 ||dynafitrabatt.de^|
 ||dynamodeal.de^|
@@ -8323,7 +8349,6 @@
 ||ebliss.shop^|
 ||ebmini.de^|
 ||ebnblog.com^|
-||eboerse.shop^|
 ||ebooklyn.net^|
 ||eburpat.com^|
 ||ebuy.webestry.life^|
@@ -8713,6 +8738,7 @@
 ||elevista.de^|
 ||elfashionsale.com^|
 ||elfbarsvape.com^|
+||elffreundeshop.de^|
 ||eliaosd.com^|
 ||elideup.com^|
 ||elieberlin.com^|
@@ -8804,6 +8830,7 @@
 ||elureea.de^|
 ||eluxeoutlet.de^|
 ||eluxuryonline.com^|
+||elvua.de^|
 ||elwods.store^|
 ||elwomis.de^|
 ||elysianr.uk^|
@@ -10246,6 +10273,7 @@
 ||finallyabsent.com^|
 ||finalsales.shop^|
 ||finance-pioneers.de/^|
+||finance98-voluptatem2.sbs^|
 ||financeline-group.co^|
 ||financerevision.de^|
 ||financialccessbenefits.com^|
@@ -11592,6 +11620,7 @@
 ||gastryner.com^|
 ||gate3londonuk.com^|
 ||gatomallde.shop^|
+||gatoradede.com^|
 ||gatticlub.com^|
 ||gausbuy.com^|
 ||gautormainz.de^|
@@ -12009,6 +12038,7 @@
 ||givoox.top^|
 ||givoryshop.myshopify.com^|
 ||givoza.store^|
+||giwyfei.pro^|
 ||gizmodern.com^|
 ||gizupp.com^|
 ||gjaysane.shop^|
@@ -12128,6 +12158,7 @@
 ||glowwarehousede.com^|
 ||glowyplant.de^|
 ||glowzonevip.com^|
+||glp.diet^|
 ||glpura.com^|
 ||glucavit.com^|
 ||gluckaro.de^|
@@ -12277,6 +12308,11 @@
 ||golsakhodadadi.com^|
 ||golser-vc.at^|
 ||goluckaaa.com^|
+||golvurikenz-ai.at^|
+||golvurikenz-ch.com^|
+||golvurikenz-gb.com^|
+||golvurikenz.org^|
+||golvurikenz.tech^|
 ||golymoly.shop^|
 ||gomallhub.com^|
 ||gomecks.top^|
@@ -12423,6 +12459,7 @@
 ||grasoftness.com^|
 ||grassitem.com^|
 ||gratamodels.com^|
+||gratanurex.net^|
 ||gratis-produkttests.com^|
 ||gratis-produkttests.de^|
 ||gratis-produkttests.info^|
@@ -12525,6 +12562,7 @@
 ||gripsperfect.com^|
 ||grivety.shop^|
 ||grivetyde.shop/^|
+||grivon.pro^|
 ||grivss.com^|
 ||grizzlyroids.shop^|
 ||grkwork.com^|
@@ -14824,6 +14862,7 @@
 ||installateur.jvb24.at^|
 ||installateur.lindens.at^|
 ||installateur.pavlik24.at^|
+||installateur.pawelg.at^|
 ||installateur.prs247.tech^|
 ||installateur.werbe-koc.at^|
 ||installateurzentrale.at^|
@@ -14859,6 +14898,7 @@
 ||intelilawllp.com^|
 ||intellectk.com^|
 ||intellectokids.com^|
+||intelligence.mental-impulse.com^|
 ||intelligents.store^|
 ||intellisynex.com^|
 ||intenseoutside.com^|
@@ -16024,6 +16064,8 @@
 ||kfouzhanco.com^|
 ||kfz-allmer.at^|
 ||kfzanalyse.com^|
+||kfznachweis.de^|
+||kfzproof.de^|
 ||kfzteile-brinkmann.shop^|
 ||kfzteilesale.com^|
 ||kfzteileverkaufen.com^|
@@ -16229,6 +16271,7 @@
 ||kittypooll.com^|
 ||kitvehicle.com^|
 ||kiwea.shop^|
+||kiyrvdh.shop^|
 ||kizaro.de^|
 ||kizona-handel.net^|
 ||kizwnbbm.shop^|
@@ -16316,6 +16359,7 @@
 ||klhooq.com^|
 ||klick-ndb.de^|
 ||klima-bonus.app^|
+||klima-bonus.net/^|
 ||klimabonus-2026.net^|
 ||klimabonus.cc^|
 ||klimabonus.co^|
@@ -16569,6 +16613,7 @@
 ||kreditsicher.com^|
 ||kreditwizard.com^|
 ||kredygo.ch^|
+||kreherland.shop^|
 ||krehershop.shop/^|
 ||krehershopde.shop/^|
 ||kreispiraten-of.de^|
@@ -18219,6 +18264,7 @@
 ||lva-grosshandel.de^|
 ||lwsszmn.top^|
 ||lwvbi.com^|
+||lwzjmvfe.shop^|
 ||lxatyjcu.space^|
 ||lxcvt.shop^|
 ||lxuygoods.com^|
@@ -18364,6 +18410,7 @@
 ||maison-dartois.co^|
 ||maison-margiela.at^|
 ||maisonbergerde.shop/^|
+||maisoncosmetics.de^|
 ||maisondm.top^|
 ||maisonerve.com^|
 ||maisonorelle.com^|
@@ -19136,6 +19183,7 @@
 ||menstorewear.com^|
 ||menstrualdisc.de^|
 ||mentailtyinand.top^|
+||mental-impulse.com^|
 ||mentalitynot.top^|
 ||mentech.shop^|
 ||mentfieldlgs.com^|
@@ -19671,6 +19719,7 @@
 ||modehausgruber.com^|
 ||modehausmunchen.com^|
 ||modehausravensburg.com^|
+||modehauswels.com^|
 ||modehauswieser.myshopify.com^|
 ||modeheimverkauf.com^|
 ||modeir-modehaus.de^|
@@ -19707,6 +19756,7 @@
 ||modemix24.de^|
 ||modemuller.de^|
 ||modency.de^|
+||modenheim.com^|
 ||modenmann.de^|
 ||modenusberlin.com^|
 ||modeoutfit.com^|
@@ -19947,6 +19997,7 @@
 ||mostgarten.de^|
 ||mosthandtools.com^|
 ||mostoor.com^|
+||mostorejoboutiquestore.com^|
 ||mostpopularr.com^|
 ||motallo.com^|
 ||motel-miio.com^|
@@ -20029,6 +20080,7 @@
 ||mozvur.com^|
 ||mparnews.com^|
 ||mpgarten-shop.de^|
+||mpgartenshop.com^|
 ||mpgymwear.com^|
 ||mpilihanku.com^|
 ||mpreis-2023.myfreesites.net^|
@@ -21275,6 +21327,7 @@
 ||nuiebathroom.com^|
 ||nuintic.top^|
 ||nula-berlin.de^|
+||nulivea.de^|
 ||nullpromille-bier.com^|
 ||nullthirity.com^|
 ||numanvdw.com^|
@@ -21450,6 +21503,7 @@
 ||oelwert.de^|
 ||oelza.de^|
 ||oelzone.de^|
+||oenbdigitalservice.de^|
 ||oenence.xyz^|
 ||oesarcco.com^|
 ||oesterreich.at-anmelden.net^|
@@ -21547,6 +21601,7 @@
 ||officialnursery.com^|
 ||officialopen-air.com^|
 ||officialrebrand.shop^|
+||officialtrumerholz.shop^|
 ||officialyamato.co^|
 ||officialyeti.com^|
 ||officieldepot.com^|
@@ -23138,6 +23193,7 @@
 ||pf-ff.com^|
 ||pf0.cc^|
 ||pfannen-store.com^|
+||pfannendeck.de^|
 ||pfeiffer-reifenhandel.shop^|
 ||pfeilearmbruste.com^|
 ||pferdedeckende.com^|
@@ -23323,6 +23379,7 @@
 ||pinchtile.com^|
 ||pincmcrelli.shop^|
 ||pinewoodsell.com^|
+||pingeciq.monster^|
 ||pingotradefx.com^|
 ||pingpong-sale.com^|
 ||pingpongprous.com^|
@@ -23370,6 +23427,7 @@
 ||pixelgrafik.at^|
 ||pixelhobby-shop.shop^|
 ||pixelkatze.de^|
+||pixelvalleyforge.com^|
 ||pixulovesk.click^|
 ||pjaonemus.com^|
 ||pjcommodity.com^|
@@ -23758,6 +23816,7 @@
 ||pranaosterreich.com^|
 ||prashantjasrotia.com^|
 ||praving.top^|
+||praxia-at.com^|
 ||praxis-dr-schweiger.de^|
 ||praxis-natuerlichgesund.de^|
 ||praxwelt.com^|
@@ -24248,6 +24307,8 @@
 ||puzzleschritte.de^|
 ||pv-analyse.com^|
 ||pv-norden.shop^|
+||pv-penslonsversicherung.com^|
+||pv-penslonsversicherung.info^|
 ||pvabazon.com^|
 ||pvanlage24.com^|
 ||pvqkcuin.shop^|
@@ -26321,6 +26382,7 @@
 ||sarahshaima.com^|
 ||saraleneumann.com^|
 ||saramaud.com^|
+||saramilla.com^|
 ||sarasarade.shop^|
 ||sarazarjam.com^|
 ||sardinenbarberlin.shop^|
@@ -27185,6 +27247,7 @@
 ||shop-virium.com^|
 ||shop-volcom.com^|
 ||shop-womenshoe.com^|
+||shop.asfinaq.de^|
 ||shop.askdrkan.com^|
 ||shop.birkenseusale.com^|
 ||shop.birkusale.com^|
@@ -27419,6 +27482,7 @@
 ||shopskisnowboard.com^|
 ||shopsmountain.com^|
 ||shopsnowski.com^|
+||shopsolarvie.shop^|
 ||shopsoutlet2021.ru^|
 ||shopsoyala.com^|
 ||shopspeedparts.com^|
@@ -28483,6 +28547,7 @@
 ||stahlsarg.de^|
 ||stahlwandpoolde.com^|
 ||stalloneinnovations.com^|
+||stamhout-boischaut.com^|
 ||stammeskleidung.de^|
 ||stammholz-aus59.com^|
 ||stampopular.com^|
@@ -28598,6 +28663,7 @@
 ||steinmetz-hahn.de^|
 ||stelcore-retail24.de^|
 ||stella-zurich.com^|
+||stellantis-workshop.com^|
 ||stellapet.xyz^|
 ||stellarfx.co^|
 ||stellarfx.io^|
@@ -29713,6 +29779,7 @@
 ||technaport.de^|
 ||technicalsurf.com^|
 ||technicalutensil.com^|
+||technik-ambiente.de^|
 ||technik-fritz.com^|
 ||technik-reparatur.at^|
 ||techsupportchat.de^|
@@ -30183,6 +30250,7 @@
 ||theskydesignshop.store^|
 ||thesneakershouse.com^|
 ||thesnowsports.com^|
+||thesolarvie.shop^|
 ||thesport-outlet.com^|
 ||thesportcategory.com^|
 ||thesportskate.com^|
@@ -31009,6 +31077,7 @@
 ||trapple.de^|
 ||trapstaraustria.at^|
 ||traum-moden.com^|
+||trauma.mental-impulse.com^|
 ||traumfloorshop.com^|
 ||traumgarten.latahalcom.shop^|
 ||traumwiese24.de^|
@@ -31182,6 +31251,7 @@
 ||trulann.com^|
 ||trumanschuhe.com^|
 ||trumanschuhe.de^|
+||trumerholzdirect.shop^|
 ||trumomarkt.de^|
 ||trust-immo.com^|
 ||trust-pils.com^|
@@ -33599,6 +33669,7 @@
 ||wintechfxglobal.com^|
 ||winterangebote.store^|
 ||winterdealss.store^|
+||winterflashsale.shop^|
 ||winterjackenstore.com^|
 ||winterjacket-shop.com^|
 ||winterkidsplus.com^|
@@ -34630,6 +34701,7 @@
 ||zvs-stark-saalfeld.de^|
 ||zwatch-italy.shop^|
 ||zwein-handel.de^|
+||zweiradpunkt.de^|
 ||zwerger-art.com^|
 ||zwergspitzpomeranian.com^|
 ||zwickl-frankfurt.de^|
@@ -34648,6 +34720,7 @@
 ||zyronpaneele.com^|
 ||zyskoro.app^|
 ||zytocapitalnew.com^|
+||zyvemorra.com^|
 ||zyyef.com^|
 ||zyz.snknk.cz^|
 ||zzaday.com^|
