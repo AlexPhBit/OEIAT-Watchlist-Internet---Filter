@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-19T23:47:53.644214Z
+! Generated: 2026-06-20T02:00:15.678451Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -17015,6 +17015,7 @@
 ||legeroschuhefabrikverkauf.at^|
 ||legeroschuhefabrikverkauf.de^|
 ||legeroschuhesfabrikverkauf.de^|
+||legeroschweiz.com^|
 ||legeroskonorge.com^|
 ||legerosuomishop.com^|
 ||legeroturkiye.com^|
