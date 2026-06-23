@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-22T23:38:35.189042Z
+! Generated: 2026-06-23T01:34:14.139595Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1196,6 +1196,7 @@
 ||angebotebikini.com^|
 ||angebotekorum.com^|
 ||angeboteschuhe.de^|
+||angebotewein.com^|
 ||angela-cosmetics.de^|
 ||angelaromaticsde.shop^|
 ||angelcindy.com^|
@@ -1436,6 +1437,7 @@
 ||apothekenempfehlung.de^|
 ||apotheker-rezeptfrei.de^|
 ||apothekerezeptfrei-1.puzl.com^|
+||apothekevienna.com^|
 ||apoversand24.com^|
 ||app.easycrypto4u.com^|
 ||app.galaxyfox.io^|
@@ -1746,6 +1748,7 @@
 ||asfinag.today^|
 ||asfinaga.com^|
 ||asfinagl.com^|
+||asfinaq.de^|
 ||asfInay.com^|
 ||asfindlgital.cfd^|
 ||asfineg.com^|
@@ -1875,6 +1878,7 @@
 ||at.llinacrda.shop^|
 ||at.mammotion.com^|
 ||at.nneelkwerf.net^|
+||at.pkajwb.shop^|
 ||at.qfmiceden.shop^|
 ||at.rattaay.com^|
 ||at.skinliy.com^|
@@ -2359,6 +2363,7 @@
 ||bachelorm.com^|
 ||back-attack.de^|
 ||back-dani.shop^|
+||backen-shop.com^|
 ||backformen-sale.com^|
 ||backformen-shop.com^|
 ||backformenonsale.com^|
@@ -2803,6 +2808,7 @@
 ||beautygiftsets.com^|
 ||beautyhaarshop.com^|
 ||beautyhausberlin.de^|
+||beautyhealthsupplies.com^|
 ||beautyketten.com^|
 ||beautykolor.com^|
 ||beautylir.com^|
@@ -2911,6 +2917,7 @@
 ||belenkawien.at^|
 ||belenza.de^|
 ||beleshoping.com^|
+||beleuchtung-online.com^|
 ||beleuchtungprada.com^|
 ||belgamo.de^|
 ||belhomekitopt.com^|
@@ -3035,6 +3042,7 @@
 ||bergxperten.de^|
 ||berichtprofi.de^|
 ||beriuty.com^|
+||berizen.com^|
 ||berk-designs.de^|
 ||berkler-anhanger.com^|
 ||berkler-maschinen.de^|
@@ -4626,6 +4634,7 @@
 ||cabotrans.es^|
 ||cabrandsj.com^|
 ||cabriofliegen.at^|
+||cacauetshop.com^|
 ||cachetone.com^|
 ||cachoyarg.com^|
 ||cacjack.com^|
@@ -5640,6 +5649,7 @@
 ||client.walfa.co^|
 ||clientzone.capital-partnersgroup.com^|
 ||clientzone.verticalinternational.com^|
+||clifbarosterreich.at^|
 ||cliffordandmueller.eu^|
 ||cliffs-auto-parts.shop^|
 ||climbbackpacks.com^|
@@ -6801,6 +6811,7 @@
 ||de.dhgate.com^|
 ||de.discountonline2021.ru^|
 ||de.dreamstime.com^|
+||de.epicooleronline.store^|
 ||de.familynow.club^|
 ||de.fashvia.shop^|
 ||de.fitlebenberlin.com^|
@@ -7051,6 +7062,7 @@
 ||deinschuhwerk.de^|
 ||deinsportimperium.de^|
 ||deinthuleshop.de^|
+||deintrikot.at^|
 ||deinvest.site^|
 ||deinwennbuch.shop^|
 ||deiste.top^|
@@ -7378,6 +7390,8 @@
 ||dgestionqc.com^|
 ||dgeyone.com^|
 ||dgiftsoxford.com^|
+||dgkktero.sho^|
+||dgkktero.shop^|
 ||dgnextweb.com^|
 ||dgrupoorgon.com^|
 ||dgtlfuture.com^|
@@ -7461,6 +7475,7 @@
 ||diezeitmitmedien.com^|
 ||difcinvestment.world^|
 ||diffusoriacusticisorgenti.com^|
+||difhewbg.shop^|
 ||difmost.top^|
 ||diftech.shop^|
 ||diggine.com^|
@@ -7496,6 +7511,7 @@
 ||dimprice.de^|
 ||dina-vital.de^|
 ||dineandservede.com^|
+||dingesgroup.com^|
 ||diningroomyou.com^|
 ||dinnerfiresale.com^|
 ||dinnerset-kit.com^|
@@ -8957,6 +8973,8 @@
 ||epentheuu.com^|
 ||ephacious.top^|
 ||ephemeo.com^|
+||epi-cooler.at^|
+||epicoolerklima.shop^|
 ||eporlake.com^|
 ||eppystooloff.com^|
 ||eprohrs.top^|
@@ -9353,6 +9371,7 @@
 ||everyswimsuit.com^|
 ||everythingnecessary.co^|
 ||evewebster.com^|
+||evh.cc^|
 ||eviox24.com^|
 ||eviox24.de^|
 ||evisas.travel^|
@@ -9743,6 +9762,7 @@
 ||farador.de^|
 ||faradorgermany.com^|
 ||farahattire.com^|
+||farben-profis.com^|
 ||farben-store.com^|
 ||farbenprofi.shop^|
 ||farbenruhe.ch^|
@@ -10320,6 +10340,7 @@
 ||fishingkindly.com^|
 ||fishingkitretail.com^|
 ||fishingkitshop.com^|
+||fishingluresverkauf.com^|
 ||fishingonsales.com^|
 ||fishingoptimal.com^|
 ||fishingoutfitus.com^|
@@ -11441,6 +11462,7 @@
 ||gartenly.shop^|
 ||gartenmaschinen24.de^|
 ||gartenmaschinenzubehor.com^|
+||gartenmaxe.de^|
 ||gartenmoebelwelt.com^|
 ||gartenmotorgerate.com^|
 ||gartenobstshop.com^|
@@ -11716,6 +11738,7 @@
 ||get-akusoli.com^|
 ||get-baseballstore.com^|
 ||get-curaball.com^|
+||get-epicooler.com^|
 ||get-fizzclean.com^|
 ||get-huusk.com^|
 ||get-hydrogenwaterbottle.com^|
@@ -11829,6 +11852,7 @@
 ||giesswein.ro^|
 ||giesswein.shop^|
 ||giessweinat.at^|
+||giessweinca.com^|
 ||giessweinno.com^|
 ||giessweins.at^|
 ||giessweins.it^|
@@ -12022,6 +12046,7 @@
 ||glossise.com^|
 ||glounu.com^|
 ||glovercat.space^|
+||glow-garden.com^|
 ||glow-haven.de^|
 ||glowblend.de^|
 ||glowency.de^|
@@ -12575,6 +12600,7 @@
 ||guessunique.com^|
 ||guest-pend3120.com^|
 ||guestrsrevation.com^|
+||gueta-handel.com^|
 ||guewenheimholz.com^|
 ||gugeunk.de^|
 ||guglerhof.at^|
@@ -13195,6 +13221,7 @@
 ||heizklar.eu^|
 ||heizl.de^|
 ||heizlager.de^|
+||heizleo.de^|
 ||heizline.at^|
 ||heizoel-24.com^|
 ||heizoel-24.eu^|
@@ -13794,6 +13821,7 @@
 ||homekoehndesign.com^|
 ||homelampart.com^|
 ||homelexicon.com^|
+||homeloomnest.com^|
 ||homeloty.com^|
 ||homelovingus.com^|
 ||homeluxehub.com^|
@@ -16087,6 +16115,7 @@
 ||kittinis.de^|
 ||kittwst.com^|
 ||kittyfood.space^|
+||kittykaiser.de^|
 ||kittypooll.com^|
 ||kitvehicle.com^|
 ||kiwea.shop^|
@@ -16662,6 +16691,7 @@
 ||lagerverkauf-at.com^|
 ||lagerversand-direkt.de^|
 ||lagerversand-hamburg.de^|
+||lago-trading.com^|
 ||lagoma24.com^|
 ||lagowt.com^|
 ||laguaguac.com^|
@@ -17402,6 +17432,7 @@
 ||linens-chic.com^|
 ||lingda.store^|
 ||lingerieonsales.com^|
+||linhygdt.shop^|
 ||linji.shop^|
 ||link-pv.de^|
 ||link.vilaclosa.com^|
@@ -17516,6 +17547,7 @@
 ||livsy.ch^|
 ||livsy.de^|
 ||liwed.barpalm.shop^|
+||liwed.boycotton.shop^|
 ||liwed.wedstrip.shop^|
 ||lizabete.com^|
 ||lizandtaylor.de^|
@@ -17540,6 +17572,7 @@
 ||llizzyeeo.com^|
 ||lloen.shop^|
 ||lloyd-verkauf.shop^|
+||lloyd.co.at^|
 ||lloydatonline.com^|
 ||lloydchuhe.de^|
 ||lloyddeutschland.com^|
@@ -20167,6 +20200,7 @@
 ||mytrangfranks.com^|
 ||mytrendyde.com^|
 ||mytruegadgets.com^|
+||mytrumerholz.shop^|
 ||myvesperbox.shop^|
 ||myvesperboxde.shop^|
 ||myweststein.com^|
@@ -20563,6 +20597,7 @@
 ||newfulfilment.com^|
 ||newgadgetst.com^|
 ||newgearvogue.com^|
+||newgocontainers.com^|
 ||newgrahams.com^|
 ||newgroceriespro.com^|
 ||newhabiliment.com^|
@@ -22065,6 +22100,7 @@
 ||oshriomsai.com^|
 ||osiris.com.de^|
 ||oskarzebedeus.com^|
+||osmo-official.com^|
 ||osmodeutschland.de^|
 ||osoarw.monster^|
 ||osonresin.com^|
@@ -22747,6 +22783,7 @@
 ||pedalesales.com^|
 ||pedalfreunde.de^|
 ||pedalpalast.de^|
+||pedalprofi.de^|
 ||pedalyst.com^|
 ||pedbikecozy.com^|
 ||peditionch.com^|
@@ -23997,6 +24034,7 @@
 ||puraxonlinede.shop^|
 ||puregadget.store^|
 ||pureglowde.com^|
+||pureherbnutri.com^|
 ||purekicks.de^|
 ||pureleide.shop^|
 ||purelynutrient.com^|
@@ -26081,6 +26119,7 @@
 ||sarafrankie.com^|
 ||sarahks-company.de^|
 ||sarahluciana.com^|
+||sarahmeyer.com^|
 ||sarahpujol.com^|
 ||sarahravengb.com^|
 ||sarahreijnen.com^|
@@ -26134,6 +26173,7 @@
 ||sauconyshopuk.com^|
 ||saugprice.info^|
 ||saultex.com^|
+||sauna4home.de^|
 ||sauna4seasonsde.shop^|
 ||sausebrauseshop.shop^|
 ||sauter-autoreifen.shop^|
@@ -26207,6 +26247,7 @@
 ||schafproduktion24.de^|
 ||schalen-shop.com^|
 ||schallreiniger.de^|
+||schaltersteckdosen.com^|
 ||schaltwerkfahrrad.de^|
 ||schapiman.com^|
 ||scharfemesser.de^|
@@ -26802,6 +26843,7 @@
 ||sheremart.com^|
 ||sherrycecc.com^|
 ||sherum.com^|
+||shevode.com^|
 ||shewantts.shop^|
 ||shewaves.com^|
 ||sheyaakah.com^|
@@ -26939,6 +26981,7 @@
 ||shop-virium.com^|
 ||shop-volcom.com^|
 ||shop-womenshoe.com^|
+||shop.asfinaq.de^|
 ||shop.askdrkan.com^|
 ||shop.birkenseusale.com^|
 ||shop.birkusale.com^|
@@ -27824,11 +27867,13 @@
 ||solvexpulse-53-ai.org^|
 ||solvgem.com^|
 ||solvuskredit.com^|
+||solyball.com^|
 ||somefuns.com^|
 ||someshoper.com^|
 ||sommer-angebote.com^|
 ||sommer-mode.co^|
 ||sommerekzem.at^|
+||sommerfeld-munchen.de^|
 ||sommerklei.com^|
 ||sommerschmieds-handel.de^|
 ||somni-ring.com^|
@@ -28335,6 +28380,7 @@
 ||steinbergpretsch.de^|
 ||steinbohrershop.com^|
 ||steiner-autoreifen.com^|
+||steiner-kg.at^|
 ||steiner-reifen.com^|
 ||steiner-wien.at^|
 ||steinersalzburg.at^|
@@ -29940,6 +29986,7 @@
 ||theuniquebargains.com^|
 ||theunrealoffersforyou.com^|
 ||theurbansportsculture.com^|
+||theurbenieus.com^|
 ||theusbicycle.com^|
 ||theusoutdoor.com^|
 ||theviddeal.com^|
@@ -30567,6 +30614,7 @@
 ||toyfigurenew.com^|
 ||toyfuel.de^|
 ||toyfuel.myshopify.com^|
+||toyfunrealm.com^|
 ||toygiftbazaar.com^|
 ||toyhang.store^|
 ||toyhasbro.com^|
@@ -30915,6 +30963,8 @@
 ||trulann.com^|
 ||trumanschuhe.com^|
 ||trumanschuhe.de^|
+||trumerholz-store.shop^|
+||trumerholzliving.shop^|
 ||trumomarkt.de^|
 ||trust-immo.com^|
 ||trust-pils.com^|
@@ -31021,6 +31071,7 @@
 ||tupperware-osterreich.com^|
 ||tupperware-uaeonline.com^|
 ||tupperwareeu.shop^|
+||tupperwareosterreich.com^|
 ||tupperwarestore-us.com^|
 ||tupperwarseonline.com^|
 ||tuppsale-eu.shop^|
@@ -32772,6 +32823,7 @@
 ||warmood.ch^|
 ||warmsettle.com^|
 ||warmtccident.com^|
+||warmthota.com^|
 ||warmthsta.com^|
 ||warmthvo.com^|
 ||warnerbrosshp.com^|
@@ -34175,6 +34227,7 @@
 ||zhuksfs.shop^|
 ||zhzpays.top^|
 ||ziamiasy.com^|
+||zibitcoin.net^|
 ||zicomatexrealty.com^|
 ||ziectmg.shop^|
 ||ziegelers.de^|
