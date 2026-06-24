@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-23T23:43:27.262612Z
+! Generated: 2026-06-24T01:48:27.537382Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1007,6 +1007,7 @@
 ||alvaradoedmarie.com^|
 ||alvarezmarta.com^|
 ||alvaxi.com^|
+||alvexo-data.com^|
 ||alwaysstars.com^|
 ||alyatransports.com^|
 ||amadeoh.at^|
@@ -1227,6 +1228,7 @@
 ||anhaenger-von-thule.de^|
 ||anhaengerhandel-leipziig.de^|
 ||anhaengerkauf24.com^|
+||anhaengerklasen.de^|
 ||anhaengerkreuter.com^|
 ||anhaengerparksingen.shop^|
 ||anhaengers.online^|
@@ -3937,6 +3939,7 @@
 ||bonasl.com^|
 ||bonbelle.shop^|
 ||bonbelle.store^|
+||bongochat.de^|
 ||bonluda.de^|
 ||bonneauchloee.com^|
 ||bonorumcbdde.shop^|
@@ -3997,6 +4000,7 @@
 ||boschtoolshop.com^|
 ||boschverkauf.com^|
 ||bose.com.de^|
+||boseaustria.com^|
 ||bosegal.site^|
 ||bosen-outdoor.com^|
 ||bosettichiara.com^|
@@ -4354,6 +4358,7 @@
 ||bsescashop.com^|
 ||bshoptodayus.com^|
 ||bshopvkr.com^|
+||bshudk.shop^|
 ||bskinenvide.shop^|
 ||bsmelody.de^|
 ||bsqesch.shop^|
@@ -5077,6 +5082,7 @@
 ||cecil-marken.com^|
 ||cecilaktion.de^|
 ||cecilefontaine.com^|
+||cecilemilan.com^|
 ||cecilewien.at^|
 ||ceciliagraz.at^|
 ||ceciliauu.com^|
@@ -6034,6 +6040,7 @@
 ||containercompany.shop^|
 ||containerdienstheiliggmbh.de^|
 ||containerservicestarzgmbh.de^|
+||containerslager.com^|
 ||containert.com^|
 ||containtools.com^|
 ||conteneursducoin.com^|
@@ -7448,6 +7455,7 @@
 ||diemoebelhalle.de^|
 ||diemword.net^|
 ||dienste-tiemeier-kolwes.de^|
+||dienstleistung-horvath.com^|
 ||dienstprogrammeverkauf.com^|
 ||diepholz-versand.shop^|
 ||dieschwarzwalderkuche.com^|
@@ -8674,6 +8682,7 @@
 ||elipolyse.de^|
 ||elisabethmelichar.at^|
 ||elisabethwien.at^|
+||elisabethwien.com^|
 ||elisaluna-handell24.de^|
 ||elisamendezalba.com^|
 ||elise-schmuck.de^|
@@ -9404,6 +9413,7 @@
 ||exceptionalg.com^|
 ||exchangeo.fr^|
 ||excitement.pro^|
+||exclusive-keys.de^|
 ||exclusive-makeup.com^|
 ||exclusivekicks.shop^|
 ||exclusivesaleshop.com^|
@@ -10079,6 +10089,7 @@
 ||festeinkauf.de^|
 ||festgelder-eu.com^|
 ||festgeldfinder.de^|
+||festgeldkompass.com^|
 ||festgeldsicher.at^|
 ||festivaldefrente.com^|
 ||festivaldelacosechadelupulo.com^|
@@ -15259,6 +15270,7 @@
 ||jnhomducvn.shop^|
 ||jnvdarjeeling.com^|
 ||jo-joshop.com^|
+||joachim-gartengeraete.de^|
 ||joachimschmelz.com^|
 ||joalpe.shop^|
 ||joalpede.shop^|
@@ -15613,6 +15625,7 @@
 ||kamsfgeco.shop^|
 ||kamudani.com^|
 ||kamuhane.com^|
+||kanal-fuchs.at^|
 ||kanalreinigung-hilfe.at^|
 ||kanaren-shop.com^|
 ||kanbiov.shop^|
@@ -18267,6 +18280,7 @@
 ||maleny.de^|
 ||malerbedarf-sales.com^|
 ||malereikopie.de^|
+||malergeschaft.com^|
 ||malfridgarder.com^|
 ||malibu257.com^|
 ||malikaahmet.com^|
@@ -18836,6 +18850,7 @@
 ||mein-kleines-baby.de^|
 ||mein-pfotentraum.com^|
 ||mein-solar24.com^|
+||mein-technikmarkt.com^|
 ||mein-vintage-kleid.de^|
 ||meinarbeitsschutz.com^|
 ||meinardy.de^|
@@ -20707,6 +20722,7 @@
 ||ngerol.com^|
 ||ngolpar.top^|
 ||ngyftt.andkith.com^|
+||nhbdgy.shop^|
 ||nhconnect.cc^|
 ||nhelalab.shop^|
 ||nhltrikotde.com^|
@@ -21037,6 +21053,7 @@
 ||novateki.com^|
 ||novator-consulting.com^|
 ||novatrustmarket.com^|
+||novavitalia.de^|
 ||novelbuys.com^|
 ||novele.de^|
 ||novelnalit.net^|
@@ -22903,6 +22920,7 @@
 ||pesmyk.com^|
 ||pesos-shop.de^|
 ||pesquerao.com^|
+||pet-bigfamily.com^|
 ||pet-onsale.com^|
 ||pet-wings.com^|
 ||petbargn.com^|
@@ -27797,6 +27815,7 @@
 ||solar-town.de^|
 ||solaraessence.shop^|
 ||solarausrustung.com^|
+||solarek-energie.com^|
 ||solarenergie-beleuchtung.de^|
 ||solarenergiemarkt.com^|
 ||solarien-berlin.de^|
@@ -29357,6 +29376,7 @@
 ||taloive.xyz^|
 ||talonergetic.com^|
 ||talvis-shop.de^|
+||talvurieks.at^|
 ||tamaraax.de^|
 ||tamaravanhalen.com^|
 ||tamaris-deutschland.com^|
@@ -29531,6 +29551,7 @@
 ||teichfilterelektro.com^|
 ||teichmann-fashion.de^|
 ||teichmann-styling.de^|
+||teichwunder.com^|
 ||teiip.com^|
 ||teilbetreuteswohnen.at^|
 ||teilefahrradde.com^|
@@ -30904,6 +30925,7 @@
 ||tricias.space^|
 ||triciasale.space^|
 ||trikoa.com^|
+||trikotadler.com^|
 ||trikotrabatt.de^|
 ||trikots4u.com^|
 ||trikotsale.de^|
@@ -32615,6 +32637,7 @@
 ||vorlaufigerverkauf.com^|
 ||vormans.de^|
 ||vormix.vorwerk-tm7.at^|
+||vornethpro.at^|
 ||voroda.de^|
 ||vorodaa.de^|
 ||vorola.de^|
@@ -32704,6 +32727,7 @@
 ||wadada.online^|
 ||wadriha.shop^|
 ||waermewald.de^|
+||waermewelt.com^|
 ||waffeleisende.com^|
 ||waffen-outdoor.com^|
 ||waffen24de.com^|
@@ -33429,6 +33453,7 @@
 ||wneedshop.com^|
 ||wnickibau.com^|
 ||wnwzxocb.shop^|
+||wobasolar-energie.com^|
 ||wobeltd.com^|
 ||wobers-handel.de^|
 ||wodava.de^|
@@ -33641,6 +33666,7 @@
 ||wtidesign.com^|
 ||wtopitza.top^|
 ||wuenschdirwasshop.shop^|
+||wuffstore.de^|
 ||wuffy.nl^|
 ||wuffyhunde.de^|
 ||wufundmiau.de^|
@@ -34386,6 +34412,7 @@
 ||zvfashions.com^|
 ||zvs-stark-saalfeld.de^|
 ||zwatch-italy.shop^|
+||zwclsaablueashe.shop^|
 ||zwein-handel.de^|
 ||zwerger-art.com^|
 ||zwergspitzpomeranian.com^|
