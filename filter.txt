@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-24T23:49:29.653172Z
+! Generated: 2026-06-25T02:30:03.342489Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1875,6 +1875,7 @@
 ||at.esrlive.com^|
 ||at.flexumgel-official.shop^|
 ||at.gluconv.com^|
+||at.hwduy.shop^|
 ||at.irgedvei.shop^|
 ||at.ketonaktiv.com^|
 ||at.llinacrda.shop^|
@@ -2083,6 +2084,7 @@
 ||autohobby.at^|
 ||autoinnendesign.com^|
 ||autoled.tech^|
+||automatacompare.com^|
 ||automaticl.com^|
 ||automatische-dividende.de^|
 ||automatischer-aktienhandel.de^|
@@ -9599,6 +9601,7 @@
 ||fahrraddampfle.de^|
 ||fahrradergeschaft.com^|
 ||fahrradersde.com^|
+||fahrradersport.com^|
 ||fahrraderzukunft.com^|
 ||fahrradfreilaufde.com^|
 ||fahrradgeschaft-de.com^|
@@ -10687,6 +10690,7 @@
 ||foreststoneca.com^|
 ||forever-rock.com^|
 ||forever21-us.com^|
+||foreverjoy.site^|
 ||forevermal.com^|
 ||forex-eze.com^|
 ||forex-eze.io^|
@@ -11487,6 +11491,7 @@
 ||gartenpicks.de^|
 ||gartenplus24.com^|
 ||gartenpools24.de^|
+||gartenpools24.shop^|
 ||gartenquellede.com^|
 ||gartenrabatt.com^|
 ||gartenrasen.com^|
@@ -12647,6 +12652,7 @@
 ||gustamoda.se^|
 ||gustly.xyz^|
 ||gustorium.top^|
+||gut-alpen.de^|
 ||gut-daheim.ch^|
 ||gut-werkzeug.com^|
 ||gutcwels.com^|
@@ -13470,6 +13476,7 @@
 ||hgoobtimio.cc^|
 ||hhb-garten.de^|
 ||hheexpot.com^|
+||hhvmerch.com^|
 ||hi-goeedoo.com^|
 ||hi-tecschweiz.ch^|
 ||hiarts.store^|
@@ -14704,6 +14711,7 @@
 ||insanibadshop.com^|
 ||insecthi.com^|
 ||insecurty.top^|
+||insekten.aktiv24.at^|
 ||insektnotdienst.at^|
 ||insfulion.com^|
 ||insider-investing.com^|
@@ -15879,6 +15887,7 @@
 ||kemarde.shop^|
 ||kemera.de^|
 ||kemeterac.com^|
+||kemptenmodehaus.de^|
 ||kenada-reifen.com^|
 ||kendoraa.de^|
 ||kenjinew.com^|
@@ -16222,6 +16231,7 @@
 ||klingerdirndl.com^|
 ||klingshandel.de^|
 ||klirol.com^|
+||kllfnauu.shop^|
 ||kloess-dental.shop^|
 ||klonl.shop^|
 ||klots.shop^|
@@ -18130,6 +18140,7 @@
 ||maapsouthafrica.co.za^|
 ||maapstore.shop^|
 ||maas-autoreifen.com^|
+||maatfusion.com^|
 ||macdicbi.com^|
 ||mach-finca-urlaub.com^|
 ||mach-mallorca-urlaub.com^|
@@ -19439,6 +19450,7 @@
 ||mnmnmnc.com^|
 ||mnmnmne.com^|
 ||mnoramemeti.com^|
+||mnsjmwyt.shop^|
 ||mnswellness.com^|
 ||moanaforyoudiscount.shop^|
 ||moaress.top^|
@@ -27541,6 +27553,7 @@
 ||skispeichern.com^|
 ||skisroxy.com^|
 ||skisurfskate.com^|
+||skisurfsports.com^|
 ||skiverleih-bastl.de^|
 ||sklekaren.com^|
 ||sklum.com^|
@@ -28343,6 +28356,7 @@
 ||starsignsynergy.com^|
 ||starsshop-eu.com^|
 ||start.learn-english.education^|
+||startrade.co^|
 ||startrendy.shop^|
 ||startshopfulfillment.de^|
 ||startswimca.com^|
@@ -29376,7 +29390,16 @@
 ||taloive.xyz^|
 ||talonergetic.com^|
 ||talvis-shop.de^|
+||talvurieks-ai.at^|
+||talvurieks-austria.at^|
+||talvurieks-official-at.com^|
+||talvurieks-official.co.at^|
+||talvurieks-official.net^|
 ||talvurieks.at^|
+||talvurieks.cloud^|
+||talvurieks.com^|
+||talvurieks.online^|
+||talvurieks.org^|
 ||tamaraax.de^|
 ||tamaravanhalen.com^|
 ||tamaris-deutschland.com^|
@@ -30287,6 +30310,7 @@
 ||todswien.at^|
 ||toebowca.com^|
 ||toertchen.at^|
+||tof.vproinvest.com^|
 ||togclothes.com^|
 ||togeronline.com^|
 ||together.purecap.xyz^|
@@ -30490,6 +30514,7 @@
 ||topapo24.com^|
 ||toparian.top^|
 ||topbinaryfx.com^|
+||topbrokersranking.com^|
 ||topbyone.com^|
 ||topchicgeneral.com^|
 ||topcious.co^|
@@ -31452,6 +31477,11 @@
 ||urpillssupplier.com^|
 ||ursime.com^|
 ||ursulam.com^|
+||urvlentoki-at.com^|
+||urvlentoki-ie.com^|
+||urvlentoki-platform.com^|
+||urvlentoki.at^|
+||urvlentoki.com^|
 ||urvous.com^|
 ||urvoustyle.com^|
 ||urvousx.com^|
@@ -32046,6 +32076,7 @@
 ||ventilatoroase.myshopify.com^|
 ||ventrafx.com^|
 ||ventrary.top^|
+||ventus.energy^|
 ||venuecall.com^|
 ||venum-sale.shop^|
 ||venuso.shop^|
@@ -33292,6 +33323,7 @@
 ||wiemos-shop.de^|
 ||wiendomizil.at^|
 ||wienschmidt.at^|
+||wiesbadenk.de^|
 ||wiesmann-mode.de^|
 ||wiesnkinder.de^|
 ||wievano.de^|
