@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-06-30T23:49:59.530387Z
+! Generated: 2026-07-01T02:46:10.742165Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -813,6 +813,7 @@
 ||alitec-online-sto.shop^|
 ||aliveffect.com^|
 ||alkapczynska.com^|
+||all-eco.eu^|
 ||all-est.com^|
 ||all-festivals.com^|
 ||all-naturalglow.com^|
@@ -1559,6 +1560,7 @@
 ||aquarisonlineshop.de^|
 ||aquaristik-seiten.de^|
 ||aquaristikteichstore.com^|
+||aquariumlebens.com^|
 ||aquariumopt.com^|
 ||aquascapers-galerie.com^|
 ||aquasportkleidung.com^|
@@ -1617,6 +1619,7 @@
 ||ardenza.store^|
 ||ardora.at^|
 ||area-fashion.com^|
+||area.aicnxedge.com^|
 ||area.bitnixer.net^|
 ||areatrading.io^|
 ||aredfoods.com^|
@@ -2708,6 +2711,7 @@
 ||bauknoten.com^|
 ||baukomps.com^|
 ||baumann-autoreifen.shop^|
+||baumann-boutique.ch^|
 ||baumann-elektroniks.de^|
 ||baumann-modehaus.de^|
 ||baumantransporte.com^|
@@ -2960,6 +2964,7 @@
 ||belizal.com^|
 ||beljunqueira.com^|
 ||belkbabgi.com^|
+||belkruvozan-ai.at^|
 ||bella-balu.de^|
 ||bella-berlin.de^|
 ||bella-fit.de^|
@@ -3547,6 +3552,7 @@
 ||billabongosterreich.com^|
 ||billabongwien.at^|
 ||billardpros.com^|
+||biller-beck.com^|
 ||billgoddess.shop^|
 ||billig-werkzeug.com^|
 ||billigbutlers.com^|
@@ -4255,6 +4261,7 @@
 ||brennstoffe-heinrich.de^|
 ||brennstoffe-meier.de^|
 ||brennstoffe-versand.de^|
+||brenuingerde.com^|
 ||brestelorn-bank.com^|
 ||brestilusuo.com^|
 ||brethrrenj.com^|
@@ -5546,6 +5553,7 @@
 ||ciacrleurnt.com^|
 ||cialis-online20mg.online^|
 ||cialispillsforsale-onlinerx.com^|
+||cibfinanzgruppe.com^|
 ||cibomatt.com^|
 ||cicilookshop.com^|
 ||cicinia.de^|
@@ -6321,6 +6329,7 @@
 ||cozyhoome.com^|
 ||cozyixe.com^|
 ||cozylight.homelyrooms.life^|
+||cozynestlyauraglow.com^|
 ||cozynshoes.com^|
 ||cozyp.at^|
 ||cozysapparels.com^|
@@ -6743,6 +6752,7 @@
 ||danxon.de^|
 ||danysmusicshopcheap.shop^|
 ||dapate.de^|
+||dapenex.com^|
 ||dappercrib.com^|
 ||dapperlogistik.com^|
 ||dapperz.shop^|
@@ -9746,6 +9756,7 @@
 ||fahrrado.com^|
 ||fahrradprodukt.com^|
 ||fahrradpumpende.com^|
+||fahrradpunkt.com^|
 ||fahrradrabatt-neu.com^|
 ||fahrradrabatt.com^|
 ||fahrradrabattdeneu.com^|
@@ -10216,6 +10227,7 @@
 ||feststehendemesserde.com^|
 ||festzins.online^|
 ||fettverbrenneronline.com^|
+||feuchtigkeits.de^|
 ||feuerbergplus.com^|
 ||feuerwehr-oberaussem.de^|
 ||feuerwehr-vehlen.de^|
@@ -11647,6 +11659,7 @@
 ||gas-thermen-zentrum.at^|
 ||gaseoust.com^|
 ||gasglow.de^|
+||gashelbywatch.com^|
 ||gasman-installateur.at^|
 ||gastebetten.de^|
 ||gasthaus-aue.at^|
@@ -11879,6 +11892,7 @@
 ||gesundmedizinische.com^|
 ||gesundpur.at^|
 ||get-adel.de^|
+||get-airzuma.com^|
 ||get-akusoli.com^|
 ||get-baseballstore.com^|
 ||get-curaball.com^|
@@ -15320,6 +15334,7 @@
 ||jdbanli.com^|
 ||jdfimportexportgmbh.de^|
 ||jdflmportexport.de^|
+||jdspaistcsblin-de.com^|
 ||jdsports-eu.com^|
 ||jdsportsoutlet.de^|
 ||jdsportwearz.com^|
@@ -15765,6 +15780,7 @@
 ||kalamataolivenoel.de^|
 ||kalesafe.com^|
 ||kaliyra.shop^|
+||kalkhofffahrrader.de^|
 ||kalkstore.com^|
 ||kallieswelpen.com^|
 ||kaltesholz.de^|
@@ -18557,6 +18573,7 @@
 ||malorybike.shop^|
 ||maloryun.com^|
 ||malschule-wetzlar.de^|
+||malteserworld.at^|
 ||maltua.shop^|
 ||malusi.shop^|
 ||mam-holzspalter.com^|
@@ -22436,6 +22453,7 @@
 ||otpedic.de^|
 ||otronical.de^|
 ||otto-deat.de^|
+||otto-kauf.de^|
 ||ottocast.de^|
 ||ottoelektro.de^|
 ||ottogamingps.de^|
@@ -25185,6 +25203,7 @@
 ||reilesenthel.de.com^|
 ||reimer-autoreifen.com^|
 ||reimer-reifenhandel.com^|
+||reimund-morgenfurt.at^|
 ||reinartzbabyland.shop^|
 ||reindesign-garten.de^|
 ||reineblumede.shop^|
