@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-03T23:11:53.192861Z
+! Generated: 2026-07-04T01:03:07.983241Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1246,6 +1246,7 @@
 ||anguably.top^|
 ||angusz.com^|
 ||anhaenger-geraete.com^|
+||anhaenger-gross.de^|
 ||anhaenger-von-thule.de^|
 ||anhaengerhandel-leipziig.de^|
 ||anhaengerkauf24.com^|
@@ -3953,6 +3954,7 @@
 ||bock-handel.de^|
 ||boclak.com^|
 ||bodario.com^|
+||bodenverlegung-wien.at^|
 ||bodoschaeferakademie.shop^|
 ||bodshu.com^|
 ||body-gear.to^|
@@ -6410,6 +6412,7 @@
 ||crgshop.shop^|
 ||cribta.com^|
 ||cricuts.de^|
+||criel.de^|
 ||criffincloset.com^|
 ||crillo.shop^|
 ||cringgit.com^|
@@ -7457,6 +7460,7 @@
 ||deutschersammlerschatz.com^|
 ||deutsches-gut.de^|
 ||deutscheschonheit.de^|
+||deutschfollowup.cc^|
 ||deutschgeschenkfest.com^|
 ||deutschla.de^|
 ||deutschland-heizoelpreis.de^|
@@ -8235,6 +8239,7 @@
 ||durchschaubar.at^|
 ||durona.de^|
 ||duros.de^|
+||duryoafe.shop^|
 ||dusanboldiwebstore.shop^|
 ||duschenexperte.com^|
 ||duscioadaul.club^|
@@ -8255,6 +8260,7 @@
 ||dwellcollect.com^|
 ||dwelldome.com^|
 ||dwellgallery.com^|
+||dwellglory.com^|
 ||dwellhavenly.com^|
 ||dwellingix.com^|
 ||dwellinguse.com^|
@@ -12662,6 +12668,7 @@
 ||groundies-finland.com^|
 ||groundies-osterreich.com^|
 ||groundies-slovenija.com^|
+||groundies.at^|
 ||groundiesbarefootschweiz.com^|
 ||groundiesblackfriday.com^|
 ||groundiesdamen.de^|
@@ -13388,6 +13395,7 @@
 ||heimwerkzeugladen.com^|
 ||heine-reifen.com^|
 ||heinkelmasch.de^|
+||heinrich-handel.com^|
 ||heinso.shop^|
 ||heira-deutschland.com^|
 ||heirloom-us.com^|
@@ -14593,6 +14601,8 @@
 ||icosality.top^|
 ||icprc.tcs-rud.com^|
 ||ictholder.com^|
+||id-austria.at-bmf-gv-uberprufung.com^|
+||id-austria.bmf-gv-at.com^|
 ||idabitar.com^|
 ||idaffodil.shop^|
 ||idailyshop.com^|
@@ -15019,6 +15029,7 @@
 ||intimateimports.com^|
 ||intimewatches.de^|
 ||intimissimi-osterreich.at^|
+||intimissimiat.at^|
 ||intimissimiaustria.at^|
 ||intoheair.com^|
 ||intonationu.com^|
@@ -15385,6 +15396,8 @@
 ||jellycatösterreich.com^|
 ||jellycats.de^|
 ||jellylight.at^|
+||jelvruvozan-ie.com^|
+||jelvruvozan.fr^|
 ||jemworrall.com^|
 ||jen-yoga.de^|
 ||jengagewave.com^|
@@ -16280,6 +16293,7 @@
 ||kingfinds.de^|
 ||kingjober.xyz^|
 ||kingofbuy.com^|
+||kingofindigo.com^|
 ||kingrack.com^|
 ||kingseven-shop.com^|
 ||kingsevenshop.de^|
@@ -16466,6 +16480,7 @@
 ||klima-bonus.app^|
 ||klimabonus-2026.net^|
 ||klimabonus2026.at^|
+||klimageld-2026.cc^|
 ||klimahaus.myshopify.com^|
 ||klimakaelteprofi.com^|
 ||klimapraemie-2026.cc^|
@@ -19150,6 +19165,7 @@
 ||meindeinhaus.de^|
 ||meindiscount.store^|
 ||meindl--schuhe.com^|
+||meindlaustria.at^|
 ||meindlosterreich.at^|
 ||meindls.at^|
 ||meindlsales.com^|
@@ -19756,6 +19772,7 @@
 ||mobelonlineshop24.com^|
 ||mobelprada-de.com^|
 ||mobelspeichern-de.com^|
+||mobelwohnen.com^|
 ||mobelzuhause.com^|
 ||mobetrix.com^|
 ||mobiche.com^|
@@ -20046,6 +20063,7 @@
 ||moodcheerful.com^|
 ||moodlily.de^|
 ||moodofthecity.com^|
+||moodors.shop^|
 ||mooje.de^|
 ||mooje.eu^|
 ||moonalright.com^|
@@ -20123,6 +20141,7 @@
 ||motionwish.com^|
 ||motivatew.com^|
 ||motivationlinkca.com^|
+||motivoebike.com^|
 ||moto-discounts-germany.com^|
 ||moto-teile24.com^|
 ||motoadren.com^|
@@ -22404,6 +22423,7 @@
 ||ornamentli.com^|
 ||ornamenttoy.com^|
 ||orrebol.com^|
+||ortexgruppe.com^|
 ||ortho-magazin.de^|
 ||ortho-pulse.de^|
 ||ortho-shoes.at^|
@@ -23661,6 +23681,7 @@
 ||plorian.top^|
 ||ploryday.com^|
 ||plosoutan.top^|
+||plovurikant.at^|
 ||pltechsarl.top^|
 ||pluckno.com^|
 ||plumbcrazywife.com^|
@@ -26856,6 +26877,7 @@
 ||schulze-reifen.com^|
 ||schulze1.myshopify.com^|
 ||schumacher-autoreifen.shop^|
+||schumann-markt.com^|
 ||schumann-reifen.com^|
 ||schurianpartner.at^|
 ||schusselprada.com^|
@@ -27072,6 +27094,7 @@
 ||selmarketool.shop^|
 ||selorentiva.com^|
 ||selphymade.de^|
+||selvorinai.net^|
 ||sem-solar.de^|
 ||semahomesale.com^|
 ||seminariovirtual.org^|
@@ -27903,6 +27926,7 @@
 ||skechersshop.at^|
 ||skecherstoresbest.de^|
 ||skelett-neu.com^|
+||skelvurizont.at^|
 ||skf-logistics.com^|
 ||skfveckc.shop^|
 ||ski-apparel.com^|
@@ -29996,6 +30020,7 @@
 ||teiip.com^|
 ||teilbetreuteswohnen.at^|
 ||teilefahrradde.com^|
+||teilradln.com^|
 ||teilwerkstatt.com^|
 ||tekimek.com^|
 ||tekmariss.com^|
@@ -30737,6 +30762,7 @@
 ||togetherrxacces.com^|
 ||toijoshd.com^|
 ||toitious.top^|
+||tokbit.site^|
 ||tokblog.site^|
 ||tokeal.shop^|
 ||token-openai.com^|
@@ -32210,6 +32236,7 @@
 ||uszonestylish.com^|
 ||utahforkliftcompanyltd.shop^|
 ||utangwiki.com^|
+||ute.investporfolio.com^|
 ||utilitech-anhaenger.com^|
 ||utlcm.noborn.com^|
 ||uttasheilerpraxis.de^|
