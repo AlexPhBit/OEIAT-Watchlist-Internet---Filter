@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-06T23:51:50.395809Z
+! Generated: 2026-07-07T04:03:17.328724Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1300,6 +1300,7 @@
 ||ankle-boots-store.com^|
 ||anklebootsstoreshop.com^|
 ||ankotec.de^|
+||ankpqvzu.shop^|
 ||anlagenberatung.at^|
 ||anlassgeschenke.com^|
 ||anlyoanarn.com^|
@@ -2515,6 +2516,7 @@
 ||balloonbang.com^|
 ||balloonsetc.shop^|
 ||balloret.com^|
+||ballshops.com^|
 ||ballsitepro.com^|
 ||ballsportsland.com^|
 ||ballue.de^|
@@ -2729,6 +2731,7 @@
 ||baumarkt-ulstertal.de^|
 ||baumarktverkauf.de^|
 ||baumeistermodels.com^|
+||baumeistertools.com^|
 ||baumkau.com^|
 ||baumme.de^|
 ||baumwollbaby.shop^|
@@ -3240,6 +3243,7 @@
 ||bestermarkt.ch^|
 ||besteschlaftabletten.com^|
 ||bestesholzz.de^|
+||bestestrikot.com^|
 ||besteuhren.to^|
 ||besteuvs.xyz^|
 ||bestexpresslogisticsgocargo.com^|
@@ -3486,6 +3490,7 @@
 ||bikeforword.com^|
 ||bikefoxracing.com^|
 ||bikeframesde.com^|
+||bikegearsupply.com^|
 ||bikehandel.com^|
 ||bikehosesrabatt.com^|
 ||bikehubde.com^|
@@ -5367,6 +5372,7 @@
 ||cheapvogueclothing.com^|
 ||cheazonpsell.xyz^|
 ||chebkbest.site^|
+||checkdeinhoroskop.com^|
 ||checkist.top^|
 ||checkout.ekommmedia.com^|
 ||checkout.leonboutique.co^|
@@ -6179,6 +6185,7 @@
 ||coolactionca.com^|
 ||coolbuysite.com^|
 ||coolcare.mx^|
+||cooleschuhe.com^|
 ||coolgin.com^|
 ||cooling-ace.de^|
 ||coolizi.com^|
@@ -9358,6 +9365,7 @@
 ||eu.orunning.shop^|
 ||eu.oshosebk.shop^|
 ||eu.popomartvip.shop^|
+||eu.rasenmarkt.com^|
 ||eu.revolutienrace.com^|
 ||eu.stanlaystore.com^|
 ||eu.stanlyss1913.com^|
@@ -9788,6 +9796,7 @@
 ||fahrradskiwebsite.com^|
 ||fahrradspab.com^|
 ||fahrradsparpark.de^|
+||fahrradsparwelt24.de^|
 ||fahrradspeichernde.com^|
 ||fahrradstorm.com^|
 ||fahrradstromkreis.com^|
@@ -11153,6 +11162,7 @@
 ||fuehrungszeugnis.at^|
 ||fuelglovet.com^|
 ||fuelmeister.de^|
+||fueloutlets.com^|
 ||fuelta.co^|
 ||fuensid.com^|
 ||fuesschentraeume.de^|
@@ -11610,6 +11620,7 @@
 ||gartenbaurheinruhr.de^|
 ||gartenbedarf-borken.de^|
 ||gartenbedarf-ehlers.de^|
+||gartenbedarf-online.com^|
 ||gartenbedarfbillig.com^|
 ||gartenbedarfs-de.com^|
 ||gartenbee.com^|
@@ -11866,6 +11877,7 @@
 ||german-audio-equipment.com^|
 ||german-deal.com^|
 ||german-discount-carsparts.com^|
+||german-pet-shop.com^|
 ||germanfishinggear.com^|
 ||germanfurnituremart.com^|
 ||germangoodsonline.com^|
@@ -12172,6 +12184,7 @@
 ||glassespartssupplyhub.com^|
 ||glassry.top^|
 ||glaswarenrabatt.com^|
+||glaubensweg.com^|
 ||glaydssale.shop^|
 ||gleaminggazette.shop^|
 ||gleamoramunchen.de^|
@@ -12397,6 +12410,7 @@
 ||gometim.com^|
 ||gomez.at^|
 ||gomirno.myshopify.com^|
+||gomodellbahn.com^|
 ||goneblksale.com^|
 ||gonetzteil.de^|
 ||gonsstransport.com^|
@@ -13011,6 +13025,7 @@
 ||handballtrikotshop.com^|
 ||handbrausensale.com^|
 ||handbrausenshop.com^|
+||handcrafted-magazine.com^|
 ||handel-kirsch.de^|
 ||handel-swiss.com^|
 ||handelsartikel.com^|
@@ -13365,6 +13380,7 @@
 ||heim-geschafts.com^|
 ||heim-tools.de^|
 ||heim-tools.net^|
+||heim-trend.de^|
 ||heimat-haft.de^|
 ||heimat-stil.com^|
 ||heimatdeals.de^|
@@ -13670,6 +13686,7 @@
 ||hfl-handel.de^|
 ||hfro.sunsperience.com^|
 ||hfsie.com^|
+||hgkzgbho.shop^|
 ||hgoobtimio.cc^|
 ||hhb-garten.de^|
 ||hheexpot.com^|
@@ -13734,6 +13751,7 @@
 ||hilfewise.com^|
 ||hilfigerdeutschland.com^|
 ||hilfreich.co.at^|
+||hilifeshop.com^|
 ||hilipert.com^|
 ||hilkenmanor.com^|
 ||hill-heizoel.de^|
@@ -14177,6 +14195,7 @@
 ||hormenne.top^|
 ||hormonell-aktuell.at^|
 ||horngrant.com^|
+||hornwald.com^|
 ||horologicalbooks.de^|
 ||horsebreeze.com^|
 ||horsecreekboutide.shop^|
@@ -15236,6 +15255,7 @@
 ||ivankafurnituro.shop^|
 ||ivannd.com^|
 ||ivcuafuku.com^|
+||ivdmlqrb.shop^|
 ||ivelay.com^|
 ||ivernamart.com^|
 ||ivetmem.com^|
@@ -17240,6 +17260,7 @@
 ||lcc-allgaeu.de^|
 ||lcgform.com^|
 ||lcimburk.com^|
+||lcm-markets.com^|
 ||lcmotivee.com^|
 ||lcrownlady.com^|
 ||ldecalog.com^|
@@ -17247,6 +17268,7 @@
 ||ldrmjepbi.shop^|
 ||le-cartier.com^|
 ||le-labo.at^|
+||leadbrass.com^|
 ||leaderedgy.com^|
 ||leadershipk.com^|
 ||leadwilderness.com^|
@@ -19494,8 +19516,10 @@
 ||midalo.de^|
 ||midasmarkt.com^|
 ||middlewill.com^|
+||midea-deutschland.com^|
 ||midea-europe.de^|
 ||midea-klima.de^|
+||mideadeutschland.de^|
 ||midformsandalen.net^|
 ||midikleider.com^|
 ||midlandmodels.com^|
@@ -21587,6 +21611,7 @@
 ||obtainfish.com^|
 ||obzala.com^|
 ||ocayo.de^|
+||ocbqzggs.shop^|
 ||occamdeals.shop^|
 ||occasionak.com^|
 ||occasionallk.com^|
@@ -22472,6 +22497,7 @@
 ||oshoplive.com^|
 ||oshriomsai.com^|
 ||osiris.com.de^|
+||osiriscards.store^|
 ||oskarzebedeus.com^|
 ||osmo-official.com^|
 ||osmodeutschland.de^|
@@ -22800,6 +22826,7 @@
 ||owalaaustria.at^|
 ||owalaaustrla.at^|
 ||owalade.de^|
+||owalaflascheosterreich.shop^|
 ||owalasale.de^|
 ||owbuyteer.top^|
 ||owenoble.com^|
@@ -23347,6 +23374,7 @@
 ||petzoneusoff.com^|
 ||pexcer.com^|
 ||peyarpark.com^|
+||peykshop.com^|
 ||pezole.de^|
 ||pf-ff.com^|
 ||pf0.cc^|
@@ -23902,6 +23930,7 @@
 ||portalnetserver.com^|
 ||portalray.com^|
 ||portaqua.shop^|
+||portaspliteu.com^|
 ||portefeuillephoto.com^|
 ||porterblushu.com^|
 ||porterpowermatic.com^|
@@ -24193,6 +24222,7 @@
 ||profayansy.com^|
 ||professionaltoolus.com^|
 ||professyo.com^|
+||profi-entruempelung.at^|
 ||profi-rasenmaher.com^|
 ||profibaubedarf.com^|
 ||profibikes.de^|
@@ -24830,6 +24860,7 @@
 ||ranchmenshop.com^|
 ||ranchoutfit.com^|
 ||randalu.de^|
+||randaoma.com^|
 ||randerer.eu^|
 ||randolphosterreich.com^|
 ||random-item.com^|
@@ -24864,6 +24895,7 @@
 ||rasenmahen24.com^|
 ||rasenmahershop.com^|
 ||rasenmaherwendik.de^|
+||rasenmarkt.com^|
 ||rasenmotor.com^|
 ||rasenshop24.com^|
 ||rasenstolz.com^|
@@ -28464,6 +28496,7 @@
 ||specialistm.net^|
 ||specialized-world.com^|
 ||specializednewbike.com^|
+||specializedosterreich.at^|
 ||specializeds.at^|
 ||specializeg.com^|
 ||specializk.com^|
@@ -29635,6 +29668,7 @@
 ||sweatybetty-deutschland.de^|
 ||sweatybettydeutschland.de^|
 ||swednova.de^|
+||swedora.com^|
 ||swedsgroup.com^|
 ||sweetbeds.eu^|
 ||sweetsf.online^|
@@ -30188,6 +30222,7 @@
 ||tffjm.com^|
 ||tfieldtest.shop^|
 ||tfullmoj.com^|
+||tga-degenfeld.at^|
 ||tgbslab.com^|
 ||tgfree.fun^|
 ||tgi.li^|
@@ -31388,6 +31423,7 @@
 ||treppauf-treppab.de^|
 ||treston24.de^|
 ||tretornosterreich.com^|
+||treuhand-gmbh.com^|
 ||trevorjewelry.shop^|
 ||trexox.com^|
 ||trfactory.redseaofsound.org^|
@@ -32670,6 +32706,7 @@
 ||veyegr.com^|
 ||vfcsnc.shop^|
 ||vfistorew.com^|
+||vfsrwo.shop^|
 ||vg61eaim.shop^|
 ||vgr8.com^|
 ||vgrdint.com^|
@@ -32687,6 +32724,7 @@
 ||viagrafarmakeio.gr^|
 ||viagrainaustralia.com^|
 ||viain.top^|
+||viajesdeplaceryencanto.com^|
 ||vialine-pharma-fr.com^|
 ||vianced-hamburg.de^|
 ||viankhoury.com^|
@@ -32982,6 +33020,7 @@
 ||vnvipshop.com^|
 ||vnxk.net^|
 ||voaupz.store^|
+||voba-sign.cc^|
 ||vocabos.com^|
 ||vocabulark.com^|
 ||vocabularyt.com^|
@@ -33246,6 +33285,7 @@
 ||wagnerzurich.ch^|
 ||wagnerzurich.com^|
 ||wahldate.de^|
+||wahlgartenalltag.com^|
 ||wahlstern.de^|
 ||wahrekatzenliebe.com^|
 ||waifairy.com^|
@@ -33803,6 +33843,7 @@
 ||wieldise.com^|
 ||wiemos-shop.de^|
 ||wiendomizil.at^|
+||wienerwonderlonds.shop^|
 ||wienschmidt.at^|
 ||wiesbadenk.de^|
 ||wiesmann-mode.de^|
