@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-09T23:18:09.669192Z
+! Generated: 2026-07-10T01:04:38.483683Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -4332,6 +4332,7 @@
 ||brightter-fld.com^|
 ||brightwayv.com^|
 ||brigittebayr.de^|
+||brikebrain.digital^|
 ||brilliant-blazers.net^|
 ||brilliant-photo.com^|
 ||brilliantbuildingj.com^|
@@ -6966,6 +6967,7 @@
 ||de.mahertech24.com^|
 ||de.mammotion.com^|
 ||de.markusdrueppel.com^|
+||de.moravon.com^|
 ||de.mysalights.com^|
 ||de.nbynicole.com^|
 ||de.nikefreernoutlet.com^|
@@ -7146,7 +7148,6 @@
 ||degussa-onlineshop.de^|
 ||degussa-page.de^|
 ||degussa.one^|
-||degussaonline.de^|
 ||dehaushalt-prada.com^|
 ||dehaushaltszentrum.com^|
 ||dehaustierbedarf.com^|
@@ -7328,6 +7329,7 @@
 ||depotlamps.com^|
 ||depotmenswear.com^|
 ||depotmotorcycle.com^|
+||depotonlinestore.com^|
 ||depotsnow.com^|
 ||depotstationery.com^|
 ||depoz.company^|
@@ -8886,6 +8888,7 @@
 ||elo-cc.de^|
 ||eloisetonerr.com^|
 ||elon22.com^|
+||eloneohome.shop^|
 ||eloquentn.com^|
 ||elottobuddy.com^|
 ||eloyguerra.com^|
@@ -9034,7 +9037,6 @@
 ||engeliebe.de^|
 ||engelke-reifen.com^|
 ||engels-mode.com^|
-||engelsherz.com^|
 ||engelspellets.com^|
 ||engelswelpenhaus.de^|
 ||engineapp.sbs^|
@@ -13028,6 +13030,7 @@
 ||hampel.shop^|
 ||hamuelmaschinen.com^|
 ||hamurgrlakprofi.shop^|
+||han3szd2ork.com^|
 ||hanazimu.com^|
 ||handarbeitenkaess.de^|
 ||handbagbrandsonline.com^|
@@ -13435,6 +13438,7 @@
 ||heiseno.de^|
 ||heissmanns.de^|
 ||heiz-oel24.com^|
+||heiz-partner24.de^|
 ||heiz-pellets24.com^|
 ||heiz-smart.de^|
 ||heiz-traum.com^|
@@ -16173,6 +16177,7 @@
 ||keotgmbh.com^|
 ||keppey.com^|
 ||keramikkde.pro^|
+||kern-recht.de^|
 ||kern-reifenversand.shop^|
 ||kernekom.com^|
 ||kernvogel.com^|
@@ -17863,6 +17868,7 @@
 ||liviaberlin.de^|
 ||liviafood.shop^|
 ||livicy.de^|
+||living-smarter24.com^|
 ||livingbestsellers.com^|
 ||livingcatnapper.com^|
 ||livingchamonix.com^|
@@ -19536,6 +19542,7 @@
 ||midea-europe.de^|
 ||midea-germany.de^|
 ||midea-klima.de^|
+||midea-portasplit.com^|
 ||mideadeutschland.de^|
 ||midformsandalen.net^|
 ||midikleider.com^|
@@ -21335,6 +21342,7 @@
 ||nordikb.com^|
 ||nordischesdesign.com^|
 ||nordjarl.shop^|
+||nordmodehaus.com^|
 ||nordoil.de^|
 ||nordoutlets.com^|
 ||nordperlen-verchen.de^|
@@ -21463,6 +21471,7 @@
 ||novira-zurich.ch^|
 ||novirastore.com^|
 ||novo-consult.com^|
+||novolo.shop^|
 ||now.illegalstore.xyz^|
 ||nowadayse.com^|
 ||nowbuyb.com^|
@@ -28016,6 +28025,7 @@
 ||skims.at^|
 ||skimsschweiz.com^|
 ||skina.nu^|
+||skincarelimit.com^|
 ||skincareshophd.com^|
 ||skincci.net^|
 ||skinfleur.ae^|
@@ -28721,6 +28731,7 @@
 ||sportymenswear.com^|
 ||sportyraiment.com^|
 ||spotiifyprimesnova.ct.ws^|
+||spotsound.fr^|
 ||spowo.at^|
 ||sppulsar.shop^|
 ||sprachgenie.at^|
@@ -32461,6 +32472,7 @@
 ||varonovo.de^|
 ||varoza.de^|
 ||vartis.at^|
+||varulo.de^|
 ||vasagleangebote.de^|
 ||vasagleaugeschaft.com^|
 ||vasaglede.com^|
