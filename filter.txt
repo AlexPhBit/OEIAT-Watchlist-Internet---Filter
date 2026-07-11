@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-10T23:17:25.094592Z
+! Generated: 2026-07-11T00:14:29.723292Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -192,6 +192,7 @@
 ||ablefashionable.com^|
 ||ableory.xyz^|
 ||abm-industrie.com^|
+||abmdistrib.com^|
 ||abnehmenapothekeonline.com^|
 ||abo-schnapper.de^|
 ||aboalyislam.com^|
@@ -6343,6 +6344,7 @@
 ||coxwainu.top^|
 ||coxyaivp.top^|
 ||coxycode.com^|
+||cozeymaison.com^|
 ||cozeymaison.de^|
 ||cozislides.com^|
 ||cozy-christmascottage.com^|
@@ -8727,6 +8729,7 @@
 ||electrodeal.shop^|
 ||electrogaiety.com^|
 ||electrokaufen.de^|
+||electrolager.de^|
 ||electronic-rc.com^|
 ||electronicade.com^|
 ||electronicaudio.store^|
@@ -15805,6 +15808,7 @@
 ||kadonimo.de^|
 ||kadoshops.de^|
 ||kaegreel.com^|
+||kaelte-bringer.de^|
 ||kaelte-held.com^|
 ||kaermodz.com^|
 ||kaernten-bewegt.at^|
@@ -16517,6 +16521,7 @@
 ||klima-bonus.app^|
 ||klimabonus-2026.net^|
 ||klimabonus2026.at^|
+||klimag.myshopify.com^|
 ||klimageld-2026.cc^|
 ||klimahaus.myshopify.com^|
 ||klimakaelteprofi.com^|
@@ -17279,6 +17284,7 @@
 ||lcgform.com^|
 ||lcimburk.com^|
 ||lcm-markets.com^|
+||lcminvesting.com^|
 ||lcmotivee.com^|
 ||lcrownlady.com^|
 ||ldecalog.com^|
@@ -17535,6 +17541,7 @@
 ||levitraeurope.com^|
 ||levoda.de^|
 ||levoit.co.at^|
+||levorelio.net^|
 ||levuna.ch^|
 ||lewitznetzwerk.de^|
 ||lex-lim.com^|
@@ -17973,6 +17980,7 @@
 ||loefflerrandallus.com^|
 ||loerce.com^|
 ||loevass.com^|
+||loewe-osterreich.com^|
 ||loewe-vom-sauerland.de^|
 ||loewedeutschland.de^|
 ||lofboutique.lilshydasia.com^|
@@ -18704,6 +18712,7 @@
 ||manlyhost.com^|
 ||mannerapotheke24.com^|
 ||mannheimmodehaus.com^|
+||mannstil.com^|
 ||ManoloBlahnik-osterreich.com^|
 ||manonjipnzz.com^|
 ||manorchfr.com^|
@@ -20859,6 +20868,7 @@
 ||net-inkasso.de^|
 ||net-profit.eu^|
 ||net.ipdwio.com^|
+||netatmo.com.de^|
 ||netcomsip.com^|
 ||netherlands.gluconol-capsules.com^|
 ||netlfix-at.com^|
@@ -26029,6 +26039,7 @@
 ||rpmsxsde.shop^|
 ||rpods.shop^|
 ||rprojetarte.com^|
+||rqhtyztv.shop^|
 ||rra-time.com^|
 ||rreplace.com^|
 ||rromaakt.de^|
