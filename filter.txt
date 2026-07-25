@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-24T23:41:31.706139Z
+! Generated: 2026-07-25T01:15:03.224100Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1304,6 +1304,7 @@
 ||anioomcable.shop^|
 ||anitawittmann.com^|
 ||aniverlsari.com^|
+||ankelinerherz.com^|
 ||ankerflowtech.shop^|
 ||ankerkrautde.shop^|
 ||ankle-boots-store.com^|
@@ -2305,6 +2306,7 @@
 ||awishday.com^|
 ||awpepgmd.top^|
 ||axa-immo.us^|
+||axel-maschine.de^|
 ||axelarigatoschuhe.com^|
 ||axelarigatowien.com^|
 ||axessinvest.de^|
@@ -3363,6 +3365,7 @@
 ||beteli.store^|
 ||betonruttler.com^|
 ||betontop.com^|
+||betrailo.com^|
 ||betrise-capital.ltd^|
 ||betrisecapitals.ltd^|
 ||betrmode.com^|
@@ -9617,6 +9620,7 @@
 ||ewige-seide.de^|
 ||ewigesleder.com^|
 ||ewighair.com^|
+||ewzmvasz.shop^|
 ||ex-field.com^|
 ||ex-sot.com^|
 ||exactlydrum.com^|
@@ -9892,6 +9896,7 @@
 ||fahrstadt.de^|
 ||fahrstander.com^|
 ||fahrtechnikteile.com^|
+||fahrzeugcamp.com^|
 ||fahrzeugpflegetreskow.de^|
 ||fahrzeugprada.de^|
 ||fahrzeugscanner24.de^|
@@ -11725,6 +11730,7 @@
 ||gartenira.com^|
 ||gartenix.com^|
 ||gartenkings.de^|
+||gartenkraft-de.com^|
 ||gartenkreuzfahrt.de^|
 ||gartenladende.com^|
 ||gartenlandschaftladen.com^|
@@ -18545,6 +18551,7 @@
 ||lxcvt.shop^|
 ||lxuygoods.com^|
 ||lxznpo.shop^|
+||lydevmkt.shop^|
 ||lydiapet.space^|
 ||lyfoiegras.com^|
 ||lyleandscott.com^|
@@ -25098,6 +25105,7 @@
 ||rauter-beck.de^|
 ||rave-atelier.com^|
 ||ravella-dortmund.de^|
+||ravenciax.shop^|
 ||ravenprombagsoutlet2021.com^|
 ||ravishingcosmetology.com^|
 ||rawtop.foodarray.shop^|
@@ -34087,6 +34095,7 @@
 ||wihasale.com^|
 ||wika-shop.com^|
 ||wika-shop.de^|
+||wikebygb.shop^|
 ||wikelski.com^|
 ||wiki4diy.com^|
 ||wikiadvj.com^|
