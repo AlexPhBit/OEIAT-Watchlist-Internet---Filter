@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-27T23:46:37.398476Z
+! Generated: 2026-07-28T01:09:59.322216Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -133,6 +133,7 @@
 ||899ag.com^|
 ||8evlcbsuk3cm9agc-49220550809.shopifypreview.com^|
 ||8lots.com^|
+||9889adl.dxnqt.shop^|
 ||99rabats.shop^|
 ||a-baustofflager.com^|
 ||a.seven-st.com^|
@@ -993,6 +994,7 @@
 ||alsa-shop.de^|
 ||alsara-online.de^|
 ||alsclearance.com^|
+||alskdrmo.shop^|
 ||alsoatic.top^|
 ||alsobeside.com^|
 ||alstran-spedition.com^|
@@ -1257,6 +1259,7 @@
 ||anhaenger-geraete.com^|
 ||anhaenger-gross.de^|
 ||anhaenger-von-thule.de^|
+||anhaengerhandel-leipzig.com^|
 ||anhaengerhandel-leipziig.de^|
 ||anhaengerkauf24.com^|
 ||anhaengerklasen.de^|
@@ -1957,6 +1960,7 @@
 ||ateliermunchen.de^|
 ||atfalunaverlag.shop^|
 ||atfin.org^|
+||atfinanciialad.com^|
 ||atfolix.shop^|
 ||atfolixde.shop^|
 ||atgeneralwil.com^|
@@ -2088,6 +2092,8 @@
 ||aurorevandoren.com^|
 ||auroxtrade.net^|
 ||aurum-fix-corp.com^|
+||aurum-foundation.com^|
+||aurum.foundation^|
 ||aus-gelassen.de^|
 ||ausgewalhtheim.de^|
 ||ausgnade.shop^|
@@ -2132,6 +2138,7 @@
 ||autoexpertpartshop.com^|
 ||autogearlabflow.com^|
 ||autoglobalshipping.com^|
+||autohaus-ferkl.de^|
 ||autohausbismuth.de^|
 ||autohauselsdorf.de^|
 ||autohausfuerst.de^|
@@ -3224,6 +3231,7 @@
 ||bestbagstore.com^|
 ||bestbeauty-style.com^|
 ||bestbikecyclinggear.com^|
+||bestbikede.com^|
 ||bestboneconduction.com^|
 ||bestbookshop.site^|
 ||bestbrakesrabatt.com^|
@@ -4550,6 +4558,7 @@
 ||building-toysshop.com^|
 ||buildmaterialstore.com^|
 ||builikee.com^|
+||buislearny.com^|
 ||buitifo-fashion.com^|
 ||bukkwood.com^|
 ||bulgariaapteka.com^|
@@ -4860,6 +4869,7 @@
 ||campingmay.com^|
 ||campingnatur.com^|
 ||campingneu.com^|
+||campingplatze-de.com^|
 ||campingpromo.store^|
 ||campingstuhleshop.com^|
 ||campingsverkauf.com^|
@@ -5069,6 +5079,7 @@
 ||casaivora.com^|
 ||casamargarita-gt.com^|
 ||casamaza.uk^|
+||casanovera.com^|
 ||cascade-luzern.shop^|
 ||cascosoffroad.com^|
 ||caseetepen.com^|
@@ -6262,6 +6273,7 @@
 ||coracosmetic.live^|
 ||coralcoveswim.com^|
 ||cordes-reifenversand.com^|
+||coreex.ch^|
 ||coregarment.com^|
 ||coremat-industrie.com^|
 ||corentinmaribro.shop^|
@@ -6750,6 +6762,7 @@
 ||daily-clearance.com^|
 ||daily-disney.com^|
 ||daily-jewelry123.com^|
+||daily-outfit.de^|
 ||dailychallenge1.com^|
 ||dailyexpertfx.com^|
 ||dailyforu.com^|
@@ -9942,6 +9955,7 @@
 ||familienbegleiterin.de^|
 ||familienmobil24.de^|
 ||familienschatze.com^|
+||familienzeltneu.com^|
 ||familienzug.ch^|
 ||familievlaar.com^|
 ||familiewelpenhaus.com^|
@@ -12052,6 +12066,7 @@
 ||getenergyfix.com^|
 ||getepicooler.com^|
 ||getfashionnew.com^|
+||getflowersforsociety.shop^|
 ||getfurnitureabout.com^|
 ||getguitarowner.com^|
 ||getherion.com^|
@@ -12278,6 +12293,7 @@
 ||glaswarenrabatt.com^|
 ||glaubensweg.com^|
 ||glaydssale.shop^|
+||gldclothing.com^|
 ||gleaminggazette.shop^|
 ||gleamoramunchen.de^|
 ||gleane.de^|
@@ -14170,6 +14186,7 @@
 ||homelyno.com^|
 ||homelynyc.com^|
 ||homelysale.com^|
+||homemerchpro.com^|
 ||homemodernliving.com^|
 ||homenestlyauralab.com^|
 ||homenormann.com^|
@@ -14608,6 +14625,7 @@
 ||husshuntd.top^|
 ||hustlenation.store^|
 ||hut-vogue.com^|
+||hutare.com^|
 ||hutchputchde.shop^|
 ||hutdesignherren.com^|
 ||hutprofis.shop^|
@@ -14793,6 +14811,7 @@
 ||iheq.shop^|
 ||ihinmusubio.com^|
 ||ihljpbdo.shop^|
+||ihnlhrqf.shop^|
 ||ihrbedarf.com^|
 ||ihrbegleiterimalltag.de^|
 ||ihreanhanger.com^|
@@ -16842,6 +16861,7 @@
 ||kraft-profil-technik.eu^|
 ||kraftdesweins.com^|
 ||kraftholz.shop^|
+||krafthoz-pellets.com^|
 ||kraftraumpro.com^|
 ||kraftsohle.de^|
 ||krafttool24.com^|
@@ -19960,6 +19980,7 @@
 ||mobilfunk-schmidtchen.de^|
 ||mobilixpro.com^|
 ||mobilmitkids.de^|
+||mobischule.com^|
 ||mobitracker.org^|
 ||mobivita.de^|
 ||mochathedogstore.de^|
@@ -21927,6 +21948,7 @@
 ||officialcamping.com^|
 ||officialclimbing.com^|
 ||officialcomficraft.com^|
+||officialfixdessertchocolatier.com^|
 ||officialfurnitures.com^|
 ||officialhomekit.com^|
 ||officialhometool.com^|
@@ -23418,6 +23440,7 @@
 ||pensiontradingai.com^|
 ||peoalfonsi.it^|
 ||people.purecap.xyz^|
+||peoplespot.io^|
 ||pepe-jeans.at^|
 ||peppermayo.com^|
 ||peppermayo.eu^|
@@ -27355,6 +27378,7 @@
 ||sentimentw.com^|
 ||sentis.club^|
 ||senzza.de^|
+||seoeeo.com^|
 ||separaten.com^|
 ||sepgoal.com^|
 ||sepkicks.com^|
@@ -32170,6 +32194,7 @@
 ||urban-autoreifen.com^|
 ||urban-hits.de^|
 ||urban-patterns.de^|
+||urban-rad.com^|
 ||urban-transporte.com^|
 ||urbancarpetloft.com^|
 ||urbanclasse.store^|
@@ -34518,6 +34543,7 @@
 ||wxinthai.com^|
 ||wxnlucky.com^|
 ||wynajemwroclaw.com^|
+||wzdnymoc.shop^|
 ||wzyzz.hillvieworganicfarm.com^|
 ||x-clarity.com^|
 ||x-drugs.info^|
@@ -34554,6 +34580,7 @@
 ||xellanederlandbv.com^|
 ||xenforts.com^|
 ||xeniapublicity.com^|
+||xenokrat.de^|
 ||xenoud.com^|
 ||xenstream.shop^|
 ||xeond.com^|
@@ -35031,6 +35058,7 @@
 ||zentraleapo.de^|
 ||zentralorgan.at^|
 ||zentrof.com^|
+||zentrovian.de^|
 ||zenvada.de^|
 ||zenvys.de^|
 ||zenymab.com^|
