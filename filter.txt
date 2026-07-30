@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-29T23:26:40.074184Z
+! Generated: 2026-07-30T00:55:25.358034Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -5055,6 +5055,7 @@
 ||carrotuj.com^|
 ||carrujos.com^|
 ||carrycotsangebote.de^|
+||cars-boutique.de^|
 ||carsmodeles.com^|
 ||carstruckstoy.com^|
 ||cartec-gruppe.de^|
@@ -5374,6 +5375,7 @@
 ||charlinerat.com^|
 ||charloll.com^|
 ||charlottdesign.de^|
+||charlottetilbury-de.com^|
 ||charlystore.de^|
 ||charmadora.shop^|
 ||charmantss.com^|
@@ -12645,6 +12647,7 @@
 ||gradinamax.at^|
 ||gradinamax.hr^|
 ||gradine.top^|
+||gradschcafe.com^|
 ||graefde.com^|
 ||graenergie.com^|
 ||graf-collegen.com^|
@@ -13718,6 +13721,7 @@
 ||hensphere.shop^|
 ||henworld.shop^|
 ||henylife.shop^|
+||hepativa.de^|
 ||hepcrs.com^|
 ||heqingxiangye.com^|
 ||hera-gorgeous.net^|
@@ -14753,6 +14757,7 @@
 ||icprc.tcs-rud.com^|
 ||ictholder.com^|
 ||id-austria.at-bmf-gv-uberprufung.com^|
+||Id-austria.at.gv-oesterreich.com^|
 ||id-austria.bmf-gv-at.com^|
 ||idabitar.com^|
 ||idaffodil.shop^|
@@ -19521,6 +19526,7 @@
 ||menwearstunning.com^|
 ||meowcastle.ca^|
 ||meowsupplies.store^|
+||mepalconstruction.com^|
 ||mephistoaustria.com^|
 ||mephistofabrikverkauf.com^|
 ||mephistoshoeireland.com^|
@@ -33186,6 +33192,7 @@
 ||vita-pflege.de^|
 ||vitafeetdeu.com^|
 ||vitafeetdeut.com^|
+||vitafus.com^|
 ||vitaglp.com^|
 ||vital-vibe.com^|
 ||vitaldelikatesse.com^|
@@ -33525,6 +33532,7 @@
 ||vwraresparepartshop.com^|
 ||vwutaq.com^|
 ||vxiqv.com^|
+||vxyyiurw.shop^|
 ||vyepehijab.com^|
 ||vyjak.com^|
 ||vylkogroup.com^|
