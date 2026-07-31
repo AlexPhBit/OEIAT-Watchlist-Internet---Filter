@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-30T23:45:53.689215Z
+! Generated: 2026-07-31T01:18:34.133619Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1050,6 +1050,7 @@
 ||amana-appliances.com^|
 ||amandahtucker.com^|
 ||amantesaragon.com^|
+||amapbraf.shop^|
 ||amarol-amj.com^|
 ||amaxuan.com^|
 ||amaying.com^|
@@ -1400,6 +1401,7 @@
 ||anwaelte-brinkmann.de^|
 ||anwalt-rieger.de^|
 ||anwalt-sirrenberg.com^|
+||anwaltskanzlei-brust.de^|
 ||anxiair.xyz^|
 ||any-estates.com^|
 ||anyoneeer.top^|
@@ -3472,6 +3474,7 @@
 ||biddletrendy.com^|
 ||bidmask.com^|
 ||bidshoping.com^|
+||bielefeldmodehaus.myshopify.com^|
 ||bienenstock-potsdam.com^|
 ||bienll.de^|
 ||biensmix.com^|
@@ -4293,6 +4296,7 @@
 ||bremsenonshop.com^|
 ||bremsscheibende.com^|
 ||brendavalosa.com^|
+||brenn-holzinger.at^|
 ||brennholz-conrady.com^|
 ||brennholz-geschaft.com^|
 ||brennholz-goignerog.at^|
@@ -4694,6 +4698,7 @@
 ||bvp-frobel.de^|
 ||bvsprobtp.com^|
 ||bvuyyds.shop^|
+||bwinel.com^|
 ||bwonline.eurosale.shop^|
 ||bws-beratung.com^|
 ||bx25dlbkubota.fahrzeugs.com^|
@@ -9213,6 +9218,8 @@
 ||ephacious.top^|
 ||ephemeo.com^|
 ||epi-cooler.at^|
+||epicdicehub.com^|
+||epicooler.at^|
 ||epicooler.com^|
 ||epicoolerklima.shop^|
 ||eporlake.com^|
@@ -9943,6 +9950,7 @@
 ||falke-online.shop^|
 ||falken-stein.de^|
 ||falkengraz.com^|
+||falkenhof-mode.de^|
 ||falkenmode.de^|
 ||fallegverslun.com^|
 ||fallesson.com^|
@@ -14018,6 +14026,7 @@
 ||hofmann-reifenversand.shop^|
 ||hofmannmode.de^|
 ||hofnergraz.at^|
+||hofreiter-kanzlei.de^|
 ||hoganaustria.at^|
 ||hoganwien.at^|
 ||hogl-es.com^|
@@ -14864,6 +14873,7 @@
 ||ilikehksm.life^|
 ||ilikeni.com^|
 ||ilissamatilsky.com^|
+||illusiono.com^|
 ||illusoryol.com^|
 ||ilmap.overcat.rest^|
 ||ilnmy.top^|
@@ -15146,6 +15156,7 @@
 ||integbeautycare.com^|
 ||integisok.com^|
 ||integral.or.at^|
+||integralmarket.ltd^|
 ||integralz.com^|
 ||integratef.com^|
 ||integritybotanicade.shop^|
@@ -15177,6 +15188,7 @@
 ||intermediatee.net^|
 ||interpellet.at^|
 ||intersport-at.myshoplaza.com^|
+||intersport-at.shop^|
 ||intersport-eu.com^|
 ||interstatesavings.us^|
 ||intervalk.net^|
@@ -19531,6 +19543,8 @@
 ||mephistofabrikverkauf.com^|
 ||mephistoshoeireland.com^|
 ||merapack.com^|
+||merapetfood.shop^|
+||merashop.shop^|
 ||merava-berlin.com^|
 ||mercado123.store^|
 ||mercadolibre.at^|
@@ -22157,6 +22171,7 @@
 ||omnicard.co^|
 ||omnicarecintas.com^|
 ||omniebau.de^|
+||omniluxdeutschlands.com^|
 ||omniteamb.com^|
 ||omomentep.live^|
 ||omonyeselfcare.co^|
@@ -23357,6 +23372,7 @@
 ||pdfaid.com^|
 ||pdfgo.co^|
 ||pdfguru.com^|
+||pdfhouse.com^|
 ||pdfleader.com^|
 ||pdfmaster.app^|
 ||pdkosmetik.de^|
@@ -23517,6 +23533,7 @@
 ||personal-expert.com^|
 ||personal84.shop^|
 ||personalhygienesale.com^|
+||personality.co^|
 ||personnelm.com^|
 ||perspective-apptest.com^|
 ||pertaintoy.com^|
@@ -26974,6 +26991,7 @@
 ||schiessbedarf.com^|
 ||schiffbootsteile.com^|
 ||schildbaum-gartencenter.de^|
+||schilderei.shop^|
 ||schillerstore.de^|
 ||schilling-reifenversand.com^|
 ||schirdewahn-autorin.de^|
@@ -30179,6 +30197,7 @@
 ||targettda.com^|
 ||tarifekilic.com^|
 ||tarmei.com^|
+||tarringtonhousedea.com^|
 ||tarstrans.com^|
 ||tarynstettner.com^|
 ||tasagakovic.com^|
@@ -31378,6 +31397,7 @@
 ||totofashion2021.com^|
 ||totogifthouse.com^|
 ||totrendybags.com^|
+||totsoo.com^|
 ||touchwonr.com^|
 ||touchy.at^|
 ||tour-de-hell.de^|
@@ -33996,6 +34016,7 @@
 ||werkzeug-zuhr.de^|
 ||werkzeugangebot.shop^|
 ||werkzeugbauladen.com^|
+||werkzeugboxe.com^|
 ||werkzeugbrandl.com^|
 ||werkzeugdiscount.com^|
 ||werkzeuge-maschinen.com^|
