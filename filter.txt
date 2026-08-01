@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-07-31T23:44:05.798330Z
+! Generated: 2026-08-01T01:19:39.012673Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2078,6 +2078,7 @@
 ||auntgear.com^|
 ||auntsunclestassen.com^|
 ||aura-basel.ch^|
+||aurafior.shop^|
 ||aurahous.com^|
 ||auraineg.com^|
 ||aurainfusions.com^|
@@ -2298,6 +2299,7 @@
 ||avoura.de^|
 ||avregatnx.monster^|
 ||avrilamaya.com^|
+||avtmcugf.shop^|
 ||avyara.de^|
 ||awaisms.com^|
 ||awanzi.com^|
@@ -3505,6 +3507,7 @@
 ||bike-poc.com^|
 ||bike-specialized.com^|
 ||bike-verwaltungs.de^|
+||bike2bikes.com^|
 ||bikeabus.com^|
 ||bikeaccessoriesneu.com^|
 ||bikebegeistert.com^|
@@ -6203,6 +6206,7 @@
 ||containerbewegen.com^|
 ||containercargo.shop^|
 ||containercompany.shop^|
+||containerdhggmbh.de^|
 ||containerdienstheiliggmbh.de^|
 ||containerservicestarzgmbh.de^|
 ||containerslager.com^|
@@ -14352,6 +14356,7 @@
 ||horstz.shop^|
 ||hortensies.com^|
 ||hortihaven.net^|
+||hortmann-gesetz.de^|
 ||hortura.de^|
 ||horzesshop.top^|
 ||hosalet.com^|
@@ -14685,6 +14690,7 @@
 ||hypesbeauty.de^|
 ||hypescrape.com^|
 ||hypnose-gluecklich.de^|
+||hypo-4u.de^|
 ||hypulse.de^|
 ||hysnsic.com^|
 ||hysszhh.com^|
@@ -17098,6 +17104,7 @@
 ||kynebeauty.de^|
 ||kynubeauty.de^|
 ||kyoshorc.com^|
+||kyros-mining.github.io^|
 ||kytoelektro.com^|
 ||kzoephoto.com^|
 ||kzp-handel.com^|
@@ -25281,6 +25288,7 @@
 ||recetasplus.com^|
 ||rechato.com^|
 ||rechtsanwalt-adams.com^|
+||rechtsanwalt-breithaupt.de^|
 ||rechtsanwalt-scheer.net^|
 ||rechtsanwalt-sirrenberg.de^|
 ||rechtsanwalt-wiegmann.de^|
