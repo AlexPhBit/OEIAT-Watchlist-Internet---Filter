@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-03T23:48:24.194617Z
+! Generated: 2026-08-04T01:17:13.098866Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -146,6 +146,7 @@
 ||aadorzz.com^|
 ||aailleuchter.com^|
 ||aakaimai.com^|
+||aakip.com^|
 ||aakop.top^|
 ||aaliencart.com^|
 ||aamorav.com^|
@@ -1131,6 +1132,7 @@
 ||amosclothing.xyz^|
 ||amounteat.com^|
 ||amountesto.net^|
+||amouravienna.com^|
 ||amouree.xyz^|
 ||amourern.top^|
 ||amoushops.com^|
@@ -1588,6 +1590,7 @@
 ||aquariumlebens.com^|
 ||aquariumopt.com^|
 ||aquascapers-galerie.com^|
+||aquaschuheshop.com^|
 ||aquasportkleidung.com^|
 ||aquaticsarea.com^|
 ||aquaticsbest.com^|
@@ -2766,6 +2769,7 @@
 ||baumarkt-ulstertal.com^|
 ||baumarkt-ulstertal.de^|
 ||baumarktverkauf.de^|
+||baumaterialstore.com^|
 ||baumeistermodels.com^|
 ||baumeistertools.com^|
 ||baumkau.com^|
@@ -2923,6 +2927,7 @@
 ||beckerhannover.de^|
 ||beckermode.de^|
 ||beckerundkrause.de^|
+||beckludwig.com^|
 ||becksondergard.shop^|
 ||beconsciousz.shop^|
 ||becrech.com^|
@@ -3367,6 +3372,7 @@
 ||besttoolswerkzeug.com^|
 ||besttrendnew.com^|
 ||bestvcashtransaction.com^|
+||bestwassertechnik.com^|
 ||bestwat.online^|
 ||bestwerkzeugeshop.com^|
 ||bestzone-off.com^|
@@ -4403,6 +4409,7 @@
 ||brizhell.org^|
 ||bro-ker.de^|
 ||broadjoint.com^|
+||brocheeks.store^|
 ||brockneed.com^|
 ||brodyjeane.com^|
 ||broilkingde.com^|
@@ -4693,6 +4700,7 @@
 ||buythegood.site^|
 ||buytocshop.site^|
 ||buytoolworld.com^|
+||buytrumerholz.shop^|
 ||buyusoutdoor.com^|
 ||buyxtoken.com^|
 ||buzzhence.com^|
@@ -6623,6 +6631,7 @@
 ||cumulativei.com^|
 ||cunpotive.net^|
 ||cuoed.top^|
+||cupriva.de^|
 ||cups-stanley-cups.de^|
 ||curablity.com^|
 ||curiou.today^|
@@ -7460,6 +7469,7 @@
 ||descubaprotaucht.com^|
 ||descuentomodaes.com^|
 ||desertbo.com^|
+||desginevo.com^|
 ||desgroupo.com^|
 ||desharkhelme.com^|
 ||deshopmytrendy.com^|
@@ -9627,6 +9637,7 @@
 ||evermily.com^|
 ||everproof.top^|
 ||evershape.at^|
+||eversonehandel.at^|
 ||everyhomeware.com^|
 ||everyknives.com^|
 ||everyswimsuit.com^|
@@ -10814,6 +10825,7 @@
 ||flnanzonline-gvbmfgv.net^|
 ||flnanzonline-vgbmfgv.net^|
 ||flnanzonline.at^|
+||flnanzonline.net^|
 ||floange.com^|
 ||flock-offers.com^|
 ||floipad.shop^|
@@ -12446,6 +12458,7 @@
 ||gogetrxonline.com^|
 ||gogistar.com^|
 ||gogogadgets.io^|
+||gogooption.com^|
 ||gogpdb.com^|
 ||gogreatshop.com^|
 ||gogrocerymart.com^|
@@ -12998,6 +13011,7 @@
 ||gvbmfflnanzonline.info^|
 ||gvflnanz.online^|
 ||gvflnanzonline-erneuern.at^|
+||gvflnanzonline.info^|
 ||gw-style.com^|
 ||gwcsale.towncabco.com^|
 ||gwcshop.towncabco.com^|
@@ -14668,6 +14682,7 @@
 ||hw-shapesde.com^|
 ||hwmaschinenbau.at^|
 ||hwuut.shop^|
+||hxmwuvgh.shop^|
 ||hxuenb.shop^|
 ||hybridfahrrader.com^|
 ||hybridtradeoptions.com^|
@@ -14823,6 +14838,7 @@
 ||iflyer.it^|
 ||ig-hgk.com^|
 ||igbce-stolberg.de^|
+||igelwelt.com^|
 ||igfiv.talentway-at.com^|
 ||ighpolipd.com^|
 ||igj.talentway-at.com^|
@@ -15196,6 +15212,7 @@
 ||intersport-at.myshoplaza.com^|
 ||intersport-at.shop^|
 ||intersport-eu.com^|
+||intersport88.myshoplaza.com^|
 ||interstatesavings.us^|
 ||intervalk.net^|
 ||interventionen.at^|
@@ -16004,6 +16021,7 @@
 ||kalkhofffahrrader.de^|
 ||kalkstore.com^|
 ||kallieswelpen.com^|
+||kallisteremeurl.com^|
 ||kaltesholz.de^|
 ||kaluxo.de^|
 ||kamagra-goedkoop.nl^|
@@ -16676,6 +16694,7 @@
 ||klimabonus2026.at^|
 ||klimag.myshopify.com^|
 ||klimageld-2026.cc^|
+||klimagerat.com^|
 ||klimahaus.myshopify.com^|
 ||klimakaelteprofi.com^|
 ||klimapraemie-2026.cc^|
@@ -16860,6 +16879,7 @@
 ||koomty.com^|
 ||koowofficial.com^|
 ||koozmotor.com^|
+||kopfwaermer.com^|
 ||kopkde.shop^|
 ||koppermuller-markt.de^|
 ||koppsic.top^|
@@ -17466,6 +17486,7 @@
 ||learnico.it^|
 ||learnigo.co.za^|
 ||learnwash.com^|
+||leathemeans.com^|
 ||leatherbagsale.com^|
 ||leatherjacketgear.com^|
 ||leathershire.co.uk^|
@@ -17570,6 +17591,7 @@
 ||leguano-schuhe.at^|
 ||leguanoschuhe.at^|
 ||lehmann-kauf.com^|
+||lehmannatelier.de^|
 ||lehmannhannover.de^|
 ||lehmannmode.de^|
 ||lehnert-versand.de^|
@@ -18987,6 +19009,8 @@
 ||markel-energie.com^|
 ||markensnowboard.com^|
 ||market.clearancewhirl.com^|
+||market.darrowmere.com^|
+||market.halewick.com^|
 ||market.vailmere.com^|
 ||market24prime.shop^|
 ||marketbottle.com^|
@@ -19275,6 +19299,7 @@
 ||mediaglobus.de^|
 ||mediamarkt-at.com^|
 ||mediamarkt-austria.com^|
+||mediamarkt-berlin.com^|
 ||mediamarkt-de.com^|
 ||mediamarkt-de.store^|
 ||mediamigo.net^|
@@ -19582,6 +19607,7 @@
 ||mernesberlin.com^|
 ||merovia.de^|
 ||meroycollection.store^|
+||merrachi-de.com^|
 ||merrell-austria.com^|
 ||merrell-deutschland.de^|
 ||Merrell-osterreich.at^|
@@ -20082,6 +20108,7 @@
 ||modehaus-valentin.de^|
 ||modehaus-wagner.de^|
 ||modehausbrandt.com^|
+||modehausedelweis.com^|
 ||modehausessen.de^|
 ||modehausfischer.com^|
 ||modehausgruber.com^|
@@ -20994,6 +21021,7 @@
 ||needitor.xyz^|
 ||needsary.com^|
 ||needtohike.com^|
+||needtoknit.com^|
 ||neehy.com^|
 ||neepage.com^|
 ||negee.xyz^|
@@ -22549,6 +22577,7 @@
 ||optfurniture.com^|
 ||optfurnitureoff.com^|
 ||opthcbicycle.com^|
+||opticlegacy.com^|
 ||optima-handel.de^|
 ||optimal-device.com^|
 ||optimalattire.com^|
@@ -22799,6 +22828,7 @@
 ||ottoxa.com^|
 ||ottoxaus.net^|
 ||ouacctv.com^|
+||oubao1930.com^|
 ||oubeaute.de^|
 ||oud.sint-janscollege.be^|
 ||oueintegral.com^|
@@ -23083,6 +23113,7 @@
 ||ownyourregion.eu^|
 ||owowmoney.com^|
 ||owrock.com^|
+||owronline.com^|
 ||oxautozubeh.de^|
 ||oxcoinoptionfx.com^|
 ||oxelvian.com^|
@@ -23118,6 +23149,7 @@
 ||packsoutdoor.com^|
 ||packsracksbaskets.org^|
 ||pacsunsouthafrica.co.za^|
+||paddleaway.de^|
 ||paddy-aroma.shop^|
 ||padelfreunde.shop^|
 ||paedia.top^|
@@ -23781,7 +23813,6 @@
 ||pillenprodukte.de^|
 ||pillenrezeptfrei.de^|
 ||pillenwelt.at^|
-||pillintrip.com^|
 ||pillo-haus.myshopify.com^|
 ||pillola-italia.com^|
 ||pillow-sales.com^|
@@ -25019,6 +25050,7 @@
 ||racingproline.com^|
 ||racingteam-hunger.de^|
 ||radar-aso.com^|
+||radbasis.com^|
 ||radbegeisterung.de^|
 ||radbekleidung4u.com^|
 ||raddaempferklinik.shop^|
@@ -26973,6 +27005,7 @@
 ||scgyj.animepanorama.com^|
 ||schaap.at^|
 ||schachworkshop.de^|
+||schaedlingsschutz.at^|
 ||schafflutzel-motorgerate.com^|
 ||schafproduktion24.de^|
 ||schalen-shop.com^|
@@ -27211,6 +27244,7 @@
 ||schwertkronede.shop^|
 ||schwestertanja.com^|
 ||schwfoto.com^|
+||schwimmschuh.com^|
 ||scientificw.com^|
 ||scieriebarlet.com^|
 ||scifianimetoy.com^|
@@ -27638,6 +27672,7 @@
 ||shiseido-eu.com^|
 ||shmdesigns.com^|
 ||shmgadgets.com^|
+||shminfo.com^|
 ||shockabsorbersshop.com^|
 ||shockeagle.com^|
 ||shoe-designers.com^|
@@ -28019,6 +28054,7 @@
 ||shotkins.com^|
 ||shouaa.com^|
 ||shouldrub.com^|
+||shoupou.com^|
 ||showblanketsonline.com^|
 ||showcar-cologne.de^|
 ||showerheadmr.com^|
@@ -29079,6 +29115,7 @@
 ||star-apotheke.org^|
 ||star-real-estate.com^|
 ||starapotheke.com^|
+||starays.com^|
 ||starcici.com^|
 ||starconnectt.com^|
 ||staregoods.com^|
@@ -29101,6 +29138,7 @@
 ||start.learn-english.education^|
 ||startrade.co^|
 ||startrendy.shop^|
+||startrsp.com^|
 ||startshopfulfillment.de^|
 ||startswimca.com^|
 ||startx.at^|
@@ -30136,6 +30174,7 @@
 ||takoerv.com^|
 ||takones.cl^|
 ||taktikinvestakademie.com^|
+||taktikwaffen.com^|
 ||taktischewelt.com^|
 ||tal-der-wikinger.de^|
 ||talafish.store^|
@@ -33456,6 +33495,7 @@
 ||vondacoco.com^|
 ||vondaro.de^|
 ||vongano.com^|
+||voniri.com^|
 ||vonkoeck.shop^|
 ||vonoehsen-hifi.com^|
 ||vonpleissenstein.shop^|
@@ -35066,6 +35106,7 @@
 ||zddbbb.com^|
 ||zddliver.com^|
 ||zeasywithus.com^|
+||zebrasisi.com^|
 ||zedfrebbcapital.com^|
 ||zeegerstech.de^|
 ||zeeneta.shop^|
@@ -35100,6 +35141,7 @@
 ||zenla.de^|
 ||zenniagoods.com^|
 ||zeno-paris.shop^|
+||zenoclimat.de^|
 ||zenorylab.com^|
 ||zenospark.top^|
 ||zenova-shop.de^|
