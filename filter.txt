@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-04T23:50:57.524166Z
+! Generated: 2026-08-05T03:16:13.343766Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -54,6 +54,7 @@
 ||222-t.com^|
 ||223.de.com^|
 ||22crypton-tradings.com^|
+||24-fahrradladen.com^|
 ||24-modellstore.com^|
 ||247-healthstore.com^|
 ||247blue.de^|
@@ -821,6 +822,7 @@
 ||alisreinigungservice.de^|
 ||alitec-online-sto.shop^|
 ||aliveffect.com^|
+||alkan-bike.com^|
 ||alkapczynska.com^|
 ||all-eco.eu^|
 ||all-est.com^|
@@ -5407,6 +5409,7 @@
 ||chasellsm.click^|
 ||chaserclothes.com^|
 ||chastitybox.com^|
+||chat-box.ai^|
 ||chatfever.at^|
 ||chatgpt-dividende.de^|
 ||chatgpt-investment.de^|
@@ -6666,6 +6669,7 @@
 ||custom.changepool.xyz^|
 ||customalls.com^|
 ||customerwelcome.top^|
+||custosprivatstiftung.at^|
 ||cutadorns.com^|
 ||cutblajat.com^|
 ||cutcy.top^|
@@ -13818,6 +13822,7 @@
 ||heute-horoskope.de^|
 ||heveganl.com^|
 ||hexagonresources.org^|
+||hextryxstorm.digital^|
 ||heydearde.shop^|
 ||heydude-schuhe.de^|
 ||heydude-spain.com^|
@@ -16692,6 +16697,7 @@
 ||klimabonus-2026.net^|
 ||klimabonus-at.com^|
 ||klimabonus2026.at^|
+||klimafresh.com^|
 ||klimag.myshopify.com^|
 ||klimageld-2026.cc^|
 ||klimagerat.com^|
@@ -17126,6 +17132,7 @@
 ||kyoshorc.com^|
 ||kyros-mining.github.io^|
 ||kytoelektro.com^|
+||kzlkozlm.shop^|
 ||kzoephoto.com^|
 ||kzp-handel.com^|
 ||kzv-kirdorf.de^|
@@ -17590,6 +17597,7 @@
 ||leguano-at.com^|
 ||leguano-schuhe.at^|
 ||leguanoschuhe.at^|
+||lehmann-gartenmaschinen.com^|
 ||lehmann-kauf.com^|
 ||lehmannatelier.de^|
 ||lehmannhannover.de^|
@@ -17651,6 +17659,7 @@
 ||lendowl.co^|
 ||lengerich-kontor.de^|
 ||lengerts.de^|
+||lenimara.at^|
 ||lennartkreutz.de^|
 ||lenoxsale.com^|
 ||leoapotheke-detmold.de^|
@@ -19312,6 +19321,7 @@
 ||medicalandbeautycare.com^|
 ||medicalapotheke.com^|
 ||medicalbasic.de^|
+||medicalsupportsale.com^|
 ||medicamententreparticulier.com^|
 ||medicine73.com^|
 ||medicineronline.net^|
@@ -20422,6 +20432,7 @@
 ||motoholland.com^|
 ||motokultur-shop.com^|
 ||motonordic.shop^|
+||motopartsdeutschland.com^|
 ||motorblockelektrik.com^|
 ||motorcyclecastlex.com^|
 ||motorcycleonussale.com^|
@@ -20517,6 +20528,7 @@
 ||mrugalla-restaurator.de^|
 ||mrzubehorgeschaft.com^|
 ||ms-shippings.net^|
+||msanhanger.at^|
 ||msc-transglobal.com^|
 ||mscweissenbach.at^|
 ||mse-the-beautycompany.shop^|
@@ -21412,6 +21424,7 @@
 ||nikeuk.uk.com^|
 ||nikfalaht.com^|
 ||niki4u.at^|
+||nikicloth.de^|
 ||nikiexportdiffusion.com^|
 ||nikitakelley.com^|
 ||nikkiluzzi.com^|
@@ -21667,6 +21680,7 @@
 ||novana-berlin.de^|
 ||novando.de^|
 ||novant.fr^|
+||novaris-capitallimited.ltd^|
 ||novarixtrader.net^|
 ||novasabers.de^|
 ||novateki.com^|
@@ -23560,6 +23574,7 @@
 ||peritacionjudicialoficial.com^|
 ||perlatoschuhe.com^|
 ||perlatoshoe.com^|
+||perlenwerk.com^|
 ||perlenzwoelfe.de^|
 ||perlidit.org^|
 ||perlimpinpinde.shop^|
@@ -27019,6 +27034,7 @@
 ||schaumex.shop^|
 ||schaumstofffischer.shop^|
 ||schedule73parts.shop^|
+||schelhammer-systems.com^|
 ||schellenschmie.de^|
 ||schemecarce.net^|
 ||schemette.top^|
@@ -28344,6 +28360,7 @@
 ||skyquaddrone.com^|
 ||skyrro.com^|
 ||Skyvoi-de.com^|
+||skywork.ai^|
 ||skyxon.de^|
 ||sl-handel24.de^|
 ||sl-leasinggesmbh.at^|
@@ -28453,6 +28470,7 @@
 ||smitdeals.de^|
 ||smk.dog^|
 ||smlkje.com^|
+||smokelabin.com^|
 ||smokerland.net^|
 ||smokingwares.com^|
 ||smono.life^|
@@ -35293,6 +35311,7 @@
 ||zoneustoys.com^|
 ||zonevogue-us.com^|
 ||zoneyell.com^|
+||zonixwater.com^|
 ||zonlaythuo.com^|
 ||zooclouduk.com^|
 ||zoodom.at^|
