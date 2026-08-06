@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-05T23:42:35.222679Z
+! Generated: 2026-08-06T01:08:18.632220Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -815,6 +815,7 @@
 ||alikehay.com^|
 ||alimatoure.com^|
 ||alimhomeoutlet.shop^|
+||alimora.shop^|
 ||alina-handel.de^|
 ||alinatonce.com^|
 ||alinea-online.com^|
@@ -2388,6 +2389,7 @@
 ||babaroni.de^|
 ||babelautomobile.de^|
 ||bablleny.com^|
+||babolats.at^|
 ||baby-apparel.store^|
 ||baby-rostock.com^|
 ||baby-sanft-einschlafen.de^|
@@ -3446,6 +3448,7 @@
 ||bhrabatt.com^|
 ||bhslogistic.tk^|
 ||bhstransport.tk^|
+||bialettiaustria.com^|
 ||bibling.xyz^|
 ||bibox-coin.com^|
 ||bicelio.com^|
@@ -8177,6 +8180,7 @@
 ||dreissig105.de^|
 ||drelkuvizen.at^|
 ||dremberlyn.com^|
+||dreodeutschland.com^|
 ||dresdenboutique.com^|
 ||dresdenmodehaus.de^|
 ||dresdensein.com^|
@@ -9652,6 +9656,7 @@
 ||eviox24.de^|
 ||evisas.travel^|
 ||evitadeutschland.de^|
+||evitrol.com^|
 ||evitybag.com^|
 ||evnedev.shop^|
 ||evnedeve02.com^|
@@ -10286,6 +10291,7 @@
 ||feldmann-reifen.com^|
 ||feldmanwam.com^|
 ||feleshajett.com^|
+||feleva.com^|
 ||felflame.com^|
 ||felgenwelt.com^|
 ||feliceguglielmo.com^|
@@ -11203,6 +11209,7 @@
 ||frest.shop^|
 ||fretboardfusion.com^|
 ||freteshion.com^|
+||frethix.com^|
 ||frettchen-fun.de^|
 ||freud-tool.com^|
 ||freuden-berg.de^|
@@ -12193,6 +12200,7 @@
 ||giesswein.shop^|
 ||giessweinat.at^|
 ||giessweinca.com^|
+||giessweinfootwear.shop^|
 ||giessweinno.com^|
 ||giessweins.at^|
 ||giessweins.es^|
@@ -12917,6 +12925,7 @@
 ||gstastoreshop.de^|
 ||gstore.at^|
 ||gswarenwirtschaft.de^|
+||gswoutfit.shop^|
 ||gteddybear.com^|
 ||gtelecharger.com^|
 ||gthebeefirm.com^|
@@ -15378,6 +15387,7 @@
 ||isoassu.com^|
 ||isocals.com^|
 ||isoccerkit.com^|
+||isolierbecher.com^|
 ||isotrader.cc^|
 ||isperlen.shop^|
 ||ispstis.com^|
@@ -15493,6 +15503,7 @@
 ||jacobs-handel24.de^|
 ||jacobs-reifenversand.com^|
 ||jacoobss.store^|
+||jaeger-insolvenz.de^|
 ||jafar-france.fr^|
 ||jaffe-rechtsanwaelte.de^|
 ||jag-elec.com^|
@@ -15533,6 +15544,7 @@
 ||japansmartmarketing.com^|
 ||jardensofficial.com^|
 ||jardinovano.com^|
+||jasminecrafts.store^|
 ||jassieline.com^|
 ||javanit.myshopify.com^|
 ||jawoll-berlin.de^|
@@ -19020,6 +19032,7 @@
 ||market.clearancewhirl.com^|
 ||market.darrowmere.com^|
 ||market.halewick.com^|
+||market.saverevolve.com^|
 ||market.vailmere.com^|
 ||market24prime.shop^|
 ||marketbottle.com^|
@@ -19867,6 +19880,7 @@
 ||miningrid.com^|
 ||mininomade.de^|
 ||miniorad.de^|
+||minipfotenwelt.com^|
 ||minisproetzel.de^|
 ||miniwallet.at^|
 ||minkaaire-fan.com^|
@@ -21838,6 +21852,7 @@
 ||oadkb.endorthc.pl^|
 ||oaiv-freiburg.de^|
 ||oakdalerotary.org^|
+||oakfieldy.com^|
 ||oakgetloft.com^|
 ||oakprimefinance.com^|
 ||oamteqit.com^|
@@ -23534,6 +23549,7 @@
 ||people.purecap.xyz^|
 ||peoplespot.io^|
 ||pepe-jeans.at^|
+||pepedenimjeans.com^|
 ||peppermayo.com^|
 ||peppermayo.eu^|
 ||pepperstone.vip^|
@@ -25057,6 +25073,7 @@
 ||raceproof.top^|
 ||racetrackes.com^|
 ||raceture.top^|
+||racgjshq.shop^|
 ||rachellynngarris.com^|
 ||rachety.xyz^|
 ||rachment.top^|
@@ -25972,6 +25989,7 @@
 ||riokapital.eu^|
 ||riosale.online^|
 ||riotintofx-crypto.com^|
+||riotintoportside.com^|
 ||riotpillow.de^|
 ||rip-curl.co.at^|
 ||ripcurl.co.at^|
@@ -27306,6 +27324,7 @@
 ||sdjiy.shop^|
 ||sdk-transport.com^|
 ||sdmndpkrec.com^|
+||se-sthqntm-64.com^|
 ||se-vignette-france.com^|
 ||se.gabrieleberardinucci.com^|
 ||se.myriamrannou.com^|
@@ -31890,6 +31909,7 @@
 ||tryfono.com^|
 ||tryglamory.de^|
 ||tryglycogenplus.com^|
+||tryinnerly.com^|
 ||trykiyao.com^|
 ||trylovestore.site^|
 ||trynori.de^|
@@ -33612,6 +33632,7 @@
 ||vvhqaq.top^|
 ||vvichio.shop^|
 ||vviklp.top^|
+||vvmwtdpc.shop^|
 ||vvseeds.com^|
 ||vvshopping.top^|
 ||vwfqk.com^|
@@ -33985,6 +34006,7 @@
 ||weindorf-lonsheim.de^|
 ||weinekaufen.com^|
 ||weinesprituosen.com^|
+||weinfit.shop^|
 ||weinfreunde-desale.shop^|
 ||weinfreunde-deutsch.shop^|
 ||weinfreunde-outlet.shop^|
@@ -33999,6 +34021,7 @@
 ||weinrabatt.com^|
 ||weinskandal.shop^|
 ||weinsteincorp.biz^|
+||weinundgenusswelt.com^|
 ||weinundmehr.net^|
 ||weinweltgenuss.com^|
 ||weiprost-pro.com^|
@@ -34640,6 +34663,7 @@
 ||wwd.bags2020c.cz^|
 ||wwf.sneakerz2020.com^|
 ||wwhhwwh.top^|
+||wwiqtest.com^|
 ||wwjrm.hnvapbuy.shop^|
 ||wwllan.com^|
 ||wwmode.de^|
