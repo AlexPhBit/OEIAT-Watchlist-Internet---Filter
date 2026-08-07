@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-06T14:55:25.546236Z
+! Generated: 2026-08-07T00:29:26.288099Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2146,6 +2146,7 @@
 ||autocyclebest.com^|
 ||autocyclesale.com^|
 ||autodichtung.com^|
+||autodriverama.com^|
 ||autoexpertpartshop.com^|
 ||autogearlabflow.com^|
 ||autoglobalshipping.com^|
@@ -2240,6 +2241,7 @@
 ||autorfahrumpler.at^|
 ||autoroad.top^|
 ||autosbios.com^|
+||autoscentral.eu^|
 ||autostockdirect.de^|
 ||autoteiledirektde.com^|
 ||autoteileelopode.shop^|
@@ -7947,6 +7949,7 @@
 ||docsmartensosterreich.at^|
 ||docsvaporsupply.com^|
 ||doctorappleca.com^|
+||doctortrf.com^|
 ||doctriney.com^|
 ||documentarp.com^|
 ||dodenho.com^|
@@ -11050,6 +11053,7 @@
 ||fotohandel-wagner.de^|
 ||fotomotivos.com^|
 ||fotosrestaurieren.de^|
+||fotostudi.de^|
 ||fototauscher.at^|
 ||foundatioy.com^|
 ||fouque.de^|
@@ -11486,6 +11490,7 @@
 ||gabor-turkiye.com^|
 ||gabor-uk.com^|
 ||gabor.com.se^|
+||gabor.in^|
 ||gabor.lilshydasia.com^|
 ||gaborargentina.com^|
 ||gaboraustralia.com^|
@@ -11918,6 +11923,7 @@
 ||geetahair.com^|
 ||gefenstert.de^|
 ||geflowing.de^|
+||gefrints.com^|
 ||gegoiw.com^|
 ||geheshop.com^|
 ||geisler-autoreifen.com^|
@@ -12376,6 +12382,7 @@
 ||globalkeys-sa.com^|
 ||globalmarketoption.com^|
 ||globalmedsnet.com^|
+||globalpartners-ltd.com^|
 ||globalrockies.ch^|
 ||globalsettling.com^|
 ||globaltradeforex.com^|
@@ -12839,7 +12846,6 @@
 ||groundies-finland.com^|
 ||groundies-osterreich.com^|
 ||groundies-slovenija.com^|
-||groundies.at^|
 ||groundiesbarefootschweiz.com^|
 ||groundiesblackfriday.com^|
 ||groundiesdamen.de^|
@@ -17292,6 +17298,7 @@
 ||landscapek.com^|
 ||landwirt-und-container.com^|
 ||landwirtschaftlicheegbr.com^|
+||landwirtschaftshop.com^|
 ||lane-properties.com^|
 ||laneyea.com^|
 ||lang-reifenhandel.com^|
@@ -19029,6 +19036,7 @@
 ||markechant.com^|
 ||markel-energie.com^|
 ||markensnowboard.com^|
+||market.cedarbourne.com^|
 ||market.clearancewhirl.com^|
 ||market.darrowmere.com^|
 ||market.halewick.com^|
@@ -19700,6 +19708,7 @@
 ||mewens.de^|
 ||mewmews.com^|
 ||mexc.com^|
+||mexdkjuf.com^|
 ||mexicotabs.com^|
 ||mexisale.com^|
 ||mexxireland.com^|
@@ -19723,6 +19732,7 @@
 ||mhamzoud.com^|
 ||mharifd.com^|
 ||mhpa.net^|
+||mhrauto-industrie.com^|
 ||mi-tische.de^|
 ||mia-boutique.uk^|
 ||mia-modehaus.ch^|
@@ -22740,6 +22750,7 @@
 ||ornamenttoy.com^|
 ||orrebol.com^|
 ||ortexgruppe.com^|
+||ortexgruppepros.com^|
 ||ortho-magazin.de^|
 ||ortho-pulse.de^|
 ||ortho-shoes.at^|
@@ -23919,6 +23930,7 @@
 ||pixulovesk.click^|
 ||pjaonemus.com^|
 ||pjcommodity.com^|
+||pjwyzcxh.shop^|
 ||pkamyonpark.shop^|
 ||pkgqybz.top^|
 ||pkmrangasf.com^|
@@ -27412,6 +27424,7 @@
 ||seigesund.top^|
 ||seigneurin.fr^|
 ||seikouhr.de^|
+||seirzvxn.shop^|
 ||seiteeintragen.com^|
 ||sek-estate.com^|
 ||sekoda-de.com^|
@@ -27699,6 +27712,7 @@
 ||shirenr.shop^|
 ||shirohana.shop^|
 ||shirt-creativ.at^|
+||shirteu365.com^|
 ||shirts-shopsales.com^|
 ||shirtsandpolosde.com^|
 ||shirtsob.com^|
@@ -30399,6 +30413,7 @@
 ||teddyherment.com^|
 ||tedex.co^|
 ||tedex.live^|
+||tee1.shop^|
 ||teekee.shop^|
 ||teenovi.com^|
 ||teensales.online^|
@@ -32083,6 +32098,7 @@
 ||udoke.com^|
 ||uduwz.com^|
 ||uearshot.shop^|
+||uebersiedlunglinz.at^|
 ||ueqlkvv.bar^|
 ||ueximious.com^|
 ||ueyiwegjfsg.shop^|
@@ -33648,6 +33664,7 @@
 ||vynpkgrz.shop^|
 ||vynxaria.com^|
 ||vytor.de^|
+||vyxenor.com^|
 ||vzafiradev.shop^|
 ||w.store-mvp.shop^|
 ||w.unisosterreich.shop^|
@@ -34911,6 +34928,7 @@
 ||yhugideas.top^|
 ||yieldwe.com^|
 ||yilexin.shop^|
+||yipmriso.shop^|
 ||yiqixiuba.com^|
 ||yiteuanshop.com^|
 ||yiyter.com^|
