@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-08T00:00:59.971426Z
+! Generated: 2026-08-08T02:19:00.779607Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -103,6 +103,7 @@
 ||3racingparts.com^|
 ||420keyz.top^|
 ||4803967.info^|
+||4bike.net^|
 ||4living.at^|
 ||4rxofficial.com^|
 ||5-drugs.com^|
@@ -1451,6 +1452,7 @@
 ||aphidophaga.de^|
 ||aphroditecards.com^|
 ||apivity.xyz^|
+||apjjket.com^|
 ||apkgy.com^|
 ||apkwell.com^|
 ||aplschuhe.com^|
@@ -2889,6 +2891,7 @@
 ||beatusbikes.com^|
 ||beaubeaushop.shop^|
 ||beauteouss.com^|
+||beautflly.com^|
 ||beauticiantraining.lat^|
 ||beautifulornament.com^|
 ||beauttyan.com^|
@@ -4461,6 +4464,7 @@
 ||brookssvip.com^|
 ||brookswalkingshoesireland.com^|
 ||brot-meister.com^|
+||brotbackenshop.com^|
 ||brothershopss.com^|
 ||brovia.co^|
 ||brownpopos.com^|
@@ -6353,6 +6357,7 @@
 ||cosmeticsyy.com^|
 ||cosmic-rays.de^|
 ||cosmicclothing.us^|
+||cosmicpdf.com^|
 ||cosmokin.top^|
 ||cosmorent.at^|
 ||cosmoscrisp.com^|
@@ -6750,6 +6755,7 @@
 ||cymgrup.com^|
 ||cyno-sainti.ch^|
 ||cyprus.gluconol-capsules.com^|
+||cyrarise.com^|
 ||cyrcoins.com^|
 ||cyrilr.club^|
 ||cyrilterry.com^|
@@ -7578,6 +7584,7 @@
 ||deutschlandticket24.com^|
 ||deutschlandtickets24.com^|
 ||deutschlandtourbooking.com^|
+||deutschtool.com^|
 ||deutschverkauft.com^|
 ||deutschwelpenplatz.de^|
 ||dev-real-estate.com^|
@@ -8993,6 +9000,7 @@
 ||ellipentical.net^|
 ||elmawatch.shop^|
 ||elnaturalistadeutschland.de^|
+||elnaturalistaosterreich.com^|
 ||elo-cc.de^|
 ||eloisetonerr.com^|
 ||elon22.com^|
@@ -11333,6 +11341,7 @@
 ||fundgoxpro-solution.com^|
 ||fundgoxpro.net^|
 ||fundgoxprosolution.com^|
+||fundora.at^|
 ||funfairytoys.com^|
 ||funfiy.com^|
 ||funfunlego.com^|
@@ -13688,6 +13697,7 @@
 ||helden-not.de^|
 ||heldenglueck.shop^|
 ||helenasladen.de^|
+||helene-ida-schmuck.de^|
 ||helenerafferty.com^|
 ||helenvandekamp.com^|
 ||helestyle.com^|
@@ -17296,6 +17306,7 @@
 ||landrope.com^|
 ||landscapecas.com^|
 ||landscapek.com^|
+||landtechnik-striptechno.de^|
 ||landwirt-und-container.com^|
 ||landwirtschaftlicheegbr.com^|
 ||landwirtschaftshop.com^|
@@ -22245,6 +22256,7 @@
 ||omnicard.co^|
 ||omnicarecintas.com^|
 ||omniebau.de^|
+||omniluxaustria.com^|
 ||omniluxdeutschlands.com^|
 ||omniteamb.com^|
 ||omomentep.live^|
@@ -29413,6 +29425,7 @@
 ||store.aldenross.com^|
 ||store.birkvsale.com^|
 ||store.birkxsale.com^|
+||store.dalecrofton.com^|
 ||store.dealofferix.com^|
 ||store.dobot.cc^|
 ||store.kestrelby.com^|
@@ -31694,6 +31707,7 @@
 ||transparentf.com^|
 ||transparentk.com^|
 ||transparentw.com^|
+||transport51.de^|
 ||transportangatahy.com^|
 ||transporte-moroncillo.com^|
 ||transportes-angel-salinas.com^|
@@ -33022,6 +33036,7 @@
 ||verlockungnachrichten.com^|
 ||vermessung-dubbert.de^|
 ||vernfootball.xyz^|
+||vernixo.info^|
 ||verobacio.com^|
 ||verobraun.de^|
 ||verodi-shop.de^|
@@ -34114,6 +34129,7 @@
 ||werkora-industrial.com^|
 ||werkstattgerateprofi.com^|
 ||werkstattgitter.com^|
+||werkundwarme.de^|
 ||werkvoorraden.com^|
 ||werkzeug-brandl.com^|
 ||werkzeug-salesshop.com^|
@@ -35393,6 +35409,7 @@
 ||zuhaushop.de^|
 ||zuhiog.com^|
 ||zujoselen.shop^|
+||zukunfttreuhand.com^|
 ||zulahamburg.de^|
 ||zularo.de^|
 ||zum-alten-perkeo.de^|
