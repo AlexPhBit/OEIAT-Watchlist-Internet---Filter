@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-10T23:20:39.635290Z
+! Generated: 2026-08-11T00:01:51.920359Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1295,6 +1295,7 @@
 ||anhangershop.com^|
 ||anhangershop24.com^|
 ||anhangershopsey.com^|
+||anhangervermietung.at^|
 ||anhangerwagen.com^|
 ||anhor-sports.shop^|
 ||ani--zoo.com^|
@@ -1487,12 +1488,14 @@
 ||apothekedeutschland.com^|
 ||apothekeeuropa.de^|
 ||apothekehilfe.com^|
+||apothekeinnsbruck.com^|
 ||apothekemedicament.com^|
 ||apotheken-rundschau-bayern.de^|
 ||apotheken24de.com^|
 ||apothekenempfehlung.de^|
 ||apotheker-rezeptfrei.de^|
 ||apothekerezeptfrei-1.puzl.com^|
+||apothekesalzburg.com^|
 ||apothekevienna.com^|
 ||apoversand24.com^|
 ||app.easycrypto4u.com^|
@@ -2135,6 +2138,7 @@
 ||authorityo.com^|
 ||autleez.com^|
 ||auto-ekra.at^|
+||auto-fidan.com^|
 ||auto-handel.org^|
 ||auto-moll.at^|
 ||auto-partshome.com^|
@@ -2577,6 +2581,7 @@
 ||balocune.com^|
 ||balony.de^|
 ||balotracity.com^|
+||balservital.de^|
 ||baltic-koelln-fehmarnsale.shop^|
 ||baltickoellnfehmarn.shop^|
 ||balvionex.com^|
@@ -8004,6 +8009,7 @@
 ||dolters.de^|
 ||dom-home.com^|
 ||domabes.com^|
+||domainene.com^|
 ||domainnamebbs.com^|
 ||domatin.com^|
 ||domcapitalfx.com^|
@@ -8942,6 +8948,7 @@
 ||elin-chrom.de^|
 ||elinardi.com^|
 ||elinlektonius.shop^|
+||eliovence.com^|
 ||eliphaslevi.de^|
 ||elipinks.com^|
 ||elipolyse.de^|
@@ -9544,6 +9551,7 @@
 ||eurlogistic.com^|
 ||eurltddiffusion.com^|
 ||euro-cash-finance.com^|
+||euro-garten.com^|
 ||euro-markt.at^|
 ||euro-nics-deutschland.com^|
 ||euro-pharma24x7.com^|
@@ -10290,6 +10298,7 @@
 ||feelhappyrebate.com^|
 ||feelrational.com^|
 ||feher-buch.de^|
+||fei3nhaus58.com^|
 ||feiautumn.top^|
 ||feilerelektro.com^|
 ||feinkaufshop.com^|
@@ -11724,6 +11733,7 @@
 ||garcia.co.at^|
 ||garden-caddy.com^|
 ||garden-caddy.de^|
+||garden-de.myshopify.com^|
 ||garden-machines-shop.com^|
 ||garden-machines.com^|
 ||garden-sell.com^|
@@ -12257,6 +12267,7 @@
 ||gigawelt.net^|
 ||gigotnote.com^|
 ||gihuzt.shop^|
+||giikfire.com^|
 ||gilanfarss.com^|
 ||gilbert-onlinehandel.com^|
 ||gileng.com^|
@@ -12852,6 +12863,7 @@
 ||grossiste-parfum-generique.com^|
 ||grotecenergy.com^|
 ||groteno.de^|
+||groundies-de.com^|
 ||groundies-finland.com^|
 ||groundies-osterreich.com^|
 ||groundies-slovenija.com^|
@@ -13346,6 +13358,7 @@
 ||harmanli-gmbh.store^|
 ||harmonicasa.com^|
 ||harmoniouy.com^|
+||harmony-ambiento.shop^|
 ||haroimportexport.at^|
 ||harpecy.com^|
 ||harper-berlin.com^|
@@ -14038,6 +14051,7 @@
 ||hochgothe.de^|
 ||hochstein-musikhaus.de^|
 ||hochstift-garten.de^|
+||hochwertigerwein.com^|
 ||hochwertigesspielzeug.com^|
 ||hochzeitslounge.at^|
 ||hockeyaccessoriesapparel.com^|
@@ -14819,6 +14833,7 @@
 ||id-austria.at-bmf-gv-uberprufung.com^|
 ||Id-austria.at.gv-oesterreich.com^|
 ||id-austria.bmf-gv-at.com^|
+||idaalma.com^|
 ||idabitar.com^|
 ||idaffodil.shop^|
 ||idailyshop.com^|
@@ -16186,6 +16201,7 @@
 ||karrimorschuhe.de^|
 ||karroc.de^|
 ||karsten-burkhardt.shop^|
+||kartgearshop.nl^|
 ||kartsportzubehoer.com^|
 ||karylite.com^|
 ||kash-leone.fr^|
@@ -16614,6 +16630,7 @@
 ||kitchenwarede.de^|
 ||kitchenwarehubde.com^|
 ||kitchenyummy.com^|
+||kitecheande.com^|
 ||kitecivid.com^|
 ||kiteeo.com^|
 ||kitelay.com^|
@@ -16723,6 +16740,7 @@
 ||klick-ndb.de^|
 ||klima-bonus.app^|
 ||klimabonus-2026.net^|
+||klimabonus-antrag.co^|
 ||klimabonus-at.com^|
 ||klimabonus2026.at^|
 ||klimafresh.com^|
@@ -16953,6 +16971,7 @@
 ||kraftdesweins.com^|
 ||kraftholz.shop^|
 ||krafthoz-pellets.com^|
+||kraftindustrie-shop.de^|
 ||kraftraumpro.com^|
 ||kraftsohle.de^|
 ||krafttool24.com^|
@@ -17872,6 +17891,7 @@
 ||life-golg.com^|
 ||life-houses.shop^|
 ||life.yuomyt.com^|
+||lifegaugebreeze.at^|
 ||lifesable.com^|
 ||lifesattributes.de^|
 ||lifestyle-brands-us.com^|
@@ -18043,6 +18063,7 @@
 ||lisamknight.com^|
 ||lisascholzhunde3.de^|
 ||lisaundich.de^|
+||lisdndhu.shop^|
 ||lisft.shop^|
 ||lisjo.shop^|
 ||liskinthof.com^|
@@ -18514,6 +18535,7 @@
 ||lufeipromo.shop^|
 ||luffglasses.com^|
 ||luftentfeuchterdewett.de^|
+||luftfreiheit.de^|
 ||luggagecityde.shop^|
 ||luiliebe.shop^|
 ||luisrora.com^|
@@ -21616,6 +21638,7 @@
 ||nordikb.com^|
 ||nordischesdesign.com^|
 ||nordjarl.shop^|
+||nordmagne.com^|
 ||nordmodehaus.com^|
 ||nordoil.de^|
 ||nordoutlets.com^|
@@ -27828,6 +27851,7 @@
 ||shop-virium.com^|
 ||shop-volcom.com^|
 ||shop-womenshoe.com^|
+||shop.asfinag.llc^|
 ||shop.asfinaq.de^|
 ||shop.askdrkan.com^|
 ||shop.birkenseusale.com^|
@@ -27853,6 +27877,7 @@
 ||shop.shopcider.com^|
 ||shop.tegeler.com^|
 ||shop.travisscott.eu.com^|
+||shop.uifuifx.shop^|
 ||shop.vffvllo.shop^|
 ||shop.vipsshop.ga^|
 ||shop.wkffku.top^|
@@ -32289,6 +32314,7 @@
 ||universalshippings.com^|
 ||universaltransitxpress.com^|
 ||universjouets.com^|
+||univormel.sbs^|
 ||univragri.com^|
 ||uniwiinc.com^|
 ||unjkvn.com^|
@@ -33033,6 +33059,7 @@
 ||verkaufschuhe.de^|
 ||verkaufsportmode.com^|
 ||verkehrsbande.com^|
+||verlimo-shop.com^|
 ||verlockungnachrichten.com^|
 ||vermessung-dubbert.de^|
 ||vernfootball.xyz^|
