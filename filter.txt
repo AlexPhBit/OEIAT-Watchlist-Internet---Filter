@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-11T23:57:11.366241Z
+! Generated: 2026-08-12T02:35:05.383225Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1297,7 +1297,6 @@
 ||anhangershopsey.com^|
 ||anhangervermietung.at^|
 ||anhangerwagen.com^|
-||anhor-sports.shop^|
 ||ani--zoo.com^|
 ||anibatchr.com^|
 ||anigame.shop^|
@@ -2180,6 +2179,7 @@
 ||automotorradkomponente.com^|
 ||autopartsberlin.com^|
 ||autopartssave.com^|
+||autopflegesets.com^|
 ||autopraxen.com^|
 ||autoreifen-abel.com^|
 ||autoreifen-barth.shop^|
@@ -2336,6 +2336,7 @@
 ||axel-maschine.de^|
 ||axelarigatoschuhe.com^|
 ||axelarigatowien.com^|
+||axess-ticket.com^|
 ||axessinvest.de^|
 ||axexniu.com^|
 ||axfritz.shop^|
@@ -4903,6 +4904,7 @@
 ||campingmay.com^|
 ||campingnatur.com^|
 ||campingneu.com^|
+||campingpas.de^|
 ||campingplatze-de.com^|
 ||campingpromo.store^|
 ||campingstuhleshop.com^|
@@ -9369,6 +9371,7 @@
 ||esgehtauchohnerezept.net^|
 ||eshoesoutlet.com^|
 ||eshop-univers.de^|
+||eshop.maplecrofta.com^|
 ||eshop.sintech.cn^|
 ||eshop.vailmere.com^|
 ||eshop6v.tk^|
@@ -10511,6 +10514,7 @@
 ||finallyabsent.com^|
 ||finalsales.shop^|
 ||finance-pioneers.de^|
+||finance-solution.ag^|
 ||finance91-eum55.sbs^|
 ||financeline-group.co^|
 ||financerevision.de^|
@@ -12062,6 +12066,7 @@
 ||germanyrimowa.com^|
 ||germanytool.com^|
 ||germins.de^|
+||germusik.com^|
 ||gerogalsop.com^|
 ||gerrys-modehaus.com^|
 ||gersnchht.store^|
@@ -12216,6 +12221,7 @@
 ||giardinoambienti.com^|
 ||giashopx.com^|
 ||gideonsarmymusic.com^|
+||giebel-motorgeraetekg.de^|
 ||giecy.com^|
 ||giesportaquitaine.com^|
 ||giesswein--schuhe.com^|
@@ -12492,6 +12498,7 @@
 ||godofparis.com^|
 ||godptde.shop^|
 ||goetzwache.de^|
+||goforbest.top^|
 ||gofussballtrikot.com^|
 ||gogeleinfinanz.com^|
 ||gogetrxonline.com^|
@@ -12927,6 +12934,7 @@
 ||grundstoffs-de.com^|
 ||grunekraft.shop^|
 ||grunekraft.store^|
+||grunepflanzenwelt.com^|
 ||grunetulpe.com^|
 ||grunevielfalt.com^|
 ||grunhaus.bebincommerce.store^|
@@ -13275,6 +13283,7 @@
 ||handytoolstorex.com^|
 ||haney-university-store.myshopify.com^|
 ||hangrygal.com^|
+||hanna-health.de^|
 ||hanna-trachten.de^|
 ||hannaberlin.com^|
 ||hannahgshinn.shop^|
@@ -13589,6 +13598,7 @@
 ||heimgrueen.com^|
 ||heimguts.shop^|
 ||heimjob-vermittlung.de^|
+||heimkauf.myshopify.com^|
 ||heimkinovertrieb.de^|
 ||heimkuchenwaren.com^|
 ||heimliebe24.de^|
@@ -14279,6 +14289,7 @@
 ||homeoanimode.shop^|
 ||homeobjecthotsale.com^|
 ||homeoffice-helden.de^|
+||homeofficepilot.at^|
 ||homeofvintage.co^|
 ||homeoliq.vom^|
 ||homepalacex.com^|
@@ -17999,6 +18010,7 @@
 ||limitswimwear.com^|
 ||limittoyland.com^|
 ||limmstore.com^|
+||limon-shop.at^|
 ||limoza.de^|
 ||linashop.de^|
 ||linavellegoods.com^|
@@ -19180,6 +19192,7 @@
 ||maschinenwelt24.com^|
 ||mascotsmall.com^|
 ||mashilt.com^|
+||masogrodo.com^|
 ||masonlinda.com^|
 ||masoponline.site^|
 ||massen.shop^|
@@ -19821,6 +19834,7 @@
 ||midea-klima.de^|
 ||midea-portasplit.com^|
 ||mideadeutschland.de^|
+||mideaoffiziell.de^|
 ||midformsandalen.net^|
 ||midikleider.com^|
 ||midlandmodels.com^|
@@ -20504,6 +20518,7 @@
 ||motorraders.de^|
 ||motorradking.com^|
 ||motorradoutfit.com^|
+||motorradsshop.com^|
 ||motorradteileonline.com^|
 ||motorradteileshop.com^|
 ||motorsensen-shop.com^|
@@ -21660,6 +21675,7 @@
 ||norleire.com^|
 ||normado.com^|
 ||normandy-omaha.fr^|
+||noroa.de^|
 ||noroki.com^|
 ||norra-nybacka.com^|
 ||norrloom.com^|
@@ -22093,6 +22109,7 @@
 ||officialcamping.com^|
 ||officialclimbing.com^|
 ||officialcomficraft.com^|
+||officialcoolizi.com^|
 ||officialfixdessertchocolatier.com^|
 ||officialfurnitures.com^|
 ||officialhomekit.com^|
@@ -24114,6 +24131,7 @@
 ||pmtree.lowcruise.shop^|
 ||pn-parfum.com^|
 ||pn99.cc^|
+||pngtree.com^|
 ||pnladvanced.com^|
 ||pnndjlfm.tk^|
 ||pnnert.com^|
@@ -24428,6 +24446,7 @@
 ||presiond.com^|
 ||preslimucede.net^|
 ||presparkle.com^|
+||pressdown.co^|
 ||presseausweis-beantragen.at^|
 ||pressl.co^|
 ||presssi.shop^|
@@ -24888,6 +24907,7 @@
 ||qdejjal.com^|
 ||qdevelope.com^|
 ||qdigivizi.com^|
+||qdklouxv.shop^|
 ||qeackenzie.shop^|
 ||qekug.de^|
 ||qenova.com^|
@@ -25128,6 +25148,7 @@
 ||racinghelmetde.com^|
 ||racingproline.com^|
 ||racingteam-hunger.de^|
+||rad-teile.com^|
 ||radar-aso.com^|
 ||radbasis.com^|
 ||radbegeisterung.de^|
@@ -26487,6 +26508,8 @@
 ||rupp-reifenversand.shop^|
 ||rureneu.com^|
 ||rushcivilizationmorale.com^|
+||rusin-anwaelte.de^|
+||rusin-recht.de^|
 ||russellandbromley.de^|
 ||russellbromleydeutschland.com^|
 ||russellbromleyschuhe.com^|
@@ -27326,6 +27349,7 @@
 ||schwestertanja.com^|
 ||schwfoto.com^|
 ||schwimmschuh.com^|
+||sciencefactoryshop.de^|
 ||scientificw.com^|
 ||scieriebarlet.com^|
 ||scifianimetoy.com^|
@@ -27621,6 +27645,7 @@
 ||severalbeast.com^|
 ||sevranmoove.fr^|
 ||sewdqcydt.beevolution.es^|
+||sewnmf.shop^|
 ||sexapotheke24.com^|
 ||sexicats.com^|
 ||sexpuppenkaufen.at^|
@@ -28508,6 +28533,7 @@
 ||smartfortore.it^|
 ||smartfortunehub.com^|
 ||smartguardtrades.online^|
+||smarthausio.com^|
 ||smarthomevi.com^|
 ||smartinvestorvision.com^|
 ||smartiq.co^|
@@ -28950,6 +28976,7 @@
 ||spiegler1.de^|
 ||spielburgen.com^|
 ||spieldeckestore.com^|
+||spieldistreet.shop^|
 ||spiele-kreis-graz.at^|
 ||spieleboxdek.com^|
 ||spielefritz.shop^|
@@ -29834,6 +29861,7 @@
 ||sunkosmetikschule.de^|
 ||sunlitecycle.com^|
 ||sunlitstyles.com^|
+||sunlu--resin.com^|
 ||sunlu-filaments.com^|
 ||sunmorrison.com^|
 ||sunnivaonline.shop^|
@@ -30813,6 +30841,7 @@
 ||themountainnew.com^|
 ||themountainus.com^|
 ||themusicianhouse.com^|
+||themusiciansshop.com^|
 ||thenelson.shop^|
 ||thenetfarmacia.com^|
 ||thenewparts.com^|
@@ -34960,6 +34989,7 @@
 ||yesokjewelry.com^|
 ||yesperly.com^|
 ||yetast.top^|
+||yexktahz.shop^|
 ||yfregent.com^|
 ||yfruitnut.com^|
 ||ygatha.com^|
@@ -35429,6 +35459,7 @@
 ||zteinberg-modehaus.de^|
 ||ztplatonic.com^|
 ||ztwss.sistersbeautyworld-lhs.de^|
+||zubehorfahrrad.de^|
 ||zubehorstiefel.com^|
 ||zuchterheim.com^|
 ||zuedy.de^|
