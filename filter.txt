@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-12T23:31:27.009924Z
+! Generated: 2026-08-13T00:42:48.809456Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -4052,6 +4052,7 @@
 ||bohnengold.com^|
 ||boho-and-chic.de^|
 ||boho-lust.de^|
+||boinnew.cc^|
 ||boisdechauffage-express.com^|
 ||boisdechauffages-express.com^|
 ||boisvignon.com^|
@@ -10432,6 +10433,7 @@
 ||fewopartner.co^|
 ||feworiesad.shop^|
 ||fexora.online^|
+||feytour.de^|
 ||ff24renst.shop^|
 ||ffaktury.com^|
 ||ffbag2.de^|
@@ -10643,6 +10645,7 @@
 ||firstpargaph.com^|
 ||firstrunk.top^|
 ||fischende.com^|
+||fischer-adler.com^|
 ||fischer-modehaus.com^|
 ||fischer-reifen.com^|
 ||fischer-spiele.com^|
@@ -11858,6 +11861,7 @@
 ||gartentor.shop^|
 ||gartentraktor.com^|
 ||gartentrend.shop^|
+||gartenundwerkzeug.com^|
 ||gartenzauberwelt.shop^|
 ||garved.com^|
 ||garyfurniture.shop^|
@@ -12935,6 +12939,7 @@
 ||grunekraft.shop^|
 ||grunekraft.store^|
 ||grunepflanzenwelt.com^|
+||grunergruss.com^|
 ||grunetulpe.com^|
 ||grunevielfalt.com^|
 ||grunhaus.bebincommerce.store^|
@@ -19948,6 +19953,7 @@
 ||minse.shop^|
 ||mintchop.com^|
 ||mintechh.com^|
+||minteech.com^|
 ||minusis.com^|
 ||minymode.shop^|
 ||minz-club.de^|
@@ -20212,6 +20218,7 @@
 ||modellbau-rainer.at^|
 ||modellbau-zentrum.com^|
 ||modellbaubillig.com^|
+||modellbaucore.com^|
 ||modellbauguenstig.com^|
 ||modellbaukober.at^|
 ||modellde.com^|
@@ -21827,6 +21834,7 @@
 ||ntwrkri.com^|
 ||ntxmickeymantle.com^|
 ||nubaskin.de^|
+||nubelle-shop.de^|
 ||nubiah.at^|
 ||nubior-styria.at^|
 ||nubutik.de^|
@@ -22928,6 +22936,7 @@
 ||ouku.com^|
 ||ououtdoorpro.com^|
 ||ouraltis.de^|
+||ouratransport.com^|
 ||ourbesty.com^|
 ||ourceucrts.com^|
 ||ourcheap.site^|
@@ -24238,6 +24247,7 @@
 ||poolreinigerde.com^|
 ||poolsaunasupply.com^|
 ||poolshoesus.com^|
+||poolzubehors.com^|
 ||poorit.top^|
 ||poorpretty.com^|
 ||poorwrite.com^|
@@ -24943,6 +24953,7 @@
 ||qoaktax.com^|
 ||qodixcredit.com^|
 ||qogies.de^|
+||qojxbuch.shop^|
 ||qonebacara.com^|
 ||qovlaty.com^|
 ||qp-sale.com^|
@@ -28722,6 +28733,7 @@
 ||solarnoir.de^|
 ||solarplanet24.net^|
 ||solarpowerde.com^|
+||solarprofi-shop.com^|
 ||solarpvwerkzeug.com^|
 ||solarspeichersysteme.com^|
 ||solartermin.de^|
@@ -30582,6 +30594,7 @@
 ||ternsome.top^|
 ||terra-consult.net^|
 ||terrapro.cn^|
+||terraqo.de^|
 ||terrassenmatte.de^|
 ||teryms.com^|
 ||terzio23.de^|
@@ -30968,6 +30981,7 @@
 ||thewetsuitsstore.com^|
 ||thewhitesprinkles.com^|
 ||thewinestoreava.shop^|
+||thewituka.shop^|
 ||thewomenaccessories.com^|
 ||thewoodsde.shop^|
 ||theworldaccessories.com^|
@@ -32151,6 +32165,7 @@
 ||uaeteampissei.team^|
 ||ualaswaq.com^|
 ||uaqcx.shop^|
+||uarleniz.com^|
 ||uastudioshop.com^|
 ||ubadindies.top^|
 ||ubdool.com^|
@@ -32933,6 +32948,7 @@
 ||vcxzta.com^|
 ||vdbgarage.com^|
 ||vddeals.com^|
+||vdel-electromenager.com^|
 ||vdelsra.com^|
 ||vdhs.brokertv.shop^|
 ||vdk-lichtenfels.de^|
@@ -33936,6 +33952,7 @@
 ||wauwcapow.shop^|
 ||waveriderco.com^|
 ||wavetech-store.com^|
+||wavevisionag.com^|
 ||wavextremeco.com^|
 ||waxify.de^|
 ||waxjacketsale.com^|
@@ -34036,6 +34053,7 @@
 ||webinfractions.com^|
 ||webmedshelp.com^|
 ||webmremedies.com^|
+||webora-agentur.de^|
 ||webseite-gratis.com^|
 ||webshop-srl.com^|
 ||websterjamesprofessionalcorp.com^|
@@ -34363,6 +34381,7 @@
 ||wildlingde.shop^|
 ||wildlingnl.com^|
 ||wildlingschuh.com^|
+||wildlingschuhe.com^|
 ||wildlingschuhede.com^|
 ||wildlingshoes-de.com^|
 ||wildlingshoes-germany.com^|
