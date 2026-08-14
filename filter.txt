@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-13T23:52:10.929361Z
+! Generated: 2026-08-14T02:28:19.341269Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1297,6 +1297,7 @@
 ||anhangershopsey.com^|
 ||anhangervermietung.at^|
 ||anhangerwagen.com^|
+||anhangerzubehor.com^|
 ||ani--zoo.com^|
 ||anibatchr.com^|
 ||anigame.shop^|
@@ -5017,6 +5018,7 @@
 ||carbondeluxede.shop^|
 ||carculturein.com^|
 ||carddingshop.com^|
+||cardetergent.com^|
 ||cardigan-selling.com^|
 ||cardinkin.top^|
 ||cardionez.com^|
@@ -10304,6 +10306,7 @@
 ||feher-buch.de^|
 ||fei3nhaus58.com^|
 ||feiautumn.top^|
+||feierdeinlebenplus.com^|
 ||feilerelektro.com^|
 ||feinkaufshop.com^|
 ||feinkleidung.com^|
@@ -14140,6 +14143,7 @@
 ||holdess.xyz^|
 ||holdeweiblichkeit.shop^|
 ||holdia.top^|
+||holdinggb.com^|
 ||holeinonecup.at^|
 ||holeohon.net^|
 ||holiday-fincas.com^|
@@ -17006,6 +17010,7 @@
 ||krausmode.de^|
 ||kraussmedien.de^|
 ||krauternobst.com^|
+||kraviso.com^|
 ||krayadravyad.shop^|
 ||krazestore.com^|
 ||krazione.com^|
@@ -19528,6 +19533,7 @@
 ||meinholzz.de^|
 ||meinhuggies.com^|
 ||meinkleinerhuhnerstall-at.com^|
+||meinkofferde.com^|
 ||meinkrimskrams.de^|
 ||meinmaison.de^|
 ||meinmoda.de^|
@@ -19749,6 +19755,7 @@
 ||metier-handel.de^|
 ||metricgurus.com^|
 ||metro-partner.com^|
+||metrosafecorp.com^|
 ||metzger-reifenhandel.com^|
 ||metzgereilauster.de^|
 ||metzingen-fashion.de^|
@@ -21764,6 +21771,7 @@
 ||novaris-capitallimited.ltd^|
 ||novarixtrader.net^|
 ||novasabers.de^|
+||novasparkling.com^|
 ||novateki.com^|
 ||novator-consulting.com^|
 ||novatrustmarket.com^|
@@ -24407,6 +24415,7 @@
 ||prednisone-buyonline.site^|
 ||preferenct.com^|
 ||prefrome.com^|
+||preis-zwerg.de^|
 ||preis.co.at^|
 ||preishaide.de^|
 ||preisrausch24.de^|
@@ -29000,6 +29009,7 @@
 ||spielwaren-fisiu.de^|
 ||spielwaren-tonies.com^|
 ||spielwarenneu.de^|
+||spielwuerfel.com^|
 ||spielzeug-schuster.com^|
 ||spielzeug-traum.com^|
 ||spielzeug-wunderwelt.com^|
@@ -33315,6 +33325,7 @@
 ||vinemos.de^|
 ||vinero.at^|
 ||vingeneral.com^|
+||vinihouse.com^|
 ||vinissage.de^|
 ||vinnciwear.com^|
 ||vinospezial.com^|
@@ -35351,6 +35362,7 @@
 ||zieglerzurich.ch^|
 ||zifuliangm.com^|
 ||zigaretten-bestellen.net^|
+||zigaretten-polen.com^|
 ||zigber.com^|
 ||zignalor.at^|
 ||zigoff.de^|
