@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-14T23:58:08.561269Z
+! Generated: 2026-08-15T01:44:09.470923Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1665,7 +1665,6 @@
 ||aretephoenix.com^|
 ||arfinag.icu^|
 ||arguscapital.net^|
-||arialscompany.at^|
 ||ariat-megasales.shop^|
 ||ariat-osterreich.at^|
 ||ariat-western.com^|
@@ -11352,6 +11351,7 @@
 ||fullsora.de^|
 ||fullswingfootwear.com^|
 ||fullzcash.com^|
+||fullzcash.vip^|
 ||funccy.com^|
 ||functional-bike.com^|
 ||functoolslp.com^|
@@ -11785,6 +11785,7 @@
 ||garten-frische.de^|
 ||garten-hagemann.com^|
 ||garten-heimwerken.com^|
+||garten-market.com^|
 ||garten-outdoor.com^|
 ||garten-pflanzen-pro.com^|
 ||garten-rasentraktor.com^|
@@ -12365,6 +12366,7 @@
 ||glanz-mode.de^|
 ||glanzberg-mode.de^|
 ||glanzschuh.com^|
+||glanzwiese.com^|
 ||glaprestige.com^|
 ||glas-gs.de^|
 ||glas-plus.at^|
@@ -16954,6 +16956,7 @@
 ||kopfwaermer.com^|
 ||kopkde.shop^|
 ||koppermuller-markt.de^|
+||koppermuller-shop.de^|
 ||koppsic.top^|
 ||kopticschool.de^|
 ||korase.de^|
@@ -19388,6 +19391,7 @@
 ||mediamarkt-berlin.com^|
 ||mediamarkt-de.com^|
 ||mediamarkt-de.store^|
+||mediamarkt-gg.com^|
 ||mediamigo.net^|
 ||median-home.com^|
 ||medianews77.com^|
@@ -21171,6 +21175,7 @@
 ||nestleena.com^|
 ||nestleix.com^|
 ||nestleovae.com^|
+||nestmylab.com^|
 ||nestmypad.com^|
 ||nestproh.com^|
 ||nestrack.shop^|
@@ -25298,6 +25303,7 @@
 ||rasenmahershop.com^|
 ||rasenmaherwendik.de^|
 ||rasenmarkt.com^|
+||rasenmaschinen.com^|
 ||rasenmotor.com^|
 ||rasenrobo.com^|
 ||rasenshop24.com^|
@@ -27279,6 +27285,7 @@
 ||schrader-reifen.com^|
 ||schraderbilliger.com^|
 ||schrankede.com^|
+||schraubenhub.de^|
 ||schraubenpro.com^|
 ||schraubheld24.de^|
 ||schraubschmiede.de^|
@@ -35077,6 +35084,7 @@
 ||yonexs.at^|
 ||yongset.shop^|
 ||yonkine.com^|
+||yonook.com^|
 ||yoocaa.com^|
 ||yoohal.com^|
 ||yoolo.shop^|
