@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-20T23:44:29.457600Z
+! Generated: 2026-08-21T00:25:44.868982Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -630,6 +630,7 @@
 ||aio-vita.com^|
 ||air-jordan4.com^|
 ||air-max.at^|
+||air-profits.com^|
 ||air-uposterreich.at^|
 ||air-uposterreich.com^|
 ||air3panda1.store^|
@@ -878,6 +879,7 @@
 ||allesfuerzuhause.com^|
 ||allesfur-baby.com^|
 ||allesheizung.de^|
+||allesimalltag.com^|
 ||allesineinemshop.com^|
 ||allesnettokredit.com^|
 ||allesoutdoor.de^|
@@ -1733,6 +1735,7 @@
 ||arptrade.com^|
 ||arraiconvert.com^|
 ||arriba-elektro.de^|
+||arrivaldaresprocedure.com^|
 ||arrowlabelca.com^|
 ||arrowtun.com^|
 ||arrsdo.com^|
@@ -2349,6 +2352,7 @@
 ||awirer.com^|
 ||awishday.com^|
 ||awpepgmd.top^|
+||awsea.eu.cc^|
 ||axa-immo.us^|
 ||axel-maschine.de^|
 ||axelarigatoschuhe.com^|
@@ -2380,6 +2384,7 @@
 ||ayfbxefm.veseleusi.cz^|
 ||aylanzo-store.de^|
 ||aylica.de^|
+||aymwoljw.shop^|
 ||aynosa.de^|
 ||ayola.de^|
 ||ayparwebt.com^|
@@ -4116,6 +4121,7 @@
 ||bonbelle.shop^|
 ||bonbelle.store^|
 ||bongochat.de^|
+||bongochat.me^|
 ||bonluda.de^|
 ||bonneauchloee.com^|
 ||bonorumcbdde.shop^|
@@ -4798,6 +4804,7 @@
 ||byelvira.de^|
 ||byemmabecker.de^|
 ||byfianna.de^|
+||bygeneva.de^|
 ||byilse.de^|
 ||bykidesigns.com^|
 ||bylassenhome.com^|
@@ -6972,6 +6979,7 @@
 ||dasoo.de^|
 ||dasorevaparis.de^|
 ||dassoustore.com^|
+||daswarenregal.com^|
 ||daswirthshaus.com^|
 ||datactively.com^|
 ||dataery.xyz^|
@@ -7333,6 +7341,7 @@
 ||deine-wolle.shop^|
 ||deinefunde.de^|
 ||deinegartenprofis.de^|
+||deinemarktplatz24.com^|
 ||deinemoebelpacker24.at^|
 ||deineschmuckkiste.de^|
 ||deinetierliebe.de^|
@@ -7764,6 +7773,7 @@
 ||dienstleistung-horvath.com^|
 ||dienstprogrammeverkauf.com^|
 ||diepholz-versand.shop^|
+||diermann-marketing.net^|
 ||dieschwarzwalderkuche.com^|
 ||diesel-osterreich.com^|
 ||diesel-outlet.de^|
@@ -7870,6 +7880,7 @@
 ||discoument.store^|
 ||discount-audio-equipment.com^|
 ||discount-kobalt.com^|
+||discount-lightingshop.com^|
 ||discount-mytholon.shop^|
 ||discount-on-car-parts.com^|
 ||discount-pharmacy.cfd^|
@@ -8402,6 +8413,7 @@
 ||duftdabei.de^|
 ||duftefursie.com^|
 ||dugoutmugs.shop^|
+||duhm-motorgerate.de^|
 ||duisburg-fashion.de^|
 ||duitsland1.myshopify.com^|
 ||dulcine.de^|
@@ -9151,6 +9163,7 @@
 ||emmaschneider.de^|
 ||emmastebbings.com^|
 ||emmastein.shop^|
+||emmastuttgart.com^|
 ||emmaweberr.de^|
 ||emmay.de^|
 ||emmebineon.it^|
@@ -9361,6 +9374,7 @@
 ||eradprofi.com^|
 ||erainvest.net^|
 ||erasterry.com^|
+||erbeborse.com^|
 ||erbrechtstage-gera.de^|
 ||erclubi.cc^|
 ||ercudia.shop^|
@@ -9459,6 +9473,7 @@
 ||esn-fitness.com^|
 ||esneuroutlet.com^|
 ||esnoutleteur.com^|
+||esnssalies.shop^|
 ||esnsupply.shop^|
 ||esoftn.shop^|
 ||esotecde.shop^|
@@ -9520,7 +9535,6 @@
 ||estransportundlogistik-gmbh.de^|
 ||estraorchard.com^|
 ||estrategen.de^|
-||esy-oil.com^|
 ||esyqefp.top^|
 ||et.butgas.com^|
 ||etacticali.com^|
@@ -10605,6 +10619,7 @@
 ||financialpronews.com^|
 ||financleguarantycoporation.com^|
 ||finanz-schnell.de^|
+||finanzamt-familienbeihilfe-at.com^|
 ||finanzaufsichtsbehoerde.com^|
 ||finanzonline-gvbmfgv.info^|
 ||finanzonline.at.bmf.gv-uberprufung.com^|
@@ -11341,6 +11356,7 @@
 ||fridayexpo.com^|
 ||fridaymall.info^|
 ||frieda-taschen.de^|
+||friedamuenchen.com^|
 ||friedaskitchen.de^|
 ||friedberg-mode.de^|
 ||friedrich-modehaus.de^|
@@ -12158,6 +12174,7 @@
 ||germanqualitaet.de^|
 ||germany-best-coffee.com^|
 ||germany-kitchenware-store.com^|
+||germany-numis.com^|
 ||germanyrimowa.com^|
 ||germanytool.com^|
 ||germins.de^|
@@ -12175,6 +12192,7 @@
 ||geschenklust.com^|
 ||geschenkwand.de^|
 ||geschenkzone.at^|
+||geschichteinmetall.com^|
 ||geschirr-de.com^|
 ||geschirronyx.com^|
 ||geschirrspueler.lbspro.at^|
@@ -14487,6 +14505,7 @@
 ||homlsy.shop^|
 ||hommestage.com^|
 ||homnifi.com^|
+||homolius-brennstoffe.com^|
 ||homoloogie.com^|
 ||hondroine.es^|
 ||hondrostrongs.de^|
@@ -14772,6 +14791,7 @@
 ||huiiltn.shop^|
 ||hulahip.de^|
 ||hulapro.de^|
+||huliabu.com^|
 ||hulkmusclerx.mymusclepay.com^|
 ||hulkwheels.com^|
 ||humehealth.de^|
@@ -15876,6 +15896,7 @@
 ||jivligcm.shop^|
 ||jixstorem.com^|
 ||jjctrans.com^|
+||jjjbeqgj.shop^|
 ||jjmalibumen.com^|
 ||jjohnjagler.shop^|
 ||jjponlinea.com^|
@@ -16160,6 +16181,7 @@
 ||kabelsteckerladen.com^|
 ||kabilev.com^|
 ||kabilon.com^|
+||kabinettdermunze.com^|
 ||kachi-berlin.de^|
 ||kadewetasche.com^|
 ||kadonimo.de^|
@@ -16661,6 +16683,7 @@
 ||kimberlybishop.shop^|
 ||kimi-home.com^|
 ||kimionis.com^|
+||kimlongfood.com^|
 ||kimperuecken.de^|
 ||kimtisor.com^|
 ||kinallyf.com^|
@@ -16679,6 +16702,7 @@
 ||kinderlichtblicke.de^|
 ||kindermobelre.com^|
 ||kindersachenmitwachsend.com^|
+||kindersafetech.com^|
 ||kinderspielzeugangebote.com^|
 ||kindertische.com^|
 ||kinderverkehrswelt.de^|
@@ -16859,6 +16883,7 @@
 ||kleider-kabinett.de^|
 ||kleiderleipzighaus.de^|
 ||kleidermafia.shop^|
+||kleiderschrankkauf.com^|
 ||kleiderweltboutique.com^|
 ||kleidung-prada.com^|
 ||kleidungfrilufts.com^|
@@ -17078,6 +17103,7 @@
 ||kontano.de^|
 ||kontomeinelbaraiffeisen.com^|
 ||kontoraiffeisenmeinelba.com^|
+||kontorundkueche.com^|
 ||kontoverlaengerung.com^|
 ||koochand.com^|
 ||koodakde.shop^|
@@ -17094,6 +17120,7 @@
 ||koppsic.top^|
 ||kopticschool.de^|
 ||korase.de^|
+||korbheld.de^|
 ||korda-fishing.com^|
 ||kortner-partner.de^|
 ||kortova.com^|
@@ -18071,6 +18098,7 @@
 ||lifesattributes.de^|
 ||lifestyle-brands-us.com^|
 ||lifestylebicycle.com^|
+||lifestylehub24.com^|
 ||lifestylemallshop.com^|
 ||lifestyleshoe.com^|
 ||lifestylewaren.com^|
@@ -19827,6 +19855,7 @@
 ||meowcastle.ca^|
 ||meowsupplies.store^|
 ||mepalconstruction.com^|
+||mepalconstructionmodulaire.com^|
 ||mephistoaustria.com^|
 ||mephistofabrikverkauf.com^|
 ||mephistoshoeireland.com^|
@@ -20950,6 +20979,7 @@
 ||mutipre.shop^|
 ||muttermode.de^|
 ||muumall.com^|
+||muvena-mode.com^|
 ||muysale.cn^|
 ||muzenaudio.com^|
 ||mvbergweiler.de^|
@@ -21466,6 +21496,7 @@
 ||newairfield.com^|
 ||newambesonne.com^|
 ||newamerrug.com^|
+||newappc.cc^|
 ||newatfirst.com^|
 ||newathleticsus.com^|
 ||newaverr.com^|
@@ -22864,6 +22895,7 @@
 ||opkjobsmcqs.shop^|
 ||oplire.com^|
 ||opongo.shop^|
+||opotrips.com^|
 ||oppositen.com^|
 ||opropaset.com^|
 ||opt-household.com^|
@@ -23028,6 +23060,7 @@
 ||orthoflexcare.com^|
 ||orthofrei.com^|
 ||orthomode.de^|
+||orthonex.de^|
 ||orthoomed.com^|
 ||orthopadie-berlin.com^|
 ||orthopädischeschuhe.de^|
@@ -24255,6 +24288,7 @@
 ||plattenangebote.com^|
 ||plattengeschaft.de^|
 ||plattenspielerde.de^|
+||platzsieg.com^|
 ||plavonpvcdemak.com^|
 ||play.cine-flix.co^|
 ||playboysclothingsale.com^|
@@ -24521,6 +24555,7 @@
 ||portalray.com^|
 ||portaqua.shop^|
 ||portaspliteu.com^|
+||portathesauri.com^|
 ||portefeuillephoto.com^|
 ||porterblushu.com^|
 ||porterpowermatic.com^|
@@ -25235,6 +25270,7 @@
 ||quatalitive.com^|
 ||quatclub.com^|
 ||qubira.shop^|
+||qudjvnr.shop^|
 ||quechasult.com^|
 ||queckone.com^|
 ||queen-sparkles.com^|
@@ -27364,6 +27400,7 @@
 ||scharfemesser.de^|
 ||scharfeprofession.com^|
 ||scharrer-handel.com^|
+||schatzkammeronline.com^|
 ||schaumex.shop^|
 ||schaumstofffischer.shop^|
 ||schedule73parts.shop^|
@@ -27429,6 +27466,7 @@
 ||schlüsseldienst-wuppertal.org^|
 ||schlusseldienst.at^|
 ||schlussmit.at^|
+||schmahl-gartengeraete.de^|
 ||schmerz-stopper.de^|
 ||schmid-autoreifen.com^|
 ||schmid-rechtsanwaelte.de^|
@@ -27582,6 +27620,7 @@
 ||schwanhaus.de^|
 ||schwansgut.de^|
 ||schwarzjutta.com^|
+||schwarzklettern.de^|
 ||schwarzmarktwaffenhandler.de^|
 ||schwarzrunen.de^|
 ||schwarzseide.myshopify.com^|
@@ -28708,6 +28747,7 @@
 ||Skyvoi-de.com^|
 ||skywork.ai^|
 ||skyxon.de^|
+||sl-handel.de^|
 ||sl-handel24.de^|
 ||sl-leasinggesmbh.at^|
 ||slabtownkev.com^|
@@ -28791,6 +28831,7 @@
 ||smartkochen.com^|
 ||smartmoney-deal-now.com^|
 ||smartnurseca.com^|
+||smartphonepartner.com^|
 ||smartphonepeak.lunakebe.com^|
 ||smartplantivy.com^|
 ||smartplayground.de^|
@@ -29040,6 +29081,7 @@
 ||solyball.com^|
 ||somefuns.com^|
 ||someshoper.com^|
+||somiy.com^|
 ||sommer-angebote.com^|
 ||sommer-mode.co^|
 ||sommerekzem.at^|
@@ -32325,6 +32367,7 @@
 ||tuinbalkon.com^|
 ||tulip-aphrod.co.uk^|
 ||tummamma.store^|
+||tunedautoparts.com^|
 ||tunepart.com^|
 ||tunespot.de^|
 ||tungaloytools.com^|
@@ -33039,6 +33082,7 @@
 ||uyoo.store^|
 ||uyqwb.com^|
 ||uysnells.shop^|
+||uzulidwf.shop^|
 ||v-olklstore.shop^|
 ||v3.new-cion.cc^|
 ||vacamion.com^|
@@ -34321,6 +34365,7 @@
 ||weber-werkstatt.com^|
 ||webermode.com^|
 ||weberoutlet.com^|
+||webers.co.at^|
 ||webersalzburg.at^|
 ||weberstyle.de^|
 ||weberundalbrecht.de^|
@@ -34506,6 +34551,7 @@
 ||werkzeugefurprofis.com^|
 ||werkzeugemaschinen.com^|
 ||werkzeugepremium.com^|
+||werkzeugerasenmaher.de^|
 ||werkzeugesale.com^|
 ||werkzeugewelt.com^|
 ||werkzeugexpress.com^|
@@ -34532,6 +34578,7 @@
 ||wernershop.de^|
 ||wernersweinwelt.shop^|
 ||wertalmpro.at^|
+||wertanker.com^|
 ||wertexmarkt.de^|
 ||wertovia.com^|
 ||wertvollewelpenzuradoption.com^|
@@ -35159,6 +35206,7 @@
 ||xlthomannmusic.shop^|
 ||xlumina.at^|
 ||xlumina.de^|
+||xmadramen.club^|
 ||xmb.cc^|
 ||xmkkan.info^|
 ||xn--apotheke-sterreich-l3b.com^|
@@ -35228,6 +35276,7 @@
 ||yabchtead.com^|
 ||yaberauto.com^|
 ||yacht-offers.com^|
+||yachtausstattung.com^|
 ||yachtzubeoernordsee.shop^|
 ||yadushamahenthiran.com^|
 ||yafistore.com^|
