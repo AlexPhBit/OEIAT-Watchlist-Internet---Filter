@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-24T23:56:23.048295Z
+! Generated: 2026-08-25T01:44:33.534343Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1048,6 +1048,7 @@
 ||alttpe.com^|
 ||alturuszimx.com^|
 ||aluhsda.com^|
+||alumodus.com^|
 ||alunaclo.de^|
 ||aluproholz.shop^|
 ||alurela.de^|
@@ -2454,6 +2455,7 @@
 ||babylachelt.de^|
 ||babylissde.de^|
 ||babymarktkauf.com^|
+||babymio-tirol.com^|
 ||babymodeneu.com^|
 ||babymodepur.com^|
 ||babymoovde.shop^|
@@ -2541,6 +2543,7 @@
 ||bahnhof-apotheke-hersbruck.de^|
 ||bahovekapie.com^|
 ||baibae.com^|
+||baif.co.uk^|
 ||baileeked.shop^|
 ||bailngmak.com^|
 ||bainbridgegadental.com^|
@@ -3156,6 +3159,7 @@
 ||berg-freundeoutlets.shop^|
 ||berg-mode.de^|
 ||berg-reifenversand.com^|
+||bergandlind.com^|
 ||bergbk.de^|
 ||bergcycle.com^|
 ||berger-deals.com^|
@@ -3194,6 +3198,7 @@
 ||beriuty.com^|
 ||berizen.com^|
 ||berk-designs.de^|
+||berklan.myshopify.com^|
 ||berkler-anhanger.com^|
 ||berkler-maschinen.de^|
 ||berkshirede.myshopify.com^|
@@ -3232,6 +3237,7 @@
 ||berlintag.com^|
 ||berlinwind.shop^|
 ||berlook.com^|
+||berlynmode.de^|
 ||berma-shop.com^|
 ||bermar-grills.com^|
 ||bermar-shop.com^|
@@ -3253,6 +3259,7 @@
 ||bervel-shop.de^|
 ||beryour.com^|
 ||berzolana.com^|
+||beschermers.com^|
 ||beschwin.de^|
 ||beseely.com^|
 ||besellics.com^|
@@ -4172,6 +4179,7 @@
 ||bopsiz.store^|
 ||borcons.de^|
 ||bordcltiat.net^|
+||borde-brennholz.com^|
 ||bordertales.de^|
 ||borgshirt.xyz^|
 ||boridashop.de^|
@@ -6515,6 +6523,7 @@
 ||cozysapparels.com^|
 ||cozysleepzone.com^|
 ||cozyslides.de^|
+||cozyuphut.com^|
 ||cozyusfilms.com^|
 ||cozywcloth.com^|
 ||cp24.pl^|
@@ -6837,6 +6846,7 @@
 ||d-personensuche.de^|
 ||d-rock.at^|
 ||d-ticket.su^|
+||d18vlm84xom7v8.cloudfront.net^|
 ||d2jeansdaily.com^|
 ||da-boutique.com^|
 ||daashop.top^|
@@ -6850,6 +6860,7 @@
 ||dachfensterwartung.de^|
 ||dachlust.com^|
 ||dachprode.shop^|
+||dachsonne.com^|
 ||dachtraegeronline.com^|
 ||dachvr.okologischrlw.cyou^|
 ||dacimmo.com^|
@@ -8217,6 +8228,7 @@
 ||dowdot.com^|
 ||downbord.com^|
 ||doyidraulic.com^|
+||doyoo.shop^|
 ||doyookim.com^|
 ||dozepharmacy.com^|
 ||dozesale.com^|
@@ -8618,6 +8630,7 @@
 ||ebikecenterltd.com^|
 ||ebikedolomiti.com^|
 ||ebikeeu.com^|
+||ebikeprofi24.de^|
 ||ebikesgeschaft.com^|
 ||ebikesshopsales.com^|
 ||ebiketeilekauf.com^|
@@ -9224,6 +9237,7 @@
 ||endlesswintershop.shop^|
 ||endlich-gesund.com^|
 ||endoflife.space^|
+||endressmotorgerate.de^|
 ||endry.top^|
 ||endurance-mauritsch.at^|
 ||endurancebillig.com^|
@@ -9855,6 +9869,7 @@
 ||expert-re.com^|
 ||expert-trademiners.com^|
 ||expertisetrade4.com^|
+||expertlitefcap.com^|
 ||expertoptiontradings.com^|
 ||expertstockmarkets.com^|
 ||explicitp.com^|
@@ -11933,6 +11948,7 @@
 ||gartenimfreienkauf.com^|
 ||gartenira.com^|
 ||gartenix.com^|
+||gartenkerl.de^|
 ||gartenkings.de^|
 ||gartenkraft-de.com^|
 ||gartenkreuzfahrt.de^|
@@ -12538,6 +12554,7 @@
 ||globalinvestmentift.com^|
 ||globalkeys-sa.com^|
 ||globalmarketoption.com^|
+||globalmat-maschinen.com^|
 ||globalmedsnet.com^|
 ||globalpartners-ltd.com^|
 ||globalrockies.ch^|
@@ -13422,6 +13439,7 @@
 ||haney-university-store.myshopify.com^|
 ||hangrygal.com^|
 ||hanna-health.de^|
+||hanna-health.shop^|
 ||hanna-trachten.de^|
 ||hannaberlin.com^|
 ||hannahgshinn.shop^|
@@ -13476,6 +13494,7 @@
 ||happyclouds.shop^|
 ||happyetic.top^|
 ||happyfight.at^|
+||happyfoodjourney.com^|
 ||happyish.top^|
 ||happynewbox.com^|
 ||happyseedde.shop^|
@@ -13877,6 +13896,7 @@
 ||helestyle.com^|
 ||helgabaron.de^|
 ||helganieblershop.com^|
+||helgasstube.de^|
 ||helgawelpenhaus.com^|
 ||heliate.top^|
 ||helikon-filme.de^|
@@ -13922,6 +13942,10 @@
 ||helunes.com^|
 ||helvetia-glanz.com^|
 ||helveticore.capital^|
+||helvetus.at^|
+||helvetus.ch^|
+||helvetus.com^|
+||helvetus.de^|
 ||hema-tech.de^|
 ||hemia.shop^|
 ||hemmanord.com^|
@@ -14577,6 +14601,7 @@
 ||hormonell-aktuell.at^|
 ||horngrant.com^|
 ||hornwald.com^|
+||hornwald.de^|
 ||horologicalbooks.de^|
 ||horsebreeze.com^|
 ||horsecreekboutide.shop^|
@@ -14780,6 +14805,7 @@
 ||hubersalzburg.at^|
 ||huberskitchen.com^|
 ||hubert-steinert.com^|
+||hubertkotschnig.at^|
 ||hubertlaenen.online^|
 ||hubhockey.com^|
 ||hubinglika.com^|
@@ -16503,6 +16529,7 @@
 ||kdoqlibh.shop^|
 ||kdpjzbsm.shop^|
 ||ke-99.top^|
+||keblpqec.shop^|
 ||kechoict.com^|
 ||kedat.at^|
 ||kedejo.com^|
@@ -16712,6 +16739,7 @@
 ||kindel.top^|
 ||kinder-reich.at^|
 ||kinder-shiatsu.at^|
+||kinderanhaengerwelt.de^|
 ||kinderbekleidungstore.com^|
 ||kindergarten-supplies.com^|
 ||kinderhausfridolin.de^|
@@ -17095,6 +17123,7 @@
 ||kolibrins.shop^|
 ||kolnermarkt.com^|
 ||kolorfun.de^|
+||kolski-klimawelts.com^|
 ||koltplus.com^|
 ||kolua.de^|
 ||komarise.com^|
@@ -17590,6 +17619,7 @@
 ||larvore.com^|
 ||lasatoshop.com^|
 ||lascampiaenzo.com^|
+||lascanamode.com^|
 ||laser-architekten.de^|
 ||lasergravurprofi.com^|
 ||laserhex.shop^|
@@ -18224,6 +18254,7 @@
 ||limmstore.com^|
 ||limon-shop.at^|
 ||limoza.de^|
+||limzaicore.com^|
 ||lin7dwerk46.com^|
 ||linashop.de^|
 ||linavellegoods.com^|
@@ -19425,6 +19456,7 @@
 ||masteryums.com^|
 ||mastygel.com^|
 ||masuperpeluche.shop^|
+||mataoriginkids.shop^|
 ||mataporkoz.com^|
 ||matbal.at^|
 ||matbruch.club^|
@@ -20010,6 +20042,7 @@
 ||mharifd.com^|
 ||mhpa.net^|
 ||mhrauto-industrie.com^|
+||mhrftnmh.shop^|
 ||mi-tische.de^|
 ||mia-boutique.uk^|
 ||mia-modehaus.ch^|
@@ -20058,6 +20091,7 @@
 ||midalo.de^|
 ||midasmarkt.com^|
 ||middlewill.com^|
+||middo.de^|
 ||midea-deutschland.com^|
 ||midea-deutschland.de^|
 ||midea-europe.de^|
@@ -20495,6 +20529,7 @@
 ||modestover.com^|
 ||modestyle24.com^|
 ||modestylebay.com^|
+||modesytlebay.com^|
 ||modetalente.com^|
 ||modetopper.com^|
 ||modetoulouse.com^|
@@ -22038,6 +22073,7 @@
 ||noventracapitals.com^|
 ||noveraxcapital.com^|
 ||novermessen.de^|
+||novestas.de^|
 ||noveteadram.com^|
 ||noviale.de^|
 ||novifashion.de^|
@@ -24096,6 +24132,7 @@
 ||pheronaemporium.com^|
 ||philipbaby.xyz^|
 ||philippecorbeaux.com^|
+||philippsthomas.com^|
 ||philipwomens.com^|
 ||philokalistde.shop^|
 ||philosophyk.com^|
@@ -27198,6 +27235,7 @@
 ||salzburgapotheke.com^|
 ||salzburgmode.at^|
 ||salzmann-c.at^|
+||salzmode.com^|
 ||sama-logistic.com^|
 ||samaan-law.at^|
 ||sameform.top^|
@@ -27668,6 +27706,7 @@
 ||schwertkronede.shop^|
 ||schwestertanja.com^|
 ||schwfoto.com^|
+||schwiha.ai^|
 ||schwimmschuh.com^|
 ||sciencefactoryshop.de^|
 ||scientificw.com^|
@@ -28574,6 +28613,7 @@
 ||simople.life^|
 ||simpfit.com^|
 ||simple-kool.com^|
+||simple.life^|
 ||simpleartly.com^|
 ||simplecircle.net^|
 ||simplecoffee.ch^|
@@ -28900,6 +28940,7 @@
 ||smtoygalaxy.com^|
 ||smtoysblackfriday.com^|
 ||smtoysoutlet.com^|
+||smythstoyssales.com^|
 ||snackbeefca.com^|
 ||snackit.at^|
 ||snacksundschnaps.com^|
@@ -32080,6 +32121,7 @@
 ||trainingboxsales.com^|
 ||trainseries.com^|
 ||trainwelt.com^|
+||trakfreesm.click^|
 ||trakkerbillig.com^|
 ||trakl-leibl.at^|
 ||trallsland.com^|
@@ -32230,6 +32272,7 @@
 ||treston24.de^|
 ||tretornosterreich.com^|
 ||treuhand-gmbh.com^|
+||treuquell.de^|
 ||trevorjewelry.shop^|
 ||trexox.com^|
 ||trfactory.redseaofsound.org^|
@@ -32453,6 +32496,7 @@
 ||tw-access.com^|
 ||twelvewhales.com^|
 ||twelvewhales.net^|
+||twerlab.shop^|
 ||twidlachannel.com^|
 ||twidlamodern.com^|
 ||twilight-fans.de^|
@@ -33111,6 +33155,7 @@
 ||uwum.shop^|
 ||uwzrxu.top^|
 ||uxceller.com^|
+||uxkvjfer.shop^|
 ||uynoutdoor.com^|
 ||uyoo.store^|
 ||uyqwb.com^|
@@ -33756,6 +33801,7 @@
 ||vitalgesund.at^|
 ||vitalismoemi.com^|
 ||vitalkompass-de.com^|
+||vitalogen.de^|
 ||vitalohnerezept.nl^|
 ||vitalpfote.ch^|
 ||vitalprojekte.at^|
@@ -34054,6 +34100,8 @@
 ||vphami.top^|
 ||vplan-beratung.org^|
 ||vponary.com^|
+||vpu-vorbereitung.online^|
+||vpufuchs.com^|
 ||vputest.online^|
 ||vraodorld.com^|
 ||vrczda.com^|
@@ -35186,6 +35234,7 @@
 ||xbdrexpress.com^|
 ||xbeansbag.shop^|
 ||xbedeals.site^|
+||xbfxsrqx.shop^|
 ||xboinvest.com^|
 ||xbune.shop^|
 ||xcapitalltd.org^|
