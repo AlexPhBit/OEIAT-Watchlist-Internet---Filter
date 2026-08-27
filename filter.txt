@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-26T21:05:21.178645Z
+! Generated: 2026-08-27T00:46:27.474151Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -5398,6 +5398,7 @@
 ||ceylonss.com^|
 ||cf-bags.com^|
 ||cfashionus.com^|
+||cfbl-premiumholz.de^|
 ||cfd.amadeus-markets.com^|
 ||cfd.diamond-tradeltd.com^|
 ||cfd.divine-group.io^|
@@ -6570,6 +6571,7 @@
 ||creamywear.com^|
 ||creatableshop.com^|
 ||createwithbuy.com^|
+||creatinmarkt.com^|
 ||creative.lighting^|
 ||creativecookhouse.com^|
 ||creativefabrica.com^|
@@ -7772,6 +7774,7 @@
 ||dicamgruppe.de^|
 ||diccord.ru^|
 ||dicha-anhaenger.com^|
+||dicha-bike.com^|
 ||dick-reifen.com^|
 ||dickbath.live^|
 ||dickiesgermany.com^|
@@ -8520,6 +8523,7 @@
 ||dynafitrabatt.de^|
 ||dynamictrevion.com^|
 ||dynamodeal.de^|
+||dynamorad.com^|
 ||dynoscooterde.shop^|
 ||dyshopvip.com^|
 ||dyson-de.de^|
@@ -13459,6 +13463,7 @@
 ||hannas-modehaus.com^|
 ||hannashop.de^|
 ||hannelore.shop^|
+||hannibalcorp.com^|
 ||hannibalvajilla.com^|
 ||hannover-mode.de^|
 ||hannoverebike.de^|
@@ -15594,6 +15599,7 @@
 ||irhumdmama.com^|
 ||iridarium.top^|
 ||iris-perschmann.de^|
+||iris-von-arnim.com^|
 ||irisbb.com^|
 ||irish-supply.com^|
 ||irishpub-solingen.de^|
@@ -15923,6 +15929,7 @@
 ||jfitwork.com^|
 ||jgfrqhh.top^|
 ||jggli26v.shop^|
+||jgkittrx.shop^|
 ||jgregoryfineart.com^|
 ||jhokkistore.com^|
 ||jiabess.com^|
@@ -16746,6 +16753,7 @@
 ||kind-heit.de^|
 ||kindderstadt.shop^|
 ||kindderstadteu.shop^|
+||kinddeshoprstadt.com^|
 ||kindduckling.com^|
 ||kindel.top^|
 ||kinder-reich.at^|
@@ -16921,6 +16929,7 @@
 ||klarsteinkuche.com^|
 ||klartnzm.glanzrmvh.click^|
 ||klarvi.de^|
+||klassealltagsport.com^|
 ||klassfx.com^|
 ||klassisch.grafik-krakora.at^|
 ||klassischelichter.com^|
@@ -17271,6 +17280,7 @@
 ||krnbcase.com^|
 ||krobboshop.de^|
 ||kronberg-partner.de^|
+||kronbergpartner.com^|
 ||kronbergwien.at^|
 ||kronenstil.de^|
 ||kronwald-mode.de^|
@@ -17316,6 +17326,7 @@
 ||ktexpm.com^|
 ||ktkfcase.com^|
 ||ktmoutlet.at^|
+||ktontools.com^|
 ||ktriple.com^|
 ||ktristandy.com^|
 ||kuch-gala24.de^|
@@ -18534,6 +18545,7 @@
 ||loneros.de^|
 ||long-distancerunningtechnologysarbspecltd.com^|
 ||longapminer.com^|
+||longchamp-at.at^|
 ||longchamp-factory-outlet.com^|
 ||longchamp-osterreich.com^|
 ||longchamp-schweiz.com^|
@@ -19265,6 +19277,7 @@
 ||maransolo.shop^|
 ||marbreeze.com^|
 ||marc-cain-eu.shop^|
+||marcant.store^|
 ||marcfisherlady.com^|
 ||marcfisherwien.at^|
 ||marchavdm.com^|
@@ -22519,6 +22532,7 @@
 ||oilvinegarmarket.shop^|
 ||oilwed.bookfocus.surf^|
 ||oinepukin.com^|
+||oinpmrtk.shop^|
 ||oinpress.com^|
 ||oins.shop^|
 ||oinstroj.com^|
@@ -22619,6 +22633,7 @@
 ||omonyeselfcare.co^|
 ||omrontechils.com^|
 ||on-at.com^|
+||on-at.myshoplaza.com^|
 ||on-cloud-de.shop^|
 ||on-cloudoutletfactory.com^|
 ||on-handel.com^|
@@ -22804,6 +22819,7 @@
 ||onlinestores.2024cheapoutlet.com^|
 ||onlinestores.outlets2022.ru^|
 ||onlinestrausss.sa.com^|
+||onlinetoolsale.com^|
 ||onlinetopgarden.com^|
 ||onlineusbike.com^|
 ||onlineusgear.com^|
@@ -23896,6 +23912,7 @@
 ||pefteas.today^|
 ||pegnitzratzen.de^|
 ||peiaoa.com^|
+||pekira.de^|
 ||pelagiot.cc^|
 ||peletovekotelny.cz^|
 ||pelkruvilanz.at^|
@@ -24785,6 +24802,7 @@
 ||presparkle.com^|
 ||pressdown.co^|
 ||presseausweis-beantragen.at^|
+||presshubrixel.com^|
 ||pressl.co^|
 ||presssi.shop^|
 ||prestige-container.com^|
@@ -25833,6 +25851,7 @@
 ||reebokoutlet.de^|
 ||reeddecory.com^|
 ||reef-deutschland.com^|
+||reelgazeki.com^|
 ||reelmasterde.com^|
 ||reepner.com^|
 ||refiglim.buzz^|
@@ -27473,6 +27492,7 @@
 ||scgyj.animepanorama.com^|
 ||schaap.at^|
 ||schachworkshop.de^|
+||schadensboerse.at^|
 ||schaedlingsschutz.at^|
 ||schafflutzel-motorgerate.com^|
 ||schafproduktion24.de^|
@@ -28834,6 +28854,7 @@
 ||skypetmovin.com^|
 ||skyquaddrone.com^|
 ||skyrro.com^|
+||skysupp.com^|
 ||Skyvoi-de.com^|
 ||skywork.ai^|
 ||skyxon.de^|
@@ -30240,6 +30261,7 @@
 ||sumzom.com^|
 ||sun-hotter.net^|
 ||sun-real-estate.com^|
+||sun-seller.com^|
 ||sun68web.com^|
 ||suncoin.xyz^|
 ||sundancean.com^|
@@ -32585,6 +32607,7 @@
 ||ueqlkvv.bar^|
 ||ueximious.com^|
 ||ueyiwegjfsg.shop^|
+||uffpeeet.shop^|
 ||uffugim.run^|
 ||ufheimwerker-de.com^|
 ||ufixen.com^|
@@ -35167,6 +35190,7 @@
 ||wrongian.top^|
 ||wrtcmme.com^|
 ||wsboh.org^|
+||wsbrennholzoberberg-gmbh-de.com^|
 ||wsdios.com^|
 ||wseomight.com^|
 ||wsmiccraev.shop^|
@@ -35288,6 +35312,7 @@
 ||xflyrc.com^|
 ||xftg03.solutions^|
 ||xfvss.com^|
+||xgkyqpwa.shop^|
 ||xglcclij.shop^|
 ||xh-a7.com^|
 ||xhfadacai.com^|
@@ -35896,6 +35921,7 @@
 ||zonesportsus.com^|
 ||zoneswimopt.com^|
 ||zonetoolopt.com^|
+||zonetrove.com^|
 ||zoneusfootball.com^|
 ||zoneustoys.com^|
 ||zonevogue-us.com^|
