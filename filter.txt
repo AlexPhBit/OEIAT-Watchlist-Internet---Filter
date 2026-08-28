@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-08-27T20:47:12.776619Z
+! Generated: 2026-08-28T04:56:59.394015Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -12484,6 +12484,7 @@
 ||gjkafaxn.shop^|
 ||gjlol.com^|
 ||gjoshiben.com^|
+||gkbmydjg.shop^|
 ||gkehler.com^|
 ||gkfahrrad.de^|
 ||gkhoubeto.com^|
@@ -13463,6 +13464,7 @@
 ||hannas-modehaus.com^|
 ||hannashop.de^|
 ||hannelore.shop^|
+||hannes-mariajuwelier.at^|
 ||hannibalcorp.com^|
 ||hannibalvajilla.com^|
 ||hannover-mode.de^|
@@ -14833,6 +14835,7 @@
 ||hubusvintage.com^|
 ||hudsonbathing.com^|
 ||hudyrc.com^|
+||huelosterreich.vip^|
 ||hugeiceca.com^|
 ||hugetsky.com^|
 ||hugfirst.com^|
@@ -16544,6 +16547,7 @@
 ||kcttjctl.shop^|
 ||kcypacking.com^|
 ||kddgf.mebbx.com^|
+||kddsxymb.shop^|
 ||kdoqlibh.shop^|
 ||kdpjzbsm.shop^|
 ||ke-99.top^|
@@ -16759,6 +16763,7 @@
 ||kinder-reich.at^|
 ||kinder-shiatsu.at^|
 ||kinderanhaengerwelt.de^|
+||kinderanhanger.com^|
 ||kinderbekleidungstore.com^|
 ||kindergarten-supplies.com^|
 ||kinderhausfridolin.de^|
@@ -20496,6 +20501,7 @@
 ||modeis24.shop^|
 ||modeish.com^|
 ||modekick.com^|
+||modekomfort.com^|
 ||modelaoshima.com^|
 ||modelcaronsales.com^|
 ||modelingdesignonline.store^|
@@ -20859,6 +20865,7 @@
 ||movies-ratings-backend.de^|
 ||movieslax.top^|
 ||movilatino.com^|
+||movina-shop.com^|
 ||movingbicycle.com^|
 ||movoda.de^|
 ||movolekt.de^|
@@ -21211,6 +21218,7 @@
 ||mytrendyde.com^|
 ||mytruegadgets.com^|
 ||mytrumerholz.shop^|
+||myulcgga.shop^|
 ||myvesperbox.shop^|
 ||myvesperboxde.shop^|
 ||myweststein.com^|
@@ -24961,6 +24969,7 @@
 ||profibikes.de^|
 ||profibrennde.com^|
 ||proficienct.com^|
+||profiersatzteile.com^|
 ||profikueche.com^|
 ||profile-residential.com^|
 ||profiofen.com^|
@@ -29351,6 +29360,7 @@
 ||spediglobal.es^|
 ||spedition-thiemann.de^|
 ||spedition-thoss.de^|
+||speditionspellets.com^|
 ||speditransportes.com^|
 ||speechast.top^|
 ||speechinca.com^|
@@ -29593,6 +29603,7 @@
 ||ssjug.com^|
 ||sskkl.shop^|
 ||ssobkhabar.top^|
+||sssezkli.shop^|
 ||ssternlaw.com^|
 ||ssxsmither.com^|
 ||ssystrypers.com^|
