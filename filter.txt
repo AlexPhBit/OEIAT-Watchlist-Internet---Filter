@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-01T22:04:57.140145Z
+! Generated: 2026-09-02T00:10:57.575392Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -105,6 +105,7 @@
 ||4803967.info^|
 ||4bike.net^|
 ||4living.at^|
+||4rainfast.shop^|
 ||4rxofficial.com^|
 ||5-drugs.com^|
 ||5-pocketjeans.com^|
@@ -362,6 +363,7 @@
 ||addicted2.at^|
 ||addictedtohandbagsapp.com^|
 ||addictedtohandbagsde.com^|
+||addicteksolutions.com^|
 ||addievelasquez.shop^|
 ||additio.today^|
 ||addyri.com^|
@@ -1981,6 +1983,7 @@
 ||at.tesup.com^|
 ||at.trabajo.org^|
 ||at.ultimate-gainz.com^|
+||at.whitetip.gr^|
 ||at.wloom.com^|
 ||at9.ketonaktiv.com^|
 ||ataraxy.bike^|
@@ -3333,6 +3336,7 @@
 ||bestellenmedicament.com^|
 ||bestellrezeptfrei.de^|
 ||bestellt-und-geliefert.nl^|
+||bestellundgut.de^|
 ||bestellung-rezeptfrei.de^|
 ||bestellungapotheke.de^|
 ||bestellungen-rezeptfrei.de^|
@@ -6735,7 +6739,6 @@
 ||cumulativei.com^|
 ||cunpotive.net^|
 ||cuoed.top^|
-||cupriva.de^|
 ||cups-stanley-cups.de^|
 ||curablity.com^|
 ||curiou.today^|
@@ -8038,6 +8041,7 @@
 ||dliene.com^|
 ||dliteshoeshop.de^|
 ||dlowiegfashion.shop^|
+||dlqwktqo.shop^|
 ||dly-home.com^|
 ||dm-supermall.com^|
 ||dm-vip.com^|
@@ -10579,7 +10583,6 @@
 ||fewopartner.co^|
 ||feworiesad.shop^|
 ||fexora.online^|
-||feytour.de^|
 ||ff24renst.shop^|
 ||ffaktury.com^|
 ||ffbag2.de^|
@@ -11624,6 +11627,7 @@
 ||fvkiwanis.org^|
 ||fwergew.com^|
 ||fwertty.shop^|
+||fwnkeoyt.shop^|
 ||fx-algorandking.com^|
 ||fx-lifetrader.com^|
 ||fx-ln.com^|
@@ -12024,6 +12028,7 @@
 ||gartenweltdeutsch.com^|
 ||gartenwerkzeugeprofi.com^|
 ||gartenzauberwelt.shop^|
+||gartmotor.com^|
 ||garved.com^|
 ||garyfurniture.shop^|
 ||gas-ertrag.app^|
@@ -13654,6 +13659,7 @@
 ||hausundgarten.haus^|
 ||hausundgarten.latahalcom.shop^|
 ||hausundlifestyle.com^|
+||hausundwerkzeug.com^|
 ||hausversand.com^|
 ||hauswelt.shop^|
 ||hautarzt-augsburg.info^|
@@ -17868,6 +17874,7 @@
 ||leckerwurzede.com^|
 ||leclercqbruno.com^|
 ||lecohealth.com^|
+||lecoinfraicheur.com^|
 ||lecreusets.de^|
 ||lecreusetyp.shop^|
 ||lecturerchang.com^|
@@ -19522,6 +19529,7 @@
 ||maternityhip.com^|
 ||maternitypractical.com^|
 ||mathe-chilled.at^|
+||mathelin-rimoulko.com^|
 ||matild-e.com^|
 ||matinique.lilshydasia.com^|
 ||matmax.at^|
@@ -19663,6 +19671,7 @@
 ||meagherspharmacyde.shop^|
 ||mealsonwheels.at^|
 ||measteat.com^|
+||measuremaster.de^|
 ||meatandeasy.at^|
 ||meatiilo.com^|
 ||mebtechprofi.com^|
@@ -20520,6 +20529,7 @@
 ||modehausessen.de^|
 ||modehausfischer.com^|
 ||modehausgruber.com^|
+||modehaushartmann.de^|
 ||modehausmunchen.com^|
 ||modehausravensburg.com^|
 ||modehauswieser.myshopify.com^|
@@ -25350,6 +25360,7 @@
 ||qliopbn.forum^|
 ||qlodus.de^|
 ||qlovebest.com^|
+||qmwblnuk.shop^|
 ||qmypalm.com^|
 ||qnesz.shop^|
 ||qnethini.com^|
@@ -25864,6 +25875,7 @@
 ||recuirud.com^|
 ||red-champagne.de^|
 ||red-dust.de^|
+||reda-prikolica.com^|
 ||redactjuri.fr^|
 ||redamencys.com^|
 ||redaut.cc^|
@@ -25899,6 +25911,7 @@
 ||reef-deutschland.com^|
 ||reelgazeki.com^|
 ||reelmasterde.com^|
+||reelycorner.com^|
 ||reepner.com^|
 ||refiglim.buzz^|
 ||refiningfurniture.com^|
@@ -29256,6 +29269,7 @@
 ||somoa.at^|
 ||somodefy.com^|
 ||somuchbutter.com^|
+||somviro.com^|
 ||sona-med.at^|
 ||sonaber.com^|
 ||sonaireofficial.com^|
@@ -33567,6 +33581,7 @@
 ||veramundo.net^|
 ||veranoclothing.de^|
 ||veraonline.site^|
+||veratechshop.de^|
 ||veraustria.com^|
 ||verbazenkoperss.de^|
 ||verbition.top^|
@@ -34649,6 +34664,7 @@
 ||weiprost-pro.com^|
 ||weirdtribe.org^|
 ||weis-reifenversand.shop^|
+||weissbt.com^|
 ||weisseres-lacheln.at^|
 ||weissformberlin.com^|
 ||weissweinrabatt.de^|
@@ -35115,6 +35131,7 @@
 ||wolle-flottemesch.de^|
 ||wollecrafts.com^|
 ||wollffashion.de^|
+||wollhatbitatco.shop^|
 ||wollriben.com^|
 ||wolovos.myshopify.com^|
 ||wolverineboots-deutschland.com^|
