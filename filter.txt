@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-04T22:56:38.986040Z
+! Generated: 2026-09-05T00:49:16.343489Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2847,6 +2847,7 @@
 ||bautech-store.com^|
 ||bauteilegest.com^|
 ||bauundgarten.com^|
+||bauwerkhaus.com^|
 ||bauwerkzeugmeister.com^|
 ||bauzentrum-deutschland24.de^|
 ||bavaria-rechtundberatung.com^|
@@ -4401,6 +4402,7 @@
 ||brennholz360.com^|
 ||brennholzanhanger.de^|
 ||brennholzbereich.com^|
+||brennholzbredemeier.com^|
 ||brennholzdirekt.com^|
 ||brennholzdoeg.com^|
 ||brennholzfolgner.com^|
@@ -11506,6 +11508,7 @@
 ||fugedsl.com^|
 ||fugendo.com^|
 ||fugespace.com^|
+||fuggler.at^|
 ||fugit.top^|
 ||fugitive.top^|
 ||fugkyrond.com^|
@@ -12386,6 +12389,7 @@
 ||gewofu.com^|
 ||gexchain.com^|
 ||gfiberon.com^|
+||gfjnp.com^|
 ||gfkmarketing.digital^|
 ||gfootwearus.com^|
 ||gforeosterreich.com^|
@@ -13584,6 +13588,7 @@
 ||harmonicasa.com^|
 ||harmoniouy.com^|
 ||harmony-ambiento.shop^|
+||harmonyalmbienteoutlet.shop^|
 ||haroimportexport.at^|
 ||harpecy.com^|
 ||harper-berlin.com^|
@@ -14250,6 +14255,7 @@
 ||hjchelmetsdeal.com^|
 ||hjfh.shop^|
 ||hjmyfzzw.com^|
+||hjz-handel.de^|
 ||hkaf-dienst.com^|
 ||hkm-sport.shop^|
 ||hkontrade.com^|
@@ -22824,6 +22830,7 @@
 ||online-columbia.com^|
 ||online-fahrradwelt.com^|
 ||online-file-converter.com^|
+||online-finanz.com^|
 ||online-firmenfinder.com^|
 ||online-holzheizung.com^|
 ||online-kitchenshop.com^|
@@ -22862,6 +22869,7 @@
 ||onlinedogfood.store^|
 ||onlinedoll-toy.com^|
 ||onlineeba.com^|
+||onlinefinanz-bmf.com^|
 ||onlinefixedblade.com^|
 ||onlineflamencoguitar.com^|
 ||onlineforyou.net^|
@@ -23887,6 +23895,7 @@
 ||paulmannvest.de^|
 ||paulrosenbach.com^|
 ||paulus-reifenhandel.com^|
+||paulusbrennholz.com^|
 ||pavan.top^|
 ||pavernotti.com^|
 ||pavlik24.at^|
@@ -27620,6 +27629,7 @@
 ||schickort.de^|
 ||schiessbedarf.com^|
 ||schiffbootsteile.com^|
+||schiffbox.com^|
 ||schildbaum-gartencenter.de^|
 ||schilderei.shop^|
 ||schillerstore.de^|
@@ -29413,6 +29423,7 @@
 ||spaceoutlabs.com^|
 ||spaceshine.de^|
 ||spacetoolsus.com^|
+||spacexfy.ai^|
 ||spaciousk.com^|
 ||spade.chantevil.cfd^|
 ||spakiertsen.de^|
@@ -29841,6 +29852,7 @@
 ||steiner-kg.at^|
 ||steiner-reifen.com^|
 ||steiner-wien.at^|
+||steinermode.at^|
 ||steinersalzburg.at^|
 ||steinersalzburg.com^|
 ||steinersearch.at^|
@@ -31273,7 +31285,6 @@
 ||thebookishshop.shop^|
 ||thebreakfastshop.de^|
 ||thebrightfurniture.com^|
-||thebrooklyn.net^|
 ||thebutlerspecialty.com^|
 ||thecallkc.org^|
 ||thecameron.xyz^|
@@ -33426,6 +33437,7 @@
 ||vapecheap.de^|
 ||vapedampf.com^|
 ||vapegunstig.de^|
+||vapekiste.com^|
 ||vapekitprime.com^|
 ||vapeweltde.com^|
 ||vapezigarette.de^|
