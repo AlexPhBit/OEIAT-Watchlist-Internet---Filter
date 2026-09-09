@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-08T23:37:46.409243Z
+! Generated: 2026-09-09T01:32:54.520279Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1643,6 +1643,7 @@
 ||arachnoworldeur.shop^|
 ||aramania.de^|
 ||aranayan.com^|
+||arandi-tech.com^|
 ||arauceri.com^|
 ||arbeit.homes^|
 ||arbeitsanzuge24.com^|
@@ -3557,6 +3558,7 @@
 ||bidmask.com^|
 ||bidshoping.com^|
 ||bielefeldmodehaus.myshopify.com^|
+||bienenimker.com^|
 ||bienenstock-potsdam.com^|
 ||bienll.de^|
 ||biensmix.com^|
@@ -9553,6 +9555,7 @@
 ||esnssalies.shop^|
 ||esnsupply.shop^|
 ||esoftn.shop^|
+||esoqoklb.shop^|
 ||esotecde.shop^|
 ||esotecs.com^|
 ||espace-cluny.com^|
@@ -9727,6 +9730,7 @@
 ||euro.stanleys1913.com^|
 ||eurodeals-store.shop^|
 ||eurodeliverieslogistics.com^|
+||eurofion-group.com^|
 ||eurokak.com^|
 ||eurolend-international.com^|
 ||euromedicplus.com^|
@@ -9849,6 +9853,7 @@
 ||evo-cleaner.de^|
 ||evo-house.com^|
 ||evolgrafix.de^|
+||evolveasialtd.co^|
 ||evostand.de^|
 ||evu-kipfenberg.de^|
 ||evutal.com^|
@@ -11143,6 +11148,7 @@
 ||foluna.fr^|
 ||fomoke.at^|
 ||fomshop.ml^|
+||fonckmichel-industrie.com^|
 ||fondazionegaia.org^|
 ||fondexprofit.com^|
 ||fondinvestcapital.com^|
@@ -11633,6 +11639,7 @@
 ||fussballfanparty.de^|
 ||fussballfanstore.com^|
 ||fussballm2c.com^|
+||fussballstube.com^|
 ||fussballtrikot.myshopify.com^|
 ||fussballtrikots-shop.com^|
 ||fussballtrikotsale.com^|
@@ -12029,6 +12036,7 @@
 ||gartenpflege-service-wien.at^|
 ||gartenpflegebodensee.de^|
 ||gartenpicks.de^|
+||gartenplaza.com^|
 ||gartenplus24.com^|
 ||gartenpools24.de^|
 ||gartenpools24.shop^|
@@ -13457,6 +13465,7 @@
 ||handelswiss1.com^|
 ||handeny.com^|
 ||handfestco.com^|
+||handgeblaese.com^|
 ||handjobleathergoods.com^|
 ||handkrchi.com^|
 ||handlampenstore.com^|
@@ -16085,6 +16094,7 @@
 ||johanneslemke.de^|
 ||johanning-online.de^|
 ||johannsenpellets.eu^|
+||johdorbrennholz.com^|
 ||john-reifenhandel.shop^|
 ||johnallcyclesbike.com^|
 ||johnmulajones.com^|
@@ -17187,6 +17197,7 @@
 ||kochkunsq.de^|
 ||kochrela.com^|
 ||kochtails.shop^|
+||kochtech.shop^|
 ||kock-am-brink.de^|
 ||kocleious.com^|
 ||kodiakschuhe.com^|
@@ -19192,6 +19203,7 @@
 ||maiermodehaus.de^|
 ||maikekloss.de^|
 ||maikel-ziller.de^|
+||maillauto-industrie.com^|
 ||main-24.com^|
 ||main-garten.at^|
 ||mainature.top^|
@@ -19582,6 +19594,7 @@
 ||maternitypractical.com^|
 ||mathe-chilled.at^|
 ||mathelin-rimoulko.com^|
+||mathilde-munchen.de^|
 ||matild-e.com^|
 ||matinique.lilshydasia.com^|
 ||matmax.at^|
@@ -19680,6 +19693,7 @@
 ||mbel-setsprize.com^|
 ||mbeltrbest.com^|
 ||mbflambeau.com^|
+||mbh-container.de^|
 ||mbheelso.com^|
 ||mbkauf.com^|
 ||mbkauf.shop^|
@@ -26234,6 +26248,7 @@
 ||reiterbrennholz.com^|
 ||reiterhof-geidner.de^|
 ||reiterstueberl.net^|
+||reittrendstore.com^|
 ||rejanerosenberger.shop^|
 ||related-ag.com^|
 ||relationshipi.com^|
@@ -28148,6 +28163,7 @@
 ||serverwartung.at^|
 ||service-dathe.de^|
 ||service-finanzonline.at^|
+||service-gesundheitskasse.at^|
 ||service-pharmaceutique.net^|
 ||service-rezeptfrei.de^|
 ||service-standesamt.de^|
@@ -33522,6 +33538,7 @@
 ||vaudewien.at^|
 ||vaughanbassetthome.com^|
 ||vaughn-baby.shop^|
+||vaunace-industrie.com^|
 ||vavaplay.com^|
 ||vavella.de^|
 ||vayco.de^|
@@ -34134,6 +34151,7 @@
 ||vodoro-shop.de^|
 ||vodoutlet.com^|
 ||vodula.de^|
+||voeller-it.solutions^|
 ||voferdom.com^|
 ||vogange.com^|
 ||vogany.com^|
@@ -34396,6 +34414,7 @@
 ||wagnerzuri.ch^|
 ||wagnerzurich.ch^|
 ||wagnerzurich.com^|
+||wahlalltagkueche.com^|
 ||wahldate.de^|
 ||wahlgartenalltag.com^|
 ||wahlstern.de^|
@@ -35862,6 +35881,7 @@
 ||zanardy.com^|
 ||zanatelier.com^|
 ||zandder.com^|
+||zanfliu.shop^|
 ||zangenprince.de^|
 ||zaniro.eu.cc^|
 ||zaniro.shop^|
@@ -35987,6 +36007,7 @@
 ||zestara-berlin.de^|
 ||zestniche.com^|
 ||zettabag.com^|
+||zeugma-industrie.com^|
 ||zeusfya.com^|
 ||zevamia.com^|
 ||zevarpalace.pk^|
