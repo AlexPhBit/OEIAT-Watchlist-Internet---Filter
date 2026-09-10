@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-10T00:00:51.995237Z
+! Generated: 2026-09-10T04:37:37.547587Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -637,6 +637,7 @@
 ||air-profits.com^|
 ||air-uposterreich.at^|
 ||air-uposterreich.com^|
+||air.diet^|
 ||air3panda1.store^|
 ||airbnb-co.uk-rooms5507914.uk^|
 ||airbnb-zuerich.ch^|
@@ -1966,6 +1967,7 @@
 ||at-paylivery.shop^|
 ||at-setrafimoney.org^|
 ||at-upwork.site^|
+||at.alpine-point.com^|
 ||at.collectory.se^|
 ||at.curalise.com^|
 ||at.eeelgnte.shop^|
@@ -2038,6 +2040,7 @@
 ||atrium-living.at^|
 ||atrixvision.com^|
 ||atsholz.com^|
+||att.hqvrm.shop^|
 ||att.kalitvicnvo.shop^|
 ||attentcture.com^|
 ||attentivek.com^|
@@ -3746,6 +3749,7 @@
 ||binotrader.com^|
 ||binsalut.com^|
 ||bio-brennholz.de^|
+||bio-stefano.shop^|
 ||bio-viertel.at^|
 ||bioaestheticshop.com^|
 ||bioamsee.de^|
@@ -4024,6 +4028,7 @@
 ||blum-film.de^|
 ||blumen-pro.de^|
 ||blumen-steu.com^|
+||blumen365.at^|
 ||blumenbanmai.de^|
 ||blumenelbracht.de^|
 ||blumengretel.de^|
@@ -6928,6 +6933,7 @@
 ||dailysmilezone.com^|
 ||dailysportsgolf.com^|
 ||dailystuffstore.com^|
+||dailywireix.info^|
 ||dainelybelt.net^|
 ||dakano.de^|
 ||dakineskis.com^|
@@ -8607,6 +8613,7 @@
 ||eajoys.cf^|
 ||eajoys.top^|
 ||eaolopdep.com^|
+||eaqrxrpx.shop^|
 ||earljourdier.com^|
 ||earlyfic.top^|
 ||earlynoon.com^|
@@ -9435,6 +9442,7 @@
 ||eqrragxt.info^|
 ||eqst.online^|
 ||equestriansportmall.com^|
+||equiconstructions.com^|
 ||equilibriuk.com^|
 ||equinix-development.com^|
 ||equipalley.com^|
@@ -10512,8 +10520,10 @@
 ||felix-messer.de^|
 ||fell-freund.at^|
 ||fella-handel.de^|
+||fels-wertburg.com^|
 ||felsbergers.de^|
 ||felsinacare.at^|
+||felswertburgat.com^|
 ||feltbicycleshop.com^|
 ||felums.com^|
 ||female-enjoy.com^|
@@ -11329,6 +11339,7 @@
 ||frankencamping.de^|
 ||frankfurt-outlet.com^|
 ||frankfurteintrachtshop.com^|
+||frankfurter-baumaschinen-anhaenger-gmbh.de^|
 ||frankfurtmodehaus.de^|
 ||frankiemakeupartist.com^|
 ||frankiesdubai.com^|
@@ -12410,6 +12421,7 @@
 ||gfiberon.com^|
 ||gfjnp.com^|
 ||gfkmarketing.digital^|
+||gfn-north.de^|
 ||gfootwearus.com^|
 ||gforeosterreich.com^|
 ||gfricke.com^|
@@ -12680,11 +12692,13 @@
 ||gluecks-stern.de^|
 ||gluecksraupe.shop^|
 ||glueex.com^|
+||glumentrol.com^|
 ||glurvextopin-at.at^|
 ||glurvextopin-gb.com^|
 ||glurvextopin-official.com^|
 ||glurvextopin.at^|
 ||gluschwein.de^|
+||glutadrops.com^|
 ||glytchf.com^|
 ||gm-portal.co^|
 ||gm.lightinthebox.com^|
@@ -12708,6 +12722,7 @@
 ||go-campingmaster.com^|
 ||go-dynergy.com^|
 ||go-elsim.com^|
+||go.kryptofokus.co^|
 ||goadapter.com^|
 ||goalhat.com^|
 ||goamerip.com^|
@@ -14239,6 +14254,7 @@
 ||himaya.at^|
 ||himmelok.com^|
 ||himmeltragen.com^|
+||himmonyambiente.com^|
 ||hinato-tech.de^|
 ||hincksy.com^|
 ||hindracsofa.com^|
@@ -15030,6 +15046,7 @@
 ||hydrafitnessparde.shop^|
 ||hydrationoutdoor.com^|
 ||hydraulicboatparts.com^|
+||hydroflaskaustria.com^|
 ||hydroforming.at^|
 ||hydrogearworld.com^|
 ||hyfhu.com^|
@@ -19823,6 +19840,7 @@
 ||megababiesusade.shop^|
 ||megacix.com^|
 ||megadigifun.com^|
+||megaelektronik.de^|
 ||megagear.online^|
 ||megahandel.shop^|
 ||megalomuseum.de^|
@@ -24090,6 +24108,7 @@
 ||pepperstone.vip^|
 ||peptet.xyz^|
 ||peptible.top^|
+||peptid24.de^|
 ||peptide-kaufen.com^|
 ||peqeno.de^|
 ||pequeno-paraiso.de^|
@@ -26867,6 +26886,7 @@
 ||rothman-rasenmaher.com^|
 ||rotterdamsunny.com^|
 ||rotweibwein.com^|
+||rotweinbar.com^|
 ||rotyka.com^|
 ||roudamo.shop^|
 ||roujedeutschland.com^|
@@ -27841,6 +27861,7 @@
 ||schuhheld.com^|
 ||schuhschritte.com^|
 ||schuhschritte.de^|
+||schuhwelten.com^|
 ||schul-frei.at^|
 ||schulbedarfsales.com^|
 ||schuler-autoreifen.com^|
@@ -29237,6 +29258,7 @@
 ||sofiamode.de^|
 ||sofie-boutiques.de^|
 ||sofiepolat.com^|
+||sofort-antrag.net^|
 ||sofortapotheke.nl^|
 ||soft-ballworld.com^|
 ||soft-handel.de^|
@@ -29792,6 +29814,7 @@
 ||standardearning.online^|
 ||standesamt-portal.de^|
 ||standprofi.com^|
+||standycrome.com^|
 ||stanfpv.com^|
 ||stanley-cups.at^|
 ||stanley-cups.de^|
@@ -31989,7 +32012,6 @@
 ||toolsempower.com^|
 ||toolsgrant.com^|
 ||toolsharphub.com^|
-||toolsholic.com^|
 ||toolshype.com^|
 ||toolsinthemaking.com^|
 ||toolsiteportable.com^|
@@ -32163,6 +32185,7 @@
 ||totifier.top^|
 ||totofashion2021.com^|
 ||totogifthouse.com^|
+||totovape.de^|
 ||totrendybags.com^|
 ||totsoo.com^|
 ||touchwonr.com^|
