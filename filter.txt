@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-10T22:24:16.265517Z
+! Generated: 2026-09-11T00:26:12.267892Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1060,6 +1060,7 @@
 ||alureva.de^|
 ||aluvea.de^|
 ||aluver.es^|
+||alvara-zurich.ch^|
 ||alvaradoedmarie.com^|
 ||alvarezmarta.com^|
 ||alvaxi.com^|
@@ -2292,6 +2293,7 @@
 ||autoteilewerkzeug.com^|
 ||autoteileworks.com^|
 ||autotoolmaster24.com^|
+||autoverlauf.de^|
 ||autovignete.com^|
 ||autozubehorde.com^|
 ||autozubehormarkt.com^|
@@ -4354,6 +4356,7 @@
 ||brandymelvilleee.com^|
 ||brappy.co^|
 ||brass-eu.com^|
+||brastsales.com^|
 ||brasusbau24.de^|
 ||braterrabatt.com^|
 ||brateshop.com^|
@@ -4404,6 +4407,7 @@
 ||brendavalosa.com^|
 ||brenn-holzinger.at^|
 ||brennholz-conrady.com^|
+||brennholz-direkt-de.com^|
 ||brennholz-emil.de^|
 ||brennholz-geschaft.com^|
 ||brennholz-goignerog.at^|
@@ -7827,6 +7831,7 @@
 ||diebestenparfums.xyz^|
 ||diection.com^|
 ||diedetail.com^|
+||diedrich-handel.myshopify.com^|
 ||diegeotechniker.at^|
 ||diegoladano.com^|
 ||diehamburgerplattenfirma.de^|
@@ -10716,6 +10721,7 @@
 ||finanz-schnell.de^|
 ||finanzamt-familienbeihilfe-at.com^|
 ||finanzaufsichtsbehoerde.com^|
+||finanzen.075756.net^|
 ||finanzonline-gvbmfgv.info^|
 ||finanzonline.at.bmf.gv-uberprufung.com^|
 ||finanzonline.bmf-gv-at-verifizierung.com^|
@@ -13692,6 +13698,7 @@
 ||haushaltonline.com^|
 ||haushalts-elektro.de^|
 ||haushalts-hit.de^|
+||haushaltsgeraete-profis.de^|
 ||haushaltsgeraete24.at^|
 ||haushaltsheizung.com^|
 ||haushaltshelden.online^|
@@ -15783,6 +15790,7 @@
 ||itemusfilms.com^|
 ||itguruu.com^|
 ||ithardpulsede.shop^|
+||ithardwareprofi24.com^|
 ||itisrainvintage.com^|
 ||itnl-logistics.com^|
 ||itoro.io^|
@@ -17296,6 +17304,7 @@
 ||korase.de^|
 ||korbheld.de^|
 ||korda-fishing.com^|
+||korff-agrarbau.de^|
 ||kortner-partner.de^|
 ||kortova.com^|
 ||kortsdam.de^|
@@ -17485,6 +17494,7 @@
 ||kundegeschaft.de^|
 ||kundendienstexperte.at^|
 ||kundendienstgeraete.at^|
+||kundenservice-flatex.at^|
 ||kundenservice-hotline.at^|
 ||kundigenbei.at^|
 ||kunst-onlinebuy.shop^|
@@ -19469,6 +19479,7 @@
 ||markechant.com^|
 ||markel-energie.com^|
 ||markensnowboard.com^|
+||market.ashfielden.com^|
 ||market.cedarbourne.com^|
 ||market.clearancewhirl.com^|
 ||market.darrowmere.com^|
@@ -21813,6 +21824,7 @@
 ||newsale-tableware.com^|
 ||newscohot.com^|
 ||newsee.datevote.shop^|
+||newsfluxvpo.info^|
 ||newsneakers-shop.com^|
 ||newsneakershop.com^|
 ||newsportkit.com^|
@@ -22206,6 +22218,7 @@
 ||novakgroup.online^|
 ||novaloan.eu^|
 ||novalyx.de^|
+||novambients.de^|
 ||novamenstruhilfe.de^|
 ||novamoda-oslo.com^|
 ||novamoda.de^|
@@ -23979,6 +23992,7 @@
 ||pcakkusdirekt.de^|
 ||pcdok.at^|
 ||pcdpyqtc.shop^|
+||pcoemgerm.com^|
 ||pcpartsvendor.com^|
 ||pcsada.com^|
 ||pd99.cc^|
@@ -24930,6 +24944,7 @@
 ||premiumer.co^|
 ||premiumfinancesolutionsltd.com^|
 ||premiumfunds.com^|
+||premiummatten.shop^|
 ||premiumnovo.com^|
 ||premiumpillservice.com^|
 ||premiumpowertec.com^|
@@ -25196,6 +25211,7 @@
 ||propagaty.com^|
 ||propellerfinnen.com^|
 ||propellets.pro^|
+||propermen.de^|
 ||properties-list.com^|
 ||propertisz.com^|
 ||property-24.com^|
@@ -25702,6 +25718,7 @@
 ||radiotradeus.com^|
 ||radioustrendy.com^|
 ||radiusor.com^|
+||radmarkt-schaeler.de^|
 ||radonsale.com^|
 ||radrudel.de^|
 ||radschuhede.com^|
@@ -26044,6 +26061,7 @@
 ||registrykissen.com^|
 ||regli-coaching.com^|
 ||regosunglasses.com^|
+||regsvsemptbr-upadttody.com^|
 ||regular-offers.com^|
 ||regulh.com^|
 ||rehapolen.de^|
@@ -28032,6 +28050,7 @@
 ||seelina.com^|
 ||seepalm.de^|
 ||seeslotg.com^|
+||seewinklermaeher.at^|
 ||sefitoys.com^|
 ||sefmgift.com^|
 ||segelbekleidung.at^|
@@ -30090,6 +30109,7 @@
 ||store.minisforum.de^|
 ||store.miremonta.com^|
 ||store.promomesh.com^|
+||store.rosebournea.com^|
 ||store.savemarketed.com^|
 ||store.useum.org^|
 ||store.yeelight.com^|
@@ -32622,6 +32642,7 @@
 ||trycheahoney.site^|
 ||trychemlove.site^|
 ||tryemsense.com^|
+||tryfivemore.com^|
 ||tryfono.com^|
 ||tryglamory.de^|
 ||tryglycogenplus.com^|
@@ -34440,6 +34461,7 @@
 ||wahlalltagkueche.com^|
 ||wahldate.de^|
 ||wahlgartenalltag.com^|
+||wahlkinderalltag.com^|
 ||wahlstern.de^|
 ||wahrekatzenliebe.com^|
 ||waifairy.com^|
@@ -35597,6 +35619,7 @@
 ||xsbcje.solidcourt.shop^|
 ||xscinotic.com^|
 ||xseipnn.shop^|
+||xsltkprx.shop^|
 ||xsmartlogisticservices.com^|
 ||xspiegel.de^|
 ||xtapostr.com^|
