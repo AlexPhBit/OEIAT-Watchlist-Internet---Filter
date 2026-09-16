@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-15T23:07:01.737269Z
+! Generated: 2026-09-16T01:24:34.411419Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1610,6 +1610,7 @@
 ||apx-offroad.shop^|
 ||aqilshopn.com^|
 ||aqq-shopyys.top^|
+||aqrde.com^|
 ||aqua-fun.shop^|
 ||aquaadvent.com^|
 ||aquacompasstrade.com^|
@@ -1983,6 +1984,7 @@
 ||at.ketonaktiv.com^|
 ||at.llinacrda.shop^|
 ||at.mammotion.com^|
+||at.mur-shop.com^|
 ||at.nneelkwerf.net^|
 ||at.pkajwb.shop^|
 ||at.qfmiceden.shop^|
@@ -4418,6 +4420,7 @@
 ||brendavalosa.com^|
 ||brenn-holzinger.at^|
 ||brennholz-conrady.com^|
+||brennholz-de.com^|
 ||brennholz-direkt-de.com^|
 ||brennholz-emil.de^|
 ||brennholz-geschaft.com^|
@@ -7838,6 +7841,7 @@
 ||diccord.ru^|
 ||dicha-anhaenger.com^|
 ||dicha-bike.com^|
+||dichzeltstore.com^|
 ||dick-reifen.com^|
 ||dickbath.live^|
 ||dickiesgermany.com^|
@@ -8437,6 +8441,7 @@
 ||drogen-kaufen.com^|
 ||drogenbestellenshop.com^|
 ||droguerie-fr.com^|
+||drohnenklar.com^|
 ||droits-revente.fr^|
 ||dronars.de^|
 ||dronedealer.shop^|
@@ -8927,6 +8932,7 @@
 ||ehspelletsgmbh.de^|
 ||ehwsgh.shop^|
 ||eichborn-berlin.de^|
+||eichemarkt.de^|
 ||eichholtzdeals.com^|
 ||eichler-reifenversand.com^|
 ||eichner-haushalt.com^|
@@ -10943,6 +10949,7 @@
 ||fitness-outlet24.de^|
 ||fitness-shopsale.com^|
 ||fitness-solution24.com^|
+||fitness-walk.com^|
 ||fitnessapotheke.nl^|
 ||fitnessbezogen.com^|
 ||fitnessequipmentsale.store^|
@@ -11268,6 +11275,7 @@
 ||forsalemusic.com^|
 ||forschwerk.com^|
 ||forsellbike.com^|
+||forstbedarf-blessing.de^|
 ||forstbetrieb-hildebrand.de^|
 ||forstwirtschaftsholz.com^|
 ||fortagefundsmgmt.com^|
@@ -12149,6 +12157,7 @@
 ||gbachtgmbh.com^|
 ||gbhxe.site^|
 ||gbi.segaeg.top^|
+||gblkaufen.net^|
 ||gbootssale.com^|
 ||gbpusdcryptotrade.live^|
 ||gbr-office.de^|
@@ -12254,6 +12263,7 @@
 ||gentglam.com^|
 ||gentlecycle.net^|
 ||gentlemangarderobe.com^|
+||gentlemanmagazin.de^|
 ||gentlemanmode.de^|
 ||gentlemany.com^|
 ||gentlewing.de^|
@@ -12410,6 +12420,7 @@
 ||getjewelrystore.com^|
 ||getjewelryus.com^|
 ||getjustsmile.com^|
+||getkaveo.com^|
 ||getkibblex.com^|
 ||getkidzly.de^|
 ||getlampspecial.com^|
@@ -13708,6 +13719,7 @@
 ||hauptstadtmarkt.com^|
 ||haus-am-kap.de^|
 ||haus-elektro.de^|
+||haus-lorenz.com^|
 ||haus-marienthal.de^|
 ||haus-naturholz.com^|
 ||haus-stmartin.de^|
@@ -14924,6 +14936,7 @@
 ||hsd-installationstechnik.at^|
 ||hsdienst.at^|
 ||hsflogisticsgroup.com^|
+||hshndxdi.shop^|
 ||hsk-bessel.de^|
 ||hsleibnitz.at^|
 ||hsn-logistik.com^|
@@ -16472,6 +16485,7 @@
 ||kaminexpertstore.com^|
 ||kaminholz-briketts-holzpellets.eu^|
 ||kaminholz-vare.com^|
+||kaminholzdirekt.ch^|
 ||kaminholzgmbh.com^|
 ||kaminholzholzofen.de^|
 ||kaminj.top^|
@@ -26034,6 +26048,7 @@
 ||rechtund-gesetz.com^|
 ||reciprocalx.com^|
 ||reciprocau.com^|
+||recognitioy.com^|
 ||recognizen.com^|
 ||recollectk.com^|
 ||recordkontor.de^|
@@ -27211,6 +27226,7 @@
 ||saatgutrabatt.com^|
 ||saathoff-brennstoffe.com^|
 ||saatmod.com^|
+||saatundblatt.com^|
 ||saaturing.com^|
 ||sabendeals.com^|
 ||saberdogart.com^|
@@ -27747,6 +27763,7 @@
 ||schalen-shop.com^|
 ||schallreiniger.de^|
 ||schaltersteckdosen.com^|
+||schaltstellecontainer.at^|
 ||schaltwerkfahrrad.de^|
 ||schapiman.com^|
 ||scharfemesser.de^|
@@ -29279,6 +29296,7 @@
 ||snipeseu.outletseur.com^|
 ||snipezhunter.de^|
 ||snitactical.com^|
+||snjdueu.shop^|
 ||snk-cargos.com^|
 ||snksinc.de^|
 ||snmea.shop^|
@@ -30110,6 +30128,7 @@
 ||stockcyclist.com^|
 ||stockerandsonsde.shop^|
 ||stockerpoints.com^|
+||stockerwiesen.de^|
 ||stocket.net^|
 ||stockfinery.com^|
 ||stockinfernopro.com^|
@@ -30576,6 +30595,7 @@
 ||sunpaym1.world^|
 ||sunplux.com^|
 ||sunrigh.com^|
+||sunseller-shop.de^|
 ||sunset-ag.com^|
 ||sunsetwell.com^|
 ||sunshine-city.top^|
@@ -35331,6 +35351,7 @@
 ||wohnungen-wohnen.de^|
 ||wohnwagenshopping.com^|
 ||wohnweltplace.com^|
+||wohnwerkos.de^|
 ||woin8.com^|
 ||wojas.top^|
 ||wojashoes.top^|
