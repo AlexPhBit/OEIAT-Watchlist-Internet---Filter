@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-22T22:53:03.130612Z
+! Generated: 2026-09-23T01:22:07.570011Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -595,6 +595,7 @@
 ||agriram.es^|
 ||agriservice640.com^|
 ||agro-garten-market.de^|
+||agroelementgmbh.de^|
 ||agru-paradis.com^|
 ||agserviceplus.com^|
 ||agshopb.com^|
@@ -1182,6 +1183,7 @@
 ||amswallet.cz^|
 ||amt-wankendorf.de^|
 ||amthorey.shop^|
+||amtsgerichtfussen.de^|
 ||amuseliebe.at^|
 ||amuseliebe.com^|
 ||amuseliebe.shop^|
@@ -2822,6 +2824,7 @@
 ||bauedelgoldmakler.com^|
 ||bauelemente-altotec.at^|
 ||bauen-shop-de.com^|
+||bauer-brennstoffe.com^|
 ||bauer-parndorf.at^|
 ||bauer-sales.com^|
 ||bauer-wien.at^|
@@ -3309,6 +3312,7 @@
 ||bessere-reifen.de^|
 ||besseregesudheit.com^|
 ||besseregesundheit.com^|
+||besseregesundheitbp-at.com^|
 ||besseregesunheit.com^|
 ||besseres-holz.com^|
 ||best-apotheke.online^|
@@ -4456,6 +4460,7 @@
 ||brennholzkaufende.shop^|
 ||brennholzkiefer.com^|
 ||brennholzmeister.de^|
+||brennholzorgler.at^|
 ||brennholzplus-austria.com^|
 ||brennholzrobinio.com^|
 ||brennholzroman.com^|
@@ -6957,6 +6962,7 @@
 ||dahlmann-scholz.de^|
 ||dahlmuehle.de^|
 ||daietdy.top^|
+||daikigreenmart.com^|
 ||daily-clearance.com^|
 ||daily-disney.com^|
 ||daily-jewelry123.com^|
@@ -9068,6 +9074,7 @@
 ||electro-redeker.de^|
 ||electro-worlds.shop^|
 ||electrodeal.shop^|
+||electrodinc.com^|
 ||electrogaiety.com^|
 ||electrokaufen.de^|
 ||electrolager.de^|
@@ -11004,6 +11011,7 @@
 ||fivest.co^|
 ||fivland.com^|
 ||fix24h.at^|
+||fixardo.de^|
 ||fixdapp.com^|
 ||fixedbladeknifesale.com^|
 ||fixedo.de^|
@@ -15037,6 +15045,7 @@
 ||hugopdgr.com^|
 ||hugosalesstore.de^|
 ||hugoverkauf.de^|
+||hugrarqf.shop^|
 ||hugsandfreckles.shop^|
 ||huiberty.com^|
 ||huiiltn.shop^|
@@ -15186,6 +15195,7 @@
 ||iaprecon.info^|
 ||iat-internationale-auto-transport.eu^|
 ||iauvon.com^|
+||iavkqjlv.shop^|
 ||iayhsa.com^|
 ||ib-kahrer.at^|
 ||ibid-events.com^|
@@ -16966,6 +16976,7 @@
 ||kindderstadt.shop^|
 ||kindderstadteu.shop^|
 ||kindderstedt.com^|
+||kindderstidt.com^|
 ||kinddeshoprstadt.com^|
 ||kindduckling.com^|
 ||kindel.top^|
@@ -17683,6 +17694,7 @@
 ||laborkampagnede.shop^|
 ||laborkampgne.shop^|
 ||laboussoleverte.com^|
+||laboutiqueherbal.store^|
 ||labq22.in^|
 ||labubu-box.com^|
 ||labubu-lounge.de^|
@@ -17990,6 +18002,7 @@
 ||lawncaremall.com^|
 ||lawnmowernew.com^|
 ||laxnds.com^|
+||layer-care.com^|
 ||laylifeca.com^|
 ||laymishop.com^|
 ||layoutof.com^|
@@ -19205,6 +19218,7 @@
 ||luxzafashion.com^|
 ||luzern-mode.ch^|
 ||lva-grosshandel.de^|
+||lwf-energy.com^|
 ||lwsszmn.top^|
 ||lwvbi.com^|
 ||lxatyjcu.space^|
@@ -20170,6 +20184,7 @@
 ||mensfad.com^|
 ||mensheaven.shop^|
 ||mensluxuryboutique.com^|
+||mensorium.com^|
 ||menspower.online^|
 ||menstorehouse.com^|
 ||menstorewear.com^|
@@ -20613,6 +20628,7 @@
 ||mkgarrisone.com^|
 ||mkijnds.shop^|
 ||mkiplmout.com^|
+||mkkrcwss.shop^|
 ||mklidsa.shop^|
 ||mknen.com^|
 ||mkt.oeamtc.at^|
@@ -24216,6 +24232,7 @@
 ||pellet-werk.com^|
 ||pelletitaliano.it^|
 ||pelletor.at^|
+||pelletpoint77gmbh.de^|
 ||pellets-bei-wolf.com^|
 ||pellets-maschinen.de^|
 ||pelletsgeschaft.com^|
@@ -30617,6 +30634,7 @@
 ||sugex.at^|
 ||sugex.de^|
 ||suggast.com^|
+||suhrer-law.de^|
 ||suify.xyz^|
 ||suigent.de^|
 ||suisse-bitcoin.de^|
@@ -34674,6 +34692,7 @@
 ||walkfit.welltech.com^|
 ||walkgrowca.com^|
 ||walkinges.live^|
+||walkingmats.com^|
 ||walklux.de^|
 ||wall-de.com^|
 ||wallbox-welt24.de^|
@@ -36088,6 +36107,7 @@
 ||yyscamping.com^|
 ||yyyqqqqqqq.top^|
 ||yzchrzx.com^|
+||yznjrzaw.shop^|
 ||yzyshoes.us.com^|
 ||z-designz.at^|
 ||z-wavelab.com^|
