@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-23T23:00:57.510528Z
+! Generated: 2026-09-24T01:22:06.841733Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1440,6 +1440,7 @@
 ||anwalt-rieger.de^|
 ||anwalt-sirrenberg.com^|
 ||anwaltskanzlei-brust.de^|
+||anwaltskanzlei-ganzer.de^|
 ||anxiair.xyz^|
 ||any-estates.com^|
 ||anyoneeer.top^|
@@ -2001,7 +2002,6 @@
 ||at.tesup.com^|
 ||at.trabajo.org^|
 ||at.ultimate-gainz.com^|
-||at.whitetip.gr^|
 ||at.wloom.com^|
 ||at9.ketonaktiv.com^|
 ||ataraxy.bike^|
@@ -3422,6 +3422,7 @@
 ||bestmedicineservice.com^|
 ||bestmedsdomain.com^|
 ||bestmodebag.com^|
+||bestmodel-shop.com^|
 ||bestmotorbikeparts.com^|
 ||bestneckrelax.com^|
 ||bestoil24.com^|
@@ -4466,6 +4467,7 @@
 ||brennholzroman.com^|
 ||brennholzruhl.de^|
 ||brennholzstore.de^|
+||brennholzullrich.com^|
 ||brennholzverkaufer.com^|
 ||brennholzvidos.at^|
 ||brennholzwerner.de^|
@@ -6764,6 +6766,7 @@
 ||csbclo.de^|
 ||csbdbuy.com^|
 ||csbsts.site^|
+||cschwindt-24.de^|
 ||csdoki.shop^|
 ||csebasoft.com^|
 ||cserveni.at^|
@@ -7869,6 +7872,7 @@
 ||diccord.ru^|
 ||dicha-anhaenger.com^|
 ||dicha-bike.com^|
+||dicha-technik.com^|
 ||dichzeltstore.com^|
 ||dick-reifen.com^|
 ||dickbath.live^|
@@ -8482,6 +8486,7 @@
 ||dropstab.com^|
 ||drovasi.com^|
 ||drozaric.com^|
+||drpengermany.com^|
 ||drpfoten.de^|
 ||drsahm.de^|
 ||drscholls.co.za^|
@@ -10789,6 +10794,7 @@
 ||finanzonline-gvbmfgv.info^|
 ||finanzonline.at.bmf.gv-uberprufung.com^|
 ||finanzonline.bmf-gv-at-verifizierung.com^|
+||finanzonline.bmf-gvat.com^|
 ||finanzonline.bmf.gv-at.net^|
 ||finanzonline.bmf.gv.at-bestatigen.com^|
 ||finanzportalonline.com^|
@@ -11489,6 +11495,7 @@
 ||freizeitgalerie.com^|
 ||freizeitjackensalesshop.com^|
 ||freizeitshopzell.com^|
+||freizeitweltde.com^|
 ||freliva.de^|
 ||frema-transport.com^|
 ||frenchbulldog.store^|
@@ -13503,6 +13510,7 @@
 ||hakimrazalan.com^|
 ||haladavidl.com^|
 ||halalolsun.com^|
+||halcyonlabel.com^|
 ||haleybaby.com^|
 ||halfbe.artscore.bond^|
 ||halfbe.formchain.shop^|
@@ -13968,6 +13976,7 @@
 ||heimgrueen.com^|
 ||heimguts.shop^|
 ||heimjob-vermittlung.de^|
+||heimkauf.com^|
 ||heimkauf.myshopify.com^|
 ||heimkinovertrieb.de^|
 ||heimkuchenwaren.com^|
@@ -15781,6 +15790,7 @@
 ||iq-online-test.com^|
 ||iq.mental-impulse.com^|
 ||iqccpena.shop^|
+||iqcenter.com^|
 ||iqcenter.net^|
 ||iqcheckup.com^|
 ||iqctrf.shop^|
@@ -20481,6 +20491,7 @@
 ||minhapecay.com^|
 ||mini-ecig.com^|
 ||mini-kennzeichen.de^|
+||mini-modellerstellung.com^|
 ||miniaturewelt.com^|
 ||minimalistcostume.com^|
 ||minimalitor.com^|
@@ -21006,6 +21017,7 @@
 ||mooredvazwe.myshopify.com^|
 ||mooris.de^|
 ||moorningitalia.com^|
+||mooro.co^|
 ||moovem-expert.com^|
 ||mooxishop.de^|
 ||mopode.shop^|
@@ -24435,6 +24447,7 @@
 ||pgddfgqt.shop^|
 ||pgimpro.shop^|
 ||pgmde.shop^|
+||pgmgcved.shop^|
 ||pgmus.net^|
 ||pgmvip.com^|
 ||phaidon-eu-online.shop^|
@@ -28954,6 +28967,7 @@
 ||shuitterlily.net^|
 ||shujinharibide.com^|
 ||shumatel.com^|
+||shupnatuvisan.com^|
 ||shureheadphonesdeutschland.com^|
 ||shuttars.com^|
 ||shytoy.shop^|
