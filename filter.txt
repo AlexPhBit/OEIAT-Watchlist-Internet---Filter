@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-24T23:33:36.671205Z
+! Generated: 2026-09-25T01:53:51.856206Z
 ||<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />^|
 ||<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->^|
 ||if (!navigator.cookieEnabled) {^|
@@ -14,7 +14,7 @@
 ||<p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>^|
 ||<p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>^|
 ||</div><!-- /.section -->^|
-||<span class="hidden" id="cf-footer-ip">20.169.99.141</span>^|
+||<span class="hidden" id="cf-footer-ip">64.236.200.99</span>^|
 ||<script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal")^|
 ||</div><!-- /.error-footer -->^|
 ||window._cf_translation = {}^|
