@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-25T21:24:24.649347Z
+! Generated: 2026-09-26T00:04:59.430334Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2013,6 +2013,7 @@
 ||atdasjournal.com^|
 ||ateamtrend.com^|
 ||atelier-boehm.de^|
+||atelier-romand.com^|
 ||atelier-schnelle.com^|
 ||atelierappm.com^|
 ||atelierhardanger.com^|
@@ -2187,6 +2188,7 @@
 ||ausverkauf-ch.com^|
 ||ausverkaufreich.com^|
 ||aut.grandado.com^|
+||aut.oanrp.shop^|
 ||authilama.com^|
 ||authorityo.com^|
 ||autleez.com^|
@@ -4110,6 +4112,7 @@
 ||bmwmt2025mall.sa.com^|
 ||bmwmt2026online.com^|
 ||bmwvip-eu.com^|
+||bnbsjbir.shop^|
 ||bnbtrades.com^|
 ||bncopfs.com^|
 ||bnesmartrecruits.com^|
@@ -5007,6 +5010,7 @@
 ||camode.de^|
 ||camopstore.com^|
 ||camp365.top^|
+||campbasel.ch^|
 ||campenwelt.com^|
 ||camper--schuhe.com^|
 ||camper-schuhe.at^|
@@ -5895,6 +5899,7 @@
 ||claracamila.de^|
 ||claracasperjuwelen.de^|
 ||clarachristine-wien.at^|
+||claragraz.at^|
 ||claraluzern.ch^|
 ||clarasdad.de^|
 ||clareba-tech.de^|
@@ -15209,6 +15214,7 @@
 ||iamkenoughofficial.com^|
 ||iamsogood.shop^|
 ||iancheer.com^|
+||iandamode.com^|
 ||iaprcurr.com^|
 ||iaprecon.info^|
 ||iat-internationale-auto-transport.eu^|
@@ -16130,6 +16136,7 @@
 ||jetaxtrade.pro^|
 ||jetprofund.net^|
 ||jetterix.com^|
+||jetzt-beantragen.com^|
 ||jeulia.de^|
 ||jeveray.com^|
 ||jevolo-de.com^|
@@ -16864,6 +16871,7 @@
 ||kenada-reifen.com^|
 ||kendoraa.de^|
 ||kenjinew.com^|
+||kenmiso.com^|
 ||kennedydwilde.com^|
 ||kenotistflowio.digital^|
 ||kenough.de^|
@@ -19238,7 +19246,6 @@
 ||luxzafashion.com^|
 ||luzern-mode.ch^|
 ||lva-grosshandel.de^|
-||lwf-energy.com^|
 ||lwsszmn.top^|
 ||lwvbi.com^|
 ||lxatyjcu.space^|
@@ -19313,6 +19320,7 @@
 ||madeinbremenstore.shop^|
 ||madeinkcde.shop^|
 ||madeleine-issing.com^|
+||madelinemunchen.com^|
 ||madepants.de^|
 ||madfjtlfd.top^|
 ||madfriesq.com^|
@@ -20486,6 +20494,7 @@
 ||miltonas.com^|
 ||milwaukeeartefakt.de^|
 ||milyenshop.com^|
+||mimicoffee.com^|
 ||mimorkids.shop^|
 ||minacj.com^|
 ||minarium.top^|
@@ -21328,7 +21337,6 @@
 ||musicusstore.com^|
 ||musicworldde.com^|
 ||musik-laden.com^|
-||musik-planet.com^|
 ||musikgarage.com^|
 ||musikgearhub.com^|
 ||musikgermany.com^|
@@ -25202,6 +25210,7 @@
 ||primehealthplus.org^|
 ||primekredit.com^|
 ||primelogisticllc.com^|
+||primeoffer.de^|
 ||primeplatform-ai.com^|
 ||primesupply.shop^|
 ||primetechmarket.co^|
@@ -34399,6 +34408,7 @@
 ||vlappartient.com^|
 ||vlgqq.com^|
 ||vliestapeten.com^|
+||vliyef.shop^|
 ||vlizo-berlin.de^|
 ||vlizo-modehaus.de^|
 ||vlizo-modehaus.shop^|
@@ -34530,6 +34540,7 @@
 ||voltryzapex.app^|
 ||voltryzapex.at^|
 ||volture.de^|
+||volturexa.de^|
 ||voluntaly.com^|
 ||voluntaryi.com^|
 ||voluntarys.top^|
@@ -35058,6 +35069,7 @@
 ||weinsteincorp.biz^|
 ||weinundgenusswelt.com^|
 ||weinundmehr.net^|
+||weinvielfalt.shop^|
 ||weinweltgenuss.com^|
 ||weiprost-pro.com^|
 ||weirdtribe.org^|
@@ -35827,6 +35839,7 @@
 ||xkauf.at^|
 ||xkhidir.com^|
 ||xkolzxhs.shop^|
+||xlorventa.shop^|
 ||xloxo.com^|
 ||xlthomannmusic.shop^|
 ||xlumina.at^|
