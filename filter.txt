@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-27T23:08:19.847382Z
+! Generated: 2026-09-28T01:40:02.125284Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -6090,7 +6090,6 @@
 ||cloudyearrings.com^|
 ||clouseboutique.com^|
 ||cloutby.com^|
-||clpmobelrabatt.com^|
 ||clrfamily.com^|
 ||clubcueca.com^|
 ||clubdetirolabastida.com^|
