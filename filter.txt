@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-28T21:57:59.143884Z
+! Generated: 2026-09-29T01:47:14.489523Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -98,6 +98,7 @@
 ||3863dgpcpb.vuudoa.shop^|
 ||3bands4you.at^|
 ||3d-printing.store^|
+||3ddruckwerk.shop^|
 ||3dhexde.shop^|
 ||3mobile.at^|
 ||3racingparts.com^|
@@ -982,6 +983,7 @@
 ||alpenpellets.pro^|
 ||alpenrose-mode.com^|
 ||alpenroute36.com^|
+||alpentrailschuhe.myshoplaza.com^|
 ||alpenwien.com^|
 ||alpenwolken.de^|
 ||alperchokenarev.com^|
@@ -1989,6 +1991,7 @@
 ||at.flexumgel-official.shop^|
 ||at.gluconv.com^|
 ||at.grandado.com^|
+||at.habgm.shop^|
 ||at.hatme.de^|
 ||at.hwduy.shop^|
 ||at.irgedvei.shop^|
@@ -3075,6 +3078,7 @@
 ||beghinilaura.com^|
 ||begime.com^|
 ||begoka.today^|
+||behappy.exchange^|
 ||behaviorl.com^|
 ||behead-offers.com^|
 ||beheizbarekleidung.com^|
@@ -3193,9 +3197,11 @@
 ||beolinna.com^|
 ||beqcoin.com^|
 ||bequem-schuhe.com^|
+||ber-beratung.de^|
 ||beratungfuerpflege.de^|
 ||bercasa.de^|
 ||bereichosgarten.com^|
+||berg-blum.de^|
 ||berg-fit.de^|
 ||berg-freundeoutlet.shop^|
 ||berg-freundeoutlets.shop^|
@@ -4243,6 +4249,7 @@
 ||borcons.de^|
 ||bordcltiat.net^|
 ||borde-brennholz.com^|
+||borde-brennholzpaulusgmbh.com^|
 ||bordertales.de^|
 ||borgshirt.xyz^|
 ||boridashop.de^|
@@ -4457,6 +4464,7 @@
 ||brennholz-widmanngmbh.com^|
 ||brennholz360.com^|
 ||brennholzanhanger.de^|
+||brennholzauswahl.at^|
 ||brennholzbereich.com^|
 ||brennholzbredemeier.com^|
 ||brennholzdirekt.com^|
@@ -6193,6 +6201,7 @@
 ||coinvoro.com^|
 ||coinwealthinv.com^|
 ||coinwexes.com^|
+||coisne-industrie.com^|
 ||cokdolum.com^|
 ||cokmart.com^|
 ||coknoahp.vip^|
@@ -6644,6 +6653,7 @@
 ||craniine.top^|
 ||crankroadbikede.com^|
 ||cranksofficialstore.com^|
+||crasser-maschinen.com^|
 ||crationsky.com^|
 ||craveless.at^|
 ||crawlmagic.co.in^|
@@ -7417,6 +7427,7 @@
 ||definitelye.com^|
 ||defischersport.com^|
 ||defisdartiste.com^|
+||defriluftsimfreien.com^|
 ||deftcrafts.com^|
 ||deftdream.com^|
 ||defuserdefense.com^|
@@ -7820,6 +7831,7 @@
 ||dewelschutz.de^|
 ||dewglam.com^|
 ||dewohntraum.com^|
+||dewskdt.shop^|
 ||dewtoolshop.com^|
 ||dexa-coin.com^|
 ||dexonirax.com^|
@@ -8459,6 +8471,7 @@
 ||dripconfirmed.co.uk^|
 ||drive-max.de^|
 ||drivedressy.shop^|
+||driveeliteparts.com^|
 ||drivegoodwheels.com^|
 ||driveguess.com^|
 ||drivesafeo.com^|
@@ -9624,8 +9637,11 @@
 ||esgehtauchohnerezept.net^|
 ||eshoesoutlet.com^|
 ||eshop-univers.de^|
+||eshop.dealmarketzeny.com^|
 ||eshop.maplecrofta.com^|
 ||eshop.sintech.cn^|
+||eshop.stonebournea.com^|
+||eshop.stonebournea.com.^|
 ||eshop.vailmere.com^|
 ||eshop6v.tk^|
 ||eshops.lol^|
@@ -10995,6 +11011,7 @@
 ||fitiwelt.com^|
 ||fitkueche.de^|
 ||fitliebe.de^|
+||fitneed.top^|
 ||fitness-7.de^|
 ||fitness-cruiser.com^|
 ||fitness-order.com^|
@@ -12090,6 +12107,7 @@
 ||garten-market.com^|
 ||garten-outdoor.com^|
 ||garten-pflanzen-pro.com^|
+||garten-pool-bedarf.com^|
 ||garten-rasentraktor.com^|
 ||garten-see.de^|
 ||garten-welt.net^|
@@ -12767,6 +12785,7 @@
 ||gloiber.com^|
 ||glonal.shop^|
 ||gloobodiscount.com^|
+||glorella.de^|
 ||gloreve.com^|
 ||gloriousy.com^|
 ||glorista.de^|
@@ -12820,6 +12839,7 @@
 ||gmd-koeln.de^|
 ||gmethopoth.com^|
 ||gmfcar-sol.com^|
+||gmpdgagv.shop^|
 ||gmperrierl.com^|
 ||gnarty.xyz^|
 ||gnatsion.top^|
@@ -13818,6 +13838,7 @@
 ||haushaltswolf.de^|
 ||haushaltszentrale.com^|
 ||haushaltundgarten.com^|
+||haushaltwelt.com^|
 ||hausler.casaify.top^|
 ||hausmanns-verwertung.de^|
 ||hausmobel-de.com^|
@@ -13964,6 +13985,7 @@
 ||heidilambertsen.com^|
 ||heightflow.com^|
 ||heike-store.com^|
+||heilbronnmodehaus.de^|
 ||heilchannel.de^|
 ||heilerin-inge.de^|
 ||heilkunst-hp.de^|
@@ -14168,6 +14190,7 @@
 ||helsky.de^|
 ||helsnest.com^|
 ||helunes.com^|
+||helvaron.shop^|
 ||helvetia-glanz.com^|
 ||helveticore.capital^|
 ||helvetus.at^|
@@ -14593,6 +14616,7 @@
 ||holzexpress24.eu^|
 ||holzflicken.at^|
 ||holzgartenprofi.de^|
+||holzgluck.de^|
 ||holzhambach.com^|
 ||holzhandelhensel.com^|
 ||holzkraft.pro^|
@@ -16239,6 +16263,7 @@
 ||joeldkuhn.com^|
 ||joerg-peter-lange.de^|
 ||joesclothing.com^|
+||jogccres.com^|
 ||jogemini.top^|
 ||jogfill.com^|
 ||joggingpants-selling.com^|
@@ -16506,6 +16531,7 @@
 ||kaffeeangebote.com^|
 ||kaffeedeckel.de^|
 ||kaffeefeinkostdrinks.com^|
+||kaffeemacher.shop^|
 ||kaffeemaschinebillig.com^|
 ||kaffeemech.myshopify.com^|
 ||kaffeerose.de^|
@@ -16792,6 +16818,7 @@
 ||kcypacking.com^|
 ||kddgf.mebbx.com^|
 ||kddsxymb.shop^|
+||kdnf.shop^|
 ||kdoqlibh.shop^|
 ||kdpjzbsm.shop^|
 ||ke-99.top^|
@@ -17565,6 +17592,7 @@
 ||kruscheoutdoorde.com^|
 ||krushpls-marktt.com^|
 ||kryolanverkauf.de^|
+||kryostore.store^|
 ||krypto-ex.com^|
 ||krypto-reichtum.de^|
 ||krypto-tust-fund.de^|
@@ -19756,6 +19784,7 @@
 ||masogrodo.com^|
 ||masonlinda.com^|
 ||masoponline.site^|
+||massagestimulus.com^|
 ||massen.shop^|
 ||masseybedding.shop^|
 ||massimo-dutti.at^|
@@ -20123,6 +20152,7 @@
 ||meistergroup.shop^|
 ||meisterkuchen-pro.de^|
 ||meisterschnitt.com^|
+||meistersort.com^|
 ||meistersunny.de^|
 ||meistervolt.de^|
 ||meiyunz.com^|
@@ -21461,6 +21491,7 @@
 ||myleadcorner.com^|
 ||mylevh.com^|
 ||mylivingroomsale.com^|
+||mylovecosmetic.de^|
 ||mylovelife.site^|
 ||mylovsusie.com^|
 ||mylumenx.com^|
@@ -22300,6 +22331,7 @@
 ||nordperlen-verchen.de^|
 ||nordrtom.com^|
 ||nordsee-agrar.com^|
+||nordseefrisch.de^|
 ||nordspur.de^|
 ||nordstolz.com^|
 ||nordvian.com^|
@@ -25332,6 +25364,7 @@
 ||profitmaster.shop^|
 ||profiton.pro^|
 ||profitoolspro.com^|
+||profiwerkbedarf.com^|
 ||profiwerkstattshop.com^|
 ||profiwerkzeug24.com^|
 ||profiwerkzeugdepot.com^|
@@ -29187,6 +29220,7 @@
 ||skechersschoenen.com^|
 ||skechersshop.at^|
 ||skecherstoresbest.de^|
+||skefxfuv.shop^|
 ||skelett-neu.com^|
 ||skelvurizont.at^|
 ||skf-logistics.com^|
@@ -30023,6 +30057,7 @@
 ||ssternlaw.com^|
 ||ssxsmither.com^|
 ||ssystrypers.com^|
+||st-anhanger.com^|
 ||stabileersatzteile.com^|
 ||stablegrowthexchange.com^|
 ||stableprocapital.pro^|
@@ -30421,6 +30456,7 @@
 ||storewshoes.com^|
 ||storiesfashions.com^|
 ||storkxstore.com^|
+||stormer-anhanger.com^|
 ||stornierenbei.de^|
 ||storoque.de^|
 ||story-news.com^|
@@ -31331,6 +31367,7 @@
 ||technicalutensil.com^|
 ||technik-fritz.com^|
 ||technik-reparatur.at^|
+||techspray-electrolube.com^|
 ||techsupportchat.de^|
 ||techtaskforcede.works^|
 ||techtrfl.com^|
@@ -31703,6 +31740,7 @@
 ||themaddengirl.com^|
 ||themantools.com^|
 ||themarthub.com^|
+||themayerbrown.com^|
 ||themazenbest.site^|
 ||themdbuilding.com^|
 ||themountainarea.com^|
@@ -35905,6 +35943,7 @@
 ||xxxlutzfurniturepartner.online^|
 ||xxxxlutz.shop^|
 ||xyatiri.com^|
+||xydsowyz.shop^|
 ||xyiyi.com^|
 ||xyrisa.de^|
 ||xyzgodkiller.pro^|
