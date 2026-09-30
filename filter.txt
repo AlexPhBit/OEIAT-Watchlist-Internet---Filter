@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-29T23:11:33.999737Z
+! Generated: 2026-09-30T02:11:17.117442Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -454,6 +454,7 @@
 ||adultfunoff.com^|
 ||adultgoodssilky.com^|
 ||adultsdildo.com^|
+||aduno-agentur.de^|
 ||adurrye.com^|
 ||advancedprofit.cc^|
 ||advancedsolutionsdisplay.com^|
@@ -1315,12 +1316,14 @@
 ||anhänger-meister.de^|
 ||anhanger-shop.com^|
 ||anhanger-shop24.com^|
+||anhanger-shopsey.com^|
 ||anhanger-tomald.com^|
 ||anhanger.net^|
 ||anhanger360.com^|
 ||anhangercenter.com^|
 ||anhangerdienst.com^|
 ||anhängerglück.de^|
+||anhangermarkt.com^|
 ||anhangermaschinen.com^|
 ||anhangerplus.com^|
 ||anhangerr.com^|
@@ -2732,6 +2735,7 @@
 ||barnes-sales.space^|
 ||barnet-homes.com^|
 ||barnierboutique.com^|
+||barnkingvolksbank-at.org^|
 ||barodo.de^|
 ||baronilorena.com^|
 ||baronweb.de^|
@@ -6403,6 +6407,7 @@
 ||containerdienstheiliggmbh.de^|
 ||containerservicestarzgmbh.de^|
 ||containerslager.com^|
+||containersolutionscs.de^|
 ||containert.com^|
 ||containtools.com^|
 ||conteneursducoin.com^|
@@ -8423,6 +8428,7 @@
 ||drechselmaschinenrabatt.com^|
 ||drechselwebshop.com^|
 ||drehfutterverkauf.com^|
+||drehmoment-shop.com^|
 ||drehpunkt-store.com^|
 ||dreifussn.com^|
 ||dreirei.com^|
@@ -8779,6 +8785,7 @@
 ||ebikesshopsales.com^|
 ||ebiketeilekauf.com^|
 ||ebiketeileverkaufe.com^|
+||ebikezeit-fahrrad.de^|
 ||ebiribiri.com^|
 ||ebisushijo.com^|
 ||eblattholz.com^|
@@ -10819,6 +10826,7 @@
 ||finanzaufsichtsbehoerde.com^|
 ||finanzen.075756.net^|
 ||finanzonline-gvbmfgv.info^|
+||finanzonline-portal4.net^|
 ||finanzonline.at.bmf.gv-uberprufung.com^|
 ||finanzonline.bmf-gv-at-verifizierung.com^|
 ||finanzonline.bmf-gvat.com^|
@@ -13762,6 +13770,7 @@
 ||harmoniouy.com^|
 ||harmony-ambiento.shop^|
 ||harmonyalmbienteoutlet.shop^|
+||harmtonyambientehot.com^|
 ||haroimportexport.at^|
 ||harpecy.com^|
 ||harper-berlin.com^|
@@ -17591,6 +17600,7 @@
 ||kruhesol.com^|
 ||kruscheoutdoorde.com^|
 ||krushpls-marktt.com^|
+||kry.fewxc.com^|
 ||kryolanverkauf.de^|
 ||kryostore.store^|
 ||krypto-ex.com^|
@@ -19903,6 +19913,7 @@
 ||mazopulove.site^|
 ||mazopuplove.site^|
 ||mb-hindernisse.de^|
+||mb-trailer-shop.com^|
 ||mba-ue.de^|
 ||mbali-yangu.de^|
 ||mbarbaut.com^|
@@ -21770,6 +21781,7 @@
 ||needtoknit.com^|
 ||neehy.com^|
 ||neepage.com^|
+||nefrevbz.shop^|
 ||negee.xyz^|
 ||negrado.com^|
 ||neighborhealthcaremall.com^|
@@ -24907,6 +24919,7 @@
 ||polarity-austria.at^|
 ||polarlyset.de^|
 ||polaroid.com.de^|
+||polaroids.at^|
 ||polene-deutschland.com^|
 ||polene-osterreich.com^|
 ||polene-paris.at^|
@@ -25217,6 +25230,7 @@
 ||pricesboxstore.com^|
 ||priceslash.shop^|
 ||prigaudited.buzz^|
+||prikoqueron.com^|
 ||prima-shiplines.com^|
 ||primalsale.shop^|
 ||primamulch.at^|
@@ -26047,6 +26061,7 @@
 ||rasen-traktor.com^|
 ||rasen24h.com^|
 ||rasengerate.com^|
+||rasengereate.com^|
 ||rasenmahen24.com^|
 ||rasenmahershop.com^|
 ||rasenmaherwendik.de^|
@@ -26222,6 +26237,7 @@
 ||reda-prikolica.com^|
 ||redactjuri.fr^|
 ||redamencys.com^|
+||redas-prikolica.com^|
 ||redaut.cc^|
 ||redbeyie.com^|
 ||redbullosterreich.at^|
@@ -29683,6 +29699,7 @@
 ||sonnighof.de^|
 ||sonninstr-stock.com^|
 ||sonntagaesthetik.de^|
+||sonnwerkshop.de^|
 ||sonnyapparel.com^|
 ||sonnyquality.com^|
 ||sonorrous.com^|
@@ -32216,6 +32233,7 @@
 ||toniesosterreich.at^|
 ||toniespielzeug.com^|
 ||toniesrabatt.com^|
+||toniesrabattde.com^|
 ||toniesschritte.com^|
 ||toniessonderangebot.com^|
 ||toniesspielzeug.com^|
@@ -32383,6 +32401,7 @@
 ||topglas.shop^|
 ||topgood.xyz^|
 ||tophitze-markt.com^|
+||tophomeonlineshop.com^|
 ||tophousesgoods.com^|
 ||topial.top^|
 ||topideaberlin.com^|
@@ -35968,6 +35987,7 @@
 ||yangme.shop^|
 ||yangonesen.com^|
 ||yanillalogistics.com^|
+||yanitransport.com^|
 ||yannelli.net^|
 ||yardcommodity.com^|
 ||yardigen.store^|
