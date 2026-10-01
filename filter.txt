@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-09-30T23:57:48.735153Z
+! Generated: 2026-10-01T05:38:30.800526Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -3233,6 +3233,7 @@
 ||berggrat.com^|
 ||berghausoutlet.cc^|
 ||berghotel-marlstein.de^|
+||berghuetten-traum.de^|
 ||bergkaminholz.at^|
 ||berglust.shop^|
 ||bergmann-dusseldorf.de^|
@@ -5513,6 +5514,7 @@
 ||cfxfund.com^|
 ||cfxshop.com^|
 ||cgeed.com^|
+||cgptsystem.com^|
 ||cgsell.xyz^|
 ||cgu.snknk.cz^|
 ||ch.gluconv.com^|
@@ -6906,6 +6908,7 @@
 ||cwwk.net^|
 ||cx.gamehander.com^|
 ||cxgoonge.com^|
+||cxwauxbw.shop^|
 ||cxzy.de^|
 ||cyanical.top^|
 ||cyber-finances.de^|
@@ -7123,6 +7126,7 @@
 ||datafic.xyz^|
 ||dataviews.top^|
 ||dateideen.at^|
+||datenfin.de^|
 ||dating.com^|
 ||datinted.com^|
 ||datumbump.com^|
@@ -7418,6 +7422,7 @@
 ||dedrepeni.com^|
 ||dedynafitsport.com^|
 ||deeanmaster.com^|
+||deebikespares.com^|
 ||deekosport.com^|
 ||deephants.com^|
 ||deepphant.com^|
@@ -11818,6 +11823,7 @@
 ||fxtfinanceportfolio.com^|
 ||fxtradespolkaakcyjna.com^|
 ||fxuniontrading.com^|
+||fxyoexem.shop^|
 ||fyebuy.com^|
 ||fyssea.com^|
 ||fzjewelry.com^|
@@ -16165,6 +16171,7 @@
 ||jerseyteamss.com^|
 ||jessagarrett.com^|
 ||jet-setter.shop^|
+||jet2trips.com^|
 ||jetaxtrade.pro^|
 ||jetprofund.net^|
 ||jetterix.com^|
@@ -17387,6 +17394,7 @@
 ||ko-consult.at^|
 ||koaer.shop^|
 ||koalabijouterie.com^|
+||koalaknirpse.de^|
 ||kobaltoutlet.com^|
 ||kobe-voitore.com^|
 ||kobenhavnworld.com^|
@@ -18639,6 +18647,7 @@
 ||lippenrot.com^|
 ||lippetaler-bauhandel.de^|
 ||lipsfick.com^|
+||lipvogue.com^|
 ||liqnte.com^|
 ||liquidationretailer.com^|
 ||liquidationstockz.com^|
@@ -22640,6 +22649,7 @@
 ||obligeligat.net^|
 ||obmxaofp.shop^|
 ||obo-7.top^|
+||obolapvw.shop^|
 ||oboz-canada.net^|
 ||obozboots.com^|
 ||obozdeutschland.com^|
@@ -26555,6 +26565,7 @@
 ||remediesonlinestore.com^|
 ||remedyinternationalshop.com^|
 ||remembeca.com^|
+||rememberdeshop.com^|
 ||remington.com.de^|
 ||remingtons.co.at^|
 ||reminitive.com^|
@@ -27119,6 +27130,7 @@
 ||rosenfeldgoldschmied.com^|
 ||rosenheim-holz.com^|
 ||rosenherzmode.com^|
+||roseonsix.com^|
 ||rosesealiy.com^|
 ||rosesealiy.shop^|
 ||rosewoo.com^|
@@ -30517,6 +30529,7 @@
 ||streetmi.com^|
 ||streetshoesno1.com^|
 ||streetsynergies.com^|
+||streetwearmode.shop^|
 ||strengtheng.de^|
 ||stretsure.com^|
 ||streurmann.de^|
@@ -31340,6 +31353,7 @@
 ||tcgsonlineshop.com^|
 ||tchibo.outlets-eu.co^|
 ||tchibode.shop^|
+||tchibomode.com^|
 ||tchibooo-de.shop^|
 ||tchibooutlets.shop^|
 ||tchiboutlets.shop^|
@@ -35892,6 +35906,7 @@
 ||xiungrent.com^|
 ||xjcteam.de^|
 ||xjolpan.top^|
+||xjyehli.shop^|
 ||xkauf.at^|
 ||xkhidir.com^|
 ||xkolzxhs.shop^|
