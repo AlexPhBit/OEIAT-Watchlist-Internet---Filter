@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-10-01T22:00:47.353462Z
+! Generated: 2026-10-02T01:40:01.017999Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -22828,6 +22828,7 @@
 ||officialmenu.com^|
 ||officialnursery.com^|
 ||officialopen-air.com^|
+||officialpaint.com^|
 ||officialrebrand.shop^|
 ||officialyamato.co^|
 ||officialyeti.com^|
@@ -23329,6 +23330,7 @@
 ||oolongtime.com^|
 ||oonadish.com^|
 ||oonide.shop^|
+||ooniuk.shop^|
 ||oonooo.shop^|
 ||oonowa.myshopify.com^|
 ||oopoie.shop^|
@@ -30277,6 +30279,7 @@
 ||stickerkollektionenshop.com^|
 ||stiefelvia.com^|
 ||stiff.garageoven.xyz^|
+||stig-international.com^|
 ||stihlg.com^|
 ||stijn-outlet.com^|
 ||stikersik.com^|
