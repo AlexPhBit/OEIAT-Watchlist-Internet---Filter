@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-10-02T23:05:37.221632Z
+! Generated: 2026-10-03T01:55:28.299790Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -361,6 +361,7 @@
 ||adaptabletool.com^|
 ||adapters-ac.com^|
 ||adarvinco.top^|
+||adc0219647979.page.link^|
 ||addblockcs.com^|
 ||addhereg.com^|
 ||addicted2.at^|
@@ -2309,6 +2310,7 @@
 ||autorengemeinschaftaugsburg.de^|
 ||autorfahrumpler.at^|
 ||autoroad.top^|
+||autos-importdeutscher.de^|
 ||autosbios.com^|
 ||autoscentral.eu^|
 ||autostockdirect.de^|
@@ -2586,6 +2588,7 @@
 ||bahnhof-apotheke-hersbruck.de^|
 ||bahovekapie.com^|
 ||baibae.com^|
+||baier-kollegen.com^|
 ||baif.co.uk^|
 ||baileeked.shop^|
 ||bailngmak.com^|
@@ -3088,6 +3091,7 @@
 ||beheizbarekleidung.com^|
 ||behnberlin.de^|
 ||behner-berlin.com^|
+||behrens-partner.com^|
 ||beiermode.de^|
 ||beievade.shop^|
 ||beiids.com^|
@@ -4640,6 +4644,7 @@
 ||brunnerversand.de^|
 ||brunoberg.com^|
 ||brunohuber.de^|
+||brunosboxers.de^|
 ||brunowebb.com^|
 ||brushshope.com^|
 ||brutaka.com^|
@@ -4687,6 +4692,7 @@
 ||bu-gruppe.com^|
 ||bubblepupp.com^|
 ||bube-dame.shop^|
+||bubenlatschen.com^|
 ||bubenzer-sanitaer.de^|
 ||bubofyard.com^|
 ||bubucy.com^|
@@ -7610,6 +7616,7 @@
 ||denika.at^|
 ||denisebobe.shop^|
 ||denisroth.com^|
+||deniudy.com^|
 ||denix-reifen.com^|
 ||denkashop.com^|
 ||dennerwien.com^|
@@ -7920,6 +7927,7 @@
 ||diegeotechniker.at^|
 ||diegoladano.com^|
 ||diehamburgerplattenfirma.de^|
+||diehl-partner.com^|
 ||dieholzmoebelmacher.de^|
 ||dieholzschmiede.at^|
 ||diekaffeeverkauf.com^|
@@ -12405,6 +12413,7 @@
 ||gerdavanrijnberk.com^|
 ||gerhard-griessler.at^|
 ||geri-fashion.company.site^|
+||gerloff-partner.com^|
 ||gerloffrancis.com^|
 ||germalls-garten.de^|
 ||german-apotheke.cc^|
@@ -13528,6 +13537,7 @@
 ||hadrism.xyz^|
 ||haemfier.top^|
 ||haeramon.de^|
+||haert.org^|
 ||hafenchor-essen.de^|
 ||haftpflichthund.de^|
 ||hagedornmode.de^|
@@ -14045,6 +14055,7 @@
 ||heine-reifen.com^|
 ||heinen-klimahaus.myshopify.com^|
 ||heinkelmasch.de^|
+||heinrich-baumarkt.com^|
 ||heinrich-handel.com^|
 ||heinso.shop^|
 ||heira-deutschland.com^|
@@ -14511,6 +14522,7 @@
 ||hobibear.de^|
 ||hochbeckenleitern.com^|
 ||hochbeeteonlinestore.com^|
+||hochbeetland.com^|
 ||hochen-punkt.de^|
 ||hochgothe.de^|
 ||hochstein-musikhaus.de^|
@@ -15881,6 +15893,7 @@
 ||irmgard-uthoff.de^|
 ||iroids.nl^|
 ||iron-bot.com^|
+||iron-bridgemarkets.com^|
 ||iron-daddy.to^|
 ||ironingboardselling.com^|
 ||ironman-israel.com^|
@@ -17602,6 +17615,7 @@
 ||krug-reifenhandel.com^|
 ||kruger-design.de^|
 ||kruger-mode.de^|
+||kruger-modehaus.com^|
 ||kruger-modehaus.de^|
 ||krugerdirndlssale.shop^|
 ||kruggolife.com^|
@@ -17898,6 +17912,7 @@
 ||landscapecas.com^|
 ||landscapek.com^|
 ||landtechnik-striptechno.de^|
+||landtechnikdirekt.com^|
 ||landversorger.com^|
 ||landwirt-und-container.com^|
 ||landwirtschaftlicheegbr.com^|
@@ -19646,6 +19661,7 @@
 ||mariandmaison.com^|
 ||marianwade.shop^|
 ||mariaritter.at^|
+||mariaschmuck.at^|
 ||maricacimino.com^|
 ||marieharald.com^|
 ||marielove.shop^|
@@ -20956,6 +20972,7 @@
 ||moebelverlosung.de^|
 ||moebelzone.com^|
 ||moedllbahnlippe.shop^|
+||moeller-immobilien.net^|
 ||moelleraktivhof.de^|
 ||moensale.com^|
 ||mogli-chinderlade.shop^|
@@ -22474,6 +22491,7 @@
 ||noveltyriding.com^|
 ||noveltysdirect.com^|
 ||noveltywomens.com^|
+||novendo.shop^|
 ||novenie.top^|
 ||noventracapitals.com^|
 ||noveraxcapital.com^|
@@ -23588,6 +23606,7 @@
 ||osteland-z24.de^|
 ||osteoar.xyz^|
 ||ostergartenhermesdorf.de^|
+||osterhagen-partner.com^|
 ||osterreichgeldwert.com^|
 ||osterreichpillen.com^|
 ||osterreichschuheonlineshop.com^|
@@ -25126,11 +25145,13 @@
 ||poxnfu.com^|
 ||pozo-agua.com^|
 ||ppfinvestments.eu^|
+||ppifxcxa.shop^|
 ||ppneww.top^|
 ||ppsecuresite.com^|
 ||pqbzod.com^|
 ||pqhw.com^|
 ||pr-ruehle.de^|
+||practical-ptolemy.165-154-212-39.plesk.page^|
 ||practicess.shop^|
 ||practs.de^|
 ||pradaaustria.at^|
@@ -28001,6 +28022,7 @@
 ||schlosser.hnk-24.pro^|
 ||schlosser.werbe-koc.at^|
 ||schlosserservice.at^|
+||schlossgartenmode.com^|
 ||schlossrettung-24.at^|
 ||schlossrettung.at^|
 ||schlosszone.at^|
@@ -30396,6 +30418,7 @@
 ||store.dalecrofton.com^|
 ||store.dealofferix.com^|
 ||store.dobot.cc^|
+||store.jorbray.com^|
 ||store.kestrelby.com^|
 ||store.kingslora.com^|
 ||store.minisforum.de^|
@@ -32637,6 +32660,7 @@
 ||trader.212group.de^|
 ||trader.bankwiz.net^|
 ||trader.bkm-markets.com^|
+||trader.iron-bridgemarkets.com^|
 ||traderminds.com^|
 ||traders-nations.com^|
 ||tradesmany.com^|
@@ -32955,6 +32979,7 @@
 ||tryemsense.com^|
 ||tryfivemore.com^|
 ||tryfono.com^|
+||tryfroyaorganics.shop^|
 ||tryglamory.de^|
 ||tryglycogenplus.com^|
 ||tryinnerly.com^|
@@ -33379,6 +33404,7 @@
 ||urban-assests.com^|
 ||urban-autoreifen.com^|
 ||urban-hits.de^|
+||urban-kinder.com^|
 ||urban-patterns.de^|
 ||urban-rad.com^|
 ||urban-transporte.com^|
@@ -34264,6 +34290,7 @@
 ||vigo-transportspedition.com^|
 ||vigoroussport.com^|
 ||vigorousu.com^|
+||viking-outlet.at^|
 ||vikingchic.de^|
 ||vikliv.de^|
 ||vikosiwelpen.com^|
@@ -35299,6 +35326,7 @@
 ||westmeier-ra.net^|
 ||westmeier-rechtsanwaelte.com^|
 ||westmeier-rechtsanwaelte.net^|
+||westphal-partner.com^|
 ||westpointcourier.online^|
 ||westpopular.com^|
 ||westri.top^|
@@ -36583,6 +36611,7 @@
 ||zwatch-italy.shop^|
 ||zwclsaablueashe.shop^|
 ||zwein-handel.de^|
+||zweirad-handel.com^|
 ||zwerger-art.com^|
 ||zwergspitzpomeranian.com^|
 ||zwickl-frankfurt.de^|
