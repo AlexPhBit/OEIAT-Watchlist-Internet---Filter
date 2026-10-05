@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-10-04T21:42:06.576802Z
+! Generated: 2026-10-05T00:14:05.923812Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -17295,6 +17295,7 @@
 ||klick-ndb.de^|
 ||klima-bonus.app^|
 ||klima-heizung-pumpen.com^|
+||klima-zuschuss-2026.cc^|
 ||klima.bonus-gutschrift.cc^|
 ||klimaanlageportal.de^|
 ||klimabonus-2026.net^|
