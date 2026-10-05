@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-10-05T14:17:20.077838Z
+! Generated: 2026-10-05T21:31:28.362923Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
