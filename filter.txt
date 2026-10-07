@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-10-06T20:33:22.736723Z
+! Generated: 2026-10-07T00:08:07.901958Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -2679,6 +2679,7 @@
 ||bananakiiwi.com^|
 ||bandairctoy.com^|
 ||bandar.shop^|
+||bandlundpartner.de^|
 ||bandwagonmergevogue.com^|
 ||banece.com^|
 ||bangooon.com^|
@@ -3381,6 +3382,7 @@
 ||bestcarpartdepot.com^|
 ||bestchoicepills.com^|
 ||bestchooes.com^|
+||bestcoiffureshop.com^|
 ||bestcollectibles.store^|
 ||bestdealtoday.net^|
 ||bestdrugstore247.com^|
@@ -3655,6 +3657,7 @@
 ||bike2bikes.com^|
 ||bikeabus.com^|
 ||bikeaccessoriesneu.com^|
+||bikeanbauteile.com^|
 ||bikebegeistert.com^|
 ||bikebitsde.com^|
 ||bikeblitz.de^|
@@ -5460,6 +5463,7 @@
 ||cellbee.shop^|
 ||cellelieve.com^|
 ||cellphonelocation.net^|
+||celluweg.de^|
 ||celmak.de^|
 ||celnet.logistics-coltd.com^|
 ||celomarket.com^|
@@ -6218,6 +6222,7 @@
 ||coinmarkaji.com^|
 ||coinmarketfeed.net^|
 ||coinmatics.us^|
+||coinmindz.com^|
 ||coinmyo.com^|
 ||coinrevenue.life^|
 ||coinspayworld.com^|
@@ -7991,6 +7996,7 @@
 ||digi-markets.de^|
 ||digiclass.ma^|
 ||digikwfinance.com^|
+||digimotive.store^|
 ||digioffer.club^|
 ||digiopdesign.shop^|
 ||digisingl.ru^|
@@ -10552,6 +10558,7 @@
 ||fastfatbike.de^|
 ||fastflowp.top^|
 ||fastforextradelab.com^|
+||fastgerm.com^|
 ||fasthousemoto.com^|
 ||fastoil24.com^|
 ||fastrepair.verolixz.cloud^|
@@ -12174,6 +12181,7 @@
 ||gartenexperte.at^|
 ||gartenexperte24.com^|
 ||gartenfarbewelt.com^|
+||gartenfee.shop^|
 ||gartenfeiern.de^|
 ||gartenforstgerate.com^|
 ||gartenfreunde-murrhardt.de^|
@@ -16583,6 +16591,7 @@
 ||kaffee-love.de^|
 ||kaffee-paradies.net^|
 ||kaffee-teeshopde.com^|
+||kaffeeaktionen.com^|
 ||kaffeealternative.de^|
 ||kaffeeangebote.com^|
 ||kaffeedeckel.de^|
@@ -17251,6 +17260,7 @@
 ||klang-plan.de^|
 ||klangatem.com^|
 ||klangfluss.com^|
+||klangmosaik.com^|
 ||klangplan.net^|
 ||klangvoll-events.at^|
 ||klar-haus.de^|
@@ -17267,6 +17277,7 @@
 ||klartnzm.glanzrmvh.click^|
 ||klarvi.de^|
 ||klassealltagsport.com^|
+||klassereparaturmontage.com^|
 ||klassfx.com^|
 ||klassisch.grafik-krakora.at^|
 ||klassischelichter.com^|
@@ -17529,6 +17540,7 @@
 ||koozmotor.com^|
 ||kopfwaermer.com^|
 ||kopkde.shop^|
+||koppe-collegen.de^|
 ||koppermuller-markt.de^|
 ||koppermuller-shop.de^|
 ||koppsic.top^|
@@ -18378,6 +18390,7 @@
 ||lesliegame.space^|
 ||lespetitsde.shop^|
 ||lesphacocheres.com^|
+||lessismoro.shop^|
 ||lessyg.shop^|
 ||let-glam.com^|
 ||leteniy.com^|
@@ -21452,6 +21465,7 @@
 ||musikhaus-vogel.de^|
 ||musikinstrumente-profi.com^|
 ||musikinstrumenteland.com^|
+||musikinstrumentes.com^|
 ||musikkeim.com^|
 ||musiknachhilfe.at^|
 ||musiknotenmarkt.com^|
@@ -21498,6 +21512,7 @@
 ||my-benovation.com^|
 ||my-family.bike^|
 ||my-fash.co^|
+||my-garden-store.com^|
 ||my-pawly.com^|
 ||my-pawz.net^|
 ||my-pills.biz^|
@@ -24247,6 +24262,8 @@
 ||pauldronsshop.com^|
 ||paulgreenfootwear.shop^|
 ||paulgreenosterreich.com^|
+||paulgreensale.com^|
+||paulgreenshoes.com^|
 ||paulina-mode.de^|
 ||paulinasinger.com^|
 ||paulinemillet.shop^|
@@ -25445,6 +25462,7 @@
 ||profiredner.at^|
 ||profiservice-24.info^|
 ||profishopwerkzeuge.com^|
+||profiswerkzeuge.com^|
 ||profit.bestwayinvest.site^|
 ||profitalslp.com^|
 ||profitfx24.com^|
@@ -25556,6 +25574,7 @@
 ||protectiveskates.com^|
 ||proteinrain.com^|
 ||protektorenmotorrad.com^|
+||protektorenprofi.shop^|
 ||prothermwoodpellets.com^|
 ||protmina.com^|
 ||protobetter.com^|
@@ -26225,6 +26244,7 @@
 ||rdoering.de^|
 ||rdtfliped.com^|
 ||rduza.com^|
+||re-hartmann.de^|
 ||re-ts.com^|
 ||reacapacity.shop^|
 ||reachecommranks.com^|
@@ -27353,6 +27373,7 @@
 ||rukez.de^|
 ||ruladamusic.com^|
 ||rulfloor.com^|
+||rullendiscount.com^|
 ||rumplierorbit.click^|
 ||rumply.store^|
 ||runaivete.com^|
@@ -29163,9 +29184,11 @@
 ||silbergipfel.de^|
 ||silbermobilguides.at^|
 ||silbernerhirsch.at^|
+||silberthil.com^|
 ||sililers.com^|
 ||silkandcotton.store^|
 ||silkstocking.de^|
+||silmerthal.com^|
 ||siloadditives.de^|
 ||silsome.xyz^|
 ||silswinkels.com^|
@@ -32173,6 +32196,7 @@
 ||tischestore.com^|
 ||tischlerei-eckart.de^|
 ||tischleren.de^|
+||tischprofi.com^|
 ||tischsalesshop.com^|
 ||tischset.at^|
 ||tistbike.top^|
@@ -33299,6 +33323,7 @@
 ||umediswiss.com^|
 ||umehrazi.top^|
 ||umhinbia.com^|
+||umrechnung.mdhsh.com^|
 ||umsatz-generator.de^|
 ||umwatchvip.com^|
 ||umweltplus-sr.de^|
@@ -34869,6 +34894,7 @@
 ||waitek.shop^|
 ||wakeboardde.com^|
 ||wakritransport.com^|
+||wakudelou.com^|
 ||wal24.de^|
 ||walbaum-brennholz.com^|
 ||waldbeutede.shop^|
@@ -35624,6 +35650,7 @@
 ||wjarviiz.com^|
 ||wjfsports.com^|
 ||wkkpoo.fun^|
+||wko.com^|
 ||wlamazon.com^|
 ||wlinme.com^|
 ||wlockbelo.com^|
@@ -35998,6 +36025,7 @@
 ||xjyehli.shop^|
 ||xkauf.at^|
 ||xkhidir.com^|
+||xkmtmsgm.shop^|
 ||xkolzxhs.shop^|
 ||xlorventa.shop^|
 ||xloxo.com^|
