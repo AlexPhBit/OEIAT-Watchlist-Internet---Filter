@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-10-08T22:27:07.008699Z
+! Generated: 2026-10-09T02:29:38.254804Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -658,7 +658,6 @@
 ||airferra.com^|
 ||airfloppy.com^|
 ||airfold.top^|
-||airguncapital.com^|
 ||airjordan.at^|
 ||airjordans.live^|
 ||airly-shop.de^|
@@ -2430,6 +2429,7 @@
 ||axorisshop.com^|
 ||axpsv.com^|
 ||axsio.co^|
+||ayadyiyq.shop^|
 ||ayahayfoundation.org^|
 ||aybl.at^|
 ||aydinahbeauty.com^|
@@ -3112,6 +3112,7 @@
 ||beingpick.click^|
 ||beisimple.de^|
 ||beja.shop^|
+||beker-technik24.com^|
 ||bekken.shop^|
 ||bekleidunggadgets.com^|
 ||bekleidungonstore.com^|
@@ -3580,6 +3581,7 @@
 ||bhrabatt.com^|
 ||bhslogistic.tk^|
 ||bhstransport.tk^|
+||bi-vert.com^|
 ||bialettiaustria.com^|
 ||bibling.xyz^|
 ||bibox-coin.com^|
@@ -4502,11 +4504,13 @@
 ||brennholzkaufende.shop^|
 ||brennholzkiefer.com^|
 ||brennholzmeister.de^|
+||brennholzmichalhoff.com^|
 ||brennholzorgler.at^|
 ||brennholzplus-austria.com^|
 ||brennholzrobinio.com^|
 ||brennholzroman.com^|
 ||brennholzruhl.de^|
+||brennholzschneble.de^|
 ||brennholzstore.de^|
 ||brennholzullrich.com^|
 ||brennholzverkaufer.com^|
@@ -4658,6 +4662,7 @@
 ||brunner-reifenhandel.shop^|
 ||brunnercampen.com^|
 ||brunnerluzern.com^|
+||brunnerversand.at^|
 ||brunnerversand.de^|
 ||brunoberg.com^|
 ||brunohuber.de^|
@@ -5589,6 +5594,7 @@
 ||characterh.com^|
 ||characterl.com^|
 ||charateristi.net^|
+||charentesalliance.com^|
 ||chargetiede.shop^|
 ||charismahouseconsultants.com^|
 ||charismatico.com^|
@@ -6440,6 +6446,7 @@
 ||containerslager.com^|
 ||containersolutionscs.de^|
 ||containert.com^|
+||containerworldllc.store^|
 ||containtools.com^|
 ||conteneursducoin.com^|
 ||contessaub.com^|
@@ -6981,6 +6988,7 @@
 ||cyrcoins.com^|
 ||cyrilr.club^|
 ||cyrilterry.com^|
+||cyrus-nyc.eu.cc^|
 ||cyrusher.de^|
 ||cytness.top^|
 ||cytotion.top^|
@@ -7331,6 +7339,7 @@
 ||de.try-lumive.com^|
 ||de.ultimate-gainz.com^|
 ||de.wellreplicas.to^|
+||de.wwiqtest.com^|
 ||de.xn--schnppchenportal-ynb.de^|
 ||de.xynapay.com^|
 ||de1.aiinshgits.de^|
@@ -7638,6 +7647,7 @@
 ||den-home.com^|
 ||denaked.com^|
 ||denamalls.com^|
+||denbypotteryuk.com^|
 ||dendelberg-kr.de^|
 ||denika.at^|
 ||denisebobe.shop^|
@@ -11485,6 +11495,7 @@
 ||fraezenbikes.com^|
 ||frafondi.de^|
 ||fragmentstudios.de^|
+||fragonard.co.at^|
 ||fragrance-privee.fr^|
 ||fragrance-proben.com^|
 ||fragrance365de.shop^|
@@ -11566,6 +11577,7 @@
 ||freiheitcamping.com^|
 ||freiholz.at^|
 ||freilaufrollende.com^|
+||freiluftdeck.de^|
 ||freischlafen-de.myshopify.com^|
 ||freitag-osterreich.com^|
 ||freitag-taschen.com^|
@@ -12451,6 +12463,7 @@
 ||geri-fashion.company.site^|
 ||gerloff-partner.com^|
 ||gerloffrancis.com^|
+||germain-gruppe.de^|
 ||germalls-garten.de^|
 ||german-apotheke.cc^|
 ||german-audio-equipment.com^|
@@ -12601,6 +12614,7 @@
 ||gewinnwerkzeug.com^|
 ||gewofu.com^|
 ||gexchain.com^|
+||gfadenoaillac.com^|
 ||gfiberon.com^|
 ||gfjnp.com^|
 ||gfkmarketing.digital^|
@@ -14689,6 +14703,7 @@
 ||holzlagermarket.com^|
 ||holzlangbau.de^|
 ||holzliefer.xyz^|
+||holzliefernexpress.de^|
 ||holzlind.com^|
 ||holzmoebelkaufen.de^|
 ||holzmuller-firewood.com^|
@@ -15716,6 +15731,7 @@
 ||inspirasikus.com^|
 ||inspirationalgadget.com^|
 ||inspirelf.com^|
+||inspoy.com^|
 ||insta.talentloompro-at.com^|
 ||instahauls.com^|
 ||install-gwh.at^|
@@ -16785,6 +16801,7 @@
 ||kasperfit.com^|
 ||kassdes.com^|
 ||kastner-oehler-de.com^|
+||kastneroehlerde.com^|
 ||kastneroehlersde.com^|
 ||katana-deutschland.de^|
 ||katanningtravel.com^|
@@ -17120,6 +17137,7 @@
 ||kindermobelre.com^|
 ||kindersachenmitwachsend.com^|
 ||kindersafetech.com^|
+||kinderschatz.com^|
 ||kinderspielzeugangebote.com^|
 ||kindertische.com^|
 ||kinderverkehrswelt.de^|
@@ -17789,6 +17807,7 @@
 ||kvicco.com^|
 ||kvp0fw-hi.myshopify.com^|
 ||kwardany.com^|
+||kwaypromo-uk.com^|
 ||kwdandy.com^|
 ||kwearshop.com^|
 ||kweziy.com^|
@@ -18834,6 +18853,7 @@
 ||lkiec.shop^|
 ||lkntransport.com^|
 ||lkw-mieten-wien.at^|
+||lkwpetru-shop.com^|
 ||ll-sheins.com^|
 ||llanos-performance.de^|
 ||llizzyeeo.com^|
@@ -19764,6 +19784,7 @@
 ||market.stonebournea.com^|
 ||market.vailmere.com^|
 ||market.westfieldon.com^|
+||market.yestonby.com^|
 ||market24prime.shop^|
 ||marketbottle.com^|
 ||marketdeaboutyou.com^|
@@ -20015,6 +20036,7 @@
 ||mc-bau.at^|
 ||mc-brennholz.com^|
 ||mcazzgrg.com^|
+||mcbrennholzgifhorn.com^|
 ||mccoyn.com^|
 ||mceleron.com^|
 ||mcflanders.com^|
@@ -20448,6 +20470,7 @@
 ||methaozp.com^|
 ||methling-handel.de^|
 ||metier-handel.de^|
+||metrapsa.com^|
 ||metricgurus.com^|
 ||metro-partner.com^|
 ||metrosafecorp.com^|
@@ -20685,6 +20708,7 @@
 ||mirakl.live^|
 ||miralofoto.com^|
 ||miralosa.com^|
+||miravago.com^|
 ||miravastore.shop^|
 ||miravoshop.de^|
 ||mirawall.de^|
@@ -22767,6 +22791,7 @@
 ||octora.de^|
 ||oculear-official.site^|
 ||ocycling.com^|
+||odagyock.shop^|
 ||odbhutn.shop^|
 ||odeinforport.com^|
 ||odeletted.com^|
@@ -25201,6 +25226,7 @@
 ||power-vac.de^|
 ||powercityi.com^|
 ||poweredup-tools.com^|
+||powerigo.shop^|
 ||poweromasch.shop^|
 ||powerphase.net^|
 ||powerplate-salzburg.at^|
@@ -25639,6 +25665,7 @@
 ||psychologick.com^|
 ||psychologie-gfk.at^|
 ||psyconsilium.de^|
+||psyehwdg.shop^|
 ||pt-sky.com^|
 ||pt.kirstiwebb.com^|
 ||pt.marianamargaingarza.com^|
@@ -26382,6 +26409,7 @@
 ||reepner.com^|
 ||refiglim.buzz^|
 ||refiningfurniture.com^|
+||reflaufwester.com^|
 ||reflectionu.com^|
 ||reflexionm.com^|
 ||reformationkleiddeutschland.com^|
@@ -28584,6 +28612,7 @@
 ||service-thermenwartung.at^|
 ||servicecbc.com^|
 ||serviceheft24.com^|
+||servicejardina.com^|
 ||servicepharmaceutique.net^|
 ||servicesdentaire.com^|
 ||serviceseitz.de^|
@@ -29114,6 +29143,7 @@
 ||shopvaley.com^|
 ||shopvertex.site^|
 ||shopvisionen.de^|
+||shopvivar.ch^|
 ||shopwabi.xyz^|
 ||shopwatit.com^|
 ||shopwaxsales.com^|
@@ -30292,6 +30322,7 @@
 ||stauddeutschland.com^|
 ||stclik.com^|
 ||stdodo.com^|
+||steadyhandtooling.com^|
 ||steakfield.com^|
 ||steakfolk.com^|
 ||stealthgamechanger.com^|
@@ -33338,6 +33369,7 @@
 ||umehrazi.top^|
 ||umhinbia.com^|
 ||umrechnung.mdhsh.com^|
+||umrechnung.sszhiliji.com^|
 ||umsatz-generator.de^|
 ||umwatchvip.com^|
 ||umweltplus-sr.de^|
@@ -34019,6 +34051,7 @@
 ||vbpkpnews.com^|
 ||vbridgetramey.com^|
 ||vbrixla.com^|
+||vcdlsports.com^|
 ||vcjmall.top^|
 ||vclothesus.com^|
 ||vcm24de.shop^|
@@ -34853,6 +34886,7 @@
 ||vvmwtdpc.shop^|
 ||vvseeds.com^|
 ||vvshopping.top^|
+||vw-insights.de^|
 ||vwfqk.com^|
 ||vwraresparepartshop.com^|
 ||vwutaq.com^|
@@ -35003,6 +35037,7 @@
 ||warmbike.com^|
 ||warmcreativemall.com^|
 ||warme-quelle.com^|
+||warmeholze.de^|
 ||warmeholzhaus.com^|
 ||warmeluxe.com^|
 ||warmeprofi.com^|
@@ -36220,6 +36255,7 @@
 ||yjitule.top^|
 ||yjmdfd.top^|
 ||yjob.ivebelting.com^|
+||yjrrkocn.shop^|
 ||ykfojdaa.shop^|
 ||ykocb.com^|
 ||ykwkgndw.shop^|
