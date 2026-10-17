@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-10-16T22:14:13.793457Z
+! Generated: 2026-10-17T00:50:09.717767Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -418,6 +418,7 @@
 ||adl.raodd.shop^|
 ||adl.rqgbos.shop^|
 ||adl.tlhqca.shop^|
+||adl.uhsdj.shop^|
 ||adl.ukdil.shop^|
 ||adl.uoyps.shop^|
 ||adl.wiksh.shop^|
@@ -901,6 +902,7 @@
 ||allesheizung.de^|
 ||allesimalltag.com^|
 ||allesineinemshop.com^|
+||allesklars.de^|
 ||allesnettokredit.com^|
 ||allesoutdoor.de^|
 ||allesschneider.shop^|
@@ -1175,7 +1177,6 @@
 ||amosclothing.xyz^|
 ||amounteat.com^|
 ||amountesto.net^|
-||amouravienna.com^|
 ||amouree.xyz^|
 ||amourern.top^|
 ||amoushops.com^|
@@ -1858,6 +1859,7 @@
 ||asd-rechtsanwaelte.de^|
 ||asdoriente.it^|
 ||asdvance.com^|
+||asfcrnuqpu.lol^|
 ||asfemaqi.cyou^|
 ||asffnag.mom^|
 ||asfig-strasse.com^|
@@ -2019,6 +2021,7 @@
 ||at.mammotion.com^|
 ||at.mur-shop.com^|
 ||at.nneelkwerf.net^|
+||at.otemtau.shop^|
 ||at.pkajwb.shop^|
 ||at.qfmiceden.shop^|
 ||at.rattaay.com^|
@@ -2859,6 +2862,7 @@
 ||baublesale.com^|
 ||bauchtaschenstore.com^|
 ||bauedelgoldmakler.com^|
+||bauelektroshop.com^|
 ||bauelemente-altotec.at^|
 ||bauen-shop-de.com^|
 ||bauer-brennstoffe.com^|
@@ -4032,6 +4036,7 @@
 ||bladeprooutlet.com^|
 ||blagabo.com^|
 ||blakecompute.com^|
+||blankertragschaft.net^|
 ||blanket-chic.com^|
 ||blankets-sale.com^|
 ||blanketsforanimals-sale.com^|
@@ -5694,6 +5699,7 @@
 ||checkout.rezeptedesgeschmacks.com^|
 ||checkthesolutions.com^|
 ||cheerfulvibes.shop^|
+||chef-et-food.com^|
 ||chefbergeron.com^|
 ||chefclearance.com^|
 ||chefmugshop.com^|
@@ -5936,6 +5942,7 @@
 ||cityclima.myshopify.com^|
 ||cityfast.baby^|
 ||citymax.at^|
+||citypetexpress.com^|
 ||cityraderschritte.com^|
 ||cityshops.at^|
 ||ciunw.com^|
@@ -6202,6 +6209,7 @@
 ||coachosterreich.com^|
 ||coachoutlet-store.us.org^|
 ||coachoutlet.at^|
+||coachtaschen.co.at^|
 ||coarsefishingsale.com^|
 ||coarsesale.com^|
 ||coastalresin.store^|
@@ -7359,6 +7367,7 @@
 ||de.silksilky.com^|
 ||de.skinliy.com^|
 ||de.sneakers-storm.com^|
+||de.soera-store.com^|
 ||de.soolinen.com^|
 ||de.spsfurntiure.com^|
 ||de.stantph.shop^|
@@ -10352,6 +10361,7 @@
 ||fahrstander.com^|
 ||fahrtechnikteile.com^|
 ||fahrzeugcamp.com^|
+||fahrzeugpflegeshop.com^|
 ||fahrzeugpflegetreskow.de^|
 ||fahrzeugprada.de^|
 ||fahrzeugscanner24.de^|
@@ -10896,6 +10906,7 @@
 ||filmero-de.com^|
 ||filmety.top^|
 ||filminihdizle.com^|
+||filmkorn.shop^|
 ||filmmost.top^|
 ||filmrabatt.com^|
 ||filmstvz.com^|
@@ -10927,6 +10938,7 @@
 ||finanzaufsichtsbehoerde.com^|
 ||finanzen.075756.net^|
 ||finanzonline-3.cc^|
+||finanzonline-bmfgv.cc^|
 ||finanzonline-gvbmfgv.info^|
 ||finanzonline-portal4.net^|
 ||finanzonline.at.bmf.gv-uberprufung.com^|
@@ -11020,6 +11032,7 @@
 ||fintrexia.org^|
 ||finyxrefund.com^|
 ||finzanzonline.com^|
+||finzy0-dolores99.sbs^|
 ||fiorenz.com^|
 ||fiorora.com^|
 ||fipecampania.it^|
@@ -11953,7 +11966,6 @@
 ||gabor-shoes-uk.com^|
 ||gabor-turkiye.com^|
 ||gabor-uk.com^|
-||gabor.com.se^|
 ||gabor.in^|
 ||gabor.lilshydasia.com^|
 ||gaborargentina.com^|
@@ -12416,6 +12428,7 @@
 ||geissmanns.de^|
 ||geisttlebt.com^|
 ||gelbente.de^|
+||geldfex.com^|
 ||geldmasters.com^|
 ||geldsway.com^|
 ||geldvision.com^|
@@ -15339,6 +15352,7 @@
 ||hvsolpkemieste.de^|
 ||hw-invest.at^|
 ||hw-shapesde.com^|
+||hwcdkmzh.shop^|
 ||hwmaschinenbau.at^|
 ||hwuut.shop^|
 ||hxmwuvgh.shop^|
@@ -15789,6 +15803,7 @@
 ||insightberichte.de^|
 ||insightfulyou.net^|
 ||insnag.me^|
+||inso-gmbh.com^|
 ||insolvenz-veit.de^|
 ||insolvenz-verkauf.net^|
 ||insolvenz.veit-kanzlei.de^|
@@ -20004,6 +20019,7 @@
 ||matbruch.club^|
 ||matcha-sllim.cc^|
 ||matching-mommies.de^|
+||mateenenterprise.com^|
 ||matejkohotelkrakow.com^|
 ||matenor.fr^|
 ||materialbearbeitung.com^|
@@ -24791,6 +24807,7 @@
 ||philippsthomas.com^|
 ||philipwomens.com^|
 ||philokalistde.shop^|
+||philoro-de.to^|
 ||philoro.online^|
 ||philosophyk.com^|
 ||phoberose.com^|
@@ -26312,6 +26329,7 @@
 ||rasenmarkt.com^|
 ||rasenmaschinen.com^|
 ||rasenmotor.com^|
+||rasenritzel.com^|
 ||rasenrobo.com^|
 ||rasenshop24.com^|
 ||rasenstolz.com^|
@@ -26335,6 +26353,7 @@
 ||raucherbein.at^|
 ||raum-lust.de^|
 ||raum-und-gruen.de^|
+||raumbauteile.com^|
 ||raumduftpflegebedarf.com^|
 ||raumnote.de^|
 ||rauschde.site^|
@@ -27702,6 +27721,7 @@
 ||sahibimnden.com^|
 ||sahicheezk.com^|
 ||sahin-herrmann.de^|
+||saia-maschinen.com^|
 ||saimagarams.com^|
 ||saint-blanc.com^|
 ||sairaymond.com^|
@@ -29810,6 +29830,7 @@
 ||sodimatpro.com^|
 ||soedream.com^|
 ||soeobfgf.com^|
+||soera-store.com^|
 ||sofasensation.com^|
 ||sofasundsessel.com^|
 ||sofawunsch.de^|
@@ -32397,6 +32418,7 @@
 ||tiyamod.com^|
 ||tizchmrf.cc^|
 ||tizeto.de^|
+||tizonaa.com^|
 ||tjcmwe.com^|
 ||tjrtcbsbq.com^|
 ||tk-deburncalories.shop^|
@@ -35539,6 +35561,7 @@
 ||werkzeug-und-maschinen.de^|
 ||werkzeug-zuhr.de^|
 ||werkzeugangebot.shop^|
+||werkzeugarena.com^|
 ||werkzeugbauladen.com^|
 ||werkzeugboxe.com^|
 ||werkzeugbrandl.com^|
@@ -35843,6 +35866,7 @@
 ||wittentf.com^|
 ||wittenwald.de^|
 ||wittman-bekleidung.de^|
+||wittmode.com^|
 ||wiv-verwertung.de^|
 ||wivaro.de^|
 ||wizholzshops.de^|
