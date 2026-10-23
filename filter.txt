@@ -1,6 +1,6 @@
 ! Title: ÖIAT Watchlist Internet Filterlist
 ! Description: ÖIAT Watchlist Internet - Filter from CSV (https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/)
-! Generated: 2026-10-22T23:41:20.261461Z
+! Generated: 2026-10-23T02:02:46.473809Z
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -6894,6 +6894,7 @@
 ||ctrlerly.com^|
 ||cuaishop.com^|
 ||cuaver.com^|
+||cube-network.net^|
 ||cube-real.com^|
 ||cubeaustria.com^|
 ||cubedarts.shop^|
@@ -7105,6 +7106,7 @@
 ||dalilincase.com^|
 ||dalkatvf.com^|
 ||dalmatinac.de^|
+||dalmorique.com^|
 ||dalmory.com^|
 ||dalnicka.cz^|
 ||dam-autoshop.com^|
@@ -7889,6 +7891,7 @@
 ||deutsche-backwaren-manufaktur.com^|
 ||deutsche-bit.de^|
 ||deutsche-group.org^|
+||deutsche-technologie.com^|
 ||deutsche-wurst-manufaktur.com^|
 ||deutschebapotheke.net^|
 ||deutschecapitals.com^|
@@ -12390,6 +12393,7 @@
 ||gastroundkitchen.com^|
 ||gastryner.com^|
 ||gate3londonuk.com^|
+||gatefundbank.com^|
 ||gatomallde.shop^|
 ||gatticlub.com^|
 ||gausbuy.com^|
@@ -13019,6 +13023,7 @@
 ||gnatsion.top^|
 ||gnfse.shop^|
 ||gnoce.com^|
+||gnoce.de^|
 ||gnope.com^|
 ||gnstigemedikamenteonlinekaufen.com^|
 ||gnstores.shop^|
@@ -14031,6 +14036,7 @@
 ||hausofmode.de^|
 ||hausofvedashop.com^|
 ||hausonline24.com^|
+||hauspellets.de^|
 ||hausprodukte.shop^|
 ||hausprodukte.store^|
 ||hausprofisystem.com^|
@@ -14363,6 +14369,7 @@
 ||hellyhansendeutschland.com^|
 ||hellyhansenoutletcanada.com^|
 ||hellymoon.de^|
+||helmerbrennholzgbr.de^|
 ||helmetaccessoriesstore.com^|
 ||helmetscycle.com^|
 ||helmetsmet.com^|
@@ -14862,6 +14869,7 @@
 ||homeambella.com^|
 ||homeappliance-pro.com^|
 ||homeaytm.com^|
+||homebasestore.shop^|
 ||homeblissonline.com^|
 ||homecatalog.shop^|
 ||homechelsea.com^|
@@ -16564,6 +16572,7 @@
 ||journeycotton.com^|
 ||jouwdroom.com^|
 ||jovnm.top^|
+||joya--schuhe.com^|
 ||joyaschuhewien.com^|
 ||joybreinstrup.com^|
 ||joycap.net^|
@@ -16948,6 +16957,7 @@
 ||katrin-hugenberg.shop^|
 ||katrinawcares.com^|
 ||katzenberger-autoreifen.com^|
+||katzenliebling.com^|
 ||katzenmarke.at^|
 ||katzenweltde.com^|
 ||katzenweltde.de^|
@@ -17637,6 +17647,7 @@
 ||koenigssee-uhrmanufaktur.de^|
 ||koenigsthal.de^|
 ||koenigzeit.co^|
+||koerbchen-wieno.shop^|
 ||kofireisen.com^|
 ||kofitnessd.top^|
 ||kogenheimholz.com^|
@@ -18543,6 +18554,7 @@
 ||lepapierz.top^|
 ||lepliage.bagsoutletsplus.com^|
 ||lerenyuki.com^|
+||lernbeutel.com^|
 ||lernenalltagsaiten.com^|
 ||lernerei.at^|
 ||lertins.de^|
@@ -19409,6 +19421,7 @@
 ||lumentes.com^|
 ||lumesdesign.com^|
 ||lumetrix-ai.com^|
+||lumieretravels.com^|
 ||lumifie.de^|
 ||luminabelles.com^|
 ||luminairedeals.com^|
@@ -19617,6 +19630,7 @@
 ||madison-fashion.com^|
 ||madmuscles.com^|
 ||madridno94.com^|
+||maeandrose.de^|
 ||maeauto.space^|
 ||maeloveo.com^|
 ||maennerexpress.info^|
@@ -20180,7 +20194,6 @@
 ||mbh-container.de^|
 ||mbheelso.com^|
 ||mbkauf.com^|
-||mbkauf.shop^|
 ||mbookmy.com^|
 ||mbt-logistic.com^|
 ||mbtaustria.at^|
@@ -21053,6 +21066,7 @@
 ||modandh.com^|
 ||modanoma.com^|
 ||modaso.store^|
+||modautlet.com^|
 ||modbrix.shop^|
 ||mode-becker.com^|
 ||mode-boutiek.com^|
@@ -21420,6 +21434,7 @@
 ||motelamiio-online.com^|
 ||motelamiio-sale.com^|
 ||motelamiioofficial.com^|
+||motelamiiosales.shop^|
 ||motelamiiostores.shop^|
 ||motelmio.shop^|
 ||motiontoure.top^|
@@ -21661,6 +21676,7 @@
 ||musicworldde.com^|
 ||musik-laden.com^|
 ||musik-zubehoerwerk.com^|
+||musikfunke.com^|
 ||musikgarage.com^|
 ||musikgearhub.com^|
 ||musikgermany.com^|
@@ -21857,6 +21873,7 @@
 ||myulcgga.shop^|
 ||myvesperbox.shop^|
 ||myvesperboxde.shop^|
+||myvitaminversand.shop^|
 ||myweststein.com^|
 ||mywhomeofficial.com^|
 ||mywonderfy.com^|
@@ -23813,6 +23830,7 @@
 ||orlidelo.com^|
 ||ornamentli.com^|
 ||ornamenttoy.com^|
+||orologicasa.shop^|
 ||orrebol.com^|
 ||ortexgruppe.com^|
 ||ortexgruppepros.com^|
@@ -24034,6 +24052,7 @@
 ||outdoorstudio1973.store^|
 ||outdoorsusrealm.com^|
 ||outdoorusoffer.com^|
+||outdoorvoriax.com^|
 ||outdoorwarenhaus.com^|
 ||outdoorzelte.com^|
 ||outerwearvip.com^|
@@ -28366,6 +28385,7 @@
 ||schlussmit.at^|
 ||schmahl-gartengeraete.com^|
 ||schmahl-gartengeraete.de^|
+||schmeckenkaufen.de^|
 ||schmerz-stopper.de^|
 ||schmid-autoreifen.com^|
 ||schmid-rechtsanwaelte.de^|
@@ -28593,6 +28613,7 @@
 ||sdhguy.com^|
 ||sdhzdislavice.cz^|
 ||sdjiy.shop^|
+||sdjqepyr.shop^|
 ||sdk-transport.com^|
 ||sdmndpkrec.com^|
 ||se-sthqntm-64.com^|
@@ -29970,6 +29991,7 @@
 ||solarspeichersysteme.com^|
 ||solartermin.de^|
 ||solarversorgung.com^|
+||solarviiat.com^|
 ||solarwind-shop.com^|
 ||solaryn.de^|
 ||solarynix.de^|
@@ -33530,6 +33552,7 @@
 ||ufixen.com^|
 ||ufolepbourgogne.org^|
 ||ugfxrl.shop^|
+||ugg-online.com^|
 ||uggat.at^|
 ||uggfans.myshoplaza.com^|
 ||uggonline.myshoplaza.com^|
@@ -33545,6 +33568,7 @@
 ||uhlenhuth.net^|
 ||uhlsportworld.shop^|
 ||uhnk-bw.de^|
+||uhqxisqi.shop^|
 ||uhrbdesign.com^|
 ||uhren-beweger.at^|
 ||uhren-heinrich.com^|
@@ -34275,6 +34299,7 @@
 ||vast-spedition.com^|
 ||vaststore.shop^|
 ||vasubo.com^|
+||vataminversand24.com^|
 ||vatan.at^|
 ||vatlab.cc^|
 ||vaude-de.com^|
@@ -34799,14 +34824,17 @@
 ||vitalvigoury.com^|
 ||vitamin-schmiede24.de^|
 ||vitaminedirekt.com^|
+||vitaminversandonline.shop^|
 ||vitanado.com^|
 ||vitanourishhub.com^|
 ||vitarela.at^|
 ||vitawellshop.shop^|
 ||vitev.net^|
 ||vitkovice.net^|
+||vitlane.shop^|
 ||vitosax-handel.de^|
 ||vitrado.global^|
+||vitsend.com^|
 ||vittoriabike.com^|
 ||viv-club.com^|
 ||viva-maket.com^|
@@ -35584,6 +35612,7 @@
 ||wellensteynjackenoutlet.org^|
 ||welljddihco.com^|
 ||welllll.de^|
+||wellmedshop.com^|
 ||wellmirrorca.com^|
 ||wellness-ostsee.com^|
 ||wellneswonder.com^|
@@ -36300,6 +36329,7 @@
 ||xdate69.de^|
 ||xdepolive.com^|
 ||xdoctizol.com^|
+||xdoutsto.shop^|
 ||xellanederlandbv.com^|
 ||xenforts.com^|
 ||xeniapublicity.com^|
@@ -37004,6 +37034,7 @@
 ||zumarus.de^|
 ||zumwirt.at^|
 ||zundhutcheneuropa.com^|
+||zuosex.com^|
 ||zupapasports.com^|
 ||zuperiu.de^|
 ||zuramo.de^|
