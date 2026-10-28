@@ -46,5 +46,5 @@ jobs:
         # Commit + Push (overwrite)
         git config core.fileMode false
         git add filter.txt
-        git commit -m "Update filter ($(date -u +%Y-%m-%dT%H:%M:%SZ)) [32k domains]"
+        git commit -m "Update filter ($(date -u +%Y-%m-%dT%H:%M:%SZ)) [$(grep -c '^||' filter.txt) domains]"
         git push -f origin main
