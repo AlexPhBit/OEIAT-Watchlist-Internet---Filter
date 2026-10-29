@@ -1,7 +1,7 @@
 ! Title: Inoffizielle Kopie - ÖIAT Watchlist Internet Filterlist
 ! Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 ! Disclaimer: Inoffizielle, automatisch erzeugte Kopie. Keine Verbindung zu ÖIAT Watchlist Internet. Keine Gewaehr fuer Richtigkeit und Vollstaendigkeit.
-! Generated: 2026-10-28T01:50:15.952496+00:00
+! Generated: 2026-10-29T02:57:01.400316+00:00
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -147,6 +147,7 @@
 ||a.seven-st.com^|
 ||a1-anlagen.com^|
 ||a1businessnet.live^|
+||a2c-domotique.com^|
 ||a31c.org^|
 ||aaaclothing.ru^|
 ||aachentag.com^|
@@ -993,6 +994,7 @@
 ||alpbeat.com^|
 ||alpen-leicht.de^|
 ||alpen-malerbetrieb.de^|
+||alpen-schlaf.com^|
 ||alpen-vest.com^|
 ||alpenfaser.de^|
 ||alpenfluss.at^|
@@ -4169,6 +4171,7 @@
 ||blyss-shop.de^|
 ||blyxultraltd.com^|
 ||bm-in.com^|
+||bmaholzhandel.at^|
 ||bmatbat.com^|
 ||bmbgreen.com^|
 ||bmcloth.com^|
@@ -6472,6 +6475,7 @@
 ||confidentp.com^|
 ||confiemm.com^|
 ||confines.top^|
+||confirmation-advanced-reserv426178.com^|
 ||conforamaeu.com^|
 ||conforim.com^|
 ||confortacharme.com^|
@@ -9338,6 +9342,7 @@
 ||elektromactrade.com^|
 ||elektromarkt.store^|
 ||elektronik-handel.com^|
+||elektronikdesigner.de^|
 ||elektronikgeschaft.com^|
 ||elektroniknavigatio.com^|
 ||elektronikrabatt.com^|
@@ -9897,6 +9902,7 @@
 ||etercitenal.com^|
 ||eternity.business^|
 ||eternitya.com^|
+||ethanolofen.com^|
 ||ethbuyers.online^|
 ||ethek-ahlsen.co.uk^|
 ||etherost.shop^|
@@ -10456,6 +10462,7 @@
 ||falkengraz.com^|
 ||falkenhof-mode.de^|
 ||falkenmode.de^|
+||falkenstahl.de^|
 ||fallegverslun.com^|
 ||fallesson.com^|
 ||fallible.top^|
@@ -12564,6 +12571,7 @@
 ||genuinnev.top^|
 ||genussfaktor.com^|
 ||genussfein.com^|
+||genussfrei.com^|
 ||genusskeller.com^|
 ||genussnutz.com^|
 ||genzfshop.com^|
@@ -12617,6 +12625,7 @@
 ||germangusto.com^|
 ||germania-ce.de^|
 ||germanlifeparts.com^|
+||germanlightartistry.com^|
 ||germanmanufaktur.de^|
 ||germanproduktshop.de^|
 ||germanqualitaet.de^|
@@ -13147,6 +13156,7 @@
 ||goldhealthwise.com^|
 ||golding-house.com^|
 ||goldira.wiki^|
+||goldkauf-web.de^|
 ||goldkontor-1972.de^|
 ||goldreward.io^|
 ||goldscheideanstalt-2023.com^|
@@ -14870,6 +14880,7 @@
 ||holzhambach.com^|
 ||holzhandel-bauer.com^|
 ||holzhandelhensel.com^|
+||holzkerngear.com^|
 ||holzkraft.pro^|
 ||holzlagermarket.com^|
 ||holzlangbau.de^|
@@ -15998,6 +16009,7 @@
 ||intersport-at.myshoplaza.com^|
 ||intersport-at.shop^|
 ||intersport-eu.com^|
+||intersport-sport.myshoplaza.com^|
 ||intersport88.myshoplaza.com^|
 ||interstatesavings.us^|
 ||intervalk.net^|
@@ -16802,6 +16814,7 @@
 ||kaffeeaktionen.com^|
 ||kaffeealternative.de^|
 ||kaffeeangebote.com^|
+||kaffeebrauer.com^|
 ||kaffeedeckel.de^|
 ||kaffeeexperte.com^|
 ||kaffeefeinkostdrinks.com^|
@@ -16842,6 +16855,7 @@
 ||kalkstore.com^|
 ||kallieswelpen.com^|
 ||kallisteremeurl.com^|
+||kalohia.de^|
 ||kaltesholz.com^|
 ||kaltesholz.de^|
 ||kaluxo.de^|
@@ -17735,6 +17749,7 @@
 ||komarise.com^|
 ||komarniskiw.shop^|
 ||komemo-handel.de^|
+||komfera.com^|
 ||komforteinkauf.com^|
 ||komforteinrichter.de^|
 ||komono-uk.com^|
@@ -18833,6 +18848,7 @@
 ||lightstocksfx.com^|
 ||lightswimsuit.com^|
 ||lightzeys.shop^|
+||lignatok.shop^|
 ||lihi3.com^|
 ||likablesunny.com^|
 ||likablew.com^|
@@ -20008,6 +20024,7 @@
 ||market.cedarbourne.com^|
 ||market.clearancewhirl.com^|
 ||market.darrowmere.com^|
+||market.galeririva.com^|
 ||market.glenleigha.com^|
 ||market.halewick.com^|
 ||market.novaris-capitallimited.ltd^|
@@ -21557,6 +21574,7 @@
 ||motousretail.com^|
 ||motozone-pro.com^|
 ||motozoneoff.com^|
+||motronixparts.com^|
 ||mottari-trucks.com^|
 ||motus-versand.de^|
 ||motzi.at^|
@@ -22840,6 +22858,7 @@
 ||novateki.com^|
 ||novator-consulting.com^|
 ||novatrustmarket.com^|
+||novavestra.com^|
 ||novavitalia.de^|
 ||novavitalia.io^|
 ||novelbuys.com^|
@@ -24472,6 +24491,7 @@
 ||papenettug.com^|
 ||papershredder-store.com^|
 ||paperticketca.com^|
+||papeteriewerkstatt.com^|
 ||papier-feder.com^|
 ||papoiya.shop^|
 ||pappshop.top^|
@@ -24598,6 +24618,7 @@
 ||pavlik24.at^|
 ||pavolpangrac.shop^|
 ||pawheartmission.com^|
+||pawmony.shop^|
 ||pawsbeyonds.com^|
 ||pawshoebox.com^|
 ||paxmining.com^|
@@ -25341,6 +25362,7 @@
 ||polarlyset.de^|
 ||polaroid.com.de^|
 ||polaroids.at^|
+||polarsupply.de^|
 ||polene-deutschland.com^|
 ||polene-osterreich.com^|
 ||polene-paris.at^|
@@ -26182,6 +26204,7 @@
 ||quaally.shop^|
 ||quadrals.de^|
 ||qualiprodukt.de^|
+||qualitaetart.com^|
 ||qualitatsdampf.com^|
 ||quality-viagra.site^|
 ||qualitygadgetshop.com^|
@@ -26971,6 +26994,7 @@
 ||reiterhof-geidner.de^|
 ||reiterrabatt.de^|
 ||reiterstueberl.net^|
+||reitsport-online.com^|
 ||reittrendstore.com^|
 ||rejanerosenberger.shop^|
 ||related-ag.com^|
@@ -27250,6 +27274,7 @@
 ||ridelbergu.de^|
 ||ridendrive.store^|
 ||ridereadywear.com^|
+||ridersdeals.com^|
 ||ridesprint.com^|
 ||rideworldonline.com^|
 ||ridgemonkeytackle.com^|
@@ -28197,6 +28222,7 @@
 ||sandalo.shop^|
 ||sandals.spring4sale.com^|
 ||sandalssshop.com^|
+||sandaphie.com^|
 ||sandarthome.com^|
 ||sandberger.net^|
 ||sanddobrien.com^|
@@ -30580,6 +30606,7 @@
 ||stadler-reifen.com^|
 ||stadlwerk.de^|
 ||stadt-handwerker.com^|
+||stadtharmonie.com^|
 ||stadtkinderde.shop^|
 ||stadtmode.com^|
 ||stadtplan-local.com^|
@@ -31520,6 +31547,7 @@
 ||svitla-vip.co^|
 ||svmudb.shop^|
 ||svnemia.com^|
+||swabytec24.com^|
 ||swabytec24.de^|
 ||swaddledesignsde.shop^|
 ||swapplaceca.com^|
@@ -31827,6 +31855,7 @@
 ||tatonkaonline.com^|
 ||tatonkaoutdoor.com^|
 ||tattoo-glanz-pflege.de^|
+||taubenbedarfoutlet.com^|
 ||taubenfutterde.com^|
 ||tauchanzugkajak.de^|
 ||tauchflaschenschutznetz.com^|
@@ -35205,6 +35234,7 @@
 ||vorola.de^|
 ||voroly.de^|
 ||voromotorsde.shop^|
+||vorratshaus.com^|
 ||vorsorge-karte.com^|
 ||vortehair.de^|
 ||vortexelectricals.com^|
@@ -37183,6 +37213,7 @@
 ||zyra-amsterdam.nl^|
 ||zyskoro.app^|
 ||zytocapitalnew.com^|
+||zyybqsof.shop^|
 ||zyyef.com^|
 ||zyz.snknk.cz^|
 ||zzaday.com^|
