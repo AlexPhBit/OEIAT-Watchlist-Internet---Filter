@@ -1,7 +1,7 @@
 ! Title: Inoffizielle Kopie - ÖIAT Watchlist Internet Filterlist
 ! Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 ! Disclaimer: Inoffizielle, automatisch erzeugte Kopie. Keine Verbindung zu ÖIAT Watchlist Internet. Keine Gewaehr fuer Richtigkeit und Vollstaendigkeit.
-! Generated: 2026-10-30T01:22:59.737778+00:00
+! Generated: 2026-10-31T02:48:37.168573+00:00
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -1349,6 +1349,8 @@
 ||anhangercenter.com^|
 ||anhangerdienst.com^|
 ||anhängerglück.de^|
+||anhangerholz.de^|
+||anhangerkloock-de.com^|
 ||anhangerkreuter.com^|
 ||anhangermarkt.com^|
 ||anhangermaschinen.com^|
@@ -2265,6 +2267,7 @@
 ||autohausfuerst.de^|
 ||autohobby.at^|
 ||autoinnendesign.com^|
+||autokaelte.com^|
 ||autoled.tech^|
 ||automatacompare.com^|
 ||automaticl.com^|
@@ -5148,6 +5151,7 @@
 ||campingmay.com^|
 ||campingnatur.com^|
 ||campingneu.com^|
+||campingoutdoorstore.com^|
 ||campingpas.de^|
 ||campingplatze-de.com^|
 ||campingplatzede.com^|
@@ -5653,6 +5657,7 @@
 ||chanfat.com^|
 ||channeldecoration.com^|
 ||chansflavor.com^|
+||chanteluxe.com^|
 ||chantierest.com^|
 ||chaosdesign24de.shop^|
 ||chaplinr.com^|
@@ -8640,6 +8645,7 @@
 ||drkuzbari.at^|
 ||drmartens-eu.com^|
 ||drmartens-factory.com^|
+||drmartens-official.myshoplaza.com^|
 ||drmartens-outlet.com^|
 ||drmartens-outlets.com^|
 ||drmartensberlin.de^|
@@ -8834,6 +8840,7 @@
 ||e-bikerabatt.com^|
 ||e-bikesparepartsde.com^|
 ||e-bikesstore.com^|
+||e-bikezubehorrabatt.com^|
 ||e-designworks.de^|
 ||e-fahrrader.de^|
 ||e-fahrrader.store^|
@@ -8995,6 +9002,7 @@
 ||eclipcoin.com^|
 ||eclipse.forwarder-ltd.com^|
 ||eclipseecho.com^|
+||ecneywmr.shop^|
 ||eco-hof.com^|
 ||eco-serenity.uk^|
 ||ecoalf-online.shop^|
@@ -9490,6 +9498,7 @@
 ||emctm.com^|
 ||emd-service.de^|
 ||emeingarten24.com^|
+||emelies-worlo.shop^|
 ||emerallda.com^|
 ||emergencydiecastmodels.com^|
 ||emerginghomeshop.com^|
@@ -9551,6 +9560,7 @@
 ||emulive.top^|
 ||emuschuhe.at^|
 ||emx1.vip^|
+||emyeliesworldgoods.shop^|
 ||en.gromando.com^|
 ||enantboutique.com^|
 ||enapr.de^|
@@ -9822,6 +9832,7 @@
 ||eshop-univers.de^|
 ||eshop.dealmarketzeny.com^|
 ||eshop.maplecrofta.com^|
+||eshop.promomesh.com^|
 ||eshop.sintech.cn^|
 ||eshop.stonebournea.com^|
 ||eshop.stonebournea.com.^|
@@ -10126,6 +10137,7 @@
 ||everproof.top^|
 ||evershape.at^|
 ||eversonehandel.at^|
+||everts-handel.shop^|
 ||everyhomeware.com^|
 ||everyknives.com^|
 ||everyswimsuit.com^|
@@ -10909,6 +10921,7 @@
 ||feuchtigkeits.de^|
 ||feuerbergplus.com^|
 ||feuerholz24.shop^|
+||feuerholzadler.de^|
 ||feuerundgrill.myshopify.com^|
 ||feuerwehr-oberaussem.de^|
 ||feuerwehr-vehlen.de^|
@@ -11120,6 +11133,7 @@
 ||finzanzonline.com^|
 ||finzy0-dolores99.sbs^|
 ||fiorenz.com^|
+||fioriella.com^|
 ||fiorora.com^|
 ||fipecampania.it^|
 ||firat-shopping.de^|
@@ -13242,6 +13256,7 @@
 ||goodpriceclothes.com^|
 ||goodpricedrugs.com^|
 ||goodqualitypot.com^|
+||goodron.shop^|
 ||goodrumnhits.shop^|
 ||goods.nnrfeecocen.shop^|
 ||goodsafield.com^|
@@ -14877,6 +14892,7 @@
 ||holz-pellets24.com^|
 ||holz-sales.com^|
 ||holz-waldes-holz.com^|
+||holz-warme.de^|
 ||holzafen.com^|
 ||holzarena.com^|
 ||holzarteiche.de^|
@@ -15278,6 +15294,7 @@
 ||housewareoffer.com^|
 ||housewareusorder.com^|
 ||housing-estates.com^|
+||houtnl.com^|
 ||hovko.store^|
 ||hovu.shop^|
 ||how2crypto.com^|
@@ -17422,6 +17439,7 @@
 ||kirche-lennep.de^|
 ||kirchenmusik-mhl.de^|
 ||kirchimova.xyz^|
+||kirchner-kollegen.com^|
 ||kirchner-rechtsanwaelte.de^|
 ||kirchner-reifenversand.shop^|
 ||kirchweih-info.de^|
@@ -17909,6 +17927,7 @@
 ||kronenstil.de^|
 ||kronwald-mode.de^|
 ||kroupyshop.net^|
+||krovian.shop^|
 ||krs-musik.de^|
 ||krsmusik.de^|
 ||krueger-dirndl-outlet.shop^|
@@ -18193,6 +18212,7 @@
 ||lampespromo.com^|
 ||lampframburg.com^|
 ||lamphudsoncanal.com^|
+||lampista.store^|
 ||lamply.at^|
 ||lamponey.com^|
 ||lampopt.com^|
@@ -18514,6 +18534,7 @@
 ||leefbnemall.shop^|
 ||leefly.nl^|
 ||leenayhome.com^|
+||leevitox.shop^|
 ||leevjede.shop^|
 ||leezy-berlin.de^|
 ||legalcrypptoearningfx.com^|
@@ -19189,6 +19210,7 @@
 ||logixwood.com^|
 ||logtgg.com^|
 ||logvoyage.com^|
+||lohmann-mode.de^|
 ||lohninger-irrsee.at^|
 ||lohr-treuhand.com^|
 ||lojgxdixo.com^|
@@ -20488,6 +20510,7 @@
 ||meindiscount.store^|
 ||meindl--schuhe.com^|
 ||meindlaustria.at^|
+||meindlboots.myshoplaza.com^|
 ||meindlosterreich.at^|
 ||meindls.at^|
 ||meindlsales.com^|
@@ -23146,6 +23169,7 @@
 ||oelity.de^|
 ||oelly.de^|
 ||oelman.de^|
+||oelmuehlo-sailer.shop^|
 ||oelnow.de^|
 ||oelone.de^|
 ||oeloo.de^|
@@ -23317,6 +23341,7 @@
 ||ogbuy.net^|
 ||ogeru.de^|
 ||ogk.meineoegk-at.store^|
+||ogppxssz.shop^|
 ||ogueusover.com^|
 ||oh-pollyosterreich.at^|
 ||ohbabyultrasounde.shop^|
@@ -24891,6 +24916,7 @@
 ||petersjoo.com^|
 ||peterssusanpeters.com^|
 ||petety.top^|
+||petfutter.com^|
 ||petfuttershop.com^|
 ||petgenerous.com^|
 ||petgoodsoff.com^|
@@ -27355,6 +27381,7 @@
 ||rimowa-store.de^|
 ||rimowade.shop^|
 ||rimowaoutlet.at^|
+||rimuco.com^|
 ||rinado.de^|
 ||rinahmai.com^|
 ||rinascente-work.com^|
@@ -30142,6 +30169,7 @@
 ||solarenergie-beleuchtung.de^|
 ||solarenergiemarkt.com^|
 ||solarien-berlin.de^|
+||solarloesungen-shop-de.com^|
 ||solarmik.de^|
 ||solarnoir.de^|
 ||solarplanet24.net^|
@@ -31990,6 +32018,7 @@
 ||teenyboat.com^|
 ||tees-cool.com^|
 ||tees-hip.com^|
+||teesayit.com^|
 ||teeshoppen.shop^|
 ||teesindesign.com^|
 ||teetassenstore.com^|
@@ -32625,6 +32654,7 @@
 ||tilasnewsl.com^|
 ||tilintalang.com^|
 ||tilmanhuber.com^|
+||tilmes-consulting.de^|
 ||tilsolw.com^|
 ||timber-land.de^|
 ||timberland-osterreich.at^|
