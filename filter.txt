@@ -1,22 +1,5 @@
 ! Title: Inoffizielle Kopie - ÖIAT Watchlist Internet Filterlist
 ! Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 ! Disclaimer: Inoffizielle, automatisch erzeugte Kopie. Keine Verbindung zu ÖIAT Watchlist Internet. Keine Gewaehr fuer Richtigkeit und Vollstaendigkeit.
-! Generated: 2026-11-03T02:41:05.187474+00:00
-||<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />^|
-||<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->^|
-||if (!navigator.cookieEnabled) {^|
-||window.addEventListener('DOMContentLoaded', function () {^|
-||var cookieEl = document.getElementById('cookie-alert')^|
-||cookieEl.style.display = 'block'^|
-||<div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>^|
-||<h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> watchlist-internet.at</h2>^|
-||</div><!-- /.header -->^|
-||</div><!-- /.captcha-container -->^|
-||<p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>^|
-||<p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>^|
-||</div><!-- /.section -->^|
-||<span class="hidden" id="cf-footer-ip">145.132.103.176</span>^|
-||<script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal")^|
-||</div><!-- /.error-footer -->^|
-||window._cf_translation = {}^|
-||<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document)^|
+! Generated: 2026-11-03T10:09:04.429959+00:00
+||<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html^|
