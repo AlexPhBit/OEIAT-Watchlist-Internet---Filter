@@ -4,7 +4,7 @@ permissions:
 
 on:
   schedule:
-   - cron: '15 3,15 * * *'
+    - cron: '15 3,15 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,38 +13,29 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0
 
     - name: Download CSV
       run: |
-        curl -L "https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/" -o data.csv || exit 1
-      
+        curl -fsSL --retry 3 --retry-delay 10 \
+          -A "OEIAT-Filter-Bot/1.0 (+https://github.com/AlexPhBit/OEIAT-Watchlist-Internet---Filter)" \
+          "https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/" -o data.csv
+
     - name: Convert to filter.txt
       run: python3 convert.py
-      
-    - name: Update & Push (ROBUST)
+
+    - name: Update & Push
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        
-        # Hole neueste remote Änderungen
-        git fetch origin
-        git checkout main
-        git reset --hard origin/main
-        
-        # Generiere neue filter.txt
-        python3 convert.py
-        
-        # Nur pushen wenn sich etwas geändert hat
-        if git diff --quiet filter.txt; then
+
+        git add filter.txt
+
+        # Nur committen, wenn sich die Datei geändert hat
+        if git diff --cached --quiet; then
           echo "Keine Änderungen"
           exit 0
         fi
-        
-        # Commit + Push (overwrite)
-        git config core.fileMode false
-        git add filter.txt
+
         git commit -m "Update filter ($(date -u +%Y-%m-%dT%H:%M:%SZ)) [$(grep -c '^||' filter.txt) domains]"
-        git push -f origin main
+        git pull --rebase origin main
+        git push origin main
