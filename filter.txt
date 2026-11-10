@@ -1,7 +1,7 @@
 ! Title: Inoffizielle Kopie - ÖIAT Watchlist Internet Filterlist
 ! Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 ! Disclaimer: Inoffizielle, automatisch erzeugte Kopie. Keine Verbindung zu ÖIAT Watchlist Internet. Keine Gewaehr fuer Richtigkeit und Vollstaendigkeit.
-! Generated: 2026-11-06T10:55:21.870866+00:00
+! Generated: 2026-11-10T20:34:24.490944+00:00
 ||01534.bitcoinasystem.su^|
 ||02009.bitcoinasystem.su^|
 ||02442.bitcoinasystem.su^|
@@ -84,6 +84,7 @@
 ||24usefultoolsstore.com^|
 ||273cechicomp.makuma.eu^|
 ||2bgreen.at^|
+||2jkronen.com^|
 ||2pharmaceuticals.de^|
 ||2rader.com^|
 ||2smart4me.de^|
@@ -645,6 +646,7 @@
 ||ahtavin.com^|
 ||ahyokaboutique.com^|
 ||ai-horoskope.de^|
+||aiapp-at-pro.com^|
 ||aiapp2025.com^|
 ||aicheleholzgmbh.de^|
 ||aidanmattoxdress.com^|
@@ -1175,6 +1177,7 @@
 ||ambestenzuhause.com^|
 ||ambia-beleuchtung.de^|
 ||ambian.top^|
+||ambianna-direkt.de^|
 ||ambileds.de^|
 ||ambioza.de^|
 ||ambitbio.com^|
@@ -1188,6 +1191,7 @@
 ||amedeo-fashion.co^|
 ||amedeo-fashion.com^|
 ||amelia-munchen.com^|
+||ameliawein.com^|
 ||ameliazagarrio.com^|
 ||america1210.com^|
 ||americamedsolutions.com^|
@@ -1521,6 +1525,8 @@
 ||antyear.com^|
 ||anuraclo.com^|
 ||anwaelte-brinkmann.de^|
+||anwaelte-himmel.net^|
+||anwalt-fink.net^|
 ||anwalt-rieger.de^|
 ||anwalt-sirrenberg.com^|
 ||anwaltskanzlei-brust.de^|
@@ -2079,6 +2085,8 @@
 ||asvgu.at^|
 ||at-elektrohaus.com^|
 ||at-gruppo24.com^|
+||at-klimabonus.com^|
+||at-klimabonus.net^|
 ||at-paylivery.shop^|
 ||at-setrafimoney.org^|
 ||at-upwork.site^|
@@ -2150,6 +2158,7 @@
 ||atlataca.com^|
 ||atleanta.com^|
 ||atlienstore.com^|
+||atlimegasale.com^|
 ||atol-finance.com^|
 ||atom-operations.tech^|
 ||atomicfundvest.ltd^|
@@ -3892,6 +3901,7 @@
 ||bikesecke.de^|
 ||bikesenjoy.com^|
 ||bikesequipment.com^|
+||bikesexpert-de.com^|
 ||bikesexpert.shop^|
 ||bikesget.com^|
 ||bikeshockabsorberde.com^|
@@ -4361,6 +4371,7 @@
 ||bmrbhf.shop^|
 ||bms-promaschinen.com^|
 ||bmsorganicp.com^|
+||bmwadvent.com^|
 ||bmwmotorcycles-eu.com^|
 ||bmwmt2025mall.sa.com^|
 ||bmwmt2026online.com^|
@@ -4501,6 +4512,7 @@
 ||bootovia.com^|
 ||bootsangelnde.com^|
 ||bootsausruestungshop.com^|
+||bootsausrustung.com^|
 ||bootsclearanus.com^|
 ||bootsde.com^|
 ||bootseur.com^|
@@ -4753,6 +4765,7 @@
 ||brennholzgigant.de^|
 ||brennholzgigante.de^|
 ||brennholzhalberstad.com^|
+||brennholzhandelmartens.com^|
 ||brennholzhandelnhn.com^|
 ||brennholzhoffmich.com^|
 ||brennholzkaufende.shop^|
@@ -5257,6 +5270,7 @@
 ||c-apotheke.de^|
 ||c-t-s-logistics.com^|
 ||c-und-a-austria.com^|
+||c0inex.com^|
 ||c21watches.com^|
 ||ca.carlottatortorella.com^|
 ||ca.lindseytennant.com^|
@@ -6275,6 +6289,7 @@
 ||cjuuri.shop^|
 ||cjyckgpp.shop^|
 ||ck-trans.com^|
+||ckchauffage.com^|
 ||ckerezltd.com^|
 ||ckilla.com^|
 ||ckitabwalah.shop^|
@@ -6814,6 +6829,7 @@
 ||consumptione.com^|
 ||contacthunt.io^|
 ||contacttain.com^|
+||containerbasise.com^|
 ||containerbewegen.com^|
 ||containercargo.shop^|
 ||containercompany.shop^|
@@ -7590,6 +7606,8 @@
 ||datafic.xyz^|
 ||dataviews.top^|
 ||dateideen.at^|
+||daten-verifizieren.net^|
+||daten-verifizierung.net^|
 ||datenfin.de^|
 ||dating.com^|
 ||datinted.com^|
@@ -10476,6 +10494,7 @@
 ||euortovox.shop^|
 ||euoutletsshoesonline.com^|
 ||euoutletstores.com^|
+||euparidystore.com^|
 ||euphoriavow.shop^|
 ||eupills.com^|
 ||euprofits.com^|
@@ -11368,6 +11387,8 @@
 ||ferienhaus-chalets.com^|
 ||ferienhaus-check.com^|
 ||ferienhaus-gertrud.at^|
+||ferienhaus-reise.com^|
+||ferienhaus-reisen.com^|
 ||ferienhausexperten.co^|
 ||ferienhauspartner.co^|
 ||ferienpartner.co^|
@@ -11950,10 +11971,12 @@
 ||fluffypawz.de^|
 ||flug-sicht.de^|
 ||flugelweich.com^|
+||flughafen-taxi-wien.net^|
 ||fluidfrerides.shop^|
 ||flurdieleart.com^|
 ||flurivadom.com^|
 ||flutterone.cz^|
+||fluwdown.com^|
 ||flwoertime.de^|
 ||fly-ec135.de^|
 ||fly6amig2.skin^|
@@ -12319,6 +12342,7 @@
 ||freshlykueche.de^|
 ||freshmarkt24.com^|
 ||freshwitersystems.com^|
+||freslivo.shop^|
 ||freslona.shop^|
 ||fressnapfs.shop^|
 ||fressnapwindhundde.com^|
@@ -12374,6 +12398,7 @@
 ||fritzo.shop^|
 ||fritzsche-autoreifen.com^|
 ||fritzsche-reifenhandel.shop^|
+||fritzzwiener.de^|
 ||frivaldo.shop^|
 ||frivaldode.shop^|
 ||friwl.mega-preise.com^|
@@ -13004,6 +13029,7 @@
 ||gartentor.shop^|
 ||gartentraktor.com^|
 ||gartentrend.shop^|
+||gartenundhausmeisterservice.de^|
 ||gartenundwerkzeug.com^|
 ||gartenweltdeutsch.com^|
 ||gartenwerkzeugeprofi.com^|
@@ -13679,6 +13705,7 @@
 ||glurvextopin.at^|
 ||gluschwein.de^|
 ||glutadrops.com^|
+||glutbar.de^|
 ||glytchf.com^|
 ||gm-portal.co^|
 ||gm.lightinthebox.com^|
@@ -13761,6 +13788,7 @@
 ||golden-outlet.de^|
 ||golden-re.com^|
 ||golden-watch.shop^|
+||goldenage-trading.com^|
 ||goldenbayboutiques.com^|
 ||goldencurrencies.trade^|
 ||goldenelemento.shop^|
@@ -14686,6 +14714,7 @@
 ||harmanli-elektronik.shop^|
 ||harmanli-gmbh.store^|
 ||harmonicasa.com^|
+||harmoniemarkt.de^|
 ||harmoniouy.com^|
 ||harmony-ambiento.shop^|
 ||harmonyalmbienteoutlet.shop^|
@@ -15028,6 +15057,7 @@
 ||heizoel-held.de^|
 ||heizoel-liefern.de^|
 ||heizoel-marke.de^|
+||heizoel-online.com^|
 ||heizoel-onlinekauf.com^|
 ||heizoel-premium.de^|
 ||heizoel-profi.com^|
@@ -15623,6 +15653,7 @@
 ||holzliefer.xyz^|
 ||holzliefernexpress.de^|
 ||holzlind.com^|
+||holzmajestat.at^|
 ||holzmodello.shop^|
 ||holzmoebelkaufen.de^|
 ||holzmuller-firewood.com^|
@@ -16701,6 +16732,7 @@
 ||insolvenzrecht-rick.de^|
 ||insolvenzrecht-rieger.de^|
 ||insolvenzverwalter-frenzel.de^|
+||insolvenzverwalterfrenzel.com^|
 ||inspectionk.com^|
 ||inspectiony.com^|
 ||inspirasikus.com^|
@@ -16751,6 +16783,7 @@
 ||instrumentak.com^|
 ||instrumentbest.com^|
 ||instrumentemusic.com^|
+||instrumentenvinyl.com^|
 ||instrumentn.com^|
 ||instrumentn.net^|
 ||instrumentnice.com^|
@@ -17199,6 +17232,7 @@
 ||jclaysocken.com^|
 ||jcounzela.com^|
 ||jcpenneyinusa.net^|
+||jcs-technologies.de^|
 ||jcvfepbr.shop^|
 ||jdbanli.com^|
 ||jdfimportexportgmbh.de^|
@@ -17296,6 +17330,7 @@
 ||jfajhkpq.shop^|
 ||jfex-logistics.com^|
 ||jfitwork.com^|
+||jfwfcrwc.shop^|
 ||jgfrqhh.top^|
 ||jggli26v.shop^|
 ||jgkittrx.shop^|
@@ -18090,6 +18125,7 @@
 ||kerzenonkelde.shop^|
 ||kesselschlacht-erfurt.com^|
 ||kessl-teufel.at^|
+||kessler-warenbestand.net^|
 ||kestintobiaswelpen.de^|
 ||keterhanova.myshopify.com^|
 ||ketousesh.com^|
@@ -18830,8 +18866,10 @@
 ||krs-musik.de^|
 ||krsmusik.de^|
 ||krtr.shop^|
+||krueger-anwalt.net^|
 ||krueger-dirndl-outlet.shop^|
 ||krueger-dirndleu.shop^|
+||krueger-recht.com^|
 ||kruegerfest.de^|
 ||kruegermadl.de^|
 ||kruegeroutlet.de^|
@@ -18891,6 +18929,7 @@
 ||kuchestaubverkauf.com^|
 ||kuchukov-house.com^|
 ||kucings.shop^|
+||kuderundpartner.de^|
 ||kudoant.top^|
 ||kudurun.com^|
 ||kue-arbeit.at^|
@@ -19015,6 +19054,7 @@
 ||l6shop.pw^|
 ||l6shop.site^|
 ||la-bellezza24.shop^|
+||la-sportiva.at^|
 ||la-sportivas.at^|
 ||laabberlinde.shop^|
 ||laamcom.com^|
@@ -20753,6 +20793,7 @@
 ||madamewoodpro.com^|
 ||made-private.com^|
 ||madeerart.com^|
+||madegslly.com^|
 ||madegsly.com^|
 ||madeinbremenbuy.shop^|
 ||madeinbremenstore.shop^|
@@ -21888,6 +21929,7 @@
 ||mf-tennengau.at^|
 ||mfayechauhan.com^|
 ||mfboutiquestore.tools^|
+||mfjkstce.shop^|
 ||mfk-gastroprofi.de^|
 ||mfmarketgmbh.de^|
 ||mfootwearus.com^|
@@ -22472,6 +22514,7 @@
 ||moditec.fr^|
 ||modoli.de^|
 ||modrnhaus.de^|
+||modthtos.shop^|
 ||modu-luxe-gmbh.de^|
 ||modulerdekor.com^|
 ||modwayhomeitem.com^|
@@ -22831,6 +22874,7 @@
 ||mpreis-2023.myfreesites.net^|
 ||mpscamph.com^|
 ||mpso.deveri.de^|
+||mpxnsa.shop^|
 ||mpxyju.com^|
 ||mqqso.de^|
 ||mr-lovo.shop^|
@@ -23905,6 +23949,7 @@
 ||nioekure.com^|
 ||niolymp.com^|
 ||niomo.shop^|
+||niospetd.com^|
 ||nirana.de^|
 ||nirosun.at^|
 ||niruox.com^|
@@ -26351,6 +26396,7 @@
 ||pfoten-traum.com^|
 ||pfotendepot.com^|
 ||pfotenfans.com^|
+||pfotenglanz.shop^|
 ||pfotenkomfort.com^|
 ||pfotenkumpols.shop^|
 ||pfotenlovo.shop^|
@@ -26810,6 +26856,7 @@
 ||polene-shop.com^|
 ||polene.at^|
 ||polene.co.at^|
+||poleneat-at.com^|
 ||poleneat.cc^|
 ||poleneoutlet.de^|
 ||poleneparis-deutschland.com^|
@@ -26842,6 +26889,7 @@
 ||polster-franz.at^|
 ||polster-franz.de^|
 ||polsterei-daniels.de^|
+||polstersofa.com^|
 ||polsterzubehor.com^|
 ||polwestos.at^|
 ||polymerd.com^|
@@ -27050,6 +27098,7 @@
 ||preisrausch24.de^|
 ||preisschlager-berlin.de^|
 ||preiswertoutdoor.com^|
+||preiswohnen.com^|
 ||prelox-guenstiger.de^|
 ||premershop.com^|
 ||premiercarry.com^|
@@ -27529,6 +27578,7 @@
 ||pureherbnutri.com^|
 ||purekicks.de^|
 ||pureleide.shop^|
+||pureleis.com^|
 ||purelynutrient.com^|
 ||purelywhitedeluxe.com^|
 ||puremotionedge.com^|
@@ -28027,6 +28077,7 @@
 ||ravella-dortmund.de^|
 ||ravenciax.shop^|
 ||ravenprombagsoutlet2021.com^|
+||ravinlo.shop^|
 ||ravishingcosmetology.com^|
 ||rawtop.foodarray.shop^|
 ||rawtop.morepush.shop^|
@@ -28465,9 +28516,9 @@
 ||reiterhof-geidner.de^|
 ||reiterrabatt.de^|
 ||reiterstueberl.net^|
-||reitsport-online.com^|
 ||reittrendstore.com^|
 ||rejanerosenberger.shop^|
+||rekuria.com^|
 ||related-ag.com^|
 ||relationshipi.com^|
 ||relativitye.com^|
@@ -29222,6 +29273,7 @@
 ||rubyglobalinvest.com^|
 ||rubyrin.com^|
 ||ruchyleifer.com^|
+||ruckenmeister.com^|
 ||ruckgabe.heidi-mode.de^|
 ||ruckgabe.wwmode.de^|
 ||rucknrubs.com^|
@@ -29979,6 +30031,7 @@
 ||schickercamping.com^|
 ||schickort.de^|
 ||schiessbedarf.com^|
+||schiesssportdirekt.shop^|
 ||schiffbootsteile.com^|
 ||schiffbox.com^|
 ||schildbaum-gartencenter.de^|
@@ -30302,6 +30355,7 @@
 ||seapolj.com^|
 ||sears-de.com^|
 ||seashepherdstore.shop^|
+||seashepherdstyle.shop^|
 ||seasonalhalloween.com^|
 ||seasonsay.com^|
 ||seatakus.com^|
@@ -32052,6 +32106,7 @@
 ||spielzeugserie.com^|
 ||spielzeugsport.com^|
 ||spiilispezi.com^|
+||spikeanalysispointers.com^|
 ||spikonig.de^|
 ||spilavizer.com^|
 ||spileotop.com^|
@@ -32361,6 +32416,7 @@
 ||staud.clothing^|
 ||staud.co.at^|
 ||stauddeutschland.com^|
+||staywild-jewelry.com^|
 ||stclik.com^|
 ||stdodo.com^|
 ||steadyhandtooling.com^|
@@ -33025,6 +33081,7 @@
 ||suntonaal.com^|
 ||sunuyles.com^|
 ||sunzapatos.es^|
+||suoxfsfz.shop^|
 ||supavero.com^|
 ||super-discount-farma.com^|
 ||super-hair.at^|
@@ -34099,7 +34156,6 @@
 ||thermomix-restposten.de^|
 ||thermomix-vorwerk-tm7.de^|
 ||thermopain.com^|
-||thermos.eu^|
 ||thermoscup-shop.com^|
 ||thermoshapers.de^|
 ||thermosline.com^|
@@ -37870,6 +37926,7 @@
 ||wieburg-handel.de^|
 ||wiecel.com^|
 ||wiecel.com.de^|
+||wiedemann-partner.com^|
 ||wiedemann-reifenhandel.com^|
 ||wiehenstahl.co^|
 ||wieldise.com^|
@@ -39109,6 +39166,7 @@
 ||zoneustoys.com^|
 ||zonevogue-us.com^|
 ||zoneyell.com^|
+||zonghebuy.de^|
 ||zonixwater.com^|
 ||zonlaythuo.com^|
 ||zooclouduk.com^|
