@@ -1,4 +1,5 @@
 name: Build OEIAT-Watchlist-Internet - AdGuard Filter
+
 permissions:
   contents: write
 
@@ -10,32 +11,65 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Download CSV
-      run: |
-        curl -fsSL --retry 3 --retry-delay 10 \
-          -A "OEIAT-Filter-Bot/1.0 (+https://github.com/AlexPhBit/OEIAT-Watchlist-Internet---Filter)" \
-          "https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/" -o data.csv
+      - name: Download CSV
+        run: |
+          URL="https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/"
 
-    - name: Convert to filter.txt
-      run: python3 convert.py
+          echo "Lade Watchlist CSV herunter..."
 
-    - name: Update & Push
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
+          curl -fSL \
+            --retry 3 \
+            --retry-delay 10 \
+            --retry-all-errors \
+            --connect-timeout 30 \
+            --max-time 120 \
+            -H "Accept: text/csv,text/plain,*/*" \
+            -H "Cache-Control: no-cache" \
+            -A "Mozilla/5.0 (compatible; OEIAT-Filter-Bot/1.0)" \
+            "$URL" \
+            -o data.csv
 
-        git add filter.txt
+          echo "Download abgeschlossen."
 
-        # Nur committen, wenn sich die Datei geändert hat
-        if git diff --cached --quiet; then
-          echo "Keine Änderungen"
-          exit 0
-        fi
+          echo "Dateigröße:"
+          wc -c data.csv
 
-        git commit -m "Update filter ($(date -u +%Y-%m-%dT%H:%M:%SZ)) [$(grep -c '^||' filter.txt) domains]"
-        git pull --rebase origin main
-        git push origin main
+          echo "Erste Zeilen:"
+          head -n 5 data.csv
+
+          # HTML-Erkennung
+          if head -c 512 data.csv | grep -qiE '<!DOCTYPE html|<html|<head|cloudflare'; then
+            echo "::error::Download enthält HTML statt CSV."
+            exit 1
+          fi
+
+          # Mindestgröße
+          if [ "$(wc -c < data.csv)" -lt 10000 ]; then
+            echo "::error::CSV-Datei ist ungewöhnlich klein."
+            exit 1
+          fi
+
+      - name: Convert to filter.txt
+        run: python3 convert.py
+      
+      - name: Update & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add filter.txt
+
+          # Nur committen, wenn sich die Datei geändert hat
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen"
+            exit 0
+          fi
+
+          git commit -m "Update filter ($(date -u +%Y-%m-%dT%H:%M:%SZ)) [$(grep -c '^||' filter.txt) domains]"
+          git pull --rebase origin main
+          git push origin main
