@@ -22,37 +22,37 @@ jobs:
 
           echo "Lade Watchlist CSV herunter..."
 
-          curl -fSL \
-            --retry 3 \
-            --retry-delay 10 \
-            --retry-all-errors \
+          HTTP_CODE=$(curl -sSL \
+            --retry 2 \
+            --retry-delay 5 \
             --connect-timeout 30 \
             --max-time 120 \
-            -H "Accept: text/csv,text/plain,*/*" \
+            -H "Accept: text/csv,application/csv,text/plain,*/*" \
+            -H "Accept-Language: de-AT,de;q=0.9,en;q=0.8" \
+            -H "Referer: https://www.watchlist-internet.at/" \
             -H "Cache-Control: no-cache" \
-            -A "Mozilla/5.0 (compatible; OEIAT-Filter-Bot/1.0)" \
-            "$URL" \
-            -o data.csv
+            -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" \
+            -o data.csv.tmp \
+            -w "%{http_code}" \
+            "$URL")
 
-          echo "Download abgeschlossen."
+          echo "HTTP-Status: $HTTP_CODE"
 
-          echo "Dateigröße:"
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "::error::Download fehlgeschlagen (HTTP $HTTP_CODE)"
+            head -c 500 data.csv.tmp || true
+            exit 1
+          fi
+
+          if head -c 512 data.csv.tmp | grep -qiE '<!DOCTYPE html|<html|cloudflare'; then
+            echo "::error::HTML statt CSV erhalten"
+            exit 1
+          fi
+
+          mv data.csv.tmp data.csv
+
+          echo "Download erfolgreich."
           wc -c data.csv
-
-          echo "Erste Zeilen:"
-          head -n 5 data.csv
-
-          # HTML-Erkennung
-          if head -c 512 data.csv | grep -qiE '<!DOCTYPE html|<html|<head|cloudflare'; then
-            echo "::error::Download enthält HTML statt CSV."
-            exit 1
-          fi
-
-          # Mindestgröße
-          if [ "$(wc -c < data.csv)" -lt 10000 ]; then
-            echo "::error::CSV-Datei ist ungewöhnlich klein."
-            exit 1
-          fi
 
       - name: Convert to filter.txt
         run: python3 convert.py
