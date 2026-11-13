@@ -31,6 +31,7 @@ jobs:
             -H "Accept-Language: de-AT,de;q=0.9,en;q=0.8" \
             -H "Cache-Control: no-cache" \
             -A "OEIAT-Filter-Bot/1.0 (+https://github.com/AlexPhBit/OEIAT-Watchlist-Internet---Filter)" \
+            -D data.headers \
             -o data.csv.tmp \
             -w "%{http_code}" \
             "$URL")
@@ -39,6 +40,8 @@ jobs:
 
           if [ "$HTTP_CODE" != "200" ]; then
             echo "::error::Download fehlgeschlagen (HTTP $HTTP_CODE)"
+            echo "Antwort-Header (cf-ray / cf-mitigated brauchen die Betreiber fuer eine Freigabe):"
+            grep -iE '^(HTTP/|server:|date:|content-type:|cf-ray:|cf-mitigated:)' data.headers | tr -d '\r' || true
             head -c 500 data.csv.tmp || true
             exit 1
           fi
@@ -48,7 +51,7 @@ jobs:
             exit 1
           fi
 
-          if head -c 512 data.csv.tmp | grep -qiE '<!DOCTYPE html|<html|cloudflare'; then
+          if head -c 512 data.csv.tmp | grep -qiE '<!DOCTYPE html|<html'; then
             echo "::error::HTML statt CSV erhalten."
             head -c 500 data.csv.tmp
             exit 1
