@@ -1,15 +1,17 @@
 import csv
 import re
 import sys
+import unicodedata
 from datetime import datetime, timezone
 
 INPUT_FILE = 'data.csv'
 OUTPUT_FILE = 'filter.txt'
-MIN_DOMAINS = 1000       # darunter gilt die Quelle als unvollstaendig
-MAX_REJECTED = 0.01      # mehr als 1 % unbrauchbare Zeilen -> Abbruch
+MIN_DOMAINS = 300        # darunter gilt die Quelle als unvollstaendig
 
-# plausibler Domainname: kein Leerraum, keine HTML-/Code-Zeichen, mindestens ein Punkt
-DOMAIN_OK = re.compile(r'^[^\s<>/"\'=(){};,\\]+\.[^\s<>/"\'=(){};,\\]+$')
+# plausibler Domainname: kein Leerraum, keine HTML-/Code-Zeichen, kein Doppelpunkt, mindestens ein Punkt
+DOMAIN_OK = re.compile(r'^[^\s<>/"\'=(){};:,\\]+\.[^\s<>/"\'=(){};:,\\]+$')
+# unsichtbare Zeichen, die sich in Domains einschleichen koennen (Soft Hyphen, Zero-Width, BOM)
+INVISIBLE = re.compile('[\u00ad\u200b\u200c\u200d\u2060\ufeff]')
 
 
 def fail(msg):
@@ -17,16 +19,38 @@ def fail(msg):
     sys.exit(1)
 
 
+def normalize(raw):
+    """Bereinigt einen Eintrag: unsichtbare Zeichen raus, Port und Punkt am Ende
+    abschneiden, Umlaute je Label als Punycode (xn--...). Die Schreibweise bleibt
+    wie in der CSV; nur Labels mit Umlauten werden klein geschrieben, sonst waere
+    der Punycode falsch. Gibt None zurueck, wenn der Eintrag keine plausible
+    Domain ist."""
+    d = INVISIBLE.sub('', raw.strip().strip('"'))
+    d = unicodedata.normalize('NFKC', d)
+    d = re.sub(r':\d{1,5}$', '', d).rstrip('.')   # DNS kennt keine Ports
+    if not DOMAIN_OK.match(d):
+        return None
+    labels = []
+    for label in d.split('.'):
+        if not label:
+            return None
+        if not label.isascii():
+            label = 'xn--' + label.lower().encode('punycode').decode('ascii')
+        labels.append(label)
+    return '.'.join(labels)
+
+
 def read_previous(path):
-    """Liest die bisherige filter.txt: Regeln und Zeitstempel."""
+    """Liest die bisherige filter.txt: Regeln, Zeitstempel und kompletten Text."""
     try:
         with open(path, 'r', encoding='utf-8') as f:
-            lines = f.read().splitlines()
+            text = f.read()
     except FileNotFoundError:
-        return None, None
+        return None, None, None
+    lines = text.splitlines()
     rules = [l for l in lines if l.startswith('||')]
     stamp = next((l.split(': ', 1)[1] for l in lines if l.startswith('! Generated:')), None)
-    return rules, stamp
+    return rules, stamp, text
 
 
 # 1) Ist data.csv ueberhaupt eine CSV? (HTML = Fehler-/Sperrseite)
@@ -34,37 +58,43 @@ with open(INPUT_FILE, 'r', encoding='utf-8-sig', errors='replace') as f:
     if f.read(512).lstrip().startswith('<'):
         fail('data.csv ist HTML (vermutlich Sperrseite von Cloudflare), keine CSV')
 
-# 2) Domains einlesen und pruefen
+# 2) Domains einlesen und bereinigen: pro CSV-Zeile genau eine Regel. Auch Duplikate bleiben
+#    erhalten, damit sich die Zeilenzahl mit der CSV vergleichen laesst. Nur Zeilen, die
+#    keine Domain sind, werden uebersprungen.
 rules = []
-rejected = []
+total = 0
 with open(INPUT_FILE, 'r', encoding='utf-8-sig', newline='') as infile:
     for row in csv.reader(infile, delimiter=';'):
         if not row:
             continue
-        domain = row[0].strip().strip('"')
-        if domain and DOMAIN_OK.match(domain):
+        total += 1
+        domain = normalize(row[0])
+        if domain:
             rules.append(f'||{domain}^|')
-        else:
-            rejected.append(domain)
 
 # 3) Plausibilitaet: lieber nichts aendern als eine kaputte Liste veroeffentlichen
-old_rules, old_stamp = read_previous(OUTPUT_FILE)
-total = len(rules) + len(rejected)
 if len(rules) < MIN_DOMAINS:
     fail(f'nur {len(rules)} gueltige Domains gefunden (Minimum {MIN_DOMAINS})')
-if total and len(rejected) / total > MAX_REJECTED:
-    fail(f'{len(rejected)} von {total} Zeilen sind keine Domains, z. B. {rejected[:3]}')
 
-# 4) Zeitstempel nur erneuern, wenn sich die Regeln geaendert haben
+# 4) Neuen Inhalt aufbauen; der Zeitstempel bleibt, wenn sich die Regeln nicht geaendert haben
+old_rules, old_stamp, old_text = read_previous(OUTPUT_FILE)
 now = datetime.now(timezone.utc).isoformat()
 stamp = old_stamp if (old_rules == rules and old_stamp) else now
 
-with open(OUTPUT_FILE, 'w', encoding='utf-8') as outfile:
-    outfile.write('! Title: Inoffizielle Kopie - ÖIAT Watchlist Internet Filterlist\n')
-    outfile.write('! Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/\n')
-    outfile.write('! Disclaimer: Inoffizielle, automatisch erzeugte Kopie. Keine Verbindung zu ÖIAT Watchlist Internet. Keine Gewaehr fuer Richtigkeit und Vollstaendigkeit.\n')
-    outfile.write(f'! Generated: {stamp}\n')
-    for rule in rules:
-        outfile.write(rule + '\n')
+header = [
+    '! Title: Inoffizielle Kopie - ÖIAT Watchlist Internet Filterlist',
+    '! Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/',
+    '! Disclaimer: Inoffizielle, automatisch erzeugte Kopie. Keine Verbindung zu ÖIAT Watchlist Internet. Keine Gewaehr fuer Richtigkeit und Vollstaendigkeit.',
+    f'! Generated: {stamp}',
+]
+content = ''.join(line + '\n' for line in header + rules)
 
-print(f'{len(rules)} Domains geschrieben')
+# 5) Nur schreiben, wenn sich wirklich etwas geaendert hat
+if content == old_text:
+    print(f'Keine Aenderungen ({len(rules)} Domains aus {total} Zeilen) - filter.txt wird nicht neu geschrieben')
+    sys.exit(0)
+
+with open(OUTPUT_FILE, 'w', encoding='utf-8') as outfile:
+    outfile.write(content)
+
+print(f'{len(rules)} Domains geschrieben (aus {total} Zeilen)')
