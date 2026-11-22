@@ -70,7 +70,7 @@ with open(INPUT_FILE, 'r', encoding='utf-8-sig', newline='') as infile:
         total += 1
         domain = normalize(row[0])
         if domain:
-            rules.append(f'||{domain}^|')
+            rules.append(f'||{domain}^')
 
 # 3) Plausibilitaet: lieber nichts aendern als eine kaputte Liste veroeffentlichen
 if len(rules) < MIN_DOMAINS:
