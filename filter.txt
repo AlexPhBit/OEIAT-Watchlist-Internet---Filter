@@ -1,7 +1,7 @@
 ! Title: Inoffizielle Kopie - ÖIAT Watchlist Internet Filterlist
 ! Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 ! Disclaimer: Inoffizielle, automatisch erzeugte Kopie. Keine Verbindung zu ÖIAT Watchlist Internet. Keine Gewaehr fuer Richtigkeit und Vollstaendigkeit.
-! Generated: 2026-11-26T19:17:46.742294+00:00
+! Generated: 2026-11-27T16:32:44.211693+00:00
 ||01534.bitcoinasystem.su^
 ||02009.bitcoinasystem.su^
 ||02442.bitcoinasystem.su^
@@ -916,6 +916,7 @@
 ||allchildus.com^
 ||allcim.com^
 ||alldastore.de^
+||alldaylifemarket.com^
 ||alldiamondpaintingde.shop^
 ||alldiegutendinge-24.de^
 ||alldiimondpainting.com^
@@ -5015,6 +5016,7 @@
 ||brysha.store^
 ||brytei.com^
 ||brytesmile.de^
+||brzz.at^
 ||bs-kfz.at^
 ||bs-productions.at^
 ||bs24wiss.shop^
@@ -5902,6 +5904,7 @@
 ||centthus.xyz^
 ||centuryty.top^
 ||cep-protect.com^
+||cer.information-today.online^
 ||ceramicjapan-de.com^
 ||ceramictablewareshop.com^
 ||cerascreen.shop^
@@ -7552,6 +7555,7 @@
 ||dailyforu.com^
 ||dailygermanshop.com^
 ||dailygoodies.shop^
+||dailygoodspick.com^
 ||dailymod.de^
 ||dailyrosy.com^
 ||dailysmilezone.com^
@@ -9118,6 +9122,7 @@
 ||dreammerdre.com^
 ||dreamshome.co^
 ||dreamsleepz.de^
+||dreamucareflashsale.shop^
 ||dreamykissen.de^
 ||dreamyss.com^
 ||dreamytoybox.com^
@@ -9756,6 +9761,7 @@
 ||einfachelinklogistik.com^
 ||einfaches-aufwarmen.com^
 ||einfachknorke.de^
+||einfachmobel.com^
 ||einfahbacken.de^
 ||einkaufen-at.com^
 ||einkaufsmarkt-rost.de^
@@ -11387,6 +11393,7 @@
 ||faultor.online^
 ||faust-reifenversand.com^
 ||fautoizer.top^
+||fauxely.com^
 ||fauxtec.com^
 ||favin-anhanger.de^
 ||favlo-pet.shop^
@@ -11678,6 +11685,7 @@
 ||filmstvz.com^
 ||filmteam-nieheim.de^
 ||filo-de.com^
+||filsdebrume.com^
 ||filsonaustria.com^
 ||filsondeutschland.com^
 ||filsonosterreich.com^
@@ -12838,7 +12846,6 @@
 ||gaborcomfortsneaker.de^
 ||gaborcz.com^
 ||gabordanmark.org^
-||gabordeutschland.com^
 ||gabordk.com^
 ||gaboreesti.com^
 ||gaboreshop.cz^
@@ -12887,7 +12894,6 @@
 ||gaborschoenen.com^
 ||gaborschuhe-damen.com^
 ||gaborschuhe.at^
-||gaborschuhe.com^
 ||gaborschuhesale.de^
 ||gaborschuheschweiz.com^
 ||gaborschuheschweiz.net^
@@ -13315,6 +13321,7 @@
 ||gembtc-p.top^
 ||gembtc-t.top^
 ||gemstarz.company.site^
+||gemutlichkeits.com^
 ||gemutlichshop.com^
 ||gen-direkt.de^
 ||genbakeca.com^
@@ -13432,6 +13439,7 @@
 ||germany-best-coffee.com^
 ||germany-kitchenware-store.com^
 ||germany-numis.com^
+||germanyhagebauer.com^
 ||germanyrimowa.com^
 ||germanytool.com^
 ||germins.de^
@@ -13866,6 +13874,7 @@
 ||gluckarode.shop^
 ||gluckasro.shop^
 ||gluckbox.com^
+||glucknest.de^
 ||glucksladen.com^
 ||gluckstucke.de^
 ||gluco-slim.net^
@@ -14242,6 +14251,7 @@
 ||greenishx.com^
 ||greenlinelina.de^
 ||greenlittleworld.shop^
+||greenly-shop.com^
 ||greenmah.shop^
 ||greenoon.top^
 ||greenpayl.top^
@@ -15236,6 +15246,7 @@
 ||heizline.at^
 ||heizoel-24.com^
 ||heizoel-24.eu^
+||heizoel-austria.at^
 ||heizoel-austria.com^
 ||heizoel-best.de^
 ||heizoel-check.de^
@@ -15898,7 +15909,6 @@
 ||home-try.com^
 ||home.around-re.com^
 ||home.build-en.com^
-||home36.shop^
 ||home36o.shop^
 ||homealfresco.com^
 ||homeallice.com^
@@ -17211,6 +17221,7 @@
 ||ishomelife.com^
 ||ishygiene.com^
 ||isipisi.online^
+||isis-superfood.com^
 ||iskaireland.org^
 ||islacrawford.com^
 ||ism-trailer.com^
@@ -17656,6 +17667,7 @@
 ||joketlandou.com^
 ||joketlannd.com^
 ||jokettlannd.com^
+||joko-musik.com^
 ||jokorina.shop^
 ||jolamsneaker.com^
 ||joliannd.com^
@@ -20099,6 +20111,7 @@
 ||lighats4fun.shop^
 ||lighinmoon.com^
 ||lightantra.com^
+||lightbikecraft.com^
 ||lightcanarm.com^
 ||lightess.com^
 ||lightfamous.com^
@@ -20439,6 +20452,7 @@
 ||lobilledooche.shop^
 ||lobouledor66.shop^
 ||locajardin.com^
+||localbasketplaza.top^
 ||localdealservices.com^
 ||localilyy.com^
 ||localkami.com^
@@ -24216,6 +24230,7 @@
 ||nils-brennholz.com^
 ||nimblecurl.com^
 ||nimbusfuchs.com^
+||nimmmeinauto.at^
 ||nimoil.de^
 ||nina-nicole.de^
 ||ninaldst.com^
@@ -26608,6 +26623,7 @@
 ||pet-wings.com^
 ||petbargn.com^
 ||petbloom.de^
+||petcentrede.com^
 ||petcompetent.com^
 ||petcrewde.shop^
 ||petdog-shop.com^
@@ -27374,6 +27390,7 @@
 ||poxnfu.com^
 ||pozo-agua.com^
 ||ppberlin.shop^
+||ppberlinwear.shop^
 ||ppfinvestments.eu^
 ||ppifxcxa.shop^
 ||ppneww.top^
@@ -27412,6 +27429,7 @@
 ||prednisone-buyonline.site^
 ||preferenct.com^
 ||prefrome.com^
+||preggiestore.de^
 ||preis-zwerg.de^
 ||preis.co.at^
 ||preishaide.de^
@@ -27502,6 +27520,7 @@
 ||prigaudited.buzz^
 ||prikoqueron.com^
 ||prima-shiplines.com^
+||prima-sport.de^
 ||primalsale.shop^
 ||primamulch.at^
 ||primary-markets.com^
@@ -28011,6 +28030,7 @@
 ||qliopbn.forum^
 ||qlodus.de^
 ||qlovebest.com^
+||qmaea.com^
 ||qmdhueo.shop^
 ||qmwblnuk.shop^
 ||qmypalm.com^
@@ -33049,7 +33069,6 @@
 ||store.minisforum.de^
 ||store.miremonta.com^
 ||store.pavridora.com^
-||store.promomesh.com^
 ||store.rensby.com^
 ||store.rosebournea.com^
 ||store.savemarketed.com^
@@ -35528,7 +35547,6 @@
 ||trappingsnewfad.com^
 ||trapple.de^
 ||trapstaraustria.at^
-||traum-ferienwohnungen.de^
 ||traum-moden.com^
 ||traumfloorshop.com^
 ||traumgarten.latahalcom.shop^
@@ -36623,6 +36641,7 @@
 ||validvary.com^
 ||valista-berlin.shop^
 ||valkaf-dienst.com^
+||valkental-de.online^
 ||vallants.at^
 ||vallyanna.nl^
 ||valmcdonough.com^
@@ -36927,11 +36946,13 @@
 ||vereins-web.at^
 ||vereinsregisterauszug.at^
 ||verenabunte.com^
+||verfieldly.com^
 ||verholl.com^
 ||veriate.xyz^
 ||verifizierungamericanexpress.com^
 ||vering24.de^
 ||verios-gaming.de^
+||veristays.com^
 ||verivoes.shop^
 ||verkauf-garten.com^
 ||verkauf-motorrad.com^
@@ -37096,6 +37117,7 @@
 ||victoriassecrets.at^
 ||victoriousi.com^
 ||victoroutlet.de^
+||victorybuyin.com^
 ||victoryshop.shop^
 ||vidageneral.com^
 ||vidalivi.com^
@@ -37147,6 +37169,7 @@
 ||vigormedstore.shop^
 ||vigoroussport.com^
 ||vigorousu.com^
+||vigoworld.de^
 ||viking-outlet.at^
 ||vikingchic.de^
 ||vikliv.de^
@@ -37158,8 +37181,11 @@
 ||vilbridis.com^
 ||vilible.top^
 ||vilicus.solar^
+||vilkental.com^
 ||villaholidaysibiza.com^
+||villainworld.com.de^
 ||villainworlld.de^
+||villainwrld.com.de^
 ||villards-stammholz.com^
 ||villause.com^
 ||villeroy-outlets.shop^
@@ -37341,6 +37367,7 @@
 ||vivaraisehome.com^
 ||vivekmishrag.shop^
 ||vivelan.de^
+||vivellify.com^
 ||vivensowasserstaubsauger.de^
 ||vivibo-kueche.de^
 ||vividglowing.com^
@@ -37696,6 +37723,7 @@
 ||vytor.de^
 ||vyxenor.com^
 ||vzafiradev.shop^
+||vznframes.com^
 ||w.store-mvp.shop^
 ||w.unisosterreich.shop^
 ||waagepur.com^
@@ -37705,6 +37733,7 @@
 ||wachstumsworkshop.de^
 ||waco-logistics.com^
 ||wadada.online^
+||wadenwolf.de^
 ||wadriha.shop^
 ||waermewald.de^
 ||waermewelt.com^
@@ -38300,6 +38329,7 @@
 ||westex-handell.de^
 ||westfalenmeeris.de^
 ||westfeldmode.de^
+||westflethpassage.shop^
 ||westic-shop.de^
 ||westickers.com^
 ||westiels.de^
@@ -39546,6 +39576,7 @@
 ||ziegler-kanzlei.de^
 ||ziegler-rechtsanwaelte.de^
 ||zieglerzurich.ch^
+||ziermode.com^
 ||zifuliangm.com^
 ||zigaretten-bestellen.net^
 ||zigaretten-polen.com^
