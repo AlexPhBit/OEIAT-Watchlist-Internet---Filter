@@ -1,7 +1,7 @@
 ! Title: Inoffizielle Kopie - ÖIAT Watchlist Internet Filterlist
 ! Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 ! Disclaimer: Inoffizielle, automatisch erzeugte Kopie. Keine Verbindung zu ÖIAT Watchlist Internet. Keine Gewaehr fuer Richtigkeit und Vollstaendigkeit.
-! Generated: 2026-11-27T16:32:44.211693+00:00
+! Generated: 2026-11-28T11:49:26.694994+00:00
 ||01534.bitcoinasystem.su^
 ||02009.bitcoinasystem.su^
 ||02442.bitcoinasystem.su^
@@ -2300,6 +2300,7 @@
 ||aurapurezza.com^
 ||auraterraplaza.com^
 ||aureamunich.de^
+||aurelia-boutique.de^
 ||aureliawien.com^
 ||aureliohandicrafts.shop^
 ||aureliustrust.uk^
@@ -2528,6 +2529,7 @@
 ||avengeapollo.com^
 ||avenly.de^
 ||avenwood.shop^
+||averatomatm.com^
 ||avestprimeyield.com^
 ||avevosolar.com^
 ||avex-group.co^
@@ -3431,6 +3433,7 @@
 ||berg-freundeoutlets.shop^
 ||berg-mode.de^
 ||berg-reifenversand.com^
+||bergaktiv.de^
 ||bergandlind.com^
 ||bergbk.de^
 ||bergblum.de^
@@ -3788,6 +3791,7 @@
 ||bgsportstore.com^
 ||bgtcchem.shop^
 ||bgukd.shop^
+||bhbing.com^
 ||bhechler.de^
 ||bhgartenbau.de^
 ||bhgroupx.com^
@@ -4475,7 +4479,6 @@
 ||bodykissladen.shop^
 ||bodylab24top.com^
 ||boeck-gmbo.shop^
-||boehm-partner.com^
 ||boerty.com^
 ||boffiner.shop^
 ||bofill-invest.com^
@@ -4766,6 +4769,7 @@
 ||brava-berlin.de^
 ||bravedrawer.com^
 ||bravefearless.com^
+||braviqueno.com^
 ||bravora-at.com^
 ||bravuk.de^
 ||brawlstars.store^
@@ -5365,6 +5369,7 @@
 ||cadizy.com^
 ||cadlicenseseller.com^
 ||cadollelingerie.com^
+||cadrunvek.com^
 ||caesar-installateur.at^
 ||cafe-bauer.at^
 ||cafiros.com^
@@ -5691,6 +5696,7 @@
 ||carupgradezone.com^
 ||carvanamarkt.com^
 ||carvina.com^
+||carvordenio.com^
 ||carygift.com^
 ||caryswimwear.shop^
 ||casaclothing.de^
@@ -5859,6 +5865,7 @@
 ||cegner.de^
 ||ceivetic.top^
 ||celcapx.top^
+||celdovrak.com^
 ||celebratestogether.com^
 ||celebrityfrenchie.com^
 ||celebsproviders.com^
@@ -6707,6 +6714,7 @@
 ||coinstong.com^
 ||coinstuart.com^
 ||coinswallet.cc^
+||coinvekta.org^
 ||coinvoro.com^
 ||coinwealthinv.com^
 ||coinwexes.com^
@@ -8450,6 +8458,7 @@
 ||deviceusshop.com^
 ||devicezoneorder.com^
 ||devicezonepro.com^
+||devikar0ute.at^
 ||devinsale.shop^
 ||devonwealthinvestment.ltd^
 ||devoria.de^
@@ -9309,6 +9318,7 @@
 ||dumbbellfitlab.com^
 ||dumelt.de^
 ||dumstylu.com^
+||dumverakatm.com^
 ||dunancia.de^
 ||dunedale.com^
 ||duneshoesouthafrica.co.za^
@@ -10228,6 +10238,7 @@
 ||engineerwarehouse.shop^
 ||enginegift.com^
 ||enginelover.com^
+||enginflux.at^
 ||engins-siebenraben.de^
 ||englishrabbitde.shop^
 ||englle.com^
@@ -14142,6 +14153,7 @@
 ||gotshod.monster^
 ||gotteeshirts.live^
 ||gottesiemen.com^
+||gotyols.live^
 ||gouessl.com^
 ||gouiron-beaute.shop^
 ||gourdonboutique.com^
@@ -17318,6 +17330,7 @@
 ||ivosportsfuel.com^
 ||ivyever.com^
 ||iwabien.com^
+||iwcreplicauhren.com^
 ||iwhgrillwelt.com^
 ||iwissens.shop^
 ||iwohepi.com^
@@ -18128,6 +18141,7 @@
 ||karrimorschuhe.de^
 ||karroc.de^
 ||karsten-burkhardt.shop^
+||kartensammlungen.com^
 ||kartgearshop.nl^
 ||kartsportzubehoer.com^
 ||karylite.com^
@@ -18221,6 +18235,7 @@
 ||kausnackwelt.com^
 ||kavehomesale.shop^
 ||kavelio.shop^
+||kavordenu.com^
 ||kavri.de^
 ||kawaiiroleplay.com^
 ||kayaksadvanced.com^
@@ -21631,7 +21646,9 @@
 ||mavariashop.com^
 ||mavelo.shop^
 ||mavelona.de^
+||maveroflipatm.com^
 ||mavicsale.com^
+||mavordenoatm.com^
 ||mavuzo.de^
 ||mavyella.com^
 ||max-berg.com^
@@ -22123,6 +22140,7 @@
 ||mermaidmedia.de^
 ||mermiss.com^
 ||mernesberlin.com^
+||mernodentoatm.com^
 ||merovelia.com^
 ||merovia.de^
 ||meroycollection.store^
@@ -23067,6 +23085,7 @@
 ||motiontutsr.com^
 ||motionwearshop.com^
 ||motionwish.com^
+||motivatenice.com^
 ||motivatew.com^
 ||motivationlinkca.com^
 ||motivoebike.com^
@@ -24098,6 +24117,7 @@
 ||newworld55.com^
 ||newworld89.com^
 ||nexavor.shop^
+||nexavordium.com^
 ||nexdaro.shop^
 ||nexeashop.com^
 ||nexet.xyz^
@@ -24396,6 +24416,7 @@
 ||nordoil.de^
 ||nordoutlets.com^
 ||nordperlen-verchen.de^
+||nordroestkaffee.shop^
 ||nordrtom.com^
 ||nordsee-agrar.com^
 ||nordseefrisch.de^
@@ -25585,6 +25606,7 @@
 ||oraed.shop^
 ||orajalifei.com^
 ||orakucoffee.shop^
+||oralb-at.com^
 ||oralb-austria.com^
 ||oralfree.online^
 ||oramnot.xyz^
@@ -25706,6 +25728,7 @@
 ||ortovoxs.at^
 ||ortovoxs.de^
 ||ortovoxsport.com^
+||orvethatm.com^
 ||orvynwien.com^
 ||orykas.de^
 ||oryzom.de^
@@ -28003,6 +28026,8 @@
 ||qdklouxv.shop^
 ||qeackenzie.shop^
 ||qekug.de^
+||qelthavuni.com^
+||qelvadrik.com^
 ||qenova.com^
 ||qepmtn.shop^
 ||qertuirt.com^
@@ -28043,6 +28068,7 @@
 ||qogies.de^
 ||qojxbuch.shop^
 ||qonebacara.com^
+||qorvasken.com^
 ||qovlaty.com^
 ||qp-sale.com^
 ||qpgkzptk.shop^
@@ -28112,6 +28138,7 @@
 ||queenofstyle.at^
 ||queensgaa.com^
 ||quelltool.com^
+||quendronal.com^
 ||quesitel.top^
 ||queuehi.com^
 ||qugeiso.shop^
@@ -28349,6 +28376,7 @@
 ||ralfeffertz.com^
 ||ralgor.com^
 ||ralphlaenstore.com^
+||ralvexchainatm.com^
 ||ramblel.top^
 ||ramelliamode.de^
 ||ramo-investezza.com^
@@ -28958,6 +28986,7 @@
 ||repertoirei.com^
 ||replica-uhren.cc^
 ||replica.is^
+||replicahandtaschen.de^
 ||replicahause.is^
 ||replicakaufen.de^
 ||replicareview.io^
@@ -30197,6 +30226,7 @@
 ||sandrastours.com^
 ||sandrawelpen.de^
 ||sandsberg.de^
+||sandtongrey.com^
 ||sandwichg.com^
 ||sandywebfashion.com^
 ||sanemedi-handel.de^
@@ -30485,7 +30515,6 @@
 ||schmeckenkaufen.de^
 ||schmerz-stopper.de^
 ||schmid-autoreifen.com^
-||schmid-rechtsanwaelte.de^
 ||schmidmodesalzburg.de^
 ||schmidt-boutique.de^
 ||schmidt-reifenhandel.shop^
@@ -31026,6 +31055,7 @@
 ||sfashionc.com^
 ||sfaswimwearnew.com^
 ||sfaxcrypto.net^
+||sfraldruko.at^
 ||sfswimheaven.com^
 ||sfzev.de^
 ||sgginvest.com^
@@ -31105,6 +31135,7 @@
 ||sheremart.com^
 ||sherrycecc.com^
 ||sherum.com^
+||sheshair.de^
 ||shevode.com^
 ||shewantts.shop^
 ||shewaves.com^
@@ -32806,6 +32837,7 @@
 ||starsignsynergy.com^
 ||starsshop-eu.com^
 ||start.learn-english.education^
+||start.mindorbittest.com^
 ||startrade.co^
 ||startrendy.shop^
 ||startrsp.com^
@@ -34251,6 +34283,7 @@
 ||terraqo.de^
 ||terrariumhaustiere.com^
 ||terrassenmatte.de^
+||tervandoka.com^
 ||teryms.com^
 ||terzio23.de^
 ||tes-ib.cloud^
@@ -34375,6 +34408,7 @@
 ||the-gentleman.store^
 ||the-hemoriders.de^
 ||the-life-watch.com^
+||the-ordinary.at^
 ||the-portable-monitor.tech^
 ||the-tesler-app.com^
 ||the-teslerapp.com^
@@ -35813,6 +35847,7 @@
 ||tslr-r.cloud^
 ||tslr-t.cloud^
 ||tslr-w.cloud^
+||tsmcollection.com^
 ||tsokey.com^
 ||tspace-market.com^
 ||tspt24.de^
@@ -36036,6 +36071,7 @@
 ||ulalinenzi.com^
 ||ulascanbulut.com^
 ||ulbey.com^
+||uldrexoatm.com^
 ||ulikcil.shop^
 ||ulikeu.top^
 ||ulimei.com^
@@ -36732,6 +36768,7 @@
 ||variety-merch.com^
 ||variloshop.shop^
 ||varimoda.de^
+||varinelo.shop^
 ||variousball.com^
 ||variousballgames.com^
 ||variousgothic.com^
@@ -36848,6 +36885,7 @@
 ||vejoheza.top^
 ||velanoshop.com^
 ||velareehhaus.com^
+||velarinvestatm.com^
 ||velaro-plus.com^
 ||veldra.de^
 ||velencia.de^
@@ -37269,6 +37307,7 @@
 ||virany.de^
 ||vircominfo.de^
 ||virdos.de^
+||virelagentatm.com^
 ||virelix-store.com^
 ||virenixtalentsearchs.com^
 ||virginiacontrino.com^
@@ -37880,6 +37919,7 @@
 ||warmbike.com^
 ||warmcreativemall.com^
 ||warme-quelle.com^
+||warmearnest.com^
 ||warmeholze.de^
 ||warmeholzhaus.com^
 ||warmeluxe.com^
@@ -38610,6 +38650,7 @@
 ||wittenwald.de^
 ||wittman-bekleidung.de^
 ||wittmode.com^
+||wittstone.com^
 ||wiv-verwertung.de^
 ||wivaro.de^
 ||wizholzshops.de^
@@ -39442,6 +39483,7 @@
 ||zarbi.de^
 ||zarble.de^
 ||zarela-luzern.com^
+||zarenavo.com^
 ||zarizalmai.com^
 ||zarofia.de^
 ||zarrind.com^
@@ -39555,12 +39597,14 @@
 ||zevarpalace.pk^
 ||zeveau.com^
 ||zevoon.de^
+||zevradoratm.com^
 ||zeynoa.de^
 ||zezzo.de^
 ||zgodstorm.com^
 ||zh1capital.com^
 ||zhggpqst.shop^
 ||zhljrsb.com^
+||zhodrukle.at^
 ||zhongbaox.com^
 ||zhpays.tk^
 ||zhrtasarimf.shop^
@@ -39736,6 +39780,7 @@
 ||zukunfttreuhand.com^
 ||zulahamburg.de^
 ||zularo.de^
+||zulveninvestatm.com^
 ||zum-alten-perkeo.de^
 ||zum-gockelhahn.at^
 ||zumarus.de^
